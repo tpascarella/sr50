@@ -89,7 +89,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} SR50.`,
+      copyright: `Copyright © ${new Date().getFullYear()} SR50 Finance Corporation.`,
     },
     prism: {
       theme: lightCodeTheme,
