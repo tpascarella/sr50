@@ -4,32 +4,34 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Open Source',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        SR50 is open source, meaning everything we teach is given away for free, 
+        and anyone with valuable insight to add is encouraged to contribute.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Transparency',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Unlike "financial advisors" who make their money by selling insurance instead of 
+        advising you, we are completely transparent about how we make money, how we run our company,
+        and what we have to offer.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Completely Private',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        All other financial platform (Mint, Personal Capital) force you to give them
+        your personal login credentials before they provide any value. We force our users to bring
+        the numbers with them.
       </>
     ),
   },
