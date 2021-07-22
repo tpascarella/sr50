@@ -1,13 +1,14 @@
 ---
-slug: greetings
-title: Greetings!
-author: Steven Hansel
-author_title: Docusaurus Contributor
-author_url: https://github.com/ShinteiMai
-author_image_url: https://github.com/ShinteiMai.png
+slug: welcome
+title: Welcome!
+author: Thomas Pascarella
+author_title: Founder, CEO
+author_url: https://github.com/tpascarella
+author_image_url: https://github.com/tpascarella.png
 tags: [greetings]
 ---
 
-Congratulations, you have made your first post!
+Welcome to SR50!
 
-Feel free to play around and edit this post as much you like.
+My name is Thomas, and I am the Founder and CEO.
+

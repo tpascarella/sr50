@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'SR50',
   tagline: 'Personal Finance is Personal Responsibility.',
-  url: 'sr50.finance',
+  url: 'tpascarella.github.io', //change to proper url once I buy it
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -24,7 +24,7 @@ module.exports = {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Introduction',
         },
         {
           type: 'doc',
@@ -36,7 +36,7 @@ module.exports = {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Introduction',
+          label: 'Resources',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {

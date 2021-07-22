@@ -24,13 +24,20 @@ module.exports = {
     },
   ],
   */
-Docs: [
-  'introduction',
-  {
-    type: 'category',
-    label: KPIs
-    ,collapsed: false,
-    items: [savings-rate, runway]
-  }
-]  
+
+  library: [
+    'intro',
+    /*
+    {
+      type: 'category',
+      label: 'kpis',
+      collapsed: false,
+      items: [
+        'kpis-savings-rate',
+        'kpis-runway',
+      ],
+    },
+    */
+  ]
+
 };
