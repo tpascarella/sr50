@@ -18,6 +18,10 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
+        Nearly every "financial advisor" in the world is just an insurance salesman, and if you don't believe me
+        look up the job postings on indeed. You'll see yourself. They make their money selling insurance and hide behind a veil
+        posing as financial advisors. We are completely transparent about how we make money, what we teach, and why we do it.
+        
         Unlike "financial advisors" who make their money by selling insurance instead of 
         advising you, we are completely transparent about how we make money, how we run our company,
         and what we have to offer.

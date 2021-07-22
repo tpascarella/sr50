@@ -5,13 +5,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'SR50',
   tagline: 'Personal Finance is Personal Responsibility.',
-  url: 'https://tpascarella.github.io',
+  url: 'sr50.finance',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'tpascarella', // Usually your GitHub org/user name.
-  projectName: 'tpascarella.github.io', // Usually your repo name.
+  projectName: 'sr50', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'SR50',
@@ -30,13 +30,13 @@ module.exports = {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Resources',
+          label: 'KPIs',
         },
         {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Introduction',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
@@ -56,6 +56,12 @@ module.exports = {
               label: 'Tutorial',
               to: '/docs/intro',
             },
+            /*
+            {
+              label: 'About'
+              to: '/docs/(insert link to founder page)
+            }
+            */
           ],
         },
         {
