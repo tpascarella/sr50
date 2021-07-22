@@ -24,13 +24,7 @@ module.exports = {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Introduction',
-        },
-        {
-          type: 'doc',
-          docId: 'intro',
-          position: 'left',
-          label: 'KPIs',
+          label: 'Library',
         },
         {
           type: 'doc',
