@@ -17,7 +17,7 @@ module.exports = {
       title: 'SR50',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.svg', //Get official logo design assets
       },
       items: [
         {
@@ -26,13 +26,7 @@ module.exports = {
           position: 'left',
           label: 'Library',
         },
-        {
-          type: 'doc',
-          docId: 'intro',
-          position: 'left',
-          label: 'Resources',
-        },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/blog', label: 'Articles', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
@@ -47,7 +41,7 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Intro',
               to: '/docs/intro',
             },
             /*

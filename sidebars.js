@@ -24,20 +24,41 @@ module.exports = {
     },
   ],
   */
-
+ 
   library: [
     'intro',
-    /*
     {
       type: 'category',
-      label: 'kpis',
+      label: 'KPIs',
       collapsed: false,
       items: [
-        'kpis-savings-rate',
-        'kpis-runway',
+        'savings-rate',
+        'runway',
+        'net-worth',
       ],
     },
-    */
+    'work-til-youre-65',  
+    {
+      type: 'category',
+      label: 'Spending',
+      collapsed: false,
+      items: [
+        'housing',
+        'transportation',
+        'food',
+        'others'
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Investing',
+      collapsed: false,
+      items: [
+        'stocks-bonds',
+        'real-estate',
+        'entrepreneurship',
+        'human-capital'
+      ],
+    },
   ]
-
 };
