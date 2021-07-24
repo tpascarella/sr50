@@ -41,7 +41,7 @@ module.exports = {
           title: 'Library',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Intro',
               to: '/docs/intro',
             },
           ],
