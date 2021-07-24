@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'SR50',
-  tagline: 'Personal Finance is Personal Responsibility.',
+  tagline: 'Open Source Personal Finance.',
   url: 'tpascarella.github.io', //change to proper url once I buy it
   baseUrl: '/',
   onBrokenLinks: 'throw',
