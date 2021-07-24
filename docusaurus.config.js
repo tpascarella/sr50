@@ -3,18 +3,18 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'SR50',
+  tagline: 'Open Source Personal Finance',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'tpascarella', // Usually your GitHub org/user name.
+  projectName: 'sr50', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'SR50',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -24,11 +24,11 @@ module.exports = {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Library',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/blog', label: 'Articles', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/tpascarella',
           label: 'GitHub',
           position: 'right',
         },
@@ -38,7 +38,7 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Library',
           items: [
             {
               label: 'Tutorial',
@@ -46,6 +46,7 @@ module.exports = {
             },
           ],
         },
+        /*
         {
           title: 'Community',
           items: [
@@ -63,6 +64,7 @@ module.exports = {
             },
           ],
         },
+        */
         {
           title: 'More',
           items: [
@@ -77,7 +79,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} SR50 Finance Corporation.`,
     },
     prism: {
       theme: lightCodeTheme,

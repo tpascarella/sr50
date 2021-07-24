@@ -2,34 +2,28 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Time is the only resource you can't buy more of. It is for this reason that the whole point of personal finance is to get to a place where you never need to trade your time for money again. What nobody understands is, at what point does this happen, and what does that actually look like? 
 
-## Getting Started
+You get your time back once the Financial Freedom equation is solved. The Financial Freedom equation is as follows.
 
-Get started by **creating a new site**.
+Passive Income > Lifestyle
 
-Or **try Docusaurus immediately** with **[new.docusaurus.io](https://new.docusaurus.io)**.
+Passive Income is any money coming in that you don’t have to trade your time and energy for. This is opposed to Active Income, which is money coming in that you do need to trade your time and energy for. (your salary falls under this category)
 
-## Generate a new site
+So, if it costs you $2500/month to live, but you have $5000/month coming in whether you get out of bed in the morning or not, you no longer need your job. You don’t need to do what your boss tells you. You can walk away from your paycheck consequence free. Those 40 hours a week are suddenly back under your control, not your boss's.
 
-Generate a new Docusaurus site using the **classic template**:
+This point is a threshold on your wealth building journey, and it goes by many names, 
+Financial Independence, 
+Financial Freedom, 
+Early Retirement,
+but my personal favorite is called:
+F-You money. 
+*you can use your imagination to figure out what the F stands for.*
 
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
+Once you cross this point, you never again need to depend on your employer to maintain a lifestyle of your choosing. 
 
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+Which would be more useful to you? 
+A million dollars in a 401K that you can’t touch for the next 40 years, or 10 grand deposited into your checking account every single month starting right now?
+I like option 2.

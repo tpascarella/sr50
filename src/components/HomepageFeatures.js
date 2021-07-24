@@ -4,32 +4,30 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Open Source',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        SR50 is open source, meaning we get contributions on how to improve the method from people all over the world. 
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Transparent',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Every financial advisor in the country is an insurance salesman posing as a financial advisor. We are up front about how we make money, 
+        what we teach, and why.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Secure',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Modern finance apps force you to give them your personal login information in order to provide value. We collect zero personal data from users.
       </>
     ),
   },
