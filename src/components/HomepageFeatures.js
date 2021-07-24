@@ -4,34 +4,32 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Open Source',
+    title: 'Easy to Use',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        SR50 is open source, meaning that anyone in the world is free to contribute. We don't hide what we teach behind a paywall.
-        Any requests for additional information or strategies are highly encouraged!
+        Docusaurus was designed from the ground up to be easily installed and
+        used to get your website up and running quickly.
       </>
     ),
   },
   {
-    title: 'Transparency',
+    title: 'Focus on What Matters',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Nearly every "financial advisor" in the world is just an insurance salesman, and if you don't believe me
-        look up the job postings on indeed. You'll see yourself. They make their money selling insurance and hide behind a veil
-        posing as financial advisors. We are completely transparent about how we make money, what we teach, and why we do it.
+        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
+        ahead and move your docs into the <code>docs</code> directory.
       </>
     ),
   },
   {
-    title: 'Completely Private',
+    title: 'Powered by React',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        All other financial platform (Mint, Personal Capital) force you to give them
-        your personal login credentials before they provide any value. We force our users to bring
-        the numbers with them.
+        Extend or customize your website layout by reusing React. Docusaurus can
+        be extended while reusing the same header and footer.
       </>
     ),
   },

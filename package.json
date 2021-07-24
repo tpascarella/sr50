@@ -1,5 +1,5 @@
 {
-  "name": "sr50",
+  "name": "sr-50-web",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -37,4 +37,4 @@
       "last 1 safari version"
     ]
   }
-}  
+}

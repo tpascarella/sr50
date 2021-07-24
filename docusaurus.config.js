@@ -3,30 +3,30 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'SR50',
-  tagline: 'Open Source Personal Finance.',
-  url: 'tpascarella.github.io', //change to proper url once I buy it
+  title: 'My Site',
+  tagline: 'Dinosaurs are cool',
+  url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'tpascarella', // Usually your GitHub org/user name.
-  projectName: 'sr50', // Usually your repo name.
+  organizationName: 'facebook', // Usually your GitHub org/user name.
+  projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'SR50',
+      title: 'My Site',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg', //Get official logo design assets
+        src: 'img/logo.svg',
       },
       items: [
         {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Library',
+          label: 'Tutorial',
         },
-        {to: '/blog', label: 'Articles', position: 'left'},
+        {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
@@ -41,15 +41,9 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Intro',
+              label: 'Tutorial',
               to: '/docs/intro',
             },
-            /*
-            {
-              label: 'About'
-              to: '/docs/(insert link to founder page)
-            }
-            */
           ],
         },
         {
@@ -83,7 +77,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} SR50 Finance Corporation.`,
+      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: lightCodeTheme,
@@ -98,13 +92,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/tpascarella/tpascarella.github.io',
+            'https://github.com/facebook/docusaurus/edit/master/website/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/tpascarella/tpascarella.github.io',
+            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
