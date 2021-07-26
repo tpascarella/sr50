@@ -114,7 +114,7 @@ module.exports = {
   plugins: ['@docusaurus/plugin-google-analytics'],
   themeConfig: {
     googleAnalytics: {
-      trackingID: 'G-4KM8KED22Z',
+      trackingID: 'UA-141789564-1',
       // Optional fields.
       anonymizeIP: true, // Should IPs be anonymized?
     },
