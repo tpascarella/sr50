@@ -2,9 +2,7 @@
 sidebar_position: 1
 ---
 
-# Intro
-
-## The Whole Point is to Get Your Time Back ##
+# The Whole Point is to Get Your Time Back #
 
 Time is the only resource you can't buy more of. 
 
