@@ -9,7 +9,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/sr50logo.ico',
   organizationName: 'tpascarella', // Usually your GitHub org/user name.
   projectName: 'sr50', // Usually your repo name.
   themeConfig: {
