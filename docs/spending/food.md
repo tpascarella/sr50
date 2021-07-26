@@ -23,3 +23,5 @@ Learn how to cook. Cooking is a valuable life skill you should develop, and it's
 You have Google, use it. Find 5 recipes online that look good and you want to try. It doesn't matter whether they're healthy at first, the important thing is that you start, and that you make it a habit to cook your own food. You'll get better at it as time goes on, and you'll be surprised how much better food tastes when you make it yourself.
 
 Over time, gradually try to get at least 80% of your calories from nutritious foods that you like. Your physical health is an investment, so don’t live on Ramen to save money any longer than is absolutely necessary. Your physical health takes priority over your wallet.
+
+>Increase Your Savings Rate

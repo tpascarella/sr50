@@ -9,3 +9,5 @@ These are the categories people most often cut out in an attempt to save money, 
 Assuming you aren't horribly irresponsible in your spending on clothing/alcohol/etc, these categories can be kept. With that said, in the earliest stages of your wealth building journey, cash is your best friend. Use your best judgement to determine whether the tradeoff is worth it.
 
 Housing, Transportation and Food make up 62% of the average American’s spending. If you are frugal in these categories, you have a very strong financial position and don’t need to stress about the other categories...
+
+>Increase Your Savings Rate

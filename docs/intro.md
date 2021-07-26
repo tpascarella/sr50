@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Intro
 
+#The Whole Point is to Get Your Time Back#
+
 Time is the only resource you can't buy more of. It is for this reason that the whole point of personal finance is to get to a place where you never need to trade your time for money again. What nobody understands is, at what point does this happen, and what does that actually look like? 
 
 You get your time back once the Financial Freedom equation is solved. The Financial Freedom equation is as follows.
@@ -27,3 +29,5 @@ Once you cross this point, you never again need to depend on your employer to ma
 Which would be more useful to you? 
 A million dollars in a 401K that you can’t touch for the next 40 years, or 10 grand deposited into your checking account every single month starting right now?
 I like option 2.
+
+>Increase Your Savings Rate

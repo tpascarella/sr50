@@ -9,3 +9,5 @@ Savings Rate is calculated by dividing how much money you are able to save or in
 Savings Rate measures, how much of your available resources you are utilizing to get your time back as a percentage. Essentially, how fast you are progressing. 
 
 The higher your Savings Rate, the better. 
+
+>Increase Your Savings Rate

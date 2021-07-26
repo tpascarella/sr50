@@ -29,3 +29,5 @@ Building a tiny house is also kind of trendy now, and so is living in an RV and 
 If you will be moving in the near future and need flexibility, you can also temporarily live in Airbnbs instead of signing a full 12-month lease. This is great if you need to figure out any details of your work life while testing the waters living in a new city, and is also a good way to test moving out of your parents’ house for the first time. The prices month to month will likely be similar to renting, so it's worth considering. 
 
 I don’t recommend moving in with your parents to save cash, however. It will stifle your personal development and should only be considered as a last resort. 
+
+>Increase Your Savings Rate
