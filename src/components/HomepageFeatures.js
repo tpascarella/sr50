@@ -5,7 +5,7 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Open Source',
-    Svg: require('../../static/img/public_black_24dp.svg').default, 
+    Svg: require('../../static/img/public_black_18dp.svg').default, 
     /* Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default, */
     description: (
       <>
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Transparent',
-    Svg: require('../../static/img/search_black_24dp.svg').default,
+    Svg: require('../../static/img/search_black_18dp.svg').default,
     /* Svg: require('../../static/img/undraw_docusaurus_tree.svg').default, */
     description: (
       <>
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Secure',
-    Svg: require('../../static/img/lock_black_24dp.svg').default,
+    Svg: require('../../static/img/lock_black_18dp.svg').default,
     /* Svg: require('../../static/img/undraw_docusaurus_react.svg').default, */
     description: (
       <>
