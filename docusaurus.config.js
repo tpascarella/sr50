@@ -69,7 +69,7 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
+              label: 'Articles',
               to: '/blog',
             },
             {
