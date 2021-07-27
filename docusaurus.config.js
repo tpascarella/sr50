@@ -46,25 +46,6 @@ module.exports = {
             },
           ],
         },
-        /*
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        */
         {
           title: 'More',
           items: [
@@ -78,6 +59,17 @@ module.exports = {
             },
           ],
         },
+        
+        {
+          title: 'Core Thesis',
+          items: [
+            {
+              label: 'Personal Finance is Personal Reponsibility',
+              to: 'src/pages/coreThesis.js',
+            },
+          ],
+        },
+        
       ],
       copyright: `Copyright © ${new Date().getFullYear()} SR50 Finance Corporation.`,
     },
@@ -95,12 +87,16 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/facebook/docusaurus/edit/master/website/',
+          // editUrl:
+          //  'https://github.com/facebook/docusaurus/edit/master/website/', 
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
             'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+          //editUrl:
+          //  'https://github.com/facebook/docusaurus/edit/master/website/blog/', 
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
