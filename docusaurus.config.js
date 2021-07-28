@@ -38,38 +38,43 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Library',
+          title: 'Docs',
           items: [
             {
-              label: 'Intro',
+              label: 'Library',
               to: '/docs/intro',
             },
+            {
+              label: 'Articles',
+              to: '/blog',
+            }
           ],
         },
         {
           title: 'More',
           items: [
             {
-              label: 'Articles',
-              to: '/blog',
+              label: 'Founder',
+              href: 'https://tpascarella.github.io'
             },
             {
               label: 'GitHub',
               href: 'https://github.com/tpascarella',
             },
+            
           ],
         },
-        
+        /*
         {
           title: 'Core Thesis',
           items: [
             {
               label: 'Personal Finance is Personal Reponsibility',
-              to: 'src/pages/coreThesis.js',
+              to: '../src/pages/coreThesis.js',
             },
           ],
         },
-        
+        */
       ],
       copyright: `Copyright © ${new Date().getFullYear()} SR50 Finance Corporation.`,
     },
