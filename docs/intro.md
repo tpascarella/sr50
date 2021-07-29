@@ -8,7 +8,7 @@ Time is the only resource you can't buy more of. It is for this reason that the 
 
 You reach this point once the financial freedom equation is satisfied. The financial freedom is as follows:
 
-![The financial freedom equation](static/img/ffe_calculation.jpeg)
+![The financial freedom equation](/static/img/ffe_calculation.jpeg)
 
 Once you cross this point, you never again need to depend on your employer to maintain a lifestyle of your choosing. 
 
