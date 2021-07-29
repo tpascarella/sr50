@@ -8,6 +8,8 @@ Runway is calculated by dividing your Bank Balance (how much cash you can get in
 
 Runway tells you how long you can last off reserves if you had no income at all, measured in months. Essentially, how secure you are right now. 
 
+![The financial freedom equation](/img/runway.svg)
+
 The more months of Runway you have, the better.
 
 >Increase Your Savings Rate
