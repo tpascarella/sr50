@@ -23,12 +23,12 @@ So, if it costs you $2500/month to live, but you have $5000/month coming in whet
 ## F-You Money
 
 This point is a threshold on your wealth building journey, and it goes by many names, 
-Financial Independence, 
-Financial Freedom, 
-Early Retirement,
+* Financial Independence, 
+* Financial Freedom, 
+* Early Retirement,
 
 but my personal favorite is:
-F-You money. 
+* F-You money. 
 
 *you can use your imagination to figure out what the F stands for.*
 
