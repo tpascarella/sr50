@@ -20,4 +20,6 @@ Savings Rate is calculated by dividing how much money you are able to save or in
 
 The average Savings Rate in America can be found at the FRED website [here](https://fred.stlouisfed.org/series/PSAVERT).
 
+For our purposes, we will be looking to achieve and sustain a Savings Rate of 50%+.
+
 >Increase Your Savings Rate
