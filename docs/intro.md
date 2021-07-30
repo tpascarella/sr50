@@ -12,13 +12,13 @@ You reach this point once the financial freedom equation is satisfied. The finan
 
 ![The financial freedom equation](/img/ffe.svg)
 
-Once you cross this point, you never again need to depend on your employer to maintain a lifestyle of your choosing. 
+This is the first point where you don't need your employer's permission to stay alive. You don't have to trade your time and energy to support yourself.
 
 ## Passive Income vs Active Income
 
 Passive Income is any money coming in that you don’t have to trade your time and energy for. This is opposed to Active Income, which is money coming in that you do need to trade your time and energy for. (your salary falls under this category)
 
-So, if it costs you $2500/month to live, but you have $5000/month coming in whether you get out of bed in the morning or not, you no longer need your job. You don’t need to do what your boss tells you. You can walk away from your paycheck consequence free. Those 40 hours a week are suddenly back under your control, not your boss's.
+So, if it costs you $2500/month to live, but you have $5000/month coming in whether you get out of bed in the morning or not, you no longer need your job. You don’t need to do what your boss tells you. You can walk away from your paycheck consequence free. Those 40 hours a week are suddenly back under your control, and it would be in your best interest to reach this point as soon as possible.
 
 ## F-You Money
 
@@ -26,12 +26,14 @@ This point is a threshold on your wealth building journey, and it goes by many n
 Financial Independence, 
 Financial Freedom, 
 Early Retirement,
-but my personal favorite is called:
+
+but my personal favorite is:
 F-You money. 
+
 *you can use your imagination to figure out what the F stands for.*
 
-Which would be more useful to you? 
-A million dollars in a 401K that you can’t touch for the next 40 years, or 10 grand deposited into your checking account every single month starting right now?
+Which would be more useful to you? A million dollars in a 401K that you can’t touch for the next 40 years, or 10 grand deposited into your checking account every single month starting right now?
+
 I like option 2.
 
 >Increase Your Savings Rate
