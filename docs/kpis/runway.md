@@ -22,4 +22,6 @@ Reports vary online, but the general consensus is that most Americans have less 
 
 ![Average american savings](/img/american_savings.png)
 
+Your stress levels really dip once you have 12 months of Runway underneath you.
+
 >Increase Your Savings Rate
