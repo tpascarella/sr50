@@ -10,7 +10,7 @@ Savings Rate is the most important KPI when figuring out how long it will take y
 
 Savings Rate is calculated by dividing how much money you are able to save or invest, by your after-tax take home pay. The higher your Savings Rate, the better.
 
-![Savings Rate Calculation](/img/savingsrt.svg)
+![Savings Rate Formula](/img/savingsrt.svg)
 
 ## How Long It Will Take You to Reach FI at Different Savings Rates
 
