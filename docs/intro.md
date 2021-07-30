@@ -2,7 +2,9 @@
 sidebar_position: 1
 ---
 
-# The Whole Point is to Get Your Time Back #
+# Intro
+
+## The Whole Point is to Get Your Time Back 
 
 Time is the only resource you can't buy more of. It is for this reason that the *whole point* of personal finance is to get to a place where you never need to trade your time for money again. 
 
