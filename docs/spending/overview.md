@@ -10,10 +10,10 @@ But it would be impossible to give you advice as to how to increase your Savings
 
 ![Average Spending Breakdown](/img/spending_breakdown.svg)
 
-* 33% goes to Housing
-* 17% goes to Transportation
-* 16$ goes to Food
-* 34% goes to Everything Else
+* 33% goes to [Housing](/housing.md)
+* 17% goes to [Transportation](/transportation.md)
+* 16% goes to [Food](/food.md)
+* 34% goes to [Everything Else](/everything-else.md)
 
 ## Main Takeaway
 
