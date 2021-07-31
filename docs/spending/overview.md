@@ -8,3 +8,4 @@ As you have heard, Savings Rate is the most important KPI when determining how l
 
 But it would be impossible to give you advice as to how to increase your Savings Rate without first going over how your spending breaks down. Here is the breakdown of the average American's spending.
 
+![Average Spending Breakdown](/img/spending_breakdown.svg)
