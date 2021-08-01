@@ -76,7 +76,7 @@ module.exports = {
         },
         */
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} SR50 Finance Corporation.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Thomas Pascarella.`,
     },
     prism: {
       theme: lightCodeTheme,
