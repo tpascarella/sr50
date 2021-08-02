@@ -44,6 +44,6 @@ Business travel expenses can be deducted on your taxes, but commuting expenses c
 
 Cars are one of the most common places that human beings die. So, if you can't afford a Tesla yet, see if your car is compatible with an Openpilot compatible device from Comma AI. If Tesla is the iOS of self driving, Comma AI is the Android. See if your car is compatible with their hardware [here](https://comma.ai/vehicles). 
 
-I also receive no commission from Comma AI, (they have no idea I exist, as far as I know) but I personally updated my car after only owning my previous one for 4 months *just* to be able to use their stuff. It's really that good, and they just released their next gen hardware.
+I also receive no commission from Comma AI, (they have no idea I exist, as far as I know) but I personally updated my car after only owning my previous one for 4 months *just* to be able to use their stuff. It's really that good, and they just released their [next generation of hardware](https://comma.ai/shop/products/three).
 
 >Increase Your Savings Rate
