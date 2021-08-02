@@ -4,6 +4,10 @@ sidebar_position: 1
 
 # Stocks/Bonds
 
+## Advantages
+
+## Disadvantages
+
 I am not going to tell you what stocks to invest in. I’ll let someone more experienced do it for me. 
 
 Warren Buffett, if you are unfamiliar, is unanimously regarded as the greatest investor the world has ever seen. He is currently the 7th wealthiest person on Earth, the CEO of Berkshire Hathaway, (who own Geico, Duracell and Dairy Queen outright, along with considerable ownership stakes in Kraft, Wells Fargo, Bank of America, Coca Cola and Apple) and cofounder of the Giving Pledge with Bill Gates, where billionaires pledge to give at least half of their fortune away to charity. That is one impressive resume. What does he recommend you invest in? Low-cost index funds.
