@@ -1,8 +1,12 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Entrepreneurship
+
+## Advantages
+
+## Disadvantages
 
 Let's translate `docs/intro.md` to French.
 
