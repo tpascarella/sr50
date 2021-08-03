@@ -22,7 +22,7 @@ Savings Rate is calculated by dividing how much money you are able to save or in
 
 The average Savings Rate in America can be found at the FRED website [here](https://fred.stlouisfed.org/series/PSAVERT).
 
-The following graph represents average Savings Rates fom 1959 through today.
+The following graph represents average Savings Rates fom 1959 through today, note that the historical avergage hovers around 10%.
 
 ![Savings Rate Historical Graph](/img/historical-savings-rates-dark.svg)
 

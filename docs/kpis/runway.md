@@ -20,7 +20,7 @@ Runway is calculated by dividing your Bank Balance (how much cash you can get in
 
 Statistics vary, but the general consensus is that most Americans have less than 3 months of savings. Obviously, this is not high enough.
 
-![Average american savings](/img/runway-statistics-dark.svg)
+![Average american savings](/img/average-runway-dark.svg)
 
 Your stress levels really dip once you have 12 months of Runway to fall back on.
 
