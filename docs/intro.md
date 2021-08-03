@@ -10,7 +10,7 @@ Time is the only resource you can't buy more of. It is for this reason that the 
 
 You reach this point once the financial freedom equation is satisfied. The financial freedom is as follows:
 
-![The financial freedom equation](/img/ffe.svg)
+![The financial freedom equation](/img/financial-freedom-equation-dark.svg)
 
 This is the first point where you don't need your employer's permission to stay alive. You don't have to trade your time and energy to support yourself.
 

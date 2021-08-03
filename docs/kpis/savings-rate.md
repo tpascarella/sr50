@@ -10,7 +10,7 @@ Savings Rate is the most important KPI when figuring out how long it will take y
 
 Savings Rate is calculated by dividing how much money you are able to save or invest, by your after-tax take home pay. The higher your Savings Rate, the better.
 
-![Savings Rate Formula](/img/savingsrt.svg)
+![Savings Rate Formula](/img/savings-rate-calculation-dark.svg)
 
 ## How Long It Will Take You to Reach FI at Different Savings Rates
 
@@ -21,6 +21,10 @@ Savings Rate is calculated by dividing how much money you are able to save or in
 ## Average American Savings Rate
 
 The average Savings Rate in America can be found at the FRED website [here](https://fred.stlouisfed.org/series/PSAVERT).
+
+The following graph represents average Savings Rates fom 1959 through today.
+
+![Savings Rate Historical Graph](/img/historical-savings-rates-dark.svg)
 
 For our purposes, we will be looking to achieve and sustain a Savings Rate of 50%+.
 
