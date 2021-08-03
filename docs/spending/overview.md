@@ -8,7 +8,7 @@ As you have heard, Savings Rate is the most important KPI when determining how l
 
 But it would be impossible to give you advice as to how to increase your Savings Rate without first going over how your spending breaks down. Here is the breakdown of the average American's spending.
 
-![Average Spending Breakdown](/img/spending_breakdown.svg)
+![Average Spending Breakdown](/img/average-spending-breakdown-dark.svg)
 
 * 33% goes to [Housing](housing.md)
 * 17% goes to [Transportation](transportation.md)
@@ -17,7 +17,7 @@ But it would be impossible to give you advice as to how to increase your Savings
 
 ## Main Takeaway
 
-![Main Takeaway](/img/spending_takeaway.svg)
+![Main Takeaway](/img/spending-takeaway-dark.svg)
 
 Since 3 categories (Housing, Transportation, and Food) take up 62% of the average American spending, and we want to reach a Savings Ratre of 50% or higher, these will be the areas we focus on.
 
