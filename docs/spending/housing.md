@@ -21,7 +21,7 @@ The question you should really be asking is “how do I situate my Housing so it
 
 ## House Hacking
 
-House hacking (the term) was coined by an article written by Brandon Turner of BiggerPockets.com, first introduced to me in Set for Life by Scott Trench (highly recommended).
+House hacking (the term) was coined by an [article](https://www.biggerpockets.com/blog/2013-11-02-hack-housing-get-paid-live-free) written by Brandon Turner of BiggerPockets.com, first introduced to me in [Set for Life](https://www.amazon.com/Set-Life-Dominate-Money-American-ebook/dp/B06Y15M786/ref=sr_1_2?crid=36UFYADVB3E65&dchild=1&keywords=set+for+life+scott+trench&qid=1628033342&sprefix=set+for+life+scott%2Caps%2C178&sr=8-2) by Scott Trench (highly recommended).
 
 The concept is simple. You buy a 1-4 unit property with an FHA loan (3.5% down), and then rent out any spare bedrooms or units so that the cash flow from those units offset your burn for Housing. 
 
