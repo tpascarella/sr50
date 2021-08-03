@@ -2,6 +2,8 @@
 
 ## Formal Education
 
+### Scholarship Options
+
 ## Self Education
 
 ### Use Google, Seriously

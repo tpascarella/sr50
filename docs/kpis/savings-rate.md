@@ -16,6 +16,9 @@ Savings Rate is calculated by dividing how much money you are able to save or in
 
 [Networthify.com](https://networthify.com/calculator/earlyretirement?income=50000&initialBalance=0&expenses=20000&annualPct=5&withdrawalRate=4) will show you how long it will take you to reach FI at different Savings Rates. 
 
+Here are some example Savings Rates:
+![Example Savings Rates](/img/savings-rate-example-dark.svg)
+
 >Note that Savings Rate works exactly the same regardless of Income and Net Worth. A 50% Savings Rate works just as well at a $30,000 salary with 6 figures of student loans, as it does at someone with a $300,000 salary who is debt free.
 
 ## Average American Savings Rate
