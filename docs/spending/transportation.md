@@ -46,4 +46,6 @@ Cars are one of the most common places that human beings die. So, if you can't a
 
 I also receive no commission from Comma AI, (they have no idea I exist, as far as I know) but I personally updated my car after only owning my previous one for 4 months *just* to be able to use their stuff. It's really that good, and they just released their [next generation of hardware](https://comma.ai/shop/products/three).
 
+![Comma Three Hardware](img/comma-three-dark.svg)
+
 >Increase Your Savings Rate
