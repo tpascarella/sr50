@@ -1,5 +1,7 @@
 ---
-sidebar_position: 8
+sidebar_position: 7
 ---
+
+# Stage 6
 
 >Increase Your Savings Rate
