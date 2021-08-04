@@ -12,6 +12,12 @@ sidebar_position: 1
 
 ## Index Funds
 
+## Portfolio Allocation
+
+### JL Collins
+
+### Benjamin Graham
+
 >"A low-cost index fund is the most sensible equity investment for the great majority of investors. By periodically investing in an index fund, the know-nothing investor can actually outperform most investment professionals." -Warren Buffett
 
 ### Best Funds for Each Company

@@ -10,12 +10,12 @@ Your credit score will range between 300-850, and there is no reason why you can
 
 ## How Your Credit Score is Calculated
 
-### On-time payments
-### Credit utilization
-### Age of credit
-### Total accounts
-### Credit inquiries
-### Derogatory marks
+### On-time payments (High impact)
+### Credit utilization (High impact)
+### Age of credit (Medium impact)
+### Total accounts (Low impact)
+### Credit inquiries (Low impact)
+### Derogatory marks (High impact)
 
 ## Building Credit From Scratch
 
