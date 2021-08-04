@@ -3,9 +3,12 @@
 ## Range of Credit Scores
 
 Your credit score will range between 300-850, and there is no reason why you can't have an excellent credit score.
-[Credit Score Range](/img/credit-score-range-dark.svg)
 
-## How They Calculate Your Credit Score
+![Credit Score Range](/img/credit-score-range-dark.svg)
+
+
+
+## How Your Credit Score is Calculated
 
 ### On-time payments
 ### Credit utilization
