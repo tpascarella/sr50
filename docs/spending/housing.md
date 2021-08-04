@@ -39,4 +39,6 @@ If you will be moving in the near future and need flexibility, you can also temp
 
 I don’t recommend moving in with your parents to save cash, however. It will stifle your personal development and should only be considered as a last resort. 
 
+## Airbnb
+
 >Increase Your Savings Rate
