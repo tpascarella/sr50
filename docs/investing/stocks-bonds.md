@@ -14,9 +14,41 @@ sidebar_position: 1
 
 >"A low-cost index fund is the most sensible equity investment for the great majority of investors. By periodically investing in an index fund, the know-nothing investor can actually outperform most investment professionals." -Warren Buffett
 
+### Best Funds for Each Company
 
+Vanguard
+* VTSAX (stock index fund)
+* VBTLX (bond index fund)
+* VTI (stock ETF)
+* BND (bond ETF)
+
+Schwab
+* (stock index fund)
+* (bond index fund)
+* (stock ETF)
+* (bond ETF)
+
+T Rowe Price
+* (stock index fund)
+* (bond index fund)
+* (stock ETF)
+* (bond ETF)
+
+Fidelity
+* (stock index fund)
+* (bond index fund)
+* (stock ETF)
+* (bond ETF)
+
+BlackRock
+* (stock index fund)
+* (bond index fund)
+* (stock ETF)
+* (bond ETF)
 
 ## Why Vanguard?
+
+## Index Funds vs. ETFs
 
 I am not going to tell you what stocks to invest in. I’ll let someone more experienced do it for me. 
 
@@ -37,13 +69,6 @@ the “professionals'' who manage the fund have hefty salaries and bonuses that 
 So, active fund managers not only have to outperform the index over time (astonishingly rare on its own), but outperform the index with a big enough margin to cover the greatly inflated management costs. So do yourself a favor and just stick with index funds. Your great grandkids will thank you.
 
 You will reach FI once you have 25X your yearly expenses invested in a 50/50 stock/bond fund split. This 25X number is based on the famous Trinity Study, which analyzed 100+ years of market performance and retirement withdrawals. They concluded that if you withdraw 4% of your portfolio in your first year to live on, and adjust for inflation the following years, you have a near certain probability of never outliving your money in a traditional 30 year retirement. This eventually became known as the 4% rule. The only exception would be if the day before you retire, the stock market crashes and your investment balance gets cut in half as soon as you pull the money out. The 4% rule is a rule of thumb and shouldn’t be taken as the end all be all of retirement plans, (especially for FI people), but it’s a good number to start with. You can, and probably will keep working past this point. 
-
-You can get Index Funds from many different companies:
-*Vanguard,
-*Schwab,
-*Fidelity,
-*T Rowe Price,
-*BlackRock,
 
 just to name a few, and your 401K likely invests in funds from these companies. I will always recommend Vanguard if you have the choice, the legal ownership structure of Vanguard being the reason why.
 
