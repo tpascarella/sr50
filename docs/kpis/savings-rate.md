@@ -21,8 +21,6 @@ Savings Rate is calculated by dividing how much money you are able to save or in
 Here are some example Savings Rates:
 ![Example Savings Rates](/img/savings-rate-examples-dark.svg)
 
->Note that these examples are from a portfolio split 50/50 between Stock index funds and Bond index funds. FI can be achieved faster using other asset classes such as [Real Estate](investing/real-estate.md), [Franchises](investing/franchises.md), or [Entrepreneurship](investing/entrepreneurship.md))
-
 ## Average American Savings Rate
 
 The average Savings Rate in America can be found at the FRED website [here](https://fred.stlouisfed.org/series/PSAVERT).
