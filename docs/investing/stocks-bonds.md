@@ -24,6 +24,8 @@ To satisfy the 4% rule, you will need one stock index fund and one bond index fu
 
 ## Index Funds
 
+>"A low-cost index fund is the most sensible equity investment for the great majority of investors. By periodically investing in an index fund, the know-nothing investor can actually outperform most investment professionals." -Warren Buffett
+
 An index fund is a fund that invests in a group of stocks according to a specific index. I assume you’ve heard of the S&P 500, right? The S&P 500 is an index that tracks the 500 largest publicly traded companies in America, that’s it. So, if you invest in an S&P 500 index fund, you are investing in those same 500 companies, in the same proportions, as the index. Index funds are the simplest, most powerful, most tax efficient, lowest time requirement investments you can ever make in this asset class. 
 
 Index and mutual funds are considered “low cost” if their expense ratio is less than one tenth of a percent. Most index funds have expense ratios less than five hundredths of a percent. Index funds are known as passive funds because all they do is follow what the index does, as opposed to actively managed funds, which have full time management and can have expense ratios in excess of 1%.
@@ -45,17 +47,25 @@ So, active fund managers not only have to outperform the index over time (astoni
 
 ### JL Collins
 
+JL Collins in the book, A Simple Path to Wealth recommends a portfolio allocation of the following:
+
+-100% Stocks while you are in the Wealth Building Phase
+
+-75% Stocks / 25% Bonds while you are in the Wealth Preservation Phase
+
 ### Benjamin Graham
 
->"A low-cost index fund is the most sensible equity investment for the great majority of investors. By periodically investing in an index fund, the know-nothing investor can actually outperform most investment professionals." -Warren Buffett
+Benjamin Graham from The Intelligent Investor recommends a portfolio allocation of the following:
+
+-50/50 split between Stocks/Bonds, while going no further that 75/25 in either direction according to market conditions.
 
 ### Best Funds for Each Company
 
 Vanguard
-* VTSAX (stock index fund)
-* VBTLX (bond index fund)
-* VTI (stock ETF)
-* BND (bond ETF)
+-VTSAX (stock index fund)
+-VBTLX (bond index fund)
+-VTI (stock ETF)
+-BND (bond ETF)
 
 ## Why Vanguard?
 
@@ -78,10 +88,10 @@ I recommend you go with the index fund over ETFs if you have the choice, simply 
 ## Optimizing Returns
 
 To squeeze the highest possible return out of your portfolio, max out your accounts in this order; (all from Vanguard)
-*HSA (Health Savings Account) 
-*Traditional IRA
-*401K
-*Roth IRA
-*Taxable brokerage account.
+-HSA (Health Savings Account) 
+-Traditional IRA
+-401K
+-Roth IRA
+-Taxable brokerage account.
 
 >Increase Your Savings Rate
