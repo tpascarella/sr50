@@ -6,15 +6,15 @@ sidebar_position: 2
 
 ## Advantages
 
-*Completely hands off, index fund investing requires zero time or effort from you.
+* Completely hands off, index fund investing requires zero time or effort from you.
 
-*Great diversification, in one index fund you can invest in thousands of companies.
+* Great diversification, in one index fund you can invest in thousands of companies.
 
 ## Disadvantages
 
-*The return you get does not correlate with effort, it is simply what the market returns. Stock market returns average to about 8% per year.
+* The return you get does not correlate with effort, it is simply what the market returns. Stock market returns average to about 8% per year.
 
-*Because the return is not very high, it can take more time to reach FI in this asset class than Real Estate or Entrepreneurship.
+* Because the return is not very high, it can take more time to reach FI in this asset class than Real Estate or Entrepreneurship.
 
 ## The 4% Rule
 
@@ -49,23 +49,23 @@ So, active fund managers not only have to outperform the index over time (astoni
 
 JL Collins in the book, A Simple Path to Wealth recommends a portfolio allocation of the following:
 
--100% Stocks while you are in the Wealth Building Phase
+- 100% Stocks while you are in the Wealth Building Phase
 
--75% Stocks / 25% Bonds while you are in the Wealth Preservation Phase
+- 75% Stocks / 25% Bonds while you are in the Wealth Preservation Phase
 
 ### Benjamin Graham
 
 Benjamin Graham from The Intelligent Investor recommends a portfolio allocation of the following:
 
--50/50 split between Stocks/Bonds, while going no further that 75/25 in either direction according to market conditions.
+- 50/50 split between Stocks/Bonds, while going no further that 75/25 in either direction according to market conditions.
 
 ### Best Funds for Each Company
 
 Vanguard
--VTSAX (stock index fund)
--VBTLX (bond index fund)
--VTI (stock ETF)
--BND (bond ETF)
+- VTSAX (stock index fund)
+- VBTLX (bond index fund)
+- VTI (stock ETF)
+- BND (bond ETF)
 
 ## Why Vanguard?
 
@@ -88,10 +88,10 @@ I recommend you go with the index fund over ETFs if you have the choice, simply 
 ## Optimizing Returns
 
 To squeeze the highest possible return out of your portfolio, max out your accounts in this order; (all from Vanguard)
--HSA (Health Savings Account) 
--Traditional IRA
--401K
--Roth IRA
--Taxable brokerage account.
+- HSA (Health Savings Account) 
+- Traditional IRA
+- 401K
+- Roth IRA
+- Taxable brokerage account.
 
 >Increase Your Savings Rate
