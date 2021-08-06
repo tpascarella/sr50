@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # "Financial Advisors" are just Insurance Salesmen
 
-## Look At Their Job Listings
+## Look At The Job Listings and Compensation Plans
 
 Nearly every financial advisor in America is just an insurance salesman posing as a financial advisor.
 
