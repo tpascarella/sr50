@@ -10,7 +10,10 @@ Nearly every financial advisor in America is just an insurance salesman posing a
 
 I realized this personally as I was looking at financial advisor jobs after I graduated from college. All of them are commission based, and those commissions come from selling either unnecessary and bloated insurance packages, or criminally overpriced mutual funds. They offer nothing you can't easily do yourself after an hour of research on Google.
 
-Check the [job listings](https://www.indeed.com/q-Financial-Advisor-jobs.html?vjk=179876bfb2533373) yourself and see! You will find all of the compensation packages are commission based, and those commissions come from selling insurance and shitty investment products. Those are the annuities these companies want.
+Check the [job listings](https://www.indeed.com/q-Financial-Advisor-jobs.html?vjk=179876bfb2533373) yourself and see! You will find all of the compensation packages are commission based, and those commissions come from selling insurance and shitty investment products. 
+
+They hide that fact by using fancy marketing code, but the economic incentives for them are to sell as much insurance as possible, and as many crappy investment products as possible. 
+![Financial advisor listings](/img/financial-advisor-listings-dark.svg)
 
 There is a very clear divide between what a financial advisor *should be* in theory, and the actual logistics of the profession. Don't be swindled by insurance salesmen!
 
