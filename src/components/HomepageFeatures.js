@@ -19,7 +19,7 @@ const FeatureList = [
     /* Svg: require('../../static/img/search_white_18dp.svg').default, */
     description: (
       <>
-        Every financial advisor in the country is an insurance salesman posing as a financial advisor. Look up the job postings if you don't believe me. We are completely transparent about how we make money, what we teach, and why.
+        We are completely transparent about how we make money, what we teach, and why. Every financial advisor in the country is an insurance salesman posing as a financial advisor, which you can verify by checking the job listings on LinkedIn.
       </>
     ),
   },
@@ -29,7 +29,7 @@ const FeatureList = [
     /* Svg: require('../../static/img/lock_white_18dp.svg').default, */
     description: (
       <>
-        Modern finance apps force you to give them your personal login information in order to provide value. We collect zero data from users.
+        Modern finance apps force you to give them your personal login information in order to provide value. We collect zero data from users. You're not our "client", you don't need to work with us. 
       </>
     ),
   },

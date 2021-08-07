@@ -57,11 +57,12 @@ module.exports = {
               label: 'Founder',
               href: 'https://tpascarella.github.io'
             },
+            /*
             {
               label: 'GitHub',
               href: 'https://github.com/tpascarella',
             },
-            
+            */
           ],
         },
         /*
