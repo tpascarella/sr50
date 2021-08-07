@@ -12,8 +12,8 @@ I realized this personally as I was looking at financial advisor jobs after I gr
 
 Check the [job listings](https://www.indeed.com/q-Financial-Advisor-jobs.html?vjk=179876bfb2533373) yourself and see! You will find all of the compensation packages are commission based, and those commissions come from selling insurance and shitty investment products. 
 
-They hide that fact by using fancy marketing code, but the economic incentives for them are to sell as much insurance as possible, and as many crappy investment products as possible.
- 
+They hide that fact by using fancy marketing code, but all of the economic incentives for them are to sell as much insurance and crappy investment products as possible. It would be great if it was just a matter of "doing what's best for the client" but you can't expect people to not operate by personal incentive.
+
 ![Financial advisor listings](/img/financial-advisor-listings-dark.svg)
 
 There is a very clear divide between what a financial advisor *should be* in theory, and the actual logistics of the profession. Don't be swindled by insurance salesmen!
