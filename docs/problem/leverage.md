@@ -14,6 +14,8 @@ It is also impossible to start building up passive income with a low Savings Rat
 
 It is also soul draining to work at an Initech type company for a Lumbergh type boss.
 
+![Bill Lumbergh](/img/bill-lumbergh-meme-dark.svg)
+
 In Jordan Peterson's 12 Rules for Life, Rule #7 is to:
 
 >Pursue what is meaningful, not what is expedient.
