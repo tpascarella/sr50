@@ -16,10 +16,6 @@ It is also soul draining to work at an Initech type company for a Lumbergh type 
 
 ![Bill Lumbergh](/img/bill-lumbergh-meme-dark.svg)
 
-In Jordan Peterson's 12 Rules for Life, Rule #7 is to:
-
->Pursue what is meaningful, not what is expedient.
-
-Meaning is almost never found in the office. For some lucky few, it might, but the vast overwhelming majority of people would prefer to spend time with their families, or contributing to a social cause they care about. 
+Your time is your most valuable resource, yet people give it away for pennies on the dollar because they trap themselves with a high burn rate. Some of this is through stupidity, some through being dealt a bad hand, but whatever the cause, it is in your best interest to increase your Savings Rate so you can get back control of your most valuable asset.
 
 >Increase Your Savings Rate
