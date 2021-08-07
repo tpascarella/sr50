@@ -30,4 +30,6 @@ Also, how long would it take you to save up $200,000 in after tax liquidity? How
 
 A lot of the bad advice stems from trying to optimize Net Worth, or Income, when the single determiner of success is Savings Rate. If you take care of Savings Rate, everything else will take care of itself.
 
+Be very careful about where you get your information. Remember the average Savings Rate in America is in the single digits. These people are not to be emulated.
+
 >Increase Your Savings Rate
