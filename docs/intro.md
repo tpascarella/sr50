@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Intro
 
-## *The Whole Point* is to Get Your Time Back 
+## *Everything* is About Getting Your Time Back 
 
 Time is the only resource you can't buy more of. It is for this reason that the *whole point* of personal finance is to get to a place where you never need to trade your time for money again. 
 
@@ -22,7 +22,7 @@ So, if it costs you $2500/month to live, but you have $5000/month coming in whet
 
 ## F-You Money
 
-This point is a threshold on your wealth building journey, and it goes by many names, 
+This point at which you get your time back is a threshold on your wealth building journey, and it goes by many names, 
 * Financial Independence, 
 * Financial Freedom, 
 * Early Retirement,
@@ -32,7 +32,15 @@ but my personal favorite is:
 
 *you can use your imagination to figure out what the F stands for.*
 
-Which would be more useful to you? A million dollars in a 401K that you can’t touch for the next 40 years, or 10 grand deposited into your checking account every single month starting right now?
+## What Actual Financial Freedom is Like
+
+The most important thing money can buy is freedom. Freedom to live where you want, work where you want, and for whom you want. It means having the ability to walk away from your paycheck consequence free. 
+
+But this freedom only comes from having a stable cash flow situation, and enough Runway to give you time to pursue opportunities as desired.
+
+Think of it this way, which would be more useful to you? 
+- A million dollars in a 401K that you can’t touch for the next 40 years 
+- 10 grand deposited into your checking account every single month starting right now?
 
 I like option 2.
 
