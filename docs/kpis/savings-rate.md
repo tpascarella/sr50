@@ -6,7 +6,11 @@ sidebar_position: 2
 
 ## Importance of Savings Rate
 
-Savings Rate is the most important KPI when figuring out how long it will take you to reach Financial Independence. Savings Rate measures, how much of your available resources you are utilizing to get your time back as a percentage. Essentially, how fast you are progressing. 
+Savings Rate is the most important KPI when figuring out how long it will take you to reach Financial Independence. 
+
+Savings Rate measures, how much of your available resources you are utilizing to get your time back as a percentage. Essentially, how fast you are progressing. 
+
+## Calculating Savings Rate
 
 Savings Rate is calculated by dividing how much money you are able to save or invest, by your after-tax take home pay. The higher your Savings Rate, the better.
 
