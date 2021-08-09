@@ -34,7 +34,7 @@ This is only useful in revealing any blind spots left behind by Savings Rate and
 
 [Income](income.md) is only imporant in what impact it has on your Savings Rate. I'm going to repeat that. 
 
->*Income is only important, in regards to what impact it has on your Savings Rate.* 
+>Income is only important in regards to the impact it has on your Savings Rate. 
 
 If you have a 6-figure income, but a single digit Savings Rate, your income does not benefit you *at all*.
 
