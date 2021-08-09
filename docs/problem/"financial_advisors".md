@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # "Financial Advisors" are just Insurance Salesmen
 
-## Look At The Job Listings and Compensation Plans
+## Look At Their Job Listings
 
 Nearly every financial advisor in America is just an insurance salesman posing as a financial advisor.
 
@@ -18,7 +18,7 @@ They hide that fact by using fancy marketing code, but all of the economic incen
 
 There is a very clear divide between what a financial advisor *should be* in theory, and the actual logistics of the profession. Don't be swindled by insurance salesmen!
 
-## They are Unnecessary
+## They are (Almost) Completely Unnecessary
 
 Barring some very complicated tax situations, or estate planning, you don't need a financial advisor. The *math* of Financial Independence is sixth grade level. You don't need to pay someone else thousands of dollars to tell you that you should spend less than you earn, and invest for the future.
 
