@@ -6,7 +6,11 @@ sidebar_position: 1
 
 ## *Everything* is About Getting Your Time Back 
 
-Time is the only resource you can't buy more of. It is for this reason that the *whole point* of personal finance is to get to a place where you never need to trade your time for money again. 
+Time is the only resource you can never buy more of. 
+
+It is for this reason that the *whole point* of personal finance is to get to a place where you never need to trade your time for money again. 
+
+## The Financial Freedom Equation
 
 You reach this point once the financial freedom equation is satisfied. The financial freedom is as follows:
 
