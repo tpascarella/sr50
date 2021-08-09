@@ -24,7 +24,7 @@ Passive Income is any money coming in that you don’t have to trade your time a
 
 So, if it costs you $2500/month to live, but you have $5000/month coming in whether you get out of bed in the morning or not, you no longer need your job. You don’t need to do what your boss tells you. You can walk away from your paycheck consequence free. Those 40 hours a week are suddenly back under your control, and it would be in your best interest to reach this point as soon as possible.
 
-## F-You Money
+## F-You Money, a Mindset
 
 This point at which you get your time back is a threshold on your wealth building journey, and it goes by many names, 
 * Financial Independence, 
@@ -33,8 +33,9 @@ This point at which you get your time back is a threshold on your wealth buildin
 
 but my personal favorite is:
 * F-You money. 
-
 *you can use your imagination to figure out what the F stands for.*
+
+F-You Money is a mindset as much as anything. People talk about financial independence like it *is a math problem*, but it isn't. The math behind it is, conceptually, very simple. Financial independence is a psychology problem. It is refusing to submit to your employer or your paycheck.
 
 ## What Actual Financial Freedom is Like
 
