@@ -32,7 +32,7 @@ This is only useful in revealing any blind spots left behind by Savings Rate and
 
 ## Income (Low impact)
 
-[Income](incomd.md) is only imporant in what impact it has on your Savings Rate. I'm going to repeat that. 
+[Income](income.md) is only imporant in what impact it has on your Savings Rate. I'm going to repeat that. 
 
 >*Income is only important, in regards to what impact it has on your Savings Rate.* 
 
