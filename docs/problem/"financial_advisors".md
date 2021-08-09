@@ -24,4 +24,10 @@ Barring some very complicated tax situations, or estate planning, you don't need
 
 We are specifically competing with these *established financial advisor firms* by open sourcing everything we teach. We have taken the time and energy to compile all of the best information you can find on Google, and then give it away for free. 
 
+## SR50 is Open Source
+
+In an era where Google exists, you can't expect to succeed hiding information behind a paywall. We open source everything we teach, and get contributions from people all over the world. The result is that the SR50 method will only get better and more powerful as time goes on and more people contribute.
+
+It is a disgrace these people call themselves "financial advisors". They are frauds, and we are going to beat them.
+
 >Increase Your Savings Rate

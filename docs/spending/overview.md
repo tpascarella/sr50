@@ -19,6 +19,8 @@ But it would be impossible to give you advice as to how to increase your Savings
 
 ![Main Takeaway](/img/spending-takeaway-dark.svg)
 
-Since 3 categories (Housing, Transportation, and Food) take up 62% of the average American spending, and we want to reach a Savings Ratre of 50% or higher, these will be the areas we focus on.
+Housing, Transportation, and Food take up 62% of the average American spending. 
+
+Since we want to reach a Savings Rate of 50%, we will need to take drastic action on these 3 categories, which we will cover in the next sections.
 
 >Increase Your Savings Rate
