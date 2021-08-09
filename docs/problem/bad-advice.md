@@ -6,9 +6,9 @@ Here are some pieces of financial advice that sound good on the surface but are 
 
 ### "You need to max out your retirement accounts!" 
 
-No you do not. What you need is to build up passive income.
+No you do not. 
 
-*Cash flow* is the only thing that will give you your time back, and exclusively investing into accounts that you have no access to for decades do nothing to build passive income.
+What you need is to build up passive income. *Cash flow* is the only thing that will give you your time back, and exclusively investing into accounts that you have no access to for decades do nothing to build passive income.
 
 That isn't to say that retirement accounts have *no place* in your financial picture, but your focus should go towards investments that provide passive income to you, and you get a real tangible benefit from *now*.
 
