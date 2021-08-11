@@ -14,12 +14,12 @@ It is about living simply, with as few possessions as needed to live a maximally
 
 One of the big benefits of minimalism is that it builds very healthy and efficient spending habits. It isn't about living with a limited number of possessions, just restricting the things you own to the most important and valuable. 
 
-Meaning, 25 minutes for a couple of Ted Talks can potentially save you *decades* of irresponsible purchasing decisions. That is a great ROI!
+Check out the following two Ted Talks by The Minimalists, Ryan Nicodemus and Joshua Fields Milburn. 25 minutes can potentially save you *decades* of irresponsible purchasing decisions. 
 
-- <iframe width="655" height="368" src="https://www.youtube.com/embed/w7rewjFNiys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- <iframe width="655" height="368" src="https://www.youtube.com/embed/GgBpyNsS-jU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- https://www.youtube.com/watch?v=GgBpyNsS-jU
-- https://www.youtube.com/watch?v=w7rewjFNiys
+That is a great ROI!
+
+<iframe width="655" height="368" src="https://www.youtube.com/embed/w7rewjFNiys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="655" height="368" src="https://www.youtube.com/embed/GgBpyNsS-jU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Decluttering
 
