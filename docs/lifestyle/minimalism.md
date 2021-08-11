@@ -16,6 +16,8 @@ One of the big benefits of minimalism is that it builds very healthy and efficie
 
 Meaning, 25 minutes for a couple of Ted Talks can potentially save you *decades* of irresponsible purchasing decisions. That is a great ROI!
 
+- <iframe width="655" height="368" src="https://www.youtube.com/embed/w7rewjFNiys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- <iframe width="655" height="368" src="https://www.youtube.com/embed/GgBpyNsS-jU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - https://www.youtube.com/watch?v=GgBpyNsS-jU
 - https://www.youtube.com/watch?v=w7rewjFNiys
 
