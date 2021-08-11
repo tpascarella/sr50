@@ -2,7 +2,14 @@
 
 ## ROI
 
+One of the big benefits of minimalism is that it builds very healthy and efficient spending habits. It isn't about living with a limited number of possessions, just restricting the things you own to the most important and valuable. 
 
+Meaning, 25 minutes for a couple of Ted Talks can potentially save you *decades* of irresponsible purchasing decisions. That is a great ROI!
+
+- https://www.youtube.com/watch?v=GgBpyNsS-jU
+- https://www.youtube.com/watch?v=w7rewjFNiys
+
+## Decluttering
 
 ## Minimalism Philosophy
 
