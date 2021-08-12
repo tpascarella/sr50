@@ -37,4 +37,10 @@ Most people obsess over owning the latest and greatest of everything. The minima
 
 My favorite example for this point is headphones. A $1500 pair of headphones is not 10X better than a $150 pair of headphones, it might be just 10% better.
 
+## Treasure Hunting
+
+Now, once you have decided you want to buy something, what's the best way to go about buying it? I recommend treasure hunting.
+
+You scour ebay, craigslist, facebook marketplaces, and various other places until you find the thing you want at significantly lower cost. Paying retail is for suckers. You'll also like the item far more if you spent half as much as the other plebs.
+
 >Increase Your Savings Rate
