@@ -6,6 +6,8 @@ sidebar_position: 4
 
 You always spend more than you think you do on food. Every time, without exception. On average, peoples' food bills are split pretty evenly between buying groceries and eating out. 
 
+You should always default to cooking healthy food, that you bought from reasonable grocery stores. It is a balancing act between your health and your finances.
+
 ## Eating Out
 
 For eating out, the best advice I can give is to just never do it. It’s unhealthy, it’s expensive, and it's unnecessary. Just don’t do it. Nearly every time people go out to buy fast food is because of either poor planning or laziness. Both of which can be remedied with some forethought. 

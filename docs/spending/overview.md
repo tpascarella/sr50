@@ -10,17 +10,23 @@ But it would be impossible to give you advice as to how to increase your Savings
 
 ![Average Spending Breakdown](/img/average-spending-breakdown-dark.svg)
 
-## 33% goes to [Housing](housing.md)
+## 33% goes to Housing
 
-## 17% goes to [Transportation](transportation.md)
+Housing is the single largest expense category for most Americans, taking up 33% of average spending. In the [Housing](housing.md) section, we will cover ways to reduce your housing costs, if not completely eliminate them with a strategy known as *house hacking*. We will also cover ways to make your home more energy efficient and make money with your space. 
 
-## 16% goes to [Food](food.md)
+## 17% goes to Transportation
 
-## 34% goes to [Everything Else](everything-else.md)
+Transportation is the 2nd largest expense category, taking up 17% of average spending. Most of this is from needlessly bloated car payments, but also with bloated commuting expenses.  
+
+## 16% goes to Food
+
+Food is the 3rd largest expense category, taking up 16% of average spending. This is split pretty evenly between buying groceries and eating out, and we will go over expenses to reduce spending on both of these.
+
+## 34% goes to Everything Else
+
+34% of spending goes to other categories, education, clothing, alcohol, social life expenses, etc. Most of these are the expenses people try to cut out in an attempt to save money, but in relation to the Big 3 mentioned earlier, these can be kept, within reason.
 
 ## Main Takeaway
-
-![Main Takeaway](/img/spending-takeaway-dark.svg)
 
 Housing, Transportation, and Food take up 62% of the average American spending. 
 
