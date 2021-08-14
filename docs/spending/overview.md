@@ -10,21 +10,25 @@ But it would be impossible to give you advice as to how to increase your Savings
 
 ![Average Spending Breakdown](/img/average-spending-breakdown-dark.svg)
 
-## 33% goes to Housing
+## 33% goes to [Housing](housing.md)
 
-Housing is the single largest expense category for most Americans, taking up 33% of average spending. In the [Housing](housing.md) section, we will cover ways to reduce your housing costs, if not completely eliminate them with a strategy known as *house hacking*. We will also cover ways to make your home more energy efficient and make money with your space. 
+Housing is the single largest expense category for most Americans, taking up 33% of average spending. In the Housing section, we will cover ways to reduce your housing costs, if not completely eliminate them with a strategy known as *house hacking*. We will also cover ways to make your home more energy efficient and make money with your space. 
 
-## 17% goes to Transportation
+## 17% goes to [Transportation](transportation.md)
 
 Transportation is the 2nd largest expense category, taking up 17% of average spending. Most of this is from needlessly bloated car payments, but also with bloated commuting expenses.  
 
-## 16% goes to Food
+## 16% goes to [Food](food.md)
 
 Food is the 3rd largest expense category, taking up 16% of average spending. This is split pretty evenly between buying groceries and eating out, and we will go over expenses to reduce spending on both of these.
 
-## 34% goes to Everything Else
+## 34% goes to [Everything Else](everything-else.md)
 
 34% of spending goes to other categories, education, clothing, alcohol, social life expenses, etc. Most of these are the expenses people try to cut out in an attempt to save money, but in relation to the Big 3 mentioned earlier, these can be kept, within reason.
+
+## [Taxes](taxes.md)
+
+The spending breakdowns earlier represent your *after-tax take home pay*, which leaves out taxes as an expense category. However, taxes usually account for 1/3rd of your salary, so in this section we will cover ways to reduce your tax liability as quickly and efficiently as we can.
 
 ## Main Takeaway
 
