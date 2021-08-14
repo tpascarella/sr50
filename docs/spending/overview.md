@@ -26,7 +26,7 @@ Food is the 3rd largest expense category, taking up 16% of average spending. Thi
 
 34% of spending goes to other categories, education, clothing, alcohol, social life expenses, etc. Most of these are the expenses people try to cut out in an attempt to save money, but in relation to the Big 3 mentioned earlier, these can be kept, within reason.
 
-## [Taxes](taxes.md)
+## ~1/3rd of your salary goes to [Taxes](taxes.md)
 
 The spending breakdowns earlier represent your *after-tax take home pay*, which leaves out taxes as an expense category. However, taxes usually account for 1/3rd of your salary, so in this section we will cover ways to reduce your tax liability as quickly and efficiently as we can.
 
