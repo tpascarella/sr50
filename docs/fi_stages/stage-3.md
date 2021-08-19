@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Stage 3
 
-Debt Freedom
+## Debt Freedom (mortgage optional)
 
 This stage happens once active income is enough to support current lifestyle expenses, some Runway has been saved, and bad debts have been eliminated from their financial picture. Whether mortgage or student loan debts are included here is up to you. 
 

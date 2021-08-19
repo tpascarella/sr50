@@ -4,7 +4,7 @@ sidebar_position: 8
 
 # Stage 6
 
-Passive Income > Big Life Goals
+## Passive Income > Big Life Goals
 
 Stage Six is when you can get your Tesla. Here you have enough passive income so that your lifestyle is covered, with a comfortable margin of safety, and now you have enough leftover to splurge on fancy cars, a condo in the city, designer clothes, groceries from Whole Foods,  world travel, anything you want. 
 

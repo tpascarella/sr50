@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Stage 2
 
-Self Sufficiency + Savings
+## Self Sufficiency + Savings
 
 Stage Two happens once active income is greater than current lifestyle expenses, but now this person has some Runway underneath them. Stage Two is a moderately comfortable place to be, you have a small buffer between you and the money cliff, but you still have no passive income and are completely reliant on your paycheck.
 
