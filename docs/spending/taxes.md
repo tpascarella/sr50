@@ -24,6 +24,8 @@ Here are some strategies you can use to reduce your tax liability:
 
 ## Should I Hire a CPA?
 
+### Probably Not Yet
+
 If your tax situation is relatively simple, meaning you only have a W2, then it is perfectly ok to do them yourself. If you have some Real Estate, then it might be ok to do them yourself with good tax software. But if you have multiple business ventures, multiple rental properties, as well as beginning to withdraw retirement accounts, then you should probably hire an accountant to do your taxes for you.
 
 >Increase Your Savings Rate
