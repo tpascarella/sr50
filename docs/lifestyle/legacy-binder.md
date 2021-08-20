@@ -1,3 +1,3 @@
-# Legacy Binders
+# A Legacy Binder
 
 >Increase Your Savings Rate
