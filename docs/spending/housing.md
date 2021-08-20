@@ -41,4 +41,8 @@ I don’t recommend moving in with your parents to save cash, however. It will s
 
 ## Airbnb
 
+Airbnb offers a way to rent out the spare room in your house, or rent other peoples' spaces. This can be an exciting way to make money off of the extra space you have, and depending how valauble your space is, can reap similar financial benefits to house hacking.
+
+You can also live in them temporarily to test the waters in a new city you want to travel to.
+
 >Increase Your Savings Rate
