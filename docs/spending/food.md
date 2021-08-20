@@ -34,4 +34,6 @@ You have Google, use it. Find 5 recipes online that look good and you want to tr
 
 Over time, gradually try to get at least 80% of your calories from nutritious foods that you like. Your physical health is an investment, so don’t live on Ramen to save money any longer than is absolutely necessary. Your physical health takes priority over your wallet.
 
+[Here](https://legionathletics.com/tools/macronutrient-calculator/) is a great calculator on how to calculate how many macros you should be eating every day to gain/lose weight as desired.
+
 >Increase Your Savings Rate
