@@ -1,3 +1,7 @@
+---
+sidebar_position: 5
+---
+
 # Cash on Hand
 
 ## Cash in Your Wallet

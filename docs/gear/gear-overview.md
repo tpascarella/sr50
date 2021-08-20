@@ -12,4 +12,8 @@ Some items include:
 
 ## Some Type of [Savings Account](savings-ef.md)
 
+## [These Apps](apps.md) 
+
+## Some [Cash on Hand](cash-on-hand.md)
+
 >Increase Your Savings Rate
