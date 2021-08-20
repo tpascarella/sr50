@@ -6,7 +6,7 @@ sidebar_position: 1
 
 There are many different investment asset classes you can use to rapidly acquire financial freedom. They usually correlate between effort and return.
 
-## [Entrepreneurship](entrepreneurship.md) (High Effort - High Potential Return)
+## Entrepreneurship (High Effort - High Potential Return)
 
 Entrepreneurship is the process of creating a new business from scratch. This requires the most work but can reap the highest rewards.
 
