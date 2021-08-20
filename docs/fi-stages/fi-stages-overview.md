@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Overview
+# The Stages of FI Overview
 
 ## The Stages of Financial Independence
 
