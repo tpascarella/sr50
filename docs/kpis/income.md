@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Income
 
-## Income is Way Less Important Than You Think
+## Income is Much Less Important Than You Think
 
 Savings Rate takes absolute priority over Income.
 
