@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Importance of Savings Rate
 
-Savings Rate is the most important KPI when figuring out how long it will take you to reach Financial Independence. 
+Savings Rate is the most important KPI in personal finance. 
 
 Savings Rate measures, how much of your available resources you are utilizing to get your time back as a percentage. Essentially, how fast you are progressing. 
 

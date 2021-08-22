@@ -6,6 +6,8 @@ sidebar_position: 3
 
 ## Importance of Runway
 
+Runway is the second most important KPI in personal finance.
+
 Runway tells you how long you can last off reserves if you had no income at all, measured in months. Essentially, how secure you are right now. 
 
 The more months of Runway you have, the better.
