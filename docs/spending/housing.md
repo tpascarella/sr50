@@ -4,9 +4,9 @@ sidebar_position: 2
 
 # Housing
 
-## Buy vs. Rent
+## Buy vs. Rent is a Bullshit Question
 
-“Buy vs. Rent” is a bullshit question. It’s a bullshit question because the thinking is too narrow. I reject the premise. Do not limit your options to one of two choices presented to you by a nation with a single digit Savings Rate. 
+“Buy vs. Rent” is a bullshit question because the thinking is too narrow. I reject the premise. Do not limit your options to one of two choices presented to you by a nation with a single digit Savings Rate. 
 
 Conventional wisdom says that “renting is throwing money away, so buying is better.” But it's not that simple. Paula Pant of AffordAnything.com has a great article comparing the financial differences between buying and renting in detail (linked in the bonus report). When deciding between buying and renting, you need to consider the opportunity cost of:
 having a lot of cash tied up in a down payment, which greatly reducing your Runway,
