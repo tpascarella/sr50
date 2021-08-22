@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Everything Else
+# "Everything Else"
 
 ## For the Most Part, You Can Keep These
 
