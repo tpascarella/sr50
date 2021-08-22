@@ -43,7 +43,10 @@ The most important thing money can buy is freedom. Freedom to live where you wan
 
 But this freedom only comes from having a stable cash flow situation, and enough Runway to give you time to pursue opportunities as desired.
 
-Think of it this way, which would be more useful to you? 
+Think of it this way, 
+
+### Which would be more useful to you? 
+
 - A million dollars in a 401K that you can’t touch for the next 40 years 
 - 10 grand deposited into your checking account every single month starting right now?
 
