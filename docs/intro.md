@@ -52,4 +52,6 @@ Think of it this way,
 
 I like option 2.
 
+That is what the SR50 Method will be trying to achieve.
+
 >Increase Your Savings Rate
