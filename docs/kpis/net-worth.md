@@ -20,4 +20,8 @@ Well, obviously.
 
 ![Net Worth Formula](/img/net-worth-calculation-dark.svg)
 
+## Takeaway
+
+Net Worth is incredibly overblown in personal finance. It is a distant third compared to [Savings Rate](savings-rate.md) and [Runway](runway.md), and you should not overestimate it's importance.
+
 >Increase Your Savings Rate
