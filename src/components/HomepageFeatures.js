@@ -19,7 +19,7 @@ const FeatureList = [
     /* Svg: require('../../static/img/search_white_18dp.svg').default, */
     description: (
       <>
-        Every financial advisor in the country is an insurance salesman posing as a financial advisor, which you can verify by checking the job listings on LinkedIn.
+        Every financial advisor in the country is an insurance salesman posing as a financial advisor. Everything we teach is made freely available to the public.
       </>
     ),
   },
