@@ -9,7 +9,7 @@ const FeatureList = [
     /* Svg: require('../../static/img/public_white_18dp.svg').default, */
     description: (
       <>
-        SR50 is open source, meaning we get contributions on how to improve the method from people all over the world. We are constantly refining the method to deliver the most efficient personal financial method in existence, and it's only getting better.
+        SR50 is open source. We are constantly refining the method to deliver the most efficient personal financial method in existence.
       </>
     ),
   },
@@ -19,7 +19,7 @@ const FeatureList = [
     /* Svg: require('../../static/img/search_white_18dp.svg').default, */
     description: (
       <>
-        We are completely transparent about how we make money, what we teach, and why. Every financial advisor in the country is an insurance salesman posing as a financial advisor, which you can verify by checking the job listings on LinkedIn.
+        Every financial advisor in the country is an insurance salesman posing as a financial advisor, which you can verify by checking the job listings on LinkedIn.
       </>
     ),
   },
@@ -29,7 +29,7 @@ const FeatureList = [
     /* Svg: require('../../static/img/lock_white_18dp.svg').default, */
     description: (
       <>
-        Modern finance apps force you to give them your personal login information in order to provide value. We collect zero data from users. You're not our "client", you don't need to work with us. 
+        Modern finance apps force you to give them your personal login information in order to provide value. We collect zero data from users.  
       </>
     ),
   },
