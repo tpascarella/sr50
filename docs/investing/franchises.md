@@ -18,4 +18,8 @@ Franchises are opportunities to purchase an existing business that you own and o
 
 * Significantly more expensive to get started, sometimes you need a personal net worth in excess of a million dollars.
 
+## Resources
+
+The Franchise Bible is currently the best book I have read on franchise investing. We are still in the process of finding the best web resource, and will add it once we do.
+
 >Increase Your Savings Rate
