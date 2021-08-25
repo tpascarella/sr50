@@ -8,7 +8,7 @@ sidebar_position: 1
 
 Wealth has 8 different stages. Every single human being on Earth, from abject third world poverty up to Jeff Bezos, fall along this spectrum.
 
-## Cash Flow Is Most Important
+## Cash Flow Is Everything
 
 Each stage is calculated by your cash flow at each stage.
 
