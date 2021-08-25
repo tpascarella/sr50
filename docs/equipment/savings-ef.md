@@ -18,4 +18,10 @@ For the crypto savvy, store it in USD Coin.
 
 Reports vary, but generally people recommend a minimum of 3-6 months of expenses, but some say as much as a full year. Honestly whatever dollar amount can make you sleep soundly at night is good enough. If that's $5000, it's $5000. If its $30,000, it's $30,000. Its up to you.
 
+## A Good Starting Template
+
+I recommend keeping $10,000 in savings for every adult you are responsible for, and $5,000 for every child you are responsible. You can include all of your pets as one child in this example.
+
+So for a set of parents with 3 children that are dependent on them, a $25,000 emergency fund should be your starting target. You can always adjust up or down.
+
 >Increase Your Savings Rate
