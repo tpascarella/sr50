@@ -77,7 +77,7 @@ module.exports = {
         },
         */
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Thomas Pascarella.`,
+      copyright: `© ${new Date().getFullYear()}. All Rights Reserved. Thomas Pascarella.`,
     },
     prism: {
       theme: lightCodeTheme,
