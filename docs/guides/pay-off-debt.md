@@ -22,7 +22,7 @@ One method of tacking credit card debt is the Debt Snowball, coined by Dave Rams
 
 The Debt Avalanche is another approach where the only difference is you list all of your debts highest to lowest, by interest rate. You pay off the highest interest rate one first and then move down to the smaller debts.
 
-### Go For the Snowball Approach
+## Use the Snowball
 
 The quick wins aspect of the Debt Snowball make it the superior debt paydown strategy.
 
