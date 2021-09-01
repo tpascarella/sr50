@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # A Legacy Binder
 
 A Legacy Binder is the fancy term for all of the documents you will need to be passed to your loved ones after you pass.
