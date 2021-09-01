@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Stage 4
 
-## Passive Income > Survival Expenses (Lean FI)
+## Lean FI - Passive Income > Survival Expenses 
 
 Stage Four (Lean FI as it’s known) happens once passive income can cover your barebones survival expenses. Barebones survival expenses include:
 - shelter, 

@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Stage 1
 
-## Active Income ≈ Lifestyle
+## Active Income > Lifestyle
 
 Stage One happens when someone’s active income can roughly cover their lifestyle expenses. However at Stage One, your Savings Rate is still zero, and as a result you are not extending your Runway. You likely have little or no Runway to begin with. People at Stage One are trapped in the endless cycle of: earn money, spend everything, go back to work, and repeat.
 

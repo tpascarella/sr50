@@ -4,7 +4,7 @@ sidebar_position: 7
 
 # Stage 5
 
-## Passive Income > Lifestyle Expenses (Regular FI)
+## Regular FI - Passive Income > Lifestyle Expenses 
 
 Stage Five (known as Regular FI) happens once passive income exceeds a desired lifestyle. Here, you can include the weekly movie dates with friends, all the subscription services your heart desires, the newest iPhone every year, your gym membership, and so on.
 
