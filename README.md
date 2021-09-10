@@ -1,1 +1,1 @@
-SR50 is an open source compilation of all the best personal finance information on Google.
+SR50 is an open source compilation of all the best personal finance information on the internet.
