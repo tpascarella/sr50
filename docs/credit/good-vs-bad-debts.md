@@ -1,3 +1,7 @@
+---
+sidebar_position: 5
+---
+
 # "Good Debts" vs "Bad Debts"
 
 ## "Good Debts"
