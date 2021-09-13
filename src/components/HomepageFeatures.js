@@ -9,7 +9,7 @@ const FeatureList = [
     /* Svg: require('../../static/img/public_white_18dp.svg').default, */
     description: (
       <>
-        SR50 is open source, meaning we get contributions from people all over the world.
+        SR50 is open source, meaning anyone in the world can contribute to the site.
       </>
     ),
   },
