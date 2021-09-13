@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# KPIs Overview
+# Financial KPIs Overview
 
 As with any objective, there are  metrics that you use to determine how well you are doing, personal finance is no different.
 
