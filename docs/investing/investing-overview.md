@@ -22,4 +22,8 @@ Real Estate means buying land/buildings attached to it, to utilize for commercia
 
 Stocks are ownership stakes in existing companies, and bonds are a fixed income isntrument with guaranteed repayment. You should only invest in these through index funds, which is explained in the stocks/bonds section. The return is not particularly high, and they don't offer much cash flow, but the investing requires zero time or effort from you. 
 
+## [Human Capital](human-capital.md) (High Effort - High Return)
+
+Your Human Capital is the sum total of all your knowledge, experience and abilities you have to offer in a competitive job market. This is the highest leverage investment you can make.
+
 >Increase Your Savings Rate
