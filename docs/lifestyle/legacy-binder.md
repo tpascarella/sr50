@@ -16,7 +16,7 @@ While this might not reduce the *emotional drama* of your passing, having a lega
 
 ## When Should I Fill This Out?
 
-Sooner rather than later. 
+Sooner rather than later. It is important, but not urgent so don't let it fall through the cracks.
 
 ## Where Should I Keep This?
 
