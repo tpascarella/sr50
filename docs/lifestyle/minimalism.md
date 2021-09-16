@@ -39,8 +39,10 @@ My favorite example for this point is headphones. A $1500 pair of headphones is 
 
 ## Treasure Hunting
 
-Now, once you have decided you want to buy something, what's the best way to go about buying it? I recommend treasure hunting.
+Now, once you have decided you want to buy something, what's the best way to go about buying it? I recommend *treasure hunting*.
 
 You scour ebay, craigslist, facebook marketplaces, and various other places until you find the thing you want at significantly lower cost. Paying retail is for suckers. You'll also like the item far more if you spent half as much as the other plebs.
+
+Don't buy things at the first moment you want them. Spend some time thinking about what you are going to use this for, how it will work with the other items you have, and whether you really need it. If after careful consideration you decide it's worth it, then go for it.
 
 >Increase Your Savings Rate
