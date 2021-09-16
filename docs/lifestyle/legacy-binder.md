@@ -10,7 +10,7 @@ A Legacy Binder is the fancy term for all of the documents you will need to be p
 
 While this might not reduce the *emotional drama* of your passing, having a legacy binder can greatly reduce the *legal drama* of your passing. 
 
-## Where do I Get One?
+## Where Can I Get One?
 
 [Here](https://www.epicsavers.world/our-resources/our-binders/).
 
