@@ -30,7 +30,7 @@ Food is the 3rd largest expense category, taking up 16% of average spending. Thi
 
 The spending breakdowns earlier represent your *after-tax take home pay*, which leaves out taxes as an expense category. However, taxes usually account for 1/3rd of your salary, so in this section we will cover ways to reduce your tax liability as quickly and efficiently as we can.
 
-## Main Takeaway
+## Takeaway
 
 Housing, Transportation, and Food take up 62% of the average American spending. 
 

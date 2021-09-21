@@ -26,8 +26,8 @@ We are specifically competing with these *established financial advisor firms* b
 
 ## SR50 is Open Source
 
-In an era where Google exists, you can't expect to succeed hiding information behind a paywall. We open source everything we teach, and get contributions from people all over the world. The result is that the SR50 method will only get better and more powerful as time goes on and more people contribute.
+In an era where Google exists, you can't expect to succeed hiding information behind a paywall. We open source everything we teach, and get contributions from people all over the world. The result is that the SR50 method will only get better and more powerful as time goes on and more people contribute. It is a disgrace these people call themselves "financial advisors". They are frauds, and we are going to beat them.
 
-It is a disgrace these people call themselves "financial advisors". They are frauds, and we are going to beat them.
+If you want to contribute to SR50, go to the [contributing](contributions.md) page or go directly to our [GitHub](https://github.com/tpascarella/sr50)) repo.
 
 >Increase Your Savings Rate

@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Intro
 
-## *Everything* is About Getting Your Time Back 
+## Everything is About Getting Your Time Back 
 
 Time is the only resource you can never buy more of. 
 
@@ -45,7 +45,7 @@ But this freedom only comes from having a stable cash flow situation, and enough
 
 Think of it this way, 
 
-### Which would be more useful to you? 
+**Which would be more useful to you?** 
 
 - A million dollars in a 401K that you can’t touch for the next 40 years 
 - 10 grand deposited into your checking account every single month starting right now?
