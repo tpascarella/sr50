@@ -36,14 +36,14 @@ Postmates
 Turo
 Give one of them a try until you make at least $500. After that, if you want to continue, great! If not, move on to another.
 
-## Taxes
+## Tax Optimization
 
 Business travel expenses can be deducted on your taxes, but commuting expenses cannot. The difference is that commuting expenses take place before you start working, while business expenses occur during working hours. For calculating business miles, download MileIQ on your phone and classify your business trips, and the app will give you the form to deduct them on your taxes.
 
-## Self Driving
+## Self Driving Software
 
 Cars are one of the most common places that human beings die. So, if you can't afford a Tesla yet, see if your car is compatible with an Openpilot compatible device from Comma AI. If Tesla is the iOS of self driving, Comma AI is the Android. See if your car is compatible with their hardware [here](https://comma.ai/vehicles). 
 
-I also receive no commission from Comma AI, (they have no idea I exist, as far as I know) but I personally updated my car after only owning my previous one for 4 months *just* to be able to use their stuff. It's really that good, and they just released their [next generation of hardware](https://comma.ai/shop/products/three).
+I personally updated my car after only owning my previous one for 4 months *just* to be able to use their stuff. It's really that good, and they just released their [next generation of hardware](https://comma.ai/shop/products/three).
 
 >Increase Your Savings Rate
