@@ -57,12 +57,10 @@ module.exports = {
               label: 'Founder',
               href: 'https://tpascarella.github.io'
             },
-            /*
             {
               label: 'GitHub',
-              href: 'https://github.com/tpascarella',
+              href: 'https://github.com/tpascarella/sr50',
             },
-            */
           ],
         },
         /*
@@ -77,7 +75,7 @@ module.exports = {
         },
         */
       ],
-      copyright: `© ${new Date().getFullYear()}. All Rights Reserved. Thomas Pascarella.`,
+      copyright: `© ${new Date().getFullYear()}. SR50`,
     },
     prism: {
       theme: lightCodeTheme,
