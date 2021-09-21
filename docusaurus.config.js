@@ -75,7 +75,7 @@ module.exports = {
         },
         */
       ],
-      copyright: `© ${new Date().getFullYear()}. SR50`,
+      copyright: `© ${new Date().getFullYear()} SR50`,
     },
     prism: {
       theme: lightCodeTheme,
