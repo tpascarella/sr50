@@ -29,7 +29,7 @@ const FeatureList = [
     /* Svg: require('../../static/img/lock_white_18dp.svg').default, */
     description: (
       <>
-        We collect zero data from users.  
+        We collect zero personal data from users.  
       </>
     ),
   },
