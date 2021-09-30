@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Intro
 
-## "Work 'til You're 65" is Terrible Advice
+## "Work 'til You're 65" Doesn't Exist Anymore
 
 Your parents' advice of "Get a job, put money in retirement accounts, and work that job until you're 65" is horrible advice. You have no money at all during the best years of your life and wait like a good little cog until 65 for your big payday?
 
