@@ -6,7 +6,7 @@ sidebar_position: 4
 
 Formal education is becoming less and less valuable as time goes on.
 
-![The value of formal education](/img/education-meme.jpeg)
+![The value of formal education](/img/education-meme.svg)
 
 If you are going to pay a significant amount for an advanced degree, you better do your homework and make sure you can make enough money with that degree to justify your efforts.
 

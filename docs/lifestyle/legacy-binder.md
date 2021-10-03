@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # A Legacy Binder
 
-![Ron Swanson Will](/img/rs-will.jpeg)
+![Ron Swanson Will](/img/rs-will.svg)
 
 A Legacy Binder is the fancy term for all of the documents you will need to be passed to your loved ones after you pass.
 
