@@ -37,12 +37,18 @@ Most people obsess over owning the latest and greatest of everything. The minima
 
 My favorite example for this point is headphones. A $1500 pair of headphones is not 10X better than a $150 pair of headphones, it might be just 10% better.
 
-## "Treasure Hunting"
+## Treasure Hunting
 
 Now, once you have decided you want to buy something, what's the best way to go about buying it? I recommend *treasure hunting*.
 
 You scour ebay, craigslist, facebook marketplaces, and various other places until you find the thing you want at significantly lower cost. Paying retail is for suckers. You'll also like the item far more if you spent half as much as the other plebs.
 
 Don't buy things at the first moment you want them. Spend some time thinking about what you are going to use this for, how it will work with the other items you have, and whether you really need it. If after careful consideration you decide it's worth it, then go for it.
+
+## Military Resupply
+
+I want you to treat shopping like a military resupply. Settle on a time frame between purchases (Once a month, once a quarter) and then do some real research into the things you want to buy. Really evaluate how you will use it on a daily basis and whether the price is worth the expected value.
+
+If you won't use it every day, be very skeptical about investing heavily into it.
 
 >Increase Your Savings Rate
