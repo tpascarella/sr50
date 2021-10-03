@@ -26,4 +26,6 @@ Services like [SoFi](https://www.sofi.com/refinance-student-loan/) can refinance
 
 First thing, you better make sure you're majoring in something that can make you some money. Use common sense here, a computer science degree will pay far more than a theater degree. Do an hour of research beforehand on the highest paying majors, and pick one you are reasonably interested in. If you don't have a passion for it yet, that's ok. We'll cover that in the work chapter. Lastly, state schools offer pretty much as good a quality education as the Ivy Leagues, at significantly lower cost, so the fancy name isn't worth the extra expense. 
 
+Google the highest paying majors, and get one of those.
+
 >Increase Your Savings Rate
