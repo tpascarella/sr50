@@ -25,6 +25,8 @@ If you have no choice but to have a long commute, at the very least don’t wast
 
 Or, if you're really smart, you can transport yourself for free by biking. A good bike has become the new status symbol for Financial Independence. You can DIY mountain bikes with a motor and a Tesla battery, and these things can go over 40 miles an hour, they’re awesome! Just don’t tell my Madre, she worries.
 
+[Here is a good article explaining how to DIY an electric mountain bike. Complete with a Tesla battery!](https://www.mrmoneymustache.com/2016/05/25/recipe-for-a-badass-diy-electric-mountain-bike/)
+
 ## Side Hustles
 
 With the car you currently do have, and if you aren't willing to downgrade, at least use it to make some extra money. There are lots of ways you can make a decent amount of cash with your car, including:
