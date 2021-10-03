@@ -20,7 +20,9 @@ This is just one more example of why Net Worth pales in significance to Savings 
 
 ## Recommendations
 
-Services like [SoFi](https://www.sofi.com/refinance-student-loan/) can refinance your loan down to the minimum monthly payment, which in turn will have the smallest impact on your Savings Rate.
+Online services can refinance your loan down to the minimum monthly payment, which in turn will have the smallest impact on your Savings Rate.
+
+[Student Loan Hero has a great comparison tool for different companies.](https://studentloanhero.com/featured/5-banks-to-refinance-your-student-loans/) Check it out.
 
 ## "But What If I Need to go Back to School?"
 

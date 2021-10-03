@@ -12,4 +12,8 @@ sidebar_position: 5
 
 "Bad" debts include high interest debt from things like credit cards, subprime car loans, payday loans, or any personal loans to friends or family. These debts do you absolutely no good, so get rid of them as fast as you can.
 
+## Takeaway
+
+Not all debts need to be eliminated from your financial position immediately. Bad debts should be cleared as fast as possible. Good debts can be tactfully acquired if it increases your Savings Rate and Income.
+
 >Increase Your Savings Rate
