@@ -57,4 +57,8 @@ I want you to treat shopping like a military resupply. Settle on a time frame be
 
 If you won't use it every day, be very skeptical about investing heavily into it.
 
+## Everything Has a Purpose
+
+Before you consider buying anything new, see if you can find new uses for the items you currently have, if they’re just sitting idle. Everything should have a purpose. 
+
 >Increase Your Savings Rate
