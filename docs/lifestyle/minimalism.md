@@ -43,6 +43,14 @@ Most people obsess over owning the latest and greatest of everything. The minima
 
 My favorite example for this point is headphones. A $1500 pair of headphones is not 10X better than a $150 pair of headphones, it might be just 10% better.
 
+## Buy Used
+
+It’s also healthy to rid yourself of the idea that everything needs to be perfect and beautiful. 
+
+The Japanese have a concept called Kintsugi where they use gold to repair broken items, and view imperfections as unique additions to an item’s story.
+
+You can buy perfectly good items used, for way less than buying new at retail.
+
 ## Treasure Hunting
 
 Now, once you have decided you want to buy something, what's the best way to go about buying it? I recommend *treasure hunting*.
