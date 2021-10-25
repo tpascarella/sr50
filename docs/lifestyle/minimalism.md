@@ -28,9 +28,6 @@ Check out the following two Ted Talks by The Minimalists, Ryan Nicodemus and Jos
 
 That is a great ROI!
 
-<iframe width="655" height="368" src="https://www.youtube.com/embed/w7rewjFNiys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="655" height="368" src="https://www.youtube.com/embed/GgBpyNsS-jU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Decluttering
 
 A good exercise to get started is a 30 day detox. Find someone to participate with you and do the following for 30 days.
@@ -47,7 +44,7 @@ My favorite example for this point is headphones. A $1500 pair of headphones is 
 
 It’s also healthy to rid yourself of the idea that everything needs to be perfect and beautiful. 
 
-The Japanese have a concept called Kintsugi where they use gold to repair broken items, and view imperfections as unique additions to an item’s story.
+The Japanese have a concept called Wabi-Sabi where they use gold to repair broken items, and view imperfections as unique additions to an item’s story, because this most accurately represents the rough and imperfect nature of the natural universe.
 
 You can buy perfectly good items used, for way less than buying new at retail.
 
@@ -68,5 +65,11 @@ If you won't use it every day, be very skeptical about investing heavily into it
 ## Everything Has a Purpose
 
 Before you consider buying anything new, see if you can find new uses for the items you currently have, if they’re just sitting idle. Everything should have a purpose. 
+
+## Recommended Videos
+
+<iframe width="1424" height="567" src="https://www.youtube.com/embed/JHcGmiZqKXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="655" height="368" src="https://www.youtube.com/embed/w7rewjFNiys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="655" height="368" src="https://www.youtube.com/embed/GgBpyNsS-jU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 >Increase Your Savings Rate
