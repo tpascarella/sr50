@@ -14,6 +14,12 @@ It is about living simply, with as few possessions as needed to live a maximally
 
 >"There's only so much money a man really needs, the rest is just for showing off" -Forrest Gump
 
+## "I can't be a minimalist, I love shopping!"
+
+People say they don’t want to become a minimalist because they enjoy shopping. Well, you will still be shopping as a minimalist, because you need to bring resources and supplies into your life to continue existing (food, clothing, the things you used to do your job, your appearance) literally everything is inventory management.
+
+But as a minimalist, you buy more useful items, that are higher quality, at way better prices, because you took the time to research it. In every aspect of the game, you become a *better shopper.* And if you genuinely enjoy shopping, imagine how much you will enjoy it once you actually *get good.*
+
 ## ROI
 
 One of the big benefits of minimalism is that it builds very healthy and efficient spending habits. It isn't about living with a limited number of possessions, just restricting the things you own to the most important and valuable. 
