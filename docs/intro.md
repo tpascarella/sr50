@@ -6,11 +6,13 @@ sidebar_position: 1
 
 ## "Work 'til You're 65" Doesn't Exist Anymore
 
-Your parents' advice of "Get a job, put money in retirement accounts, and work that job until you're 65" is horrible advice. You have no money at all during the best years of your life and wait like a good little cog until 65 for your big payday?
+Your parents' advice of "Get a job, put money in retirement accounts, and work that job until you're 65" is horrible advice. They lived in an era where an undergraduate degree was enough to get you a good job at a good company and you can be reasonably sure you have job security for the rest of your life if you want it. That is not the world we are coming up in.
 
 ![Age](/img/age-meme.svg)
 
-In an era where Google exists, we are certainly capable of creating a financial plan that can serve us much better, much faster.
+We are coming up in an era where you will have multiple types of jobs, in multiple industries, with automation breathing down your neck. The financial advice that might have worked for your grandparents, is no longer relevant.
+
+In an era where Google exists, we are certainly capable of creating a financial plan that can serve us much better, much faster. SR50 is the result.
 
 ## Everything is About Getting Your Time Back 
 
