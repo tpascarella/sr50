@@ -4,7 +4,7 @@ sidebar_position: 12
 
 # Contributing
 
-SR50 is open source so you can add contribute material to the site.
+SR50 is open source so you can make this site better!
 
 ## Getting Started
 
