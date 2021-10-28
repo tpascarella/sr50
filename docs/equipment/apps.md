@@ -4,28 +4,34 @@ sidebar_position: 4
 
 # Apps
 
-## Credit Karma
-
-Credit Karma is my favorite app to keep track of my credit score, it has officially surpassed Mint in that category. It shows you your most up to date credit score, from both Equifax and TransUnion. It can also show you ways to possibly refinance loans for your house and car, which will increase your savings rate.
+These are the apps you should have on your phone.
 
 ## Your Checking Account App
 
 Any good checking account will come with an app. Download it. You probably have by now.
 
-## All Credit Card Company Apps
+## Credit Card Company Apps
 
-Every credit card you can get will have an app of some kind. Downlaod it. You probably have by now.
+Every credit card you can get will have an app of some kind. Download the app for each one.
 
 ## Mint
 
-While this app isn't as useful as it has been in the past, it is still worth a download. Mint will compile all of your acounts onto one screen, which makes things really easy.
+While Mint isn't as useful as it has been in the past, it is still worth a download. Mint will compile all of your acounts onto one screen, which makes tracking all of them really simple.
+
+## Credit Karma
+
+Credit Karma is my favorite app to keep track of my credit score, it has officially surpassed Mint in that category. It shows you your most up to date credit score, from both Equifax and TransUnion. It can also show you offers to refinance loans for your house and car if that would be of benefit to you, which in turn will increase your savings rate.
+
+## AwardWallet
+
+AwardWallet is where you will store and track all of your travel rewards and points. It also lets you know when they are about to expire.
 
 ## Coinbase
 
 For the crypto savvy. I keep my Emergency Fund in USD Coin.
 
-## Venmo 
+## A Cash Transferring App 
 
-My favorite cash transferring app. I like it more than Cash App.
+My personal favorite is Venmo, but whatever you use is fine.
 
 >Increase Your Savings Rate
