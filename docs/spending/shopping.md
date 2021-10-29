@@ -4,7 +4,7 @@ sidebar_position: 8
 
 # Shopping
 
-I want you to think of shopping as a scheduled military resupply.
+Shopping is not a bad thing, per se. *Compulsive* shopping, however, is. So you need to be intentional with your purchasing decisions, especially when you are just starting out. I want you to think of shopping as a scheduled military resupply.
 
 Take inventory of what you have, what you actually need, and supplement it with some wants as you figure out how much everything will cost. And then, after you've done the math, buy everything you need once a month, or quarter. Then you don't buy anything until the next resupply. 
 
