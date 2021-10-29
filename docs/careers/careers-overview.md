@@ -10,7 +10,7 @@ In this section we will go over different tactics to build a great career, that 
 
 Cal Newport has a great book detailing how to build a career you love. Work satisfaction is an incredibly well researched field, and the TLDR is that you need to develop a rare and valuable skillset, and that gives you the leverage to command rare and valuable work traits in return. 
 
-## Futureproofing
+## [Futureproofing](futureproofing.md)
 
 You need to think about the long term viability of your career. Automation will replace the cognitive output of 110-140 million full time knowledge workers by 2025, so you need to plan for this now.
 
