@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Minimalism
 
-## Minimalism Philosophy
+## Philosophy
 
 Minimalism is not about owning a specific number of items, or living like a hermit.
 
@@ -58,17 +58,17 @@ Don't buy things at the first moment you want them. Spend some time thinking abo
 
 ## Military Resupply
 
-I want you to treat shopping like a military resupply. Settle on a time frame between purchases (Once a month, once a quarter) and then do some real research into the things you want to buy. Really evaluate how you will use it on a daily basis and whether the price is worth the expected value.
+As mentioned in the shopping section, I want you to treat purchasing like a military resupply. Settle on a time frame between purchases (Once a month, once a quarter) and then do some real research into the things you want to buy. Really evaluate how you will use it on a daily basis and whether the price is worth the expected value.
 
 If you won't use it every day, be very skeptical about investing heavily into it.
 
-## Everything Has a Purpose
+## Everything Should Have a Purpose
 
-Before you consider buying anything new, see if you can find new uses for the items you currently have, if they’re just sitting idle. Everything should have a purpose. 
+Everything you own should have some kind of purpose. You don't need to use it every day, but there should be a reason you keep it around. If something is just sitting idle, see if you can find a new use for it.
 
 ## Recommended Videos
 
-<iframe width="1424" height="567" src="https://www.youtube.com/embed/JHcGmiZqKXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="655" height="368" src="https://www.youtube.com/embed/JHcGmiZqKXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="655" height="368" src="https://www.youtube.com/embed/w7rewjFNiys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="655" height="368" src="https://www.youtube.com/embed/GgBpyNsS-jU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
