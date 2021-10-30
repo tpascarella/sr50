@@ -58,6 +58,8 @@ Don't buy things at the first moment you want them. Spend some time thinking abo
 
 ## Military Resupply
 
+A surprisingly fun part of being a minimalist is that you are incredibly efficient at resource management. Everything has a purpose, nothing goes to waste, you run very lean, and your possessions take up as little space as necessary.
+
 As mentioned in the shopping section, I want you to treat purchasing like a military resupply. Settle on a time frame between purchases (Once a month, once a quarter) and then do some real research into the things you want to buy. Really evaluate how you will use it on a daily basis and whether the price is worth the expected value.
 
 If you won't use it every day, be very skeptical about investing heavily into it.
@@ -66,6 +68,9 @@ If you won't use it every day, be very skeptical about investing heavily into it
 
 Everything you own should have some kind of purpose. You don't need to use it every day, but there should be a reason you keep it around. If something is just sitting idle, see if you can find a new use for it.
 
+### "Should I keep the boxes?"
+
+A common question is whether you should hold on to the boxes that things came in. I would say, if they are the best option you have for safe transportation of items (should you need to move) then that is a legitimate purpose and you can keep them. If the only function they have is as a display on your shelf, I don't think it's worth the space.
 ## Recommended Videos
 
 <iframe width="655" height="368" src="https://www.youtube.com/embed/JHcGmiZqKXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
