@@ -1,7 +1,6 @@
 ---
-sidebar_position: 12
+sidebar_position: 14
 ---
-
 # Contributing
 
 SR50 is open source so you can make this site better!
