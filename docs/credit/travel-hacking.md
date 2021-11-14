@@ -16,4 +16,6 @@ You should never use credit irresponsibly to collect the points, but tactfully u
 
 [Award Wallet](https://awardwallet.com/api/main) is kind of like Mint, in that it compiles all of your rewards onto one place and keeps everything organized. It also lets you know when your points are about to expire, which is good to make sure you don't lose anything by mistake!
 
+Be sure to use the desktop version of AwardWallet, however. Their iPhone app is infuriating.
+
 >Increase Your Savings Rate
