@@ -10,6 +10,8 @@ Your Human Capital is the sum total of your knowledge, skills, and abilities you
 
 Deep Work is how you are able to learn hard things quickly. This requires distraction free concentration on a cognitively demanding task. Pushing on the current capacity of your abilities is the only thing that will force you to improve. It's the cognitive equivalent of Starting Strength.
 
+[This article](https://blog.doist.com/deep-work/) is a great introduction to the concepts, as well as a cliffnotes version of the training regimen.
+
 ### Advantages
 
 - Offers the highest ROI of any type of investment.
