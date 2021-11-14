@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Intro
 
-## "Work 'til You're 65" Doesn't Exist Anymore
+## "Work 'til You're 65" Does Not Apply Anymore
 
 Your parents' advice of "Get a job, put money in retirement accounts, and work that job until you're 65" is horrible advice. They lived in an era where an undergraduate degree was enough to get you a good job at a good company and you can be reasonably sure you have job security for the rest of your life if you want it. That is not the world we are coming up in.
 

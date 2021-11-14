@@ -42,7 +42,7 @@ Give one of them a try until you make at least $500. After that, if you want to 
 
 Business travel expenses can be deducted on your taxes, but commuting expenses cannot. The difference is that commuting expenses take place before you start working, while business expenses occur during working hours. For calculating business miles, download MileIQ on your phone and classify your business trips, and the app will give you the form to deduct them on your taxes.
 
-## Self Driving Software
+## Self Driving
 
 Cars are one of the most common places that human beings die. So, if you can't afford a Tesla yet, see if your car is compatible with an Openpilot compatible device from Comma AI. If Tesla is the iOS of self driving, Comma AI is the Android. See if your car is compatible with their hardware [here](https://comma.ai/vehicles). 
 
