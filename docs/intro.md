@@ -62,6 +62,6 @@ Think of it this way,
 
 I like option 2.
 
-That is what the SR50 Method will be trying to achieve.
+Take as high of a percentage of dollars that you can, invest it aggressively but not irresponsibly, until you build up enough passive income so that the financial freedom equation is satisfied.
 
 >Increase Your Savings Rate
