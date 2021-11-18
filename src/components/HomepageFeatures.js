@@ -9,7 +9,7 @@ const FeatureList = [
     /* Svg: require('../../static/img/public_white_18dp.svg').default, */
     description: (
       <>
-        SR50 is open source, meaning anyone in the world can contribute to the site.
+        The SR50 method is open source, meaning anyone in the world can contribute to the site.
       </>
     ),
   },
@@ -29,7 +29,7 @@ const FeatureList = [
     /* Svg: require('../../static/img/lock_white_18dp.svg').default, */
     description: (
       <>
-        We collect zero personal data from users.  
+        We collect zero personal data from users, you do not need to create an account or sign up.  
       </>
     ),
   },
