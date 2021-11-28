@@ -12,7 +12,11 @@ A savings account is where you keep your liquid reserves. What people call "emer
 
 You also have the option of keeping your money in a money market account at financial brokerage institutions, such as Fidelity and Schwab. These are fine options as well.
 
-For the crypto savvy, store it in USD Coin.
+## Crypto
+
+If you're up for the volatility that the crypto market offers, keeping your Emergency Savings in *stable, established coins with a strong track record and are proven to not be scams* can yield the highest return for your months of Runway.
+
+I store my emergency fund in Etherium on a cold wallet.
 
 ## How Much to Keep There
 
