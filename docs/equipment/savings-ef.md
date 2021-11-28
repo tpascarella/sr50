@@ -18,9 +18,19 @@ If you're up for the volatility that the crypto market offers, keeping your Emer
 
 I store my emergency fund in Etherium on a cold wallet.
 
+## VTSAX
+
+Index funds are a less aggressive approach, and will still likely yield higher returns than USD Coin, or definitely a savings account at a financial institution.
+
+## Savings Account / Money Market / USD Coin
+
+You're being taxed by inflation.
+
 ## How Much to Keep There
 
-Reports vary, but generally people recommend a minimum of 3-6 months of expenses, but some say as much as a full year. Honestly whatever dollar amount can make you sleep soundly at night is good enough. If that's $5000, it's $5000. If its $30,000, it's $30,000. Its up to you.
+Reports vary, but generally people recommend a minimum of 3-6 months of expenses, but some say as much as a full year. 
+
+Honestly whatever dollar amount can make you sleep soundly at night is good enough. If that's $5000, it's $5000. If its $30,000, it's $30,000. Your pick.
 
 ## A Good Starting Template
 
