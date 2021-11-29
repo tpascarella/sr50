@@ -6,23 +6,21 @@ sidebar_position: 2
 
 ## Look At Their Job Listings
 
-Nearly every financial advisor in America is just an insurance salesman posing as a financial advisor.
+Nearly every financial advisor in America is just an insurance salesman posing as a financial advisor, which I discovered as I was looking at financial advisor jobs after I graduated from college. 
 
-I realized this personally as I was looking at financial advisor jobs after I graduated from college. All of them are commission based, and those commissions come from selling either unnecessary and bloated insurance packages, or criminally overpriced mutual funds. They offer nothing you can't easily do yourself after an hour of research on Google.
+All of these positions are commission based, and those commissions come from selling either unnecessary and bloated insurance packages, or criminally overpriced mutual funds. They offer nothing you can't easily do yourself after an hour of research on Google. 
 
-Check the [job listings](https://www.indeed.com/q-Financial-Advisor-jobs.html?vjk=179876bfb2533373) yourself and see! You will find all of the compensation packages are commission based, and those commissions come from selling insurance and shitty investment products. 
+They try to hide this fact by using fancy marketing code, but the financial incentive for these professionals are to sell you as much insurance and investment products as they can.
 
-They hide that fact by using fancy marketing code, but all of the economic incentives for them are to sell as much insurance and crappy investment products as possible. It would be great if it was just a matter of "doing what's best for the client" but you can't expect people to not operate by personal incentive.
+[Here are the Linkedin postings if you want to verify.](https://www.linkedin.com/jobs/financial-advisor-jobs/)
 
-![Financial advisor listings](/img/financial-advisor-listings-dark.svg)
-
-There is a very clear divide between what a financial advisor *should be* in theory, and the actual logistics of the profession. Don't be swindled by insurance salesmen!
+There is an obvious divide between what a financial advisor *should be* in theory, and the actual logistics of the profession.
 
 ## They are (Almost) Completely Unnecessary
 
-Barring some very complicated tax situations, or estate planning, you don't need a financial advisor. The *math* of Financial Independence is sixth grade level. You don't need to pay someone else thousands of dollars to tell you that you should spend less than you earn, and invest for the future.
+Barring complicated tax situations, or estate planning, you don't need a financial advisor to reach Financial Independence and become wealthy. The *math* portion, is at a sixth grade level. 
 
-We are specifically competing with these *established financial advisor firms* by open sourcing everything we teach. We have taken the time and energy to compile all of the best information you can find on Google, and then give it away for free. 
+You don't need to pay someone else thousands of dollars to tell you that you should spend less than you earn, and invest for the future. We are specifically competing against these *established financial advisor firms* by open sourcing everything we teach. We have taken the time and energy to compile all of the best information you can find on Google, and then present it through this website. 
 
 ## SR50 is Open Source
 
