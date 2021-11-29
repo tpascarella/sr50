@@ -12,8 +12,6 @@ All of these positions are commission based, and those commissions come from sel
 
 They try to hide this fact by using fancy marketing code, but the financial incentive for these professionals are to sell you as much insurance and investment products as they can.
 
-[Here are the Linkedin postings if you want to verify.](https://www.linkedin.com/jobs/financial-advisor-jobs/)
-
 There is an obvious divide between what a financial advisor *should be* in theory, and the actual logistics of the profession.
 
 ## They are (Almost) Completely Unnecessary
