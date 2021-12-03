@@ -20,22 +20,28 @@ I store my emergency fund in Etherium on a cold wallet.
 
 ## VTSAX
 
-Index funds are a less aggressive approach, and will still likely yield higher returns than USD Coin, or definitely a savings account at a financial institution.
+Index funds are a less aggressive approach, and will still likely yield higher returns than USD Coin or a savings account at a financial institution.
 
 ## Savings Account / Money Market / USD Coin
 
-You're being taxed by inflation.
+You'll likely have to start with one of these options if you have fewer resources and less money. While you hold your money in these assets, you are being taxed by inflation, and therefore should migrate your money over time into higher leverage assets.
 
 ## How Much to Keep There
 
-Reports vary, but generally people recommend a minimum of 3-6 months of expenses, but some say as much as a full year. 
+Opinions vary, but generally people recommend a minimum of 3-6 months of expenses, but some say as much as a full year. 
 
 Honestly whatever dollar amount can make you sleep soundly at night is good enough. If that's $5000, it's $5000. If its $30,000, it's $30,000. Your pick.
 
-## A Good Starting Template
+## A Good Starter Template
 
-I recommend keeping $10,000 in savings for every adult you are responsible for, and $5,000 for every child you are responsible. You can include all of your pets as one child in this example.
+I recommend keeping $10,000 in savings for every adult you are responsible for, and $5,000 for every child you are responsible (at first!) You can include all of your pets as one child in this example.
 
-So for a set of parents with 3 children that are dependent on them, a $25,000 emergency fund should be your starting target. You can always adjust up or down.
+So for a set of parents with 3 children that are dependent on them, a $25,000 emergency fund should be your starting target. You will adjust this as time goes on but this is a nice quick answer.
+
+## Whittle Down Over Time
+
+[Our emergency fund is exactly $0.00](https://earlyretirementnow.com/2016/05/05/emergency-fund/) is a great article that explains the following process in detail.
+
+The term "emergency fund" just refers to the amount of cash you can get your hands on rapidly & without penalty. You should migrate at least portions of it to higher leverage assets as time goes on.
 
 >Increase Your Savings Rate
