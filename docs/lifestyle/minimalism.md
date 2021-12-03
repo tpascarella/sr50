@@ -60,9 +60,9 @@ Don't buy things at the first moment you want them. Spend some time thinking abo
 
 A surprisingly fun part of being a minimalist is that you are incredibly efficient at resource management. Everything has a purpose, nothing goes to waste, you run very lean, and your possessions take up as little space as necessary.
 
-As mentioned in the shopping section, I want you to treat purchasing like a military resupply. Settle on a time frame between purchases (Once a month, once a quarter) and then do some real research into the things you want to buy. Really evaluate how you will use it on a daily basis and whether the price is worth the expected value.
+As mentioned in the shopping section, I want you to treat purchasing like a military resupply. Settle on a time frame between purchases (Once a month, once a quarter) and then do some real research into the things you want to buy. Really evaluate how you will use it on a daily basis and whether the price is worth the expected value. If you won't use it every day, be very skeptical about investing heavily into it.
 
-If you won't use it every day, be very skeptical about investing heavily into it.
+Over time, ask if you can make a zero waste swap for these items before rebuying.
 
 ## Everything Should Have a Purpose
 
