@@ -17,4 +17,10 @@ There are a few things to keep in the back of your head when deciding to take a 
 
 A job you are considering doesn't need to have all of these qualities, but the more the better. At the very least you need to have an answer to these questions. The more Runway you have, the longer you can hold out for finding a job you really like at a company you really respect.
 
+## Make an Informed Decision
+
+Make a list of all the potential things you want to know about a new job, personal and professional. Then try to find an answer to 70% of the questions on that list.
+
+If you have 70% of the knowable information, make estimates for best case-worst case scenario. Compare and contrast to different jobs at different companies and then pick one. It should always be a step forward, even if slight.
+
 >Increase Your Savings Rate
