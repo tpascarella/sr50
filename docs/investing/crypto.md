@@ -19,4 +19,14 @@ Bitcoin and Ethereum are the 2 most important cryptocurrencies, and are essentia
 <iframe width="935" height="526" src="https://www.youtube.com/embed/G80Jq6ZwnOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="935" height="526" src="https://www.youtube.com/embed/EH6vE97qIP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Is It Too Late?
+
+No! 
+
+In the technology adoption curve, we are probably in the early adopter/early majority camp. We still have tremendous upside by investing in crypto. We are definitely paying higher valuations than people who bought Bitcoin when it was $5, but we have more educational resources and social validation that this is legit. 
+
+## Strategy
+
+The simplest Crypto strategy is to go 50/50 BTC/ETH, skewing to 75/25 in either direction depending on your risk tolerance. It is modeled after Benjamin Graham's portfolio from The Intelligent Investor.
+
 >Increase Your Savings Rate
