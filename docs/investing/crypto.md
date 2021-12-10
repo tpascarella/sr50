@@ -29,10 +29,8 @@ In the technology adoption curve, we are probably in the early adopter/early maj
 
 The simplest Crypto strategy is to go 50/50 BTC/ETH, skewing to 75/25 in either direction depending on your risk tolerance. It is modeled after Benjamin Graham's portfolio from The Intelligent Investor.
 
-# Putting My Money Where My Mouth Is
+## Putting My Money Where My Mouth Is
 
 I would never advise you to invest in something if I wouldn't also invest in it myself. [Here is my current Coinbase portfolio if you would like to verify.](https://www.coinbase.com/portfolio/1a111208-34ea-4a02-beef-3b7f6d3102d6?utm_source=share&utm_platform=iOS)
-
-If you are not already invested in crypto and would like to, use my [referral link](coinbase.com/join/pascar_0g?src=ios-link) and both of us will get $10 in Bitcoin. Not required, but I'd definitely appreciate it!
 
 >Increase Your Savings Rate
