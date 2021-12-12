@@ -4,19 +4,21 @@ sidebar_position: 2
 
 # Savings Rate
 
-## Importance of Savings Rate
+## Importance
 
 Savings Rate is the most important KPI in personal finance. 
 
-Savings Rate measures, how much of your available resources you are utilizing to get your time back as a percentage. Essentially, how fast you are progressing. 
+Savings Rate measures how much of your available resources you are utilizing to get your time back as a percentage. This tells you how *fast you are moving forward*. 
 
 ## Calculating Savings Rate
 
-Savings Rate is calculated by dividing how much money you are able to save or invest, by your after-tax take home pay. The higher your Savings Rate, the better.
+Savings Rate is calculated by dividing (how much money you are able to save or invest) by (your after-tax take home pay). 
+
+The higher your Savings Rate, the better.
 
 ![Savings Rate Formula](/img/savings-rate-calculation-dark.svg)
 
->Note that Savings Rate works exactly the same regardless of Income and Net Worth. A 50% Savings Rate works just as well at a $30,000 salary with 6 figures of student loans, as it does at someone with a $300,000 salary who is debt free.
+>Note that Savings Rate works exactly the same regardless of Income and Net Worth.
 
 ## How Long It Will Take You to Reach FI at Different Savings Rates
 
@@ -27,7 +29,7 @@ Here are some example Savings Rates:
 
 ## Average American Savings Rate
 
-The average Savings Rate in America can be found at the FRED website [here](https://fred.stlouisfed.org/series/PSAVERT).
+The average Savings Rate in America can be found at the [FRED website](https://fred.stlouisfed.org/series/PSAVERT).
 
 The following graph represents average Savings Rates fom 1959 through today, note that the historical avergage hovers around 10%.
 
