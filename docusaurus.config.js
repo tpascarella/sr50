@@ -13,6 +13,7 @@ module.exports = {
   organizationName: 'tpascarella', // Usually your GitHub org/user name.
   projectName: 'sr50', // Usually your repo name.
   themeConfig: {
+    hideableSidebar: true,
     navbar: {
       title: 'SR50',
       logo: {
@@ -89,11 +90,6 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          module.exports = {
-            themeConfig: {
-              hideableSidebar: true,
-            },
-          };
           editUrl:
             'https://github.com/facebook/docusaurus/edit/master/website/',
           // editUrl:
