@@ -4,26 +4,28 @@ sidebar_position: 2
 
 # "Financial Advisors" are just Insurance Salesmen
 
-## Look At Their Job Listings
+Another problem is that financial advisors 
 
-Nearly every financial advisor in America is just an insurance salesman posing as a financial advisor, which I discovered as I was looking at financial advisor jobs after I graduated from college. 
+## Look At The Job Listings
 
-All of these positions are commission based, and those commissions come from selling either unnecessary and bloated insurance packages, or criminally overpriced mutual funds. They offer nothing you can't easily do yourself after an hour of research on Google. 
+Nearly every financial advisor in America is an *insurance salesman posing as a financial advisor*, and I discovered this personally when I was looking at financial advisor jobs after I graduated college. 
 
-They try to hide this fact by using fancy marketing code, but the financial incentive for these professionals are to sell you as much insurance and investment products as they can.
+All of these positions have a commision style compensation plan, and those commissions come from selling EITHER unnecessary and bloated insurance packages, or criminally overpriced mutual funds. They don't get paid for what they know, they get paid for what they sell.
+
+They try to hide this by using fancy advertising code, but all of the financial incentives are for these professionals to sell you as much insurance and investment products as they can.
 
 There is an obvious divide between what a financial advisor *should be* in theory, and the actual logistics of the profession.
 
-## They are (Almost) Completely Unnecessary
+## They're (Almost) Completely Unnecessary
 
-Barring complicated tax situations, or estate planning, you don't need a financial advisor to reach Financial Independence and become wealthy. The *math* portion, is at a sixth grade level. 
+You don't need to pay someone thousands of dollars to tell you that you should spend less than you earn and invest for the future. Calling them financial "advisors" is really intellectually misleading
 
-You don't need to pay someone else thousands of dollars to tell you that you should spend less than you earn, and invest for the future. We are specifically competing against these *established financial advisor firms* by open sourcing everything we teach. We have taken the time and energy to compile all of the best information you can find on Google, and then present it through this website. 
+The one exception is that you might want to bring on a tax professional when your portfolio is complicated enough to warrant it, but that likely doesn't apply to you yet. 
 
 ## SR50 is Open Source
 
-In an era where Google exists, you can't expect to succeed hiding information behind a paywall. We open source everything we teach, and get contributions from people all over the world. The result is that the SR50 method will only get better and more powerful as time goes on and more people contribute. It is a disgrace these people call themselves "financial advisors". They are frauds, and we are going to beat them.
+SR50 is specifically competing against established financial advisor firms by open sourcing everything we teach. We have taken the time and energy to compile all of the best information on Google, and present it through this website. The result is that the SR50 method will only get better and more powerful as time goes on and more people contribute. 
 
-If you want to contribute to SR50, go to the [contributing](contributing.md) page or go directly to our [GitHub](https://github.com/tpascarella/sr50)) repo.
+If you want to contribute to SR50, go to the [contributing](contributing.md) page or go directly to our [GitHub repository](https://github.com/tpascarella/sr50)) and make a pull request.
 
 >Increase Your Savings Rate
