@@ -55,7 +55,7 @@ module.exports = {
           items: [
             {
               label: 'Founder',
-              href: 'https://tpascarella.github.io'
+              href: 'https://thomaspascarella.com'
             },
             {
               label: 'GitHub',
