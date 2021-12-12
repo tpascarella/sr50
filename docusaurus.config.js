@@ -89,6 +89,11 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
+          module.exports = {
+            themeConfig: {
+              hideableSidebar: true,
+            },
+          };
           editUrl:
             'https://github.com/facebook/docusaurus/edit/master/website/',
           // editUrl:
