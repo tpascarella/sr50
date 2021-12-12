@@ -6,9 +6,7 @@ sidebar_position: 2
 
 ## Philosophy
 
-Minimalism is not about owning a specific number of items, or living like a hermit.
-
-Minimalism is a process of being intentional with all of your possessions, and removing all of the things that do not provide value so you can invest maximally in the things, and people, that do.
+Minimalism is not about owning a specific number of items, or living like a hermit. Minimalism is a process of being intentional with all of your possessions, and removing all of the things that do not provide value so you can invest maximally in the things (and people) that do.
 
 It is about living simply, with as few possessions as needed to live a maximally meaningful life. Anything else is a waste.
 
@@ -16,17 +14,21 @@ It is about living simply, with as few possessions as needed to live a maximally
 
 ## "I can't be a minimalist, I love shopping!"
 
-People say they don’t want to become a minimalist because they enjoy shopping. Well, you will still be shopping as a minimalist, because you need to bring resources and supplies into your life to continue existing (food, clothing, the things you used to do your job, your appearance) literally everything is inventory management.
+People say they can't become a minimalist because they enjoy shopping. 
 
-But as a minimalist, you buy more useful items, that are higher quality, at way better prices, because you took the time to research it. In every aspect of the game, you become a *better shopper.* And if you genuinely enjoy shopping, imagine how much you will enjoy it once you actually *get good.*
+Well, you'll still be shopping as a minimalist, you need to bring resources and supplies into your life to continue existing (food, clothing, the things you used to do your job, your appearance) literally everything is inventory management.
+
+But as a minimalist, you purchase more useful items, items that are higher quality, at way better prices because you took the time to research it. In every aspect of the game, you become a *better shopper.* And if you genuinely enjoy shopping, imagine how much you will enjoy it once you actually *get good.*
 
 ## ROI
 
-One of the big benefits of minimalism is that it builds very healthy and efficient spending habits. It isn't about living with a limited number of possessions, just restricting the things you own to the most important and valuable. 
+One of the biggest benefits of minimalism is that it builds very healthy and efficient spending habits. It isn't about living with a limited number of possessions, just restricting the things you own to the most important and valuable. 
 
-Check out the following two Ted Talks by The Minimalists, Ryan Nicodemus and Joshua Fields Milburn. 25 minutes can potentially save you *decades* of irresponsible purchasing decisions. 
+Check out the following two Ted Talks by The Minimalists, Ryan Nicodemus and Joshua Fields Milburn. 25 minutes of Youtube can potentially prevent *decades* of irresponsible purchasing decisions. That is a great ROI!
 
-That is a great ROI!
+## Everything Should Have a Purpose
+
+Everything you own should have some kind of purpose. You don't need to use it every day, but there should be a reason you keep it around. If something is just sitting idle, see if you can find a new use for it.
 
 ## Decluttering
 
@@ -38,48 +40,43 @@ On the first day, find one item to get rid of (either throw away or donate). On 
 
 Most people obsess over owning the latest and greatest of everything. The minimalist stops and thinks that "good enough" items are almost always that. 
 
-My favorite example for this point is headphones. A $1500 pair of headphones is not 10X better than a $150 pair of headphones, it might be just 10% better.
+My favorite example for this point is headphones. A $1500 pair of headphones is not 10X better than a $150 pair of headphones, it might be just 10% better. It also gets far more expensive to use and protect these items (you need to invest in expensive audio equipment to drive high impedence headphones).
 
 ## Buy Used
 
-It’s also healthy to rid yourself of the idea that everything needs to be perfect and beautiful. 
+It’s also healthy to rid yourself of the idea that everything needs to be perfect and beautiful. You can buy perfectly good items used, for way less than buying new at retail.
 
 The Japanese have a concept called Wabi-Sabi where they use gold to repair broken items, and view imperfections as unique additions to an item’s story, because this most accurately represents the rough and imperfect nature of the natural universe.
 
-You can buy perfectly good items used, for way less than buying new at retail.
-
 ## Treasure Hunting
 
-Now, once you have decided you want to buy something, what's the best way to go about buying it? I recommend *treasure hunting*.
+Now, once you have decided you want to buy something, what's the best way to go about buying it? I call it *treasure hunting*.
 
-You scour ebay, craigslist, facebook marketplaces, and various other places until you find the thing you want at significantly lower cost. Paying retail is for suckers. You'll also like the item far more if you spent half as much as the other plebs.
+While treasure hunting, you scour ebay, craigslist, facebook marketplaces, and various other places until you find the thing you want at significantly lower cost. Paying retail is for suckers. You'll also like the item far more if you spent half as much as the other plebs.
 
-Don't buy things at the first moment you want them. Spend some time thinking about what you are going to use this for, how it will work with the other items you have, and whether you really need it. If after careful consideration you decide it's worth it, then go for it.
+Don't buy things at the first moment you want them. Spend some time thinking about what you are going to use it for, how it will work with other items you have, and whether you really need it. If after careful consideration you decide it's worth it, then go for it.
 
 ## Military Resupply
 
-A surprisingly fun part of being a minimalist is that you are incredibly efficient at resource management. Everything has a purpose, nothing goes to waste, you run very lean, and your possessions take up as little space as necessary.
+A surprisingly fun part of being a minimalist is that you are incredibly efficient at resource management. Everything has a purpose, nothing goes to waste, you run very lean, and your possessions take up as little space as necessary (which makes moving cheaper and easier).
 
 As mentioned in the shopping section, I want you to treat purchasing like a military resupply. Settle on a time frame between purchases (Once a month, once a quarter) and then do some real research into the things you want to buy. Really evaluate how you will use it on a daily basis and whether the price is worth the expected value. If you won't use it every day, be very skeptical about investing heavily into it.
 
 Over time, ask if you can make a zero waste swap for these items before rebuying.
 
-## Everything Should Have a Purpose
-
-Everything you own should have some kind of purpose. You don't need to use it every day, but there should be a reason you keep it around. If something is just sitting idle, see if you can find a new use for it.
-
 ## Take Advantage of Sales
 
-Buy things in bulk and on sale, if they are discounted on Black Friday and you can stock up for the rest of the year, that’s a good deal, and a solid ROI
-(For example, toothpaste, paper products, etc)
+Buy things in bulk and on sale, if items have a long shelf life and they're discounted on Black Friday, stock up for the rest of the year, that’s a good deal, and a solid ROI (for example, toothpaste, paper products, etc).
 
 ## Live Cheaply
 
-I live in Chicago, and [Chicago on the cheap](https://chicagoonthecheap.com/) has been a great resource to find entertainment in an expensive city at a low price.
+I live in Chicago, and [Chicago on the cheap](https://chicagoonthecheap.com/) has been a great resource to find cheap entertainment in an expensive city.
 
 ### "Should I keep the boxes?"
 
-A common question is whether you should hold on to the boxes that things came in. I would say, if they are the best option you have for safe transportation of items (should you need to move) then that is a legitimate purpose and you can keep them. If the only function they have is as a display on your shelf, I don't think it's worth the space.
+A common question is whether you should hold on to the boxes that items came in. I would say if keeping the boxes provides the best option for safe transportation of items should you need to move, then that is a legitimate purpose and you can keep them. 
+
+If the only function they have is as a display on your shelf, I don't think it's worth the space.
 
 ## Recommended Videos
 
