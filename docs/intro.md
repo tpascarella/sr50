@@ -34,6 +34,8 @@ You become Financially Free once the financial freedom equation is satisfied. Th
 
 This is the first point where you don't need your employer's permission to sustain your lifestyle. As you'll soon find out, that is determined by how high you can get your Savings Rate.
 
+>The Financial Freedom Equation will be referred to as the FFE moving forward.
+
 ## Passive Income vs Active Income
 
 Passive Income, is any money coming in that you don’t have to trade your time and energy for. This is opposed to *Active Income*, which is money coming in that you do need to trade your time and energy for. (your salary falls under this category)
