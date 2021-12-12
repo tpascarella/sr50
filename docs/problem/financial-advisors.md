@@ -26,6 +26,6 @@ The one exception is that you might want to bring on a tax professional when you
 
 SR50 is specifically competing against established financial advisor firms by open sourcing everything we teach. We have taken the time and energy to compile all of the best information on Google, and present it through this website. The result is that the SR50 method will only get better and more powerful as time goes on and more people contribute. 
 
-If you want to contribute to SR50, go to the [contributing](contributing.md) page or go directly to our [GitHub repository](https://github.com/tpascarella/sr50)) and make a pull request.
+If you want to contribute to SR50, go to the [contributing](contributing.md) page or go directly to our [GitHub repository](https://github.com/tpascarella/sr50) and make a pull request.
 
 >Increase Your Savings Rate
