@@ -12,11 +12,11 @@ But it would be impossible to give you advice as to how to increase your Savings
 
 ## 33% goes to [Housing](housing.md)
 
-Housing is the single largest expense category for most Americans, taking up 33% of average spending. In the Housing section, we will cover ways to reduce your housing costs, if not completely eliminate them with a strategy known as *house hacking*. We will also cover ways to make your home more energy efficient and make money with your space. 
+Housing is the single largest expense category for most Americans, taking up 33% of average spending. In the Housing section, we will cover ways to reduce your housing costs, if not completely eliminate them with a strategy known as *House Hacking*. We will also cover ways to make your home more energy efficient, and make additional money with your space through Airbnb. 
 
 ## 17% goes to [Transportation](transportation.md)
 
-Transportation is the 2nd largest expense category, taking up 17% of average spending. Most of this is from needlessly bloated car payments, but also with bloated commuting expenses.  
+Transportation is the 2nd largest expense category, taking up 17% of average spending. Most of this is from needlessly bloated car payments, but also with excessive commutes.  
 
 ## 16% goes to [Food](food.md)
 
@@ -24,16 +24,14 @@ Food is the 3rd largest expense category, taking up 16% of average spending. Thi
 
 ## 34% goes to [Everything Else](everything-else.md)
 
-34% of spending goes to other categories, education, clothing, alcohol, social life expenses, etc. Most of these are the expenses people try to cut out in an attempt to save money, but in relation to the Big 3 mentioned earlier, these can be kept, within reason.
+34% of spending goes to other categories, education, clothing, alcohol, social life expenses, etc. Most of these are the expenses people try to cut out in an attempt to save money, but in relation to the Big 3 mentioned earlier, these expenses can be kept (within reason).
 
-## ~1/3rd of your salary goes to [Taxes](taxes.md)
+## ~1/3rd of your Income goes to [Taxes](taxes.md)
 
-The spending breakdowns earlier represent your *after-tax take home pay*, which leaves out taxes as an expense category. However, taxes usually account for 1/3rd of your salary, so in this section we will cover ways to reduce your tax liability as quickly and efficiently as we can.
+The spending breakdown chart only represents your *after-tax take home pay*, which leaves out taxes as an expense category. However, taxes usually account for 1/3rd of your salary, so in this section we will cover ways to reduce your tax liability as efficiently as we can.
 
 ## Takeaway
 
-Housing, Transportation, and Food take up 62% of the average American spending. 
-
-Since we want to reach a Savings Rate of 50%, we will need to take drastic action on these 3 categories, which we will cover in the next sections.
+Housing, Transportation, and Food take up 62% of the average American spending. Since we want to reach a Savings Rate of 50%, we will need to take drastic action on these 3 categories, which we'll cover in the next sections.
 
 >Increase Your Savings Rate
