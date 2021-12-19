@@ -12,6 +12,10 @@ Deep Work is how you are able to learn hard things quickly. This requires distra
 
 [This article](https://blog.doist.com/deep-work/) is a great introduction to the concepts, as well as a cliffnotes version of the training regimen.
 
+## Formal Education
+
+Use this very cautiously! College is becoming more and more expensive at the exact same time as it's becoming less and less valuable. That is a dangerous trend to invest in.
+
 ### Advantages
 
 - Offers the highest ROI of any type of investment.
@@ -22,6 +26,6 @@ Deep Work is how you are able to learn hard things quickly. This requires distra
 
 - Hard to quantify.
 
-- Becomes more difficult as time goes on.
+- Does not pay immediate dividends.
 
 >Increase Your Savings Rate
