@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Lifestyle Overview
+# Overview
 
 Lifestyle is the single most important input in solving the Financial Freedom Equation.
 

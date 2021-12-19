@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Financial KPIs Overview
+# Overview
 
 KPI is an acronym for Key Performance Indicator. As with any objective there are metrics that you use to determine how well you are doing, and for our purposes there are 4 you need to understand.
 

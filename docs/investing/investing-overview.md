@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Investing Overview
+# Overview
 
 There are many different investment asset classes you can use to rapidly acquire financial freedom. They usually correlate between effort and return.
 
@@ -13,6 +13,10 @@ Entrepreneurship is the process of creating a new business from scratch. This re
 ## [Franchises](franchises.md) (High Effort - Medium/High Return)
 
 Franchising is the process of purchasing an existing business for you to own and operate. This is less risky than entrepreneurship, but has higher upside. The cash flow is consistent, but requires a lot to get started, and also requires active management from you or someone you hire.
+
+## [Crypto](crypto.md) (No Effort - Medium/High Return)
+
+The volatility of crypto and abundance of scammers in the space can make investing in Crypto risky. You could lose everything if you're not careful, but so long as you invest in good coins, from good founders, and have a long enough time horizon, this is a great asset class that offers high returns.
 
 ## [Real Estate](real-estate.md) (Medium/Low Effort - Medium/High Return)
 

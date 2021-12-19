@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Guides Overview
+# Overview
 
 This section includes short guides to common financial problems. including:
 

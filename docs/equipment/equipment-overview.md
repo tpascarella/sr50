@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Equipment Overview
+# Overview
 
 In this section we will go over all of the equipment and supplies you will need to get started with FI.
 
