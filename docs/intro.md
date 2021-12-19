@@ -6,11 +6,13 @@ sidebar_position: 1
 
 ## "Work 'til You're 65" Does Not Apply Anymore
 
-Your parents' advice of "Get a job, put 15% into a 401k, and work that job until you're 65" is irrelevant in the economy we are coming up in. They lived in an era where an undergraduate degree was enough to get you a good job at a good company, and you can be reasonably sure you'll have job security for the rest of your life.
+Your parents' advice of "Get a job, put 15% into a 401k, and work that job until you're 65" is does not apply anymore. 
+
+Your parents lived in an era where an undergraduate degree was enough to get you a good job at a good company, and you could be reasonably sure you'll have job security for the rest of your life.
 
 ![Age](/img/age-meme.svg)
 
-However, we are coming up in an era with automation breathing down our necks. The financial advice that might have worked for your grandparents, is no longer relevant.
+However, we are coming up in an era with automation breathing down our necks. The financial advice that might have worked in the 80s, is no longer relevant.
 
 ## A Different Financial Philosophy
 
