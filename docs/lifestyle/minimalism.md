@@ -62,7 +62,11 @@ A surprisingly fun part of being a minimalist is that you are incredibly efficie
 
 As mentioned in the shopping section, I want you to treat purchasing like a military resupply. Settle on a time frame between purchases (Once a month, once a quarter) and then do some real research into the things you want to buy. Really evaluate how you will use it on a daily basis and whether the price is worth the expected value. If you won't use it every day, be very skeptical about investing heavily into it.
 
-Over time, ask if you can make a zero waste swap for these items before rebuying.
+If you know you will do your shopping in a structured and predictable way, you don't need to fight with yourself the other times to resist the temptation.
+
+### Use Credit Rewards
+
+If you use a new credit card for these scheduled purchases, you can take advantage of their reward programs and gain points for doing the shopping you were already going to do anyway. This maximizes the efficiency of your dollars!
 
 ## Take Advantage of Sales
 

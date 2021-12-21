@@ -24,7 +24,7 @@ Credit Karma is my favorite app to keep track of my credit score, it has officia
 
 ## Coinbase
 
-For the crypto savvy. I keep my Emergency Fund in USD Coin.
+For the crypto savvy.
 
 ## A Cash Transferring App 
 

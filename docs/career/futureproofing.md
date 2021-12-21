@@ -9,7 +9,7 @@ You need to develop a skillset that will make you relevant moving forward, but w
 
 Check out [Work at a Startup](https://www.workatastartup.com/) from Y Combinator. These are the companies that will provide all of the jobs moving forward, so be useful to companies who will be useful going forward.
 
-# No Regressions, No Regressions, No Regressions
+## No Regressions, No Regressions, No Regressions
 
 Every job you take should be incrementally additive to your human capital. You don't need to get the first job right, just the last job. 
 

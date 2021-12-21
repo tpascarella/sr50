@@ -8,6 +8,8 @@ Formal education is becoming less and less valuable as time goes on.
 
 ![The value of formal education](/img/education-meme.svg)
 
+## Return on Investment
+
 If you are going to pay a significant amount for an advanced degree, you better do your homework and make sure you can make enough money with that degree to justify your efforts.
 
 [Here](https://www.payscale.com/college-salary-report/majors-that-pay-you-back/bachelors) is a good site showing how much you can make with a bachelors degree. 

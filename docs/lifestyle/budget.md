@@ -16,7 +16,7 @@ Budgets are especially useful for people who are not naturally frugal, or are cu
 
 [YNAB (You Need a Budget)](https://www.youneedabudget.com/) 
 
-## They Become Non-Optional Once You're Married
+## Non-Optional Once You Get Married
 
 The one exception to my “budgets are optional” rule is if you’re married. If you’re married, 100%, both of you need to budget together. Financial problems are one of, if not the, biggest cause of divorce, and a divorce will cost you a quarter million dollars. 
 

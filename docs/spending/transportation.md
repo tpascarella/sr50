@@ -48,6 +48,8 @@ If you have business miles and need to deduct them, download MileIQ on your phon
 
 ## Self Driving
 
-Cars are one of the most common places that human beings die, so if you can't afford a Tesla yet, see if your car is compatible with an Openpilot compatible device from Comma AI. It's really that good, and they just released their [next generation of hardware](https://comma.ai/shop/products/three). See if your car is compatible with their devices [here](https://comma.ai/vehicles). 
+Cars are one of the most common places that human beings die, so if you can't afford a Tesla yet, see if your car is compatible with an Openpilot compatible device from Comma AI. It's really that good, and they just released their [next generation of hardware](https://comma.ai/shop/products/three). 
+
+See if your car is compatible with their devices [here](https://comma.ai/vehicles). 
 
 >Increase Your Savings Rate
