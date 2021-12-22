@@ -5,13 +5,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'SR50',
   tagline: 'Open Source Personal Finance.',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://docs.sr50.finance',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/sr50logo.ico',
   organizationName: 'tpascarella', // Usually your GitHub org/user name.
-  projectName: 'sr50', // Usually your repo name.
+  projectName: 'sr50-docs', // Usually your repo name.
   themeConfig: {
     hideableSidebar: true,
     navbar: {
@@ -64,17 +64,6 @@ module.exports = {
             },
           ],
         },
-        /*
-        {
-          title: 'Core Thesis',
-          items: [
-            {
-              label: 'Personal Finance is Personal Reponsibility',
-              to: '../src/pages/coreThesis.js',
-            },
-          ],
-        },
-        */
       ],
       copyright: `© ${new Date().getFullYear()} SR50`,
     },
@@ -91,7 +80,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/tpascarella/sr50/tree/main/',
+            'https://github.com/tpascarella/sr50-docs/tree/main/',
           // editUrl:
           //  'https://github.com/facebook/docusaurus/edit/master/website/', 
         },
@@ -99,7 +88,7 @@ module.exports = {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/tpascarella/sr50/tree/main/',
+            'https://github.com/tpascarella/sr50-docs/tree/main/',
           //editUrl:
           //  'https://github.com/facebook/docusaurus/edit/master/website/blog/', 
         },
