@@ -1539,6 +1539,13 @@
     "react-json-view" "^1.21.3"
     "tslib" "^2.3.1"
 
+"@docusaurus/plugin-google-analytics@^2.0.0-beta.14":
+  "integrity" "sha512-An3rdHpVjf8RZiZqxcQMO+nTE6vz6isowP1QsfPjiyVLFercQ116RuBodUTjkyOV/rCL1bHvdh9B2G8dp79Zbw=="
+  "resolved" "https://registry.npmjs.org/@docusaurus/plugin-google-analytics/-/plugin-google-analytics-2.0.0-beta.ff31de0ff.tgz"
+  "version" "2.0.0-beta.ff31de0ff"
+  dependencies:
+    "@docusaurus/core" "2.0.0-beta.ff31de0ff"
+
 "@docusaurus/plugin-google-analytics@2.0.0-beta.13":
   "integrity" "sha512-I37v2aWq43EXVScSOrYqP6PtHNVWar9OJ4Pbgwx1GNAy2VTyAQMoD8cLOCm6LVsEPxzIj+JsvGHrMlzaXZ3WIQ=="
   "resolved" "https://registry.npmjs.org/@docusaurus/plugin-google-analytics/-/plugin-google-analytics-2.0.0-beta.13.tgz"
@@ -1547,6 +1554,13 @@
     "@docusaurus/core" "2.0.0-beta.13"
     "@docusaurus/utils-validation" "2.0.0-beta.13"
 
+"@docusaurus/plugin-google-gtag@^2.0.0-beta.14":
+  "integrity" "sha512-4nNafEi8wfikxVKY8JKClglSP0vd5ahlSix4b1wsYNcPqxeJQHwx2VIkRDIPdvO9ySFdRMetzWr/pNMsxb/xpA=="
+  "resolved" "https://registry.npmjs.org/@docusaurus/plugin-google-gtag/-/plugin-google-gtag-2.0.0-beta.ff31de0ff.tgz"
+  "version" "2.0.0-beta.ff31de0ff"
+  dependencies:
+    "@docusaurus/core" "2.0.0-beta.ff31de0ff"
+
 "@docusaurus/plugin-google-gtag@2.0.0-beta.13":
   "integrity" "sha512-+V4Fp0KaIi50Mf7G0qj1g4xynF6pqDZjhvzZrQG351As9JZanLUIC9ggAleXLQih+ZST1qEEgjogVSlikNlcCQ=="
   "resolved" "https://registry.npmjs.org/@docusaurus/plugin-google-gtag/-/plugin-google-gtag-2.0.0-beta.13.tgz"
@@ -1554,6 +1568,19 @@
   dependencies:
     "@docusaurus/core" "2.0.0-beta.13"
     "@docusaurus/utils-validation" "2.0.0-beta.13"
+
+"@docusaurus/plugin-sitemap@^2.0.0-beta.14":
+  "integrity" "sha512-4z0hpdlPgwWU9sVVUdwiHCgnm7IVvAw8LaEzZmbMfZcVON3ImGNOHRMxgN85C29xWT/QwSx6k9NL+paB/gorGQ=="
+  "resolved" "https://registry.npmjs.org/@docusaurus/plugin-sitemap/-/plugin-sitemap-2.0.0-beta.ff31de0ff.tgz"
+  "version" "2.0.0-beta.ff31de0ff"
+  dependencies:
+    "@docusaurus/core" "2.0.0-beta.ff31de0ff"
+    "@docusaurus/types" "2.0.0-beta.ff31de0ff"
+    "@docusaurus/utils" "2.0.0-beta.ff31de0ff"
+    "@docusaurus/utils-validation" "2.0.0-beta.ff31de0ff"
+    "fs-extra" "^10.0.0"
+    "sitemap" "^7.0.0"
+    "tslib" "^2.2.0"
 
 "@docusaurus/plugin-sitemap@2.0.0-beta.13":
   "integrity" "sha512-SEiefgI9nDWgtQXMzaIHAQwKIsof9tYp0iU7BEqRSJqM2CX3LwGIGr1JpQOxBUJfbHu5tk1LMgJO11Pfz/fMNQ=="
