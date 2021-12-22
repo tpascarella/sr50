@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # "Financial Advisors" are just Insurance Salesmen
 
-Another problem is that financial advisors 
+Another problem is that financial advisors are actually insurance salesmen who pose as financial advisors. 
 
 ## Look At The Job Listings
 
