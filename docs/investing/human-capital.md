@@ -16,13 +16,13 @@ Deep Work is how you are able to learn hard things quickly. This requires distra
 
 Use this very cautiously! College is becoming more and more expensive at the exact same time as it's becoming less and less valuable. That is a dangerous trend to invest in.
 
-### Advantages
+## Advantages
 
 - Offers the highest ROI of any type of investment.
 
 - Deeply gratifying expanding your skillset.
 
-### Disadvantages
+## Disadvantages
 
 - Hard to quantify.
 
