@@ -72,15 +72,15 @@ Vanguard is owned by the funds that make up Vanguard. And those funds are owned 
 
 Meaning you, as an investor of Vanguard, are also a *partial owner* of Vanguard. 
 
-This is in sharp contrast to the rest of the mutual fund industry, which have shareholders as owners who expect to be paid out of the profits of their funds. Investors are very quickly catching on to this fact too:
+This is in sharp contrast to the rest of the mutual fund industry, which have shareholders as owners who expect to be paid out of the profits of their funds. Investors have caught onto this fact too. Check out this excerpt from 2017:
 
->“In the last three calendar years, investors sank $823 billion into Vanguard funds, the company says. The scale of that inflow becomes clear when it is compared with the rest of the mutual fund industry — more than 4,000 firms in total. All of them combined took in just a net $97 billion during that period, Morningstar data shows. Vanguard, in other words, scooped up about 8.5 times as much money as all of its competitors.” *this article was published 4-14-2017*
+>“In the last three calendar years, investors sank $823 billion into Vanguard funds, the company says. The scale of that inflow becomes clear when it is compared with the rest of the mutual fund industry — more than 4,000 firms in total. All of them combined took in just a net $97 billion during that period, Morningstar data shows. Vanguard, in other words, scooped up about 8.5 times as much money as all of its competitors.”
 
 So stick with Vanguard if you have the choice. They have some of, if not the, lowest expense ratios in the industry, and their core values are aligned with your best interests. I wouldn't give my money to any other company.
 
 ## Index Funds vs. ETFs
 
-The difference between index funds and ETFs is like the difference between different wrapping paper on the same underlying christmas present.
+There is hardly any difference between Index Funds and ETFs. They are slightly different packaging for the same underlying investment product. Kind of like different wrapping papers for the same Christmas present.
 
 I recommend you go with the index fund over ETFs if you have the choice, simply because the fact that they close at the end of each trading day, instead of continuously over the course of the day, gives you slightly more friction against making an impulse sell. 
 
