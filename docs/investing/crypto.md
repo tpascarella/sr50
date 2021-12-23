@@ -25,6 +25,8 @@ No!
 
 In the technology adoption curve, we are probably in the early adopter/early majority camp. We still have tremendous upside by investing in crypto. We are definitely paying higher valuations than people who bought Bitcoin when it was $5, but we have more educational resources and social validation that this is legit. 
 
+![Technology adoption curve](/img/technology-adoption.jpeg)
+
 ## Portfolio Strategy
 
 The simplest Crypto strategy is to go 50/50 BTC/ETH, skewing to 75/25 in either direction depending on your risk tolerance. It is modeled after Benjamin Graham's portfolio from The Intelligent Investor.

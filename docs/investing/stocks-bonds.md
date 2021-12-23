@@ -59,13 +59,12 @@ Benjamin Graham from The Intelligent Investor recommends a portfolio allocation 
 
 - 50/50 split between Stocks/Bonds, while going no further that 75/25 in either direction according to market conditions.
 
-## Best Funds for Each Company
+## Best Vanguard Funds
 
-Vanguard
-- VTSAX (stock index fund)
-- VBTLX (bond index fund)
-- VTI (stock ETF)
-- BND (bond ETF)
+- [VTSAX](https://investor.vanguard.com/mutual-funds/profile/vtsax) (stock index fund)
+- [VBTLX](https://investor.vanguard.com/mutual-funds/profile/VBTLX) (bond index fund)
+- [VTI](https://investor.vanguard.com/etf/profile/VTI) (stock ETF)
+- [BND](https://investor.vanguard.com/etf/profile/BND) (bond ETF)
 
 ## Why Vanguard?
 

@@ -16,6 +16,9 @@ Deep Work is how you are able to learn hard things quickly. This requires distra
 
 Use this very cautiously! College is becoming more and more expensive at the exact same time as it's becoming less and less valuable. That is a dangerous trend to invest in.
 
+![Consumer prices over time](/img/price-changes.jpeg)
+
+
 ## Advantages
 
 - Offers the highest ROI of any type of investment.
