@@ -12,9 +12,9 @@ Deep Work is how you are able to learn hard things quickly. This requires distra
 
 [This article](https://blog.doist.com/deep-work/) is a great introduction to the concepts, as well as a cliffnotes version of the training regimen.
 
-## Formal Education
+## Not The Same as Formal Education!
 
-Use this very cautiously! College is becoming more and more expensive at the exact same time as it's becoming less and less valuable. That is a dangerous trend to invest in.
+Use student loan debt very carefully! College is becoming more and more expensive at the exact same time as it's becoming less and less valuable. That is a dangerous trend to invest in.
 
 ![Consumer prices over time](/img/price-changes.jpeg)
 
