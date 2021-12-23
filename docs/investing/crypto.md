@@ -6,7 +6,7 @@ sidebar_position: 7
 
 Crypto is making a lot of headlines, and for good reason, the technology is actively disrupting central and commercial banks, and has very promising implications for the future. However, along with that, there are a lot of unsavory individuals in this space, and a majority of ICOs currently fall somewhere in between incompetence and scams. You do need to do your homework. You can potentially lose everything if you are not careful.
 
-As a general rule, it would be wise to put your money into something you can also explain to a 5 year old. 
+>As a general rule, it would be wise to put your money into something you can also explain to a 5 year old. 
 
 My current recommendation is to buy and hold into a diversified pool of tokens, from good founders. Bitcoin and Ethereum are the two main options, I also put money into Algorand. You can a link to my current portfolio at the bottom of the page.
 
