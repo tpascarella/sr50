@@ -95,13 +95,6 @@ module.exports = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-      },
-    ],
-  ],
-  presets: [
-    [
-      '@docusaurus/preset-classic',
-      {
         googleAnalytics: {
           trackingID: 'G-4KM8KED22Z',
           anonymizeIP: true,
