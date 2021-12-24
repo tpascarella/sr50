@@ -95,10 +95,16 @@ module.exports = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-        googleAnalytics: {
-          trackingID: 'G-4KM8KED22Z',
-          anonymizeIP: true,
-        },
+        
+      },
+    ],
+  ],
+  plugins: [
+    [
+      '@docusaurus/plugin-google-analytics',
+      {
+        trackingID: 'G-4KM8KED22Z',
+        anonymizeIP: true,
       },
     ],
   ],
