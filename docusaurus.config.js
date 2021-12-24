@@ -98,4 +98,15 @@ module.exports = {
       },
     ],
   ],
+  presets: [
+    [
+      '@docusaurus/preset-classic',
+      {
+        googleAnalytics: {
+          trackingID: 'G-4KM8KED22Z',
+          anonymizeIP: true,
+        },
+      },
+    ],
+  ],
 };
