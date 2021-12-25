@@ -99,7 +99,8 @@ module.exports = {
       },
     ],
   ],
-  plugins: [
+  /*
+  plugins: [  
     [
       '@docusaurus/plugin-google-analytics',
       {
@@ -107,6 +108,7 @@ module.exports = {
         anonymizeIP: true,
       },
     ],
+    
     [
       '@docusaurus/plugin-pwa',
       {
@@ -144,4 +146,5 @@ module.exports = {
       },
     ],
   ],
+  */
 };
