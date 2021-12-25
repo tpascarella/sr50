@@ -20,6 +20,10 @@ Well, you'll still be shopping as a minimalist, you need to bring resources and 
 
 But as a minimalist, you purchase more useful items, items that are higher quality, at way better prices because you took the time to research it. In every aspect of the game, you become a *better shopper.* And if you genuinely enjoy shopping, imagine how much you will enjoy it once you actually *get good.*
 
+### "Will this be in the final system?"
+
+Some purchases, if you do them right, you never need to make again. This is a helpful question to ask when decided whether to buy something. When you finally get your shit together, will you still use this item consistently?
+
 ## ROI
 
 One of the biggest benefits of minimalism is that it builds very healthy and efficient spending habits. It isn't about living with a limited number of possessions, just restricting the things you own to the most important and valuable. 
