@@ -12,6 +12,7 @@ module.exports = {
   favicon: 'img/sr50logo.ico',
   organizationName: 'tpascarella', // Usually your GitHub org/user name.
   projectName: 'sr50-docs', // Usually your repo name.
+  
   themeConfig: {
     hideableSidebar: true,
     navbar: {
@@ -72,6 +73,7 @@ module.exports = {
       darkTheme: darkCodeTheme,
     },
   },
+  
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -99,7 +101,7 @@ module.exports = {
       },
     ],
   ],
-  /*
+  
   plugins: [  
     [
       '@docusaurus/plugin-google-analytics',
@@ -108,43 +110,76 @@ module.exports = {
         anonymizeIP: true,
       },
     ],
-    
     [
-      '@docusaurus/plugin-pwa',
+      'pwa',
       {
-        debug: true,
+        debug: isDeployPreview,
         offlineModeActivationStrategies: [
           'appInstalled',
           'standalone',
           'queryString',
         ],
+        // swRegister: false,
+        swCustom: path.resolve(__dirname, 'src/sw.js'),
         pwaHead: [
           {
             tagName: 'link',
             rel: 'icon',
-            href: '/img/docusaurus.png',
+            href: 'img/logo.png',
           },
           {
             tagName: 'link',
             rel: 'manifest',
-            href: '/manifest.json', // your PWA manifest
+            href: 'manifest.json',
           },
           {
             tagName: 'meta',
             name: 'theme-color',
             content: 'rgb(37, 194, 160)',
           },
+          {
+            tagName: 'meta',
+            name: 'apple-mobile-web-app-capable',
+            content: 'yes',
+          },
+          {
+            tagName: 'meta',
+            name: 'apple-mobile-web-app-status-bar-style',
+            content: '#000',
+          },
+          {
+            tagName: 'link',
+            rel: 'apple-touch-icon',
+            href: 'img/docusaurus.png',
+          },
+          {
+            tagName: 'link',
+            rel: 'mask-icon',
+            href: 'img/docusaurus.png',
+            color: 'rgb(62, 204, 94)',
+          },
+          {
+            tagName: 'meta',
+            name: 'msapplication-TileImage',
+            content: 'img/logo.png',
+          },
+          {
+            tagName: 'meta',
+            name: 'msapplication-TileColor',
+            content: '#000',
+          },
         ],
       },
     ],
     [
-      '@docusaurus/plugin-sitemap',
+      'ideal-image',
       {
-        changefreq: 'weekly',
-        priority: 0.5,
-        trailingSlash: false,
+        quality: 70,
+        max: 1030, // max resized image's size.
+        min: 640, // min resized image's size. if original is lower, use that size.
+        steps: 2, // the max number of images generated between min and max (inclusive)
+        disableInDev: false,
       },
     ],
   ],
-  */
 };
