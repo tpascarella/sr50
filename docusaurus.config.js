@@ -15,6 +15,11 @@ module.exports = {
   
   themeConfig: {
     hideableSidebar: true,
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: false,
+      respectPrefersColorScheme: true,
+    },
     navbar: {
       title: 'SR50',
       logo: {
