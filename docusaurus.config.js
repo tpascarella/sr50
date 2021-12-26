@@ -23,6 +23,10 @@ module.exports = {
       disableSwitch: false,
       respectPrefersColorScheme: true,
     },
+    announcementBar: {
+      id: 'announcementBar-2',
+      content: 'Increase Your Savings Rate!',
+    },
     navbar: {
       title: 'SR50',
       logo: {
