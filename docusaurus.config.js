@@ -16,6 +16,12 @@ module.exports = {
     description:
       'The Cliffnotes for all the best personal finance information you can find on the internet.',
   },
+  /*
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'fr'],
+  },
+  */
   themeConfig: {
     hideableSidebar: true,
     colorMode: {
@@ -42,7 +48,7 @@ module.exports = {
         },
         {to: '/blog', label: 'Articles', position: 'left'},
         {
-          href: 'https://github.com/tpascarella',
+          href: 'https://github.com/tpascarella/sr50',
           label: 'GitHub',
           position: 'right',
         },
