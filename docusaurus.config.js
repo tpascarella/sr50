@@ -38,7 +38,7 @@ module.exports = {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Docs',
+          label: 'Library',
         },
         {to: '/blog', label: 'Articles', position: 'left'},
         {
@@ -52,10 +52,10 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Library',
+          title: 'Documentation',
           items: [
             {
-              label: 'Docs',
+              label: 'Library',
               to: '/docs/intro',
             },
             {
@@ -95,16 +95,12 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/tpascarella/sr50-docs/tree/main/',
-          // editUrl:
-          //  'https://github.com/facebook/docusaurus/edit/master/website/', 
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
             'https://github.com/tpascarella/sr50-docs/tree/main/',
-          //editUrl:
-          //  'https://github.com/facebook/docusaurus/edit/master/website/blog/', 
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
