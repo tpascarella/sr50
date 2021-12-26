@@ -12,7 +12,10 @@ module.exports = {
   favicon: 'img/logo.png',
   organizationName: 'tpascarella', // Usually your GitHub org/user name.
   projectName: 'sr50-docs', // Usually your repo name.
-  
+  customFields: {
+    description:
+      'The Cliffnotes for all the best personal finance information you can find on the internet.',
+  },
   themeConfig: {
     hideableSidebar: true,
     colorMode: {
