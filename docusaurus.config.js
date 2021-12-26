@@ -101,9 +101,8 @@ module.exports = {
       },
     ],
   ],
-  
-  plugins: [  
-  /*  
+  /*
+  plugins: [   
     [
       '@docusaurus/plugin-google-analytics',
       {
@@ -182,6 +181,7 @@ module.exports = {
         disableInDev: false,
       },
     ],
-  */ 
+ 
   ],
+  */
 };
