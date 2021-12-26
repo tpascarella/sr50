@@ -9,7 +9,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/sr50logo.ico',
+  favicon: 'img/logo.png',
   organizationName: 'tpascarella', // Usually your GitHub org/user name.
   projectName: 'sr50-docs', // Usually your repo name.
   
@@ -103,13 +103,14 @@ module.exports = {
   ],
   
   plugins: [  
+  /*  
     [
       '@docusaurus/plugin-google-analytics',
       {
         trackingID: 'G-4KM8KED22Z',
         anonymizeIP: true,
       },
-    ],
+    ],  
     [
       'pwa',
       {
@@ -170,7 +171,7 @@ module.exports = {
           },
         ],
       },
-    ],
+    ],  
     [
       'ideal-image',
       {
@@ -181,5 +182,6 @@ module.exports = {
         disableInDev: false,
       },
     ],
+  */ 
   ],
 };
