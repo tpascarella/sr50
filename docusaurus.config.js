@@ -65,7 +65,7 @@ module.exports = {
               to: '/docs/intro',
             },
             {
-              label: 'Articles',
+              label: 'Blog',
               to: '/blog',
             }
           ],
@@ -123,11 +123,11 @@ module.exports = {
         trackingID: 'G-4KM8KED22Z',
         anonymizeIP: true,
       },
-    ],  
+    ],   
     [
       'pwa',
       {
-        debug: isDeployPreview,
+        //debug: isDeployPreview,
         offlineModeActivationStrategies: [
           'appInstalled',
           'standalone',
@@ -164,12 +164,12 @@ module.exports = {
           {
             tagName: 'link',
             rel: 'apple-touch-icon',
-            href: 'img/docusaurus.png',
+            href: 'img/logo.png',
           },
           {
             tagName: 'link',
             rel: 'mask-icon',
-            href: 'img/docusaurus.png',
+            href: 'img/logo.png',
             color: 'rgb(62, 204, 94)',
           },
           {
@@ -195,7 +195,6 @@ module.exports = {
         disableInDev: false,
       },
     ],
- 
   ],
   */
 };
