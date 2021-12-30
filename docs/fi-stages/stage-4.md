@@ -4,13 +4,14 @@ sidebar_position: 6
 
 # Stage 4
 
-## Lean FI - Passive Income > Survival Expenses 
+## Ramen Profitability
 
-Stage Four (Lean FI as it’s known) happens once passive income can cover your barebones survival expenses. 
+### Passive Income > Survival Expenses 
 
-:::info Barebones Survival Expenses
+Stage Four happens once passive income can cover your barebones survival expenses. 
 
-Barebones survival expenses include:
+:::note Barebones Survival Expenses Include
+
 - shelter, 
 - food, 
 - water, 
@@ -22,6 +23,10 @@ This is the first point, mathematically, where you have complete control over yo
 
 In the startup world, this point is known as Ramen Profitability, and it's the point where you don't need investors' (your employer's) permission to continue existing. This is the most important threshold along your wealth building journey!
 
-A few house hacks or a rental property or two is usually all it takes to get you here. It's really not that hard.
+:::info 
+
+A few house hacks or a rental property or two is usually all it takes to get you here.
+
+:::
 
 >Increase Your Savings Rate

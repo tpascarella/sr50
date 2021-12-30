@@ -4,9 +4,17 @@ sidebar_position: 5
 
 # Stage 3
 
-## Debt Freedom (mortgage optional)
+## Debt Freedom
 
-This stage happens once active income is enough to support current lifestyle expenses, some Runway has been saved, and bad debts have been eliminated from their financial picture. Whether mortgage or student loan debts are included here is up to you. 
+This stage happens once active income is enough to support current lifestyle expenses, some Runway has been saved, and bad debts have been eliminated from their financial picture. 
+
+:::info 
+
+Whether mortgage or student loan debts are included here, is up to you.
+
+What we are really trying to accomplish is to eliminate all debts that are egregious hits to your Savings Rate and overall financial well being.
+
+:::
 
 ### Good Debts vs Bad Debts
 
