@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Intro
+# Introduction
 
 ## "Work 'til You're 65" Does Not Apply Anymore
 
@@ -14,7 +14,7 @@ Your parents lived in an era where an undergraduate degree was enough to get you
 
 However, we are coming up in an era with automation breathing down our necks. The financial advice that might have worked in the 80s, is no longer relevant.
 
-## A Different Financial Philosophy
+### A Different Financial Philosophy
 
 It's not all bad though! We have access to Google, and there exists a community of personal finance nerds such as myself, who have dedicated their time to uncover every strategy, tactic, and unfair advantage related to personal finance, and they have made it freely available online. We are known colloquially as, the FI community (pronounced like "eye")
 
@@ -22,7 +22,7 @@ They focus on getting users' [Savings Rate](/kpis/savings-rate.md) as high as we
 
 The SR50 method is the culmination of all the best personal finance advice that the FI community has released, and it has been organized into one website someone can read through within an hour.
 
-## Everything is About Getting Your Time Back 
+### Everything is About Getting Your Time Back 
 
 Time is the only resource you can never buy more of. 
 
@@ -38,7 +38,7 @@ This is the first point where you don't need your employer's permission to susta
 
 >The Financial Freedom Equation will be referred to as the FFE moving forward.
 
-## Passive Income vs Active Income
+### Passive Income vs Active Income
 
 Passive Income, is any money coming in that you don’t have to trade your time and energy for. This is opposed to *Active Income*, which is money coming in that you do need to trade your time and energy for. (your salary falls under this category)
 
@@ -64,17 +64,23 @@ The most important thing money can buy is freedom. Freedom to live where you wan
 
 But this freedom only comes from having cash flow, and enough Runway to give you time to pursue opportunities as desired.
 
-Think of it this way, 
+Think of it like this. 
+:::tip Which Would Be More Useful to You?
 
-**Which would be more useful to you?** 
+- A million dollars in a 401K that you can't touch for the next 40 years.
+- 10 grand deposited into your checking account every month, starting right now?
 
-- A million dollars in a 401K that you can’t touch for the next 40 years 
-- 10 grand deposited into your checking account every single month starting right now?
+:::
 
 I like option 2.
 
-## Takeaway
+## Takeaways
 
-Take as high of a percentage of dollars that you can, and invest it aggressively, but not irresponsibly, until you build up enough passive income so that the financial freedom equation is satisfied.
+:::note 
+
+- You want to have the ability to save a very high percentage of your income, and then invest that money aggresively (but not irresponsibly) until you build up enough passive income so that the Financial Freedom Equation is satisfied.
+- Once that point is crossed, you never again need to rely on your employer to sustain you financially, and your 40 hours a week are now back under your control.
+
+:::
 
 >Increase Your Savings Rate
