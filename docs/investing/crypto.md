@@ -27,7 +27,7 @@ No!
 
 In the technology adoption curve, we are probably in the early adopter/early majority camp. We still have tremendous upside by investing in crypto. We are definitely paying higher valuations than people who bought Bitcoin when it was $5, but we have more educational resources and social validation that this is legit. 
 
-![Technology adoption curve](/img/technology-adoption.jpeg)
+![Technology adoption curve](/img/technology-adoption.svg)
 
 ## Portfolio Strategy
 

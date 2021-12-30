@@ -16,7 +16,7 @@ Deep Work is how you are able to learn hard things quickly. This requires distra
 
 Use student loan debt very carefully! College is becoming more and more expensive at the exact same time as it's becoming less and less valuable. That is a dangerous trend to invest in.
 
-![Consumer prices over time](/img/price-changes.jpeg)
+![Consumer prices over time](/img/price-changes.svg)
 
 
 ## Advantages
