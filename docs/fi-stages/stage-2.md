@@ -12,6 +12,10 @@ Many people believe that getting to Stage Two and maxing out their retirement ac
 
 The focus for the person at Stage 2 is to eliminate their debts, and begin making strategic moves to increase their Savings Rate as much as they can. House Hacking is an appropriate option for people at this stage, as well as a possible career change. 
 
-*Note that the “work ‘till you’re 65” script won't get you past Stage Two.*
+:::caution (yellow)
+
+Note that the "work 'til you're 65" life plan won't get you past Stage 2.
+
+:::
 
 >Increase Your Savings Rate

@@ -14,6 +14,10 @@ You need to understand the difference between “good debts" and “bad debts" h
 
 "Bad" debts include high interest debt from things like credit cards, subprime car loans, payday loans, or any personal loans to friends or family. These debts do you absolutely no good. The best method to pay bad debts off is called the Debt Snowball, which we'll cover later.
 
+:::note Technicality
+
 If you are a Dave Ramsey fan, you might argue that this Stage should precede Stage 2. However I think the Runway you have is more valuable than paying off your debts 3 months sooner. However it doesn't make a big difference either way.
+
+:::
 
 >Increase Your Savings Rate

@@ -12,6 +12,10 @@ At Stage One, you are able to support yourself, but your Savings Rate is still z
 
 Being at Stage One is better than being at Stage Zero, but the lack of Runway leaves this person with still few options. The only way out of this stage is to increase the gap between cash in and cash out. 
 
-### Get out of this stage as fast as possible.
+:::danger 
+
+Get out of this stage as fast as possible.
+
+:::
 
 >Increase Your Savings Rate

@@ -10,6 +10,11 @@ By Stage Seven, you need to plan beyond your own lifespan. You’ll need to set 
 
 I genuinely pity people who win the lottery. Almost always they aren’t prepared to handle the responsibility that comes along with that, and if you aren't careful your bad habits can easily get out of hand. 
 
-Personal finance is personal responsibility, become someone who can handle that responsibility. 
+:::tip
+
+Personal finance is personal responsibility, become someone who can handle that responsibility.
+
+:::
+
 
 >Increase Your Savings Rate
