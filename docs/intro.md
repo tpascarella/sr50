@@ -4,6 +4,15 @@ sidebar_position: 1
 
 # Introduction
 
+<details>
+  <summary>What is SR50?</summary>
+
+SR50 is the Cliffnotes for all the best personal finance information you can find on the internet. Everything has been neatly organized and presented into an open source documentation website.
+
+It's basically if the world's best financial advisor was available as a free website that's constantly getting updates and being improved.
+
+</details>
+
 ## "Work 'til You're 65" Does Not Apply Anymore
 
 Your parents' advice of "Get a job, put 15% into a 401k, and work that job until you're 65" is does not apply anymore. 
@@ -65,7 +74,7 @@ The most important thing money can buy is freedom. Freedom to live where you wan
 But this freedom only comes from having cash flow, and enough Runway to give you time to pursue opportunities as desired.
 
 Think of it like this. 
-:::tip Which Would Be More Useful to You?
+:::info Which Would Be More Useful to You?
 
 - A million dollars in a 401K that you can't touch for the next 40 years.
 - 10 grand deposited into your checking account every month, starting right now?
