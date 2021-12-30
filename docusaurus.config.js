@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'SR50',
-  tagline: 'Open Source Personal Finance.',
+  tagline: 'The World\'s Best Financial Advisor. Free, for Everyone.',
   url: 'https://docs.sr50.finance',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -101,6 +101,8 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/tpascarella/sr50-docs/tree/main/',
+            showLastUpdateAuthor: true,
+            showLastUpdateTime: true,
         },
         blog: {
           showReadingTime: true,

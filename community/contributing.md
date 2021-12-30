@@ -1,6 +1,3 @@
----
-sidebar_position: 13
----
 # Contributing
 
 SR50 is open source so anyone can contribute to the site!
