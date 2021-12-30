@@ -88,7 +88,7 @@ SR50 is specifically competing against established financial advisor firms by op
 
 :::info Contributing
 
-If you want to contribute to SR50, either go to the [Contributing](contributing.md) page or go directly to our [GitHub repository](https://github.com/tpascarella/sr50) and make a pull request.
+If you want to contribute to SR50, either go to the contributing page or go directly to our [GitHub repository](https://github.com/tpascarella/sr50) and make a pull request.
 
 :::
 
