@@ -2,9 +2,9 @@
 sidebar_position: 2
 ---
 
-# Everyone's Problem
+# Problems
 
-## "Financial Advisors" are just Insurance Salesmen
+## "Financial Advisors" are Actually Insurance Salesmen
 
 Another problem is that financial advisors are actually insurance salesmen who pose as financial advisors. 
 
@@ -22,19 +22,19 @@ There is an obvious divide between what a financial advisor should be in theory,
 
 :::
 
-### They're (Almost) Completely Unnecessary
+### The Job is Obsolete
 
 You don't need to pay someone thousands of dollars to tell you that you should spend less than you earn and invest for the future. Calling them financial "advisors" is really intellectually misleading
 
 The one exception is that you might want to bring on a tax professional when your portfolio is complicated enough to warrant it, but that likely doesn't apply to you yet. 
 
-## Well Intentioned Bad Advice
+## Well Intentioned Bad Advice From People You Talk To
 
 As mentioned earlier, most Americans are in a terribly weak financial position, and as a result they are not really qualified to provide you sound financial advice. A lof of them try, usually with good intentions, but they are not doing you much of a service.
 
 Here are the most common pieces of financial advice people will give you that sound good on the surface, but is actually wrong.
 
-### "You need to max out your retirement accounts!" 
+### "You need to max out your retirement accounts" 
 
 No you don't. What you need to do is build up passive income. 
 
@@ -42,13 +42,13 @@ No you don't. What you need to do is build up passive income.
 
 That isn't to say that retirement accounts have *no place* in your financial picture, but all of your focus should go towards investments that provide passive income *today*.
 
-### "Going to university is a great career move!"
+### "Going to university is a great career move"
 
 Maybe, it all depends on the impact it'll have on your Savings Rate and Income.
 
 It that degree can double your income, and you have access to grants from a reasonable school, then sure. Go for it. But saying "university is a great option" as *blanket career advice* is not a good idea. College is so god damn expensive, and should certainly never be entered *on impulse*.
 
-### "You should pay off your house!"
+### "You should pay off your house"
 
 Paying off your house is an inefficient use of capital. 
 
