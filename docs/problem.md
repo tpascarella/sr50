@@ -82,14 +82,4 @@ It's also soul crushing to work at an Initech type of company for a Lumbergh typ
 
 Your time is your most valuable resource, yet people give it away for pennies on the dollar because they trap themselves with a high burn rate. Some of this is through stupidity, some from being dealt a bad hand, but whatever the cause, it is in your best interest to increase your Savings Rate so you can regain control of your most valuable asset.
 
-## SR50 is Open Source
-
-SR50 is specifically competing against established financial advisor firms by open sourcing everything we teach. We have taken the time and energy to compile all of the best information on Google, and present it through this website. The result is that the SR50 method will only get better and more powerful as time goes on and more people contribute. 
-
-:::info Contributing
-
-If you want to contribute to SR50, either go to the contributing page or go directly to our [GitHub repository](https://github.com/tpascarella/sr50) and make a pull request.
-
-:::
-
 >Increase Your Savings Rate
