@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# Crypto
+# Cryptocurrency
 
 Crypto is making a lot of headlines, and for good reason, the technology is actively disrupting central and commercial banks, and has very promising implications for the future. However, along with that, there are a lot of unsavory individuals in this space, and a majority of ICOs currently fall somewhere in between incompetence and scams. You do need to do your homework. You can potentially lose everything if you are not careful.
 
@@ -10,7 +10,7 @@ Crypto is making a lot of headlines, and for good reason, the technology is acti
 
 My current recommendation is to buy and hold into a diversified pool of tokens, from good founders. Bitcoin and Ethereum are the two main options, I also put money into Algorand. You can a link to my current portfolio at the bottom of the page.
 
-## Buy BTC and ETH
+## Buy Bitcoin and Ethereum
 
 Bitcoin and Ethereum are the 2 most important cryptocurrencies, and are essentially digital nations because they have their own currencies and contracts. Maximizing your crypto wealth means maximizing your net worth in these 2 assets
 

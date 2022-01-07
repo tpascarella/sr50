@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Stocks/Bonds
+# Stocks & Bonds
 
 ## Advantages
 
