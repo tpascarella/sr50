@@ -87,7 +87,7 @@ module.exports = {
       darkTheme: darkCodeTheme,
     },
   },
-  
+  plugins: [require.resolve('docusaurus-lunr-search')],
   presets: [
     [
       '@docusaurus/preset-classic',
