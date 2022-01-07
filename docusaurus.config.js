@@ -65,7 +65,7 @@ module.exports = {
               to: '/docs/intro',
             },
             {
-              label: 'Blog',
+              label: 'Articles',
               to: '/blog',
             }
           ],
