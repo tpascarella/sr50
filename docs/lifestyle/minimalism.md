@@ -34,6 +34,8 @@ Check out the following two Ted Talks by The Minimalists, Ryan Nicodemus and Jos
 
 Everything you own should have some kind of purpose. You don't need to use it every day, but there should be a reason you keep it around. If something is just sitting idle, see if you can find a new use for it.
 
+In a strange way, you are kind of *adopting* the intem into your life. That item was spawned into the universe with a purpose, and it's eager and willing to fulfill that funtion. If it gets thrown into a landfill without getting the opportunity to be useful, that just sucks.
+
 ## Decluttering
 
 A good exercise to get started is a 30 day detox. Find someone to participate with you and do the following for 30 days.
