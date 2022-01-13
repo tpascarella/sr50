@@ -18,6 +18,12 @@ Budgets are especially useful for people who are not naturally frugal, or are cu
 
 ## Non-Optional Once You Get Married
 
-The one exception to my “budgets are optional” rule is if you’re married. If you’re married, 100%, both of you need to budget together. Financial problems are one of, if not the, biggest cause of divorce, and a divorce will cost you a quarter million dollars. 
+:::caution
+
+The one exception to my “budgets are optional” rule is if you’re married. If you’re married, 100%, both of you need to budget together. 
+
+Financial problems are one of, if not the, biggest cause of divorce, and a divorce will cost you a quarter million dollars. Minimum 
+
+:::
 
 >Increase Your Savings Rate

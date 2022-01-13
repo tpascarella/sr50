@@ -18,6 +18,6 @@ Sooner rather than later. It is important, but not urgent so don't let it fall t
 
 ## Where Should I Keep It?
 
-You should keep one copy of it in a safe in your house, as well as a digital backup in the cloud. It's also smart to give the code to your safe to an attorney to give to your relatives after your passing.
+You should keep an updated copy in a safe in your house, as well as a digital backup in the cloud. It's also smart to give the code to your safe to an attorney to give to your relatives after your passing.
 
 >Increase Your Savings Rate

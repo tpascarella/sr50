@@ -46,7 +46,11 @@ On the first day, find one item to get rid of (either throw away or donate). On 
 
 Most people obsess over owning the latest and greatest of everything. The minimalist stops and thinks that "good enough" items are almost always that. 
 
+:::note An Example
+
 My favorite example for this point is headphones. A $1500 pair of headphones is not 10X better than a $150 pair of headphones, it might be just 10% better. It also gets far more expensive to use and protect these items (you need to invest in expensive audio equipment to drive high impedence headphones).
+
+:::
 
 ## Buy Used
 
@@ -78,11 +82,7 @@ If you use a new credit card for these scheduled purchases, you can take advanta
 
 Buy things in bulk and on sale, if items have a long shelf life and they're discounted on Black Friday, stock up for the rest of the year, that’s a good deal, and a solid ROI (for example, toothpaste, paper products, etc).
 
-## Live Cheaply
-
-I live in Chicago, and [Chicago on the cheap](https://chicagoonthecheap.com/) has been a great resource to find cheap entertainment in an expensive city.
-
-### "Should I keep the boxes?"
+## "Should I keep the boxes?"
 
 A common question is whether you should hold on to the boxes that items came in. I would say if keeping the boxes provides the best option for safe transportation of items should you need to move, then that is a legitimate purpose and you can keep them. 
 
