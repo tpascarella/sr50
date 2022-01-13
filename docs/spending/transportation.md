@@ -6,7 +6,11 @@ sidebar_position: 3
 
 ## Car Payments
 
+:::tip
+
 Don't have a car payment. That's the best strategy. 
+
+:::
 
 The second best strategy is to keep your payment down to the minimum you can reasonably manage. Car payments are always a bad idea. Cars only go down in value, so they aren't an investment. You don’t need a Mercedes to transport you to your job, your car is just a tool to get you from one point to another without leaving you stranded. It’s only a status symbol in your brain. 
 
@@ -50,6 +54,10 @@ If you have business miles and need to deduct them, download MileIQ on your phon
 
 Cars are one of the most common places that human beings die, so if you can't afford a Tesla yet, see if your car is compatible with an Openpilot compatible device from Comma AI. It's really that good, and they just released their [next generation of hardware](https://comma.ai/shop/products/three). 
 
+:::note
+
 See if your car is compatible with their devices [here](https://comma.ai/vehicles). 
+
+:::
 
 >Increase Your Savings Rate

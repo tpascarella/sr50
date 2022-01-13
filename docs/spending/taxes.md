@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Taxes
 
-## Importance
+## Why You Should Reduce Your Tax Bill First
 
 ![Taxes proportion](/img/taxes-dark.svg)
 
@@ -20,12 +20,18 @@ Here are some strategies you can use to reduce your tax liability:
 - Have kids! (If you're ready)
 - Move to a state with no income tax.
 
+:::info
+
 >The states that don't currently charge income taxes are Alaska, Florida, Nevada, South Dakota, Texas, Washington, Wyoming, Tennessee and New Hampshire. Although Tennessee and New Hampshire do charge dividend income from investments.
+
+:::
 
 ## Should I Hire a CPA?
 
-If your tax situation is relatively simple, meaning you only have a W2, then it is perfectly ok to do your taxes yourself using online software. 
+Probably not yet.
 
-But if you have multiple business ventures, multiple rental properties, as well as beginning to withdraw retirement accounts, then you should probably hire an professional to do your taxes for you. It'll likely pay for itself.
+If your tax situation is relatively simple (meaning you only have a W2), then it is perfectly ok to do your taxes yourself using online software. 
+
+However, once you have multiple business ventures, rental properties, as well as if you are beginning to withdraw retirement accounts, then you should probably hire an professional to do your taxes for you. By this point, they will pay for themselves.
 
 >Increase Your Savings Rate

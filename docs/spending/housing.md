@@ -20,7 +20,13 @@ In the grand scheme of things, the financial difference between buying and renti
 
 But, here's the reason why I believe the question is stupid. What is the difference between a $900 a month rent payment and a $900 a month mortgage payment to your Savings Rate? Zero, right?
 
-The question you should really be asking is “how do I situate my Housing so it has the minimum possible detrimental effect on my Savings Rate?” Once you look at the problem this way, a clear winner emerges. 
+:::tip
+
+The question you should really be asking is “how do I situate my Housing so it has the minimum possible detrimental effect on my Savings Rate?” 
+
+Once you look at the problem this way, a clear winner emerges. 
+
+:::
 
 ## House Hacking
 
@@ -42,6 +48,6 @@ If you will be moving in the near future and need flexibility, you can also temp
 
 ## Airbnb
 
-Airbnb offers a way to make money renting out the spare room in your house. This can be an exciting way to make money off of the extra space you have, and depending how valauble your space is, can reap similar financial benefits to house hacking.
+[Airbnb](https://www.airbnb.com/) offers a way to make money renting out the spare room in your house. This can be an exciting way to make money off of the extra space you have, and depending how valauble your space is, can reap similar financial benefits to house hacking.
 
 >Increase Your Savings Rate

@@ -14,6 +14,10 @@ I recommend visiting [The Zebra](https://www.thezebra.com/). And to get quotes f
 
 ## Do This Yourself
 
-Don't let your financial advisor decide what insurance is necessary, they make commissions on the sale and they will absolutely sell you a bloated and unecessary insurance package.
+:::tip
+
+Don't let your financial advisor decide what insurance is necessary, they will absolutely sell you a bloated and unecessary insurance package. Do your own homework.
+
+:::
 
 >Increase Your Savings Rate
