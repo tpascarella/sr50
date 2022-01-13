@@ -25,8 +25,10 @@ module.exports = {
       respectPrefersColorScheme: true,
     },
     announcementBar: {
-      id: 'announcementBar-2',
-      content: 'Increase Your Savings Rate!',
+      id: 'support_us',
+      content: 'Be sure to give this project a like on Github!',
+      backgroundColor: 'var(--ifm-hero-background-color)',
+      textColor: 'var(--ifm-navbar-link-color)', // Defaults to `#000`.
     },
     navbar: {
       title: 'SR50',
@@ -42,7 +44,6 @@ module.exports = {
           label: 'Library',
         },
         {to: '/blog', label: 'Articles', position: 'left'},
-
         {
           href: 'https://github.com/tpascarella/sr50',
           label: 'GitHub',
@@ -58,12 +59,12 @@ module.exports = {
           items: [
             {
               label: 'Library',
-              to: '/docs/intro',
+              to: '/docs',
             },
             {
               label: 'Articles',
               to: '/blog',
-            }
+            },
           ],
         },
         {
@@ -87,7 +88,8 @@ module.exports = {
       darkTheme: darkCodeTheme,
     },
   },
-  plugins: [require.resolve('docusaurus-lunr-search')],
+  plugins: [require.resolve 
+    ('docusaurus-lunr-search')],
   presets: [
     [
       '@docusaurus/preset-classic',
