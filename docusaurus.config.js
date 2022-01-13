@@ -59,7 +59,7 @@ module.exports = {
           items: [
             {
               label: 'Library',
-              to: '/docs',
+              to: '/docs/intro',
             },
             {
               label: 'Articles',
@@ -88,8 +88,7 @@ module.exports = {
       darkTheme: darkCodeTheme,
     },
   },
-  plugins: [require.resolve 
-    ('docusaurus-lunr-search')],
+  plugins: [require.resolve('docusaurus-lunr-search')],
   presets: [
     [
       '@docusaurus/preset-classic',
