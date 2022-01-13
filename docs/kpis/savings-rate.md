@@ -18,7 +18,11 @@ The higher your Savings Rate, the better.
 
 ![Savings Rate Formula](/img/savings-rate-calculation-dark.svg)
 
->Note that Savings Rate works exactly the same regardless of Income and Net Worth.
+:::note
+
+Note that Savings Rate works exactly the same regardless of Income and Net Worth.
+
+:::
 
 ## How Long It Will Take You to Reach FI at Different Savings Rates
 
@@ -35,6 +39,10 @@ The following graph represents average Savings Rates fom 1959 through today, not
 
 ![Savings Rate Historical Graph](/img/historical-savings-rates-dark.svg)
 
+:::tip
+
 For our purposes, we will be looking to achieve and sustain a Savings Rate of 50%+.
+
+:::
 
 >Increase Your Savings Rate

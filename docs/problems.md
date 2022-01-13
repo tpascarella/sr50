@@ -14,7 +14,7 @@ However, *we* are coming up in an era with automation breathing down our necks. 
 
 It's not all bad though! We have access to Google, and there exists a community of personal finance nerds such as myself, who have dedicated their time to uncover every strategy, tactic, and unfair advantage related to personal finance, and they have made it freely available online. We are known colloquially as, the FI community (pronounced like "eye")
 
-They focus on getting users' [Savings Rate](/kpis/savings-rate.md) as high as we can get it, and invest that money as aggresively as possible so that you don't have to trade your time for money any longer than is absolutely necessary.
+Their focus is on getting users' [Savings Rates](/kpis/savings-rate.md) as high as they can, and invest that money as aggresively as possible so that you don't have to trade your time for money any longer than is absolutely necessary.
 
 The SR50 method is the culmination of all the best personal finance advice that the FI community has released, and it has been organized into one website someone can read through within an hour.
 
@@ -76,7 +76,7 @@ Paying off your house is an inefficient use of capital.
 
 Say you pay off your $200,000 mortgage. The return you get on your $200K in capital is that you don't have to pay your mortgage payment anymore. In effect, your $200,000 has given you a $1500/month swing in your Savings Rate. Also, how long would it take you to save up $200,000 in cash? 10 years? 20 years? 
 
-There are many other options you can use that provide far greater swings to your Savings Rate, and those investments should absolutely take priority. You need to consider the opportunity cost of what else you can do with that money. With $200,000 you can use FHA loans towards multiple house hacks (covered in the [Housing](/spending/housing.md) section), a [franchise opportunity](/investing/franchises.md), or a shitload of [crypto](/investing/crypto.md).
+There are many other options you can use that provide far greater swings to your Savings Rate, and those investments should absolutely take priority. You need to consider the opportunity cost of what else you can do with that money. With $200,000 you can use FHA loans towards multiple house hacks (covered in the [Housing](/spending/housing.md) section), a [Franchise purchase](/investing/franchises.md), or a sizable portfolio of [Crypto](/investing/crypto.md).
 
 #### Common Theme
 
