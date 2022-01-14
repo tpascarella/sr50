@@ -54,9 +54,9 @@ I would never advise you to invest in something if I wouldn't also invest in it 
 
 ## Recommended Videos
 
-<iframe width="935" height="526" src="https://www.youtube.com/embed/Xb4g8LzcFSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="935" height="526" src="https://www.youtube.com/embed/MhldkvdS_rM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="935" height="526" src="https://www.youtube.com/embed/G80Jq6ZwnOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="935" height="526" src="https://www.youtube.com/embed/EH6vE97qIP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="333" src="https://www.youtube.com/embed/Xb4g8LzcFSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="333" src="https://www.youtube.com/embed/MhldkvdS_rM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="333" src="https://www.youtube.com/embed/G80Jq6ZwnOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="333" src="https://www.youtube.com/embed/EH6vE97qIP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 >Increase Your Savings Rate

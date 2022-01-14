@@ -10,12 +10,16 @@ You should never use credit irresponsibly to collect the points, but tactfully u
 
 ## Best Credit Cards for Travel Hacking
 
-[Money Under 30](https://www.moneyunder30.com/credit-cards-for-travel-hacking) has a post identifying the best cards for Travel Hacking.
+[Money Under 30](https://www.moneyunder30.com/credit-card-results) has a great tool for comparing the best credit cards for travel miles.
 
 ## Tracking Your Rewards Points
 
-[Award Wallet](https://awardwallet.com/api/main) is kind of like Mint, in that it compiles all of your rewards onto one place and keeps everything organized. It also lets you know when your points are about to expire, which is good to make sure you don't lose anything by mistake!
+[Award Wallet](https://awardwallet.com/api/main) is similar to Mint, in that it compiles all of your rewards onto one place and keeps everything organized. It also lets you know when your points are about to expire, which is good to make sure you don't lose anything by mistake!
+
+:::note
 
 Be sure to use the desktop version of AwardWallet, however. Their iPhone app is infuriating.
+
+:::
 
 >Increase Your Savings Rate

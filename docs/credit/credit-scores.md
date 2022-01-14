@@ -10,7 +10,9 @@ Your credit score will range between 300-850, and there is *absolutely no reason
 
 ![Credit Score Range](/img/credit-score-range-dark.svg)
 
-## How Your Credit Score is Calculated
+## How Your Credit Score is Determined
+
+Credit bureaus use 6 criteria when determining your credit score:
 
 - On-time payments (High impact)
 - Credit utilization (High impact)
@@ -23,6 +25,20 @@ Your credit score will range between 300-850, and there is *absolutely no reason
 
 You will need to get a couple of secured cards, you can find the best versions at [NerdWallet.com](https://www.nerdwallet.com/secured-credit-cards)
 
-It will probably cost you ~$250 in security deposits for these cards, but the $250 will be returned within a few months of responsible spending.
+:::info 
+
+It will cost you ~$250 in security deposits for these cards, but the $250 will be returned within a few months of responsible spending.
+
+:::
+
+### Maintaining Great Credit
+
+To maintain a high credit score, you will need to follow a few basic principles:
+
+- Pay off your credit cards every month.
+- Keep your utilization under 30%.
+- Only open a new credit card around every 6 months.
+- Don't close old credit cards (use them for gas or Netflix).
+
 
 >Increase Your Savings Rate

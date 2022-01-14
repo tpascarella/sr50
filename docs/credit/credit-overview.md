@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Overview
+# Credit Overview
 
 In this section, we will go over all things related to credit, including:
 
