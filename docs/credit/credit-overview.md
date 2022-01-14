@@ -6,7 +6,7 @@ sidebar_position: 1
 
 In this section, we will go over all things related to credit, including:
 
-## [Credit Scores](credit-score.md)
+## [Credit Scores](credit-scores.md)
 
 ## [Student Loans](student-loans.md)
 
