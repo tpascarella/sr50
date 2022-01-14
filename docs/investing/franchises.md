@@ -8,19 +8,30 @@ Franchises are opportunities to purchase an existing business that you own and o
 
 ## Advantages
 
-- Much less risk than starting a business from scratch.
+:::tip Advantages
 
-- Predictable and consistent cash flow.
+- Less risk than starting a business from scratch
+- Can provide reliable cash flow.
+
+:::
 
 ## Disadvantages
 
-- It is a living and breathing business, meaning you or someone you hire will need to manage it with boots on the ground.
+:::danger Disadvantages
 
-- Significantly more expensive to get started, sometimes you need a personal net worth in excess of a million dollars.
+- Significant capital requirements up front.
+- Requires constant management from you or someone you hire.
+- Fast food franchises attract fast food employee talent.
+
+:::
 
 ## Prerequisities
 
+:::caution 
+
 Investing in franchises requires significantly more capital than real estate (in most cases). You will probably need at least $100,000 saved up in order to get financing for one of these.
+
+:::
 
 ## Resources
 

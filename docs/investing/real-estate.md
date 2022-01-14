@@ -8,23 +8,33 @@ Real Estate investing is the process of acquiring land and buildings that will p
 
 ## Advantages
 
-* Does not require much time from you to manage, you can manage an entire portfolio for just a couple of hours per month.
+:::tip Advantages
 
-* Provide consistent cash flow, assuming you invest in stable properties.
+- Doesn't take up much time to manage.
+- Can provide reliable cash flow.
+- Possible to get unfair advantages.
 
-* Disproportionate knowledge or effort results in disproportionately higher returns.
+:::
 
 ## Disadvantages
 
-* Requires significant capital to get into the game. You will need to provide at least a 3.5% down payment for an FHA property, and will need to keep additional capital for repairs or vacancies.
+:::danger Disadvantages
 
-* While you can get higher returns for higher effort, the market still places a hard ceiling on what you can charge for rent. 
+- Significant capital requirements up front.
+- Can't make astronomically higher returns relative to other asset classes.
+- Most real estate investing is a pain and attracts bad tenants.
 
-* You get what you pay for, cheap real estate gets you bad tenants.
+:::
 
 ## Prerequisites
 
+:::caution
+
 You will need at least 1 year of personal runway saved up before you should consider investing in Real Estate. You will also need to build up a solid (700+) credit score.
+
+:::
+
+If possible, network with investors and agents before you jump into real estate investing. There is a learning curve with this asset class.
 
 ## Resources
 

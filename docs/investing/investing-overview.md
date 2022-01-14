@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Overview
+# Investing Overview
 
 There are many different investment asset classes you can use to rapidly acquire financial freedom. They usually correlate between effort and return.
 

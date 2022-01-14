@@ -6,15 +6,22 @@ sidebar_position: 2
 
 ## Advantages
 
-* Completely hands off, index fund investing requires zero time or effort from you.
+:::tip Advantages
 
-* Great diversification, in one index fund you can invest in thousands of companies.
+- Completely hands off.
+- Great diversification.
+- Tax efficient.
+
+:::
 
 ## Disadvantages
 
-* The return you get does not correlate with effort, it is simply what the market returns. Stock market returns average to about 8% per year.
+:::danger Disadvantages
 
-* Because the return is not very high, it can take more time to reach FI in this asset class than Real Estate or Entrepreneurship.
+- No unfair advantages.
+- Takes longer to reach FI than other asset classes.
+
+:::
 
 ## The 4% Rule
 
@@ -24,7 +31,10 @@ To satisfy the 4% rule, you will need one stock index fund and one bond index fu
 
 ## Index Funds
 
->"A low-cost index fund is the most sensible equity investment for the great majority of investors. By periodically investing in an index fund, the know-nothing investor can actually outperform most investment professionals." -Warren Buffett
+:::info A Quote From Warren Buffett
+
+"A low-cost index fund is the most sensible equity investment for the great majority of investors. By periodically investing in an index fund, the know-nothing investor can actually outperform most investment professionals." 
+:::
 
 An index fund is a fund that invests in a group of stocks according to a specific index. I assume you’ve heard of the S&P 500, right? The S&P 500 is an index that tracks the 500 largest publicly traded companies in America, that’s it. So, if you invest in an S&P 500 index fund, you are investing in those same 500 companies, in the same proportions, as the index. Index funds are the simplest, most powerful, most tax efficient, lowest time requirement investments you can ever make in this asset class. 
 
@@ -42,6 +52,12 @@ any time stocks are bought and sold within the fund, that triggers a taxable eve
 the “professionals'' who manage the fund have hefty salaries and bonuses that need to be paid as well as other operating costs like marketing, offices, etc. That money has to come from somewhere! (You.)
 
 So, active fund managers not only have to outperform the index over time (astonishingly rare on its own), but outperform the index with a big enough margin to cover the greatly inflated management costs. So do yourself a favor and just stick with index funds. Your great grandkids will thank you.
+
+### Index Funds vs. ETFs
+
+There is hardly any difference between Index Funds and ETFs. They are slightly different packaging for the same underlying investment product. Kind of like different wrapping papers for the same Christmas present.
+
+I recommend you go with the index fund over ETFs if you have the choice, simply because the fact that they close at the end of each trading day, instead of continuously over the course of the day, gives you slightly more friction against making an impulse sell. 
 
 ## Portfolio Allocation
 
@@ -66,7 +82,7 @@ Benjamin Graham from The Intelligent Investor recommends a portfolio allocation 
 - [VTI](https://investor.vanguard.com/etf/profile/VTI) (stock ETF)
 - [BND](https://investor.vanguard.com/etf/profile/BND) (bond ETF)
 
-## Why Vanguard?
+### Why Vanguard?
 
 Vanguard is owned by the funds that make up Vanguard. And those funds are owned by the investors of those funds. 
 
@@ -74,15 +90,13 @@ Meaning you, as an investor of Vanguard, are also a *partial owner* of Vanguard.
 
 This is in sharp contrast to the rest of the mutual fund industry, which have shareholders as owners who expect to be paid out of the profits of their funds. Investors have caught onto this fact too. Check out this excerpt from 2017:
 
->“In the last three calendar years, investors sank $823 billion into Vanguard funds, the company says. The scale of that inflow becomes clear when it is compared with the rest of the mutual fund industry — more than 4,000 firms in total. All of them combined took in just a net $97 billion during that period, Morningstar data shows. Vanguard, in other words, scooped up about 8.5 times as much money as all of its competitors.”
+:::info
+
+“In the last three calendar years, investors sank $823 billion into Vanguard funds, the company says. The scale of that inflow becomes clear when it is compared with the rest of the mutual fund industry — more than 4,000 firms in total. All of them combined took in just a net $97 billion during that period, Morningstar data shows. Vanguard, in other words, scooped up about 8.5 times as much money as all of its competitors.”
+
+:::
 
 So stick with Vanguard if you have the choice. They have some of, if not the, lowest expense ratios in the industry, and their core values are aligned with your best interests. I wouldn't give my money to any other company.
-
-## Index Funds vs. ETFs
-
-There is hardly any difference between Index Funds and ETFs. They are slightly different packaging for the same underlying investment product. Kind of like different wrapping papers for the same Christmas present.
-
-I recommend you go with the index fund over ETFs if you have the choice, simply because the fact that they close at the end of each trading day, instead of continuously over the course of the day, gives you slightly more friction against making an impulse sell. 
 
 ## Optimizing Returns
 
