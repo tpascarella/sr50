@@ -22,4 +22,12 @@ It is also much easier to bury yourself into a deep financial hole making six fi
 
 As you make more money, societal pressure is higher to flaunt that wealth through expensive houses, cars and tech gadgets. Neurosurgeons can't be expected to drive a 10 year old Honda, right?
 
+:::danger
+
+It is significantly easier to bury yourself into a financial hole with a high salary than a low salary.
+
+Do not fall victim to lifestyle creep!
+
+:::
+
 >Increase Your Savings Rate
