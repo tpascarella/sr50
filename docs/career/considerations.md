@@ -21,6 +21,12 @@ A job you are considering doesn't need to have all of these qualities, but the m
 
 Make a list of all the potential things you want to know about a new job, personal and professional. Then try to find an answer to 70% of the questions on that list.
 
-If you have 70% of the knowable information, make estimates for best case-worst case scenario. Compare and contrast to different jobs at different companies and then pick one. It should always be a step forward, even if slight.
+:::note How to Know You Made a Good Decision
+
+If you have 70% of the knowable information, and have made estimates for best case-worst case scenario. You can be reasonably certain that you made a good decision.
+
+Even if the job doesn't work out, you can justify to yourself that your thought process going into it was solid, and will help you make even better decisions in the future.
+
+:::
 
 >Increase Your Savings Rate

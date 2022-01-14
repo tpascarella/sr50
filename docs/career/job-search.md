@@ -1,5 +1,5 @@
 ---
-sidebar_position: 7
+sidebar_position: 3
 ---
 
 # Job Search
@@ -20,6 +20,10 @@ However most jobs will not provide both, so make sure that it provides at least 
 
 ## Accepting an Offer
 
+:::tip
+
 If you feel like you have at least 70% of knowable information, and have considered the proper cost/benefit for each position, you can be reasonably sure you chose the right job, even if it ends up not working out.
+
+:::
 
 >Increase Your Savings Rate

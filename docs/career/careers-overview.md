@@ -2,19 +2,29 @@
 sidebar_position: 1
 ---
 
-# Overview
+# Careers Overview
 
 In this section we will go over different tactics to build a great career, that pays you enough to become financially independent in a reasonable time.
-
-## [Become So Good They Can't Ignore You](skills.md)
-
-Cal Newport has a great book detailing how to build a career you love. Work satisfaction is an incredibly well researched field, and the TLDR is that you need to develop a rare and valuable skillset, and that gives you the leverage to command rare and valuable work traits in return. 
 
 ## [Futureproofing](futureproofing.md)
 
 You need to think about the long term viability of your career. Automation will replace the cognitive output of 110-140 million full time knowledge workers by 2025, so you need to plan for this now.
 
-Pretty soon, the only jobs worth having will be in the tech field, so it would be a good idea to make yourself useful to them as soon as possible.
+You need to be able to rapidly acquire skills that people will pay you for.
+
+## [Job Search](job-search.md)
+
+Job hunting is stressful. You will likely need to send out hundreds of applications, for a 2% interview rate, and a 10-15% hit rate for offers. Keeping your morale high is of critical importance.
+
+## [Considerations](considerations.md)
+
+Once you have a few offers in hand, how do you compare them to one another? How do you know you are making an informed decision?
+
+This section will go over how you should evaluate potential career options, and how you can 
+
+## [Formal Education](formal-education.md)
+
+If you need to gain more education to advance your career, you better make sure that the *massive* investment is justified.
 
 ## [Military Careers](military.md)
 
