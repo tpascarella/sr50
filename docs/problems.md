@@ -10,14 +10,6 @@ Your parents' advice of "Get a job, put 15% into a 401k, and work that job until
 
 However, *we* are coming up in an era with automation breathing down our necks. The financial advice that might have worked back in the 80s does not apply anymore.
 
-### A Different Financial Philosophy
-
-It's not all bad though! We have access to Google, and there exists a community of personal finance nerds such as myself, who have dedicated their time to uncover every strategy, tactic, and unfair advantage related to personal finance, and they have made it freely available online. We are known colloquially as, the FI community (pronounced like "eye")
-
-Their focus is on getting users' [Savings Rates](/kpis/savings-rate.md) as high as they can, and invest that money as aggresively as possible so that you don't have to trade your time for money any longer than is absolutely necessary.
-
-The SR50 method is the culmination of all the best personal finance advice that the FI community has released, and it has been organized into one website someone can read through within an hour.
-
 ### Everything is About Getting Your Time Back 
 
 Time is the only resource you can never buy more of. 
