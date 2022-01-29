@@ -6,9 +6,13 @@ sidebar_position: 8
 
 ## Passive Income > Big Life Goals
 
-Stage Six is when you can get your Tesla. 
+:::tip
 
-Here you have enough passive income so that your lifestyle is covered, with a comfortable margin of safety, and now you have enough leftover to splurge on fancy cars, a condo in the city, designer clothes, groceries from Whole Foods,  world travel, anything you want. 
+Stage Six is when you can get your Tesla.
+
+:::
+
+Here you have enough passive income so that your lifestyle is covered, with a comfortable margin of safety, and now you have enough leftover to splurge on fancy cars, a condo in the city, designer clothes, groceries from Whole Foods, world travel, anything you want. 
 
 Although, while having fancy shit is nice, your attention should really pivot towards the development of your character. It’s smart to begin thinking about what your life will look like once you get to this stage, and to plan for that now.
 

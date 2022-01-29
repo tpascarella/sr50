@@ -21,7 +21,9 @@ Stage Four happens once passive income can cover your barebones survival expense
 
 This is the first point, mathematically, where you have complete control over your time. Having enough passive income to cover survival expenses is a huge accomplishment that you should be proud of! You won’t stay at this stage forever, but you have a wealth of choice available to you that very few others have. 
 
-In the startup world, this point is known as Ramen Profitability, and it's the point where you don't need investors' (your employer's) permission to continue existing. This is the most important threshold along your wealth building journey!
+In the startup world, this point is known as Ramen Profitability, and it's the point where you don't need investors' (your employer's) permission to continue existing. 
+
+This is the most important threshold along your wealth building journey, and the first moment where the FFE is solved!
 
 :::info 
 

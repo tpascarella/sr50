@@ -10,7 +10,7 @@ Anyone whose active income (salary) cannot cover their lifestyle, and relies on 
 
 :::info 
 
-The reason the first stage is stage zero instead of stage one, is because the FI community has deep roots in the engineering community, and computer science people start lists from zero.
+The reason the first stage is Stage Zero instead of Stage One, is because the FI community has deep roots in the software engineering/computer science communities, and computer science people start lists from zero.
 
 :::
 

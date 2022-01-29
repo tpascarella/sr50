@@ -36,7 +36,7 @@ There is an obvious divide between what a financial advisor should be in theory,
 
 :::
 
-### The Job is Obsolete
+### The Job Has Become Obsolete
 
 You don't need to pay someone thousands of dollars to tell you that you should spend less than you earn and invest for the future. Calling them financial "advisors" is really intellectually misleading
 
@@ -70,7 +70,7 @@ Say you pay off your $200,000 mortgage. The return you get on your $200K in capi
 
 There are many other options you can use that provide far greater swings to your Savings Rate, and those investments should absolutely take priority. You need to consider the opportunity cost of what else you can do with that money. With $200,000 you can use FHA loans towards multiple house hacks (covered in the [Housing](/spending/housing.md) section), a [Franchise purchase](/investing/franchises.md), or a sizable portfolio of [Crypto](/investing/crypto.md).
 
-#### Common Theme
+### Common Theme
 
 A lot of bad advice stems from attempting to optimize Net Worth, or Income, *when your focus should really go towards maximizing your Savings Rate*. If you take care of Savings Rate, everything else will take care of itself.
 
@@ -88,7 +88,7 @@ The consequence of having a low Savings Rate is that your Runway (the amount of 
 
 It also makes it much harder to start building passive income with a low Savings Rate. You have no capital to invest, or a means to acquire more.
 
-### Don't Sell Your Soul for Money
+### You Have No Choice But To Sell Your Soul for Money
 
 It's also soul crushing to work at an Initech type of company for a Lumbergh type boss.
 
