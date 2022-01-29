@@ -48,4 +48,10 @@ Net Worth is useful for revealing any blind spots left behind by Savings Rate an
 
 Income is only imporant in what impact it has on your Savings Rate. If you have a 6-figure income, but a single digit Savings Rate, your income does not benefit you *at all*. Savings Rate is EVERYTHING.
 
+:::note
+
+Income does not matter, UNLESS you use it to INCREASE YOUR SAVINGS RATE.
+
+:::
+
 >Increase Your Savings Rate
