@@ -24,6 +24,10 @@ But as a minimalist, you purchase more useful items, items that are higher quali
 
 Some purchases, if you do them right, you never need to make again. This is a helpful question to ask when decided whether to buy something. When you finally get your shit together, will you still use this item consistently?
 
+### Don't Upgrade Things for the Sake of Upgrading Things
+
+If an item serves its purpose and still has a lot of life left in it, then it is inefficient to replace it just for the sake of upgrading your stuff. That time and money would be better spent in improving areas that you have not invested in and can offer a higher return on investment. It’s also healthy to break yourself of the notion that everything needs to be the latest and greatest.
+
 ## ROI
 
 One of the biggest benefits of minimalism is that it builds very healthy and efficient spending habits. It isn't about living with a limited number of possessions, just restricting the things you own to the most important and valuable. 

@@ -46,7 +46,9 @@ In the technology adoption curve, we are probably in the early adopter/early maj
 
 ### Portfolio Strategy
 
-The simplest Crypto strategy is to go 50/50 BTC/ETH, skewing to 75/25 in either direction depending on your risk tolerance. It is modeled after Benjamin Graham's portfolio from The Intelligent Investor.
+The simplest Crypto strategy is to go 50/50 BTC/ETH, skewing to 75/25 in either direction depending on personal preference. It is modeled after Benjamin Graham's portfolio from The Intelligent Investor.
+
+There is no "best" portfolio allocation, as some would have you believe. You can't possibly know what the best portfolio allocation would be unless you have a time machine and can look 10 years into the future. The best bet you have is to make informed decisions about which tokens you are going to invest in, and dollar cost average for the long term.
 
 ### Putting My Money Where My Mouth Is
 
