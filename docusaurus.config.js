@@ -94,24 +94,73 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
+          path: 'docs',
+          routeBasePath: 'docs',
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
           editUrl:
             'https://github.com/tpascarella/sr50-docs/tree/main/',
             showLastUpdateAuthor: true,
             showLastUpdateTime: true,
           remarkPlugins: [require('mdx-mermaid')],
+          include: ['**/*.md', '**/*.mdx'],
+          exclude: [
+            '**/_*.{js,jsx,ts,tsx,md,mdx}',
+            '**/_*/**',
+            '**/*.test.{js,jsx,ts,tsx}',
+            '**/__tests__/**',
+          ],
         },
         blog: {
+          path: 'blog',
           showReadingTime: true,
-          // Please change this to your repo.
           editUrl:
             'https://github.com/tpascarella/sr50-docs/tree/main/',
+          blogTitle: 'Blog title',
+          blogDescription: 'Blog',
+          blogSidebarCount: 5,
+          blogSidebarTitle: 'All our posts',
+          routeBasePath: 'blog',
+          include: ['**/*.{md,mdx}'],
+          exclude: [
+            '**/_*.{js,jsx,ts,tsx,md,mdx}',
+            '**/_*/**',
+            '**/*.test.{js,jsx,ts,tsx}',
+            '**/__tests__/**',
+          ],
+          postsPerPage: 10,
         },
+        pages: {
+          path: 'src/pages',
+          include: ['**/*.{js,jsx,ts,tsx,md,mdx}'],
+          exclude: [
+            '**/_*.{js,jsx,ts,tsx,md,mdx}',
+            '**/_*/**',
+            '**/*.test.{js,jsx,ts,tsx}',
+            '**/__tests__/**',
+          ],
+          mdxPageComponent: '@theme/MDXPage',
+          remarkPlugins: [require('remark-math')],
+          rehypePlugins: [],
+          beforeDefaultRemarkPlugins: [],
+          beforeDefaultRehypePlugins: [],
+        },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+        },
+        /* 
+        googleAnalytics: {
+          trackingID: 'UA-141789564-1',
+          anonymizeIP: true,
+        },
+        gtag: {
+          trackingID: '141789564',
+          anonymizeIP: true,
+        },
+        */       
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-        
       },
     ],
   ],
