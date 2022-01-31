@@ -100,6 +100,7 @@ module.exports = {
             'https://github.com/tpascarella/sr50-docs/tree/main/',
             showLastUpdateAuthor: true,
             showLastUpdateTime: true,
+          remarkPlugins: [require('mdx-mermaid')],
         },
         blog: {
           showReadingTime: true,
