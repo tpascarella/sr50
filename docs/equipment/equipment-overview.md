@@ -10,7 +10,7 @@ Some items include:
 
 ## A [Checking Account](checking-account.md) 
 
-## Some Type of [Savings Account](savings-ef.md)
+## Some Type of [Savings Account](emergency-funds.md)
 
 ## [These Apps](apps.md) 
 
