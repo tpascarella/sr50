@@ -50,4 +50,8 @@ However, taxes usually account for 1/3rd of your salary, so in this section we w
 
 Housing, Transportation, and Food take up 62% of the average American spending. Since we want to reach a Savings Rate of 50%, we will need to take drastic action on these 3 categories.
 
+### References
+
+The above data comes from the [Consumer Expenditures Report](https://www.bls.gov/opub/reports/consumer-expenditures/2020/pdf/home.pdf) from the Bureau of Labor Statistics.
+
 >Increase Your Savings Rate
