@@ -2,36 +2,52 @@
 sidebar_position: 1
 ---
 
-# Spending Overview
+# Spending Categories Overview
 
-As you have heard, Savings Rate is the most important KPI when determining how long it will take to reach financial independence. We recommend reaching a Savings Rate of 50%+. If you can get it higher than that, do so!
+As previously mentioned, Savings Rate is the most important KPI when determining how long it will take to reach financial independence. We recommend reaching a Savings Rate of 50%, but if you can get it higher than that, do so!
 
-But it would be impossible to give you advice as to how to increase your Savings Rate without first going over how your spending breaks down. Here is the breakdown of the average American's spending.
+However it would be impossible to give you advice as to how to increase your Savings Rate, without first going over how your spending likely breaks down. Here is the breakdown of the average American's spending patterns.
 
 ![Average Spending Breakdown](/img/average-spending-breakdown-dark.svg)
 
+:::note 
+
+Note that these are averages, you will figure out your own numbers the first few times you complete a budget.
+
+:::
+
 ## 33% goes to [Housing](housing.md)
 
-Housing is the single largest expense category for most Americans, taking up 33% of average spending. In the Housing section, we will cover ways to reduce your housing costs, if not completely eliminate them with a strategy known as *House Hacking*. We will also cover ways to make your home more energy efficient, and make additional money with your space through Airbnb. 
+Housing is the single largest expense category, taking up 33% of average spending. 
+
+In the Housing section, we will cover ways to reduce, if not completely eliminate your housing cost through a strategy called *House Hacking*. We will also cover ways to make your home more energy efficient, and make additional money with your space. 
 
 ## 17% goes to [Transportation](transportation.md)
 
-Transportation is the 2nd largest expense category, taking up 17% of average spending. Most of this is from needlessly bloated car payments, but also with excessive commutes.  
+Transportation is the 2nd largest expense category, taking up 17% of average spending. 
+
+Most of this is from needlessly bloated car payments, but also with excessive commutes. This section will cover efficient ways to spend less transporting yourself. 
 
 ## 16% goes to [Food](food.md)
 
-Food is the 3rd largest expense category, taking up 16% of average spending. This is split pretty evenly between buying groceries and eating out, and we will go over expenses to reduce spending on both of these.
+Food is the 3rd largest expense category, taking up 16% of average spending. 
+
+This is split pretty evenly between buying groceries and eating out, and this section will go over expenses to reduce spending on both (without sacrificing physical health).
 
 ## 34% goes to [Everything Else](everything-else.md)
 
-34% of spending goes to other categories, education, clothing, alcohol, social life expenses, etc. Most of these are the expenses people try to cut out in an attempt to save money, but in relation to the Big 3 mentioned earlier, these expenses can be kept (within reason).
+34% of spending goes to other categories, education, clothing, alcohol, social life expenses, etc. 
 
-## ~1/3rd of your Income goes to [Taxes](taxes.md)
+Most of these are the expenses people try to cut out in an attempt to save money, but in relation to the Big 3 (Housing, Transportation, and Food), these expenses can be kept (within reason).
 
-The spending breakdown chart only represents your *after-tax take home pay*, which leaves out taxes as an expense category. However, taxes usually account for 1/3rd of your salary, so in this section we will cover ways to reduce your tax liability as efficiently as we can.
+## Roughly a Third of your Income goes to [Taxes](taxes.md)
 
-## Takeaway
+The spending breakdown chart only represents your *after-tax take home pay*, which leaves out taxes as an expense category. 
 
-Housing, Transportation, and Food take up 62% of the average American spending. Since we want to reach a Savings Rate of 50%, we will need to take drastic action on these 3 categories, which we'll cover in the next sections.
+However, taxes usually account for 1/3rd of your salary, so in this section we will cover ways to reduce your tax liability.
+
+### Takeaway
+
+Housing, Transportation, and Food take up 62% of the average American spending. Since we want to reach a Savings Rate of 50%, we will need to take drastic action on these 3 categories.
 
 >Increase Your Savings Rate
