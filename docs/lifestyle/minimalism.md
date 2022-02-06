@@ -6,96 +6,156 @@ sidebar_position: 2
 
 ## Philosophy
 
-Minimalism is not about owning a specific number of items, or living like a hermit. Minimalism is a process of being intentional with all of your possessions, and removing all of the things that do not provide value so you can invest maximally in the things (and people) that do.
+Minimalism is not about owning a specific number of items, or living like a hermit. 
+
+Minimalism is a lifestyle revolving around being intentional with all of your possessions, and removing all of the things that do not provide value so you can maximally invest in the things (and people) that do.
 
 It is about living simply, with as few possessions as needed to live a maximally meaningful life. Anything else is a waste.
 
 >"There's only so much money a man really needs, the rest is just for showing off" -Forrest Gump
 
-## "I can't be a minimalist, I love shopping!"
+## Return on Investment
 
-People say they can't become a minimalist because they enjoy shopping. 
+One of the big benefits of a minimalist lifestyle is that it builds very efficient spending habits. It isn't about living with a limited number of possessions, just restricting the things you own to the most important and valuable. 
 
-Well, you'll still be shopping as a minimalist, you need to bring resources and supplies into your life to continue existing (food, clothing, the things you used to do your job, your appearance) literally everything is inventory management.
+Check out the following YouTube videos and see if anything resonates. 
 
-But as a minimalist, you purchase more useful items, items that are higher quality, at way better prices because you took the time to research it. In every aspect of the game, you become a *better shopper.* And if you genuinely enjoy shopping, imagine how much you will enjoy it once you actually *get good.*
+A half hour of Youtube videos can potentially prevent *decades* of inefficient purchasing decisions. That is a great ROI!
+
+<iframe width="600" height="333" src="https://www.youtube.com/embed/w7rewjFNiys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="333" src="https://www.youtube.com/embed/GgBpyNsS-jU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="333" src="https://www.youtube.com/embed/JHcGmiZqKXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Considerations
 
 ### "Will this be in the final system?"
 
-Some purchases, if you do them right, you never need to make again. This is a helpful question to ask when decided whether to buy something. When you finally get your shit together, will you still use this item consistently?
+Some purchases, if you do them right, you never need to make again. 
 
-### Don't Upgrade Things for the Sake of Upgrading Things
+This is a helpful question to ask when decided whether to buy something. Once you finally get your shit together, will you still use this item regularly? If not, reconsider how much you need this
 
-If an item serves its purpose and still has a lot of life left in it, then it is inefficient to replace it just for the sake of upgrading your stuff. That time and money would be better spent in improving areas that you have not invested in and can offer a higher return on investment. It’s also healthy to break yourself of the notion that everything needs to be the latest and greatest.
+### Don't Upgrade Things for the Sake of "Just Buying Stuff"
 
-## ROI
+A lot of people look around their house looking for what they should upgrade next.
 
-One of the biggest benefits of minimalism is that it builds very healthy and efficient spending habits. It isn't about living with a limited number of possessions, just restricting the things you own to the most important and valuable. 
+But, if the item you are thinking of replacing still has a lot of life left in it, and serves its purpose well enough, then it would be an inefficient use of capital to upgrade it just for the sake of getting the dopamine hit from making a purchase.
 
-Check out the following two Ted Talks by The Minimalists, Ryan Nicodemus and Joshua Fields Milburn. 25 minutes of Youtube can potentially prevent *decades* of irresponsible purchasing decisions. That is a great ROI!
+:::tip
 
-## Everything Should Have a Purpose
-
-Everything you own should have some kind of purpose. You don't need to use it every day, but there should be a reason you keep it around. If something is just sitting idle, see if you can find a new use for it.
-
-In a strange way, you are kind of *adopting* the intem into your life. That item was spawned into the universe with a purpose, and it's eager and willing to fulfill that funtion. If it gets thrown into a landfill without getting the opportunity to be useful, that just sucks.
-
-## Decluttering
-
-A good exercise to get started is a 30 day detox. Find someone to participate with you and do the following for 30 days.
-
-On the first day, find one item to get rid of (either throw away or donate). On the second day, get rid of two items. On the third day, get rid of three. Continue for all 30 days. Whoever lasts the longest wins!
-
-## "Good Enough" is Almost Always That
-
-Most people obsess over owning the latest and greatest of everything. The minimalist stops and thinks that "good enough" items are almost always that. 
-
-:::note An Example
-
-My favorite example for this point is headphones. A $1500 pair of headphones is not 10X better than a $150 pair of headphones, it might be just 10% better. It also gets far more expensive to use and protect these items (you need to invest in expensive audio equipment to drive high impedence headphones).
+It’s also healthy to break yourself of the notion that everything always needs to be the latest and greatest. It just needs to do its job.
 
 :::
 
-## Buy Used
+### "A place for everything, and everything in its place"
 
-It’s also healthy to rid yourself of the idea that everything needs to be perfect and beautiful. You can buy perfectly good items used, for way less than buying new at retail.
+Everything you own should have some kind of purpose. You don't need to use it every day, but there should be a concrete reason you keep it around. If something is just sitting idle, see if you can find a new use for it.
 
-The Japanese have a concept called Wabi-Sabi where they use gold to repair broken items, and view imperfections as unique additions to an item’s story, because this most accurately represents the rough and imperfect nature of the natural universe.
+In a strange way, you're kind of *adopting* that item into your life. That item was spawned into the universe with a purpose, and it is eager and willing to fulfill that purpose. 
 
-## Treasure Hunting
+If it gets tossed into a landfill without getting the opportunity to be useful, that just sucks.
 
-Now, once you have decided you want to buy something, what's the best way to go about buying it? I call it *treasure hunting*.
+### "Good Enough" is Usually Just That
 
-While treasure hunting, you scour ebay, craigslist, facebook marketplaces, and various other places until you find the thing you want at significantly lower cost. Paying retail is for suckers. You'll also like the item far more if you spent half as much as the other plebs.
+Most people obsess over owning the latest and greatest of everything. The minimalist stops and thinks whether "good enough" items are just that. 
 
-Don't buy things at the first moment you want them. Spend some time thinking about what you are going to use it for, how it will work with other items you have, and whether you really need it. If after careful consideration you decide it's worth it, then go for it.
+:::note An Example
 
-## Military Resupply
+My favorite example for this point is headphones. A $1500 pair of headphones is not 10X better than a $150 pair of headphones, it might only be 10% better. 
 
-A surprisingly fun part of being a minimalist is that you are incredibly efficient at resource management. Everything has a purpose, nothing goes to waste, you run very lean, and your possessions take up as little space as necessary (which makes moving cheaper and easier).
+It also becomes far more expensive to use and protect these items (you need to invest in expensive audio equipment to drive high impedence headphones).
 
-As mentioned in the shopping section, I want you to treat purchasing like a military resupply. Settle on a time frame between purchases (Once a month, once a quarter) and then do some real research into the things you want to buy. Really evaluate how you will use it on a daily basis and whether the price is worth the expected value. If you won't use it every day, be very skeptical about investing heavily into it.
+:::
 
-If you know you will do your shopping in a structured and predictable way, you don't need to fight with yourself the other times to resist the temptation.
+## Common Objections
 
-### Use Credit Rewards
+### "I can't be a minimalist, I love shopping!"
 
-If you use a new credit card for these scheduled purchases, you can take advantage of their reward programs and gain points for doing the shopping you were already going to do anyway. This maximizes the efficiency of your dollars!
+People say they can't become a minimalist because they deeply enjoy shopping. 
 
-## Take Advantage of Sales
+The good news is, you'll still be shopping as a minimalist. You need to bring resources and supplies into your life to continue existing (food, clothing, etc) literally everything is inventory management.
 
-Buy things in bulk and on sale, if items have a long shelf life and they're discounted on Black Friday, stock up for the rest of the year, that’s a good deal, and a solid ROI (for example, toothpaste, paper products, etc).
+However as a minimalist, you purchase items that are:
 
-## "Should I keep the boxes?"
+- far more useful, 
+- items that are higher quality,
+- items you will actually use,
+- at way better prices! (because you took the time to shop around)
 
-A common question is whether you should hold on to the boxes that items came in. I would say if keeping the boxes provides the best option for safe transportation of items should you need to move, then that is a legitimate purpose and you can keep them. 
+:::tip Minimalism will make you a better shopper
 
-If the only function they have is as a display on your shelf, I don't think it's worth the space.
+In every aspect of the activity, you become a *better shopper.* 
 
-## Recommended Videos
+And if you genuinely enjoy shopping, imagine how much you will enjoy it once you actually *get good.*
 
-<iframe width="655" height="368" src="https://www.youtube.com/embed/JHcGmiZqKXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="655" height="368" src="https://www.youtube.com/embed/w7rewjFNiys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="655" height="368" src="https://www.youtube.com/embed/GgBpyNsS-jU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::
+
+## Strategies
+
+### Decluttering
+
+If you are brand new to minimalism, there is a big chance you have far too much stuff, and will need to begin downsizing.
+
+A fun way to get started is to do a 30 day detox. 
+
+Find someone to participate with you and do the following for 30 days:
+
+- On the first day, find one item to get rid of (either throw away or donate). 
+- On the second day, get rid of two items. 
+- On the third day, get rid of three. 
+- Repeat this process for all 30 days. 
+
+Whoever lasts the longest wins!
+
+### Buying Used Items
+
+You can buy perfectly good items used on Craigslist or Ebay, for much less than buying new at retail.
+
+This leads me nicely into the next strategy.
+
+### Treasure Hunting
+
+Once you have decided you want to buy something, what's the best way to go about buying it? I call this strategy, *treasure hunting*.
+
+While treasure hunting, you scour eBay, Craigslist, Facebook marketplaces, and various other places until you find the thing you want at significantly lower cost. 
+
+Don't buy things at the first moment you want them. Spend some time thinking about what you're going to use it for, how it will work with other items you have, and whether you really need it. If after careful consideration you decide it's worth it, then find your treasure.
+
+:::tip
+
+Paying retail is for suckers.
+
+:::
+
+### Military Resupplies
+
+Minimalists are incredibly efficient at resource management. Everything has a purpose, nothing goes to waste, you run very lean, and your possessions take up as little space as necessary (which makes moving cheaper and easier). I want you to treat making purchasing like a scheduled military resupply. 
+
+Settle on a time frame between purchases (Once a month is a good place to start) and during that month expend some real effort doing research on the things you want to buy. 
+
+:::note
+
+Really evaluate how you will use it on a recurring basis and whether the price is worth the expected value.
+
+:::
+
+If you know you will do your shopping in predictable intervals, you don't need to fight with yourself the other times to resist the temptation of going shopping.
+
+### Use Credit Rewards For These Resupplies
+
+Once you have your shopping list ready, try to use a new credit card to make these purchases so you can get the rewards that come with them. 
+
+Acquiring points and miles while doing the shopping you will need to do anyway, is a good way to maximize the efficiency of your dollars.
+
+### Take Advantage of Sales
+
+If items can be bought in bulk and on sale, do it!
+
+A lot of items have a long shelf life and can be stored for a long time. If you have the option to buy paper products or toothpaste at a discount, stocking up for the rest of the year is a smart idea.
+
+### "Should I keep the boxes?"
+
+If keeping the boxes provides the best option for safe transportation of items should you need to move, then that is a legitimate purpose and you can keep them. 
+
+If the only function the boxes serve is to be a display on your shelf, I don't think it's worth the space.
 
 >Increase Your Savings Rate
