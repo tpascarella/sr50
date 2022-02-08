@@ -20,12 +20,28 @@ Credit Karma is my favorite app to keep track of my credit score, it has officia
 
 It can also show you offers to refinance loans for your house and car if that would be of benefit to you.
 
-## Coinbase or Gemini
+- [Credit Karma iOS Link](https://apps.apple.com/us/app/credit-karma/id519817714)
+
+- [Credit Karma Android Link](https://play.google.com/store/apps/details?id=com.creditkarma.mobile&hl=en_US&gl=US)
+
+## Coinbase/Gemini
 
 To buy crypto.
+
+- [Coinbase iOS Link](https://apps.apple.com/us/app/coinbase-buy-bitcoin-ether/id886427730)
+
+- [Coinbase Android Link](https://play.google.com/store/apps/details?id=com.coinbase.android&hl=en_US&gl=US)
+
+- [Gemini iOS Link](https://apps.apple.com/us/app/gemini-buy-bitcoin-crypto/id1408914447)
+
+- [Gemini Android Link](https://play.google.com/store/apps/details?id=com.gemini.android.app&hl=en_US&gl=US)
 
 ## Some Cash Transferring App 
 
 I personally use Venmo, but any cash transferring app will work.
+
+- [Venmo iOS Link](https://apps.apple.com/us/app/venmo/id351727428)
+
+- [Venmo Android Link](https://play.google.com/store/apps/details?id=com.venmo&hl=en_US&gl=US)
 
 >Increase Your Savings Rate

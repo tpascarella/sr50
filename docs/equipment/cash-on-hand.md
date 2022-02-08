@@ -20,8 +20,8 @@ This should be enough to cover your needs in 99% of circumstances.
 
 It's also useful to have a stack of $20s hidden away somewhere. If your car gets towed, or anything else comes up that you can't use a card for, this is useful.
 
-## Debit Card
+## ATM/Debit Card
 
-If you aren't willing to keep cash on hand, at least be able to grab some from the ATM at a moment's notice.
+If you aren't willing to keep cash on hand, you at least need to be able to grab some from the ATM at a moment's notice.
 
 >Increase Your Savings Rate
