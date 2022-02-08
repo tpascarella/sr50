@@ -10,9 +10,9 @@ Geoarbitrage is the process of moving to a lower cost of living area to get the 
 
 [This article](https://millennialmoney.com/geoarbitrage/) by Millenial Money is the best I've found currently.
 
-## Self Sufficiency
+## Self Reliance
 
-It is considerably cheaper being self sufficient than not. The fewer dependencies you have on others, the cheaper your lifestyle costs.
+It is considerably cheaper being self reliant than not. The fewer dependencies you have on others, the cheaper your lifestyle costs.
 
 :::tip
 

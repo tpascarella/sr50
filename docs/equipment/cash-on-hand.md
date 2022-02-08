@@ -4,18 +4,24 @@ sidebar_position: 5
 
 # Cash on Hand
 
-## In Your Wallet
+There will come times where you need to get your hands on some cash in a pinch.
 
-It's useful to have $60 in change in your wallet for anything that comes up. 
+## How Much Cash to Keep In Your Wallet
+
+It's useful to keep $60 in change in your wallet. Use the following denominations:
 - 1 $20
 - 2 $10s
 - 2 $5s
-- 10 $10s
+- 10 $1s
 
 This should be enough to cover your needs in 99% of circumstances.
 
-## In Your House
+## How Much Cash to Keep In Your House
 
 It's also useful to have a stack of $20s hidden away somewhere. If your car gets towed, or anything else comes up that you can't use a card for, this is useful.
+
+## Debit Card
+
+If you aren't willing to keep cash on hand, at least be able to grab some from the ATM at a moment's notice.
 
 >Increase Your Savings Rate

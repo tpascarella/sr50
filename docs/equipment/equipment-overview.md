@@ -2,11 +2,11 @@
 sidebar_position: 1
 ---
 
-# Overview
+# Equipment Overview
 
 In this section we will go over all of the equipment and supplies you will need to get started with FI.
 
-Some items include:
+Items include:
 
 ## A [Checking Account](checking-account.md) 
 

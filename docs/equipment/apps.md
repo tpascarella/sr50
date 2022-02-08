@@ -4,28 +4,28 @@ sidebar_position: 4
 
 # Apps
 
-These are the apps you should have on your phone.
+These are the apps you should download onto your phone.
 
-## Your Checking Account App
+## Checking Account App
 
-Any good checking account will come with an app. Download it. You probably already have by.
+Any decent checking account will come with an app. Download it. You probably already have.
 
-## Apps from All Credit Cards You Have
+## Apps from All Credit Cards
 
-Every credit card you can get will have an app of some kind. Download the app for each one.
+Every credit card you can get will come with an app. Download it. Youprobably already have.
 
 ## Credit Karma
 
-Credit Karma is my favorite app to keep track of my credit score, it has officially surpassed Mint in that category. 
+Credit Karma is my favorite app to keep track of my credit score, it has officially surpassed Mint in that category. It shows you your most up to date credit score, from both Equifax and TransUnion. 
 
-It shows you your most up to date credit score, from both Equifax and TransUnion. It can also show you offers to refinance loans for your house and car if that would be of benefit to you, which in turn will increase your savings rate.
+It can also show you offers to refinance loans for your house and car if that would be of benefit to you.
 
 ## Coinbase or Gemini
 
-For the crypto savvy.
+To buy crypto.
 
 ## Some Cash Transferring App 
 
-My personal favorite is Venmo, but Cash App works too.
+I personally use Venmo, but any cash transferring app will work.
 
 >Increase Your Savings Rate
