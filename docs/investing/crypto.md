@@ -4,17 +4,19 @@ sidebar_position: 7
 
 # Cryptocurrency
 
-Crypto is making a lot of headlines, and for good reason, the technology is actively disrupting central and commercial banks, and has very promising implications for the future. However, along with that, there are a lot of unsavory individuals in this space, and a majority of ICOs currently fall somewhere in between incompetence and scams. You do need to do your homework. You can potentially lose everything if you are not careful.
+Crypto is making a lot of headlines, and for good reason, the technology is actively disrupting central and commercial banks, and has very promising implications for the future. 
+
+However, along with that, it has attracted a lot of unsavory individuals to this space. You do need to do your homework, you could potentially lose everything if you're not careful.
 
 :::tip 
 
-As a general rule, it is wise to put your money into something, only if you can also explain to a 5 year old. 
+As a general rule, it is wise to put your money into something only if you can also explain to a 5 year old. 
 
 :::
 
-My current recommendation is to buy and hold into a diversified pool of tokens, from good founders. Bitcoin and Ethereum are the two main options, I also put money into Algorand. You can a link to my current portfolio at the bottom of the page.
+My current recommendation is to buy and hold into a diversified pool of tokens, from good founders. Bitcoin and Ethereum are the two main options.
 
-## Advantages
+## Advantages & Disadvantages
 
 :::tip Advantages
 
@@ -22,8 +24,6 @@ My current recommendation is to buy and hold into a diversified pool of tokens, 
 - The crypto revolution is happening whether you hop on board or not.
 
 :::
-
-## Disadvantages
 
 :::danger Disadvantages
 
@@ -34,13 +34,17 @@ My current recommendation is to buy and hold into a diversified pool of tokens, 
 
 ## Buy Bitcoin and Ethereum
 
-Bitcoin and Ethereum are the 2 most important cryptocurrencies, and are essentially digital nations because they have their own currencies and contracts. Maximizing your crypto wealth means maximizing your net worth in these 2 assets.
+Bitcoin and Ethereum are the 2 most important cryptocurrencies.
 
-### Is It Too Late?
+They are essentially digital nations because they have their own currencies and contracts. Maximizing your crypto wealth means maximizing your net worth demoninated in these 2 assets.
+
+### Is It Too Late To Buy?
 
 No! 
 
-In the technology adoption curve, we are probably in the early adopter/early majority camp. We still have tremendous upside by investing in crypto. We are definitely paying higher valuations than people who bought Bitcoin when it was $5, but we have more educational resources and social validation that this is legit. 
+In the technology adoption curve, we are probably in the early adopter/early majority camp. There is still tremendous upside by investing in crypto. 
+
+We're definitely paying higher valuations than people who bought Bitcoin back when it was $5, but we have far more educational resources and social validation that the technology is legit. 
 
 ![Technology adoption curve](/img/technology-adoption.svg)
 

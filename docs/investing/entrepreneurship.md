@@ -4,20 +4,19 @@ sidebar_position: 5
 
 # Entrepreneurship
 
-## Advantages
+## Advantages & Disadvantages
 
 :::tip Advantages
 
-- Unlimited ROI potential.
+- Unlimited potential ROI.
 - Complete control over the assets you build.
+- High status.
 
 :::
 
-
-## Disadvantages
-
 :::danger Disadvantages
 
+- Much higher chance of failure.
 - You likely won't see a return for a long time.
 - Much more difficult and time intensive.
 
@@ -25,8 +24,8 @@ sidebar_position: 5
 
 ## Resources
 
-[Y Combinator](https://www.ycombinator.com/) is the best resource I have found for learning how to start a startup. 
+[Y Combinator](https://www.ycombinator.com/) is the best resource I have found for learning how to start a high growth startup. 
 
-[Rework](https://www.amazon.com/dp/B002MUAJ2A/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) is another great book I would recommend for small business owners.
+[Rework](https://www.amazon.com/dp/B002MUAJ2A/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) is a great book I would recommend for small business owners.
 
 >Increase Your Savings Rate

@@ -4,9 +4,9 @@ sidebar_position: 4
 
 # Franchises
 
-Franchises are opportunities to purchase an existing business that you own and operate, while using an established businesses brand. Mostly retail and restaurants.
+Franchises are opportunities to purchase an existing business that you own and operate, while using an established business's brand.
 
-## Advantages
+## Advantages & Disadvantages
 
 :::tip Advantages
 
@@ -14,8 +14,6 @@ Franchises are opportunities to purchase an existing business that you own and o
 - Can provide reliable cash flow.
 
 :::
-
-## Disadvantages
 
 :::danger Disadvantages
 
@@ -35,6 +33,6 @@ Investing in franchises requires significantly more capital than real estate (in
 
 ## Resources
 
-[The Franchise Bible](https://www.amazon.com/dp/B01N95E8IW/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) is currently the best book I have read on franchise investing. We are still in the process of finding the best web resource, and will add it once we do.
+[The Franchise Bible](https://www.amazon.com/dp/B01N95E8IW/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) is the best book I have currently read on franchise investing. 
 
 >Increase Your Savings Rate
