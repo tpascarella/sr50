@@ -4,47 +4,54 @@ sidebar_position: 3
 
 # Student Loans
 
-Housing, Transportation and Food are the 3 categories that should get the most mathematical attention from you, but Student Loans will probably get the most emotional attention from you. 
+Housing, Transportation and Food are the 3 categories that should get the most **mathematical attention** from you, but Student Loans will probably get the most **emotional attention** from you. 
 
 ## Savings Rate Takes Priority
 
-You're probably wondering if your mammoth Student Loan balance means that you’re screwed. 
-
-:::tip Good News
-
-You'll be happy to hear that no! You're not!
-
-:::
+You're probably wondering if your mammoth Student Loan balance means that you’re screwed. You'll be happy to hear that no! You're not!
 
 Why? Because we are looking at your Student Loans through the lens of how it impacts your Savings Rate and Runway. (are you beginning to notice the pattern?) 
 
 :::info Student Loan Math
 
-Let's say you have $90K in student loans, and the payment comes out to $900 a month. Is that ideal? No. But is it manageable? Yes. 
+Let's say you have $90K in student loans, and the payment comes out to $900 a month. 
 
-$900 a month is one house hack. You are one house hack away from your Student Loans never being a stressor again. 
+Is that ideal? No. But is that manageable? Yes. 
+
+$900 a month is one house hack. You are **one house hack away** from your Student Loan payment never being a stressor again. 
 
 :::
 
-This is just one more example of why Net Worth pales in significance to Savings Rate and Runway. If you have a shitty Net Worth due to your Student Loans, but a strong Savings Rate and healthy amount of Runway in spite of that, you’re doing great no matter what your Net Worth is, or how intimidating your Student Loan balance may seem.
+This is just one more example of why Net Worth pales in comparison to Savings Rate and Runway. If you have a shitty Net Worth due to your Student Loans, but a strong Savings Rate and healthy amount of Runway in spite of that, you’re doing great no matter what your Net Worth is, or how intimidating your Student Loan balance may seem.
+
+:::tip A little bit of slope makes up for a lot of Y-Intercept
+
+A strong Savings Rate will absolutely make up for a poor Net Worth.
+
+:::
 
 ## Recommendations
 
-Online services can refinance your loan down to the minimum monthly payment, which in turn will have the smallest impact on your Savings Rate.
+There are online services that can refinance your loan down to the minimum monthly payment, which in turn will have the smallest impact on your Savings Rate.
 
 [Student Loan Hero has a great comparison tool for different companies.](https://studentloanhero.com/featured/5-banks-to-refinance-your-student-loans/) Check it out.
 
 ## "But What If I Need to go Back to School?"
 
-First thing, you better make sure you're majoring in something that can make you some money. Use common sense here, a computer science degree will pay far more than a theater degree. Do an hour of research beforehand on the highest paying majors, and pick one you are reasonably interested in. If you don't have a passion for it yet, that's ok. We'll cover that in the work chapter. Lastly, state schools offer pretty much as good a quality education as the Ivy Leagues, at significantly lower cost, so the fancy name isn't worth the extra expense. 
+If you need to go back to school, first thing is you **better make sure** you're majoring in something that can make you some money. 
 
-Google the highest paying majors, and get one of those.
+Do an hour of research Googling the highest paying majors, and pick one you are reasonably interested in. 
 
-:::danger 
+If you don't have a passion for it yet, that's ok. We'll cover that in the career section. 
 
-A college degree is getting more and more expensive, at the same time that it's becoming less and less valuable in our society.
+### Public vs. Private Universities
 
-That is a dangerous trend to invest in.
-:::
+State schools offer pretty much as good a quality education as the Ivy Leagues, at significantly lower cost, so the fancy name isn't worth the extra expense. 
+
+### Trade Schools
+
+You can make a lot of money as a tradesman, and a lot of these jobs are going unfilled because there aren't enough qualified people to do them.
+
+They aren't as *prestige* as typical degrees, but you are guaranteed to learn a marketable skill and are basically guaranteed a job when you get out.
 
 >Increase Your Savings Rate

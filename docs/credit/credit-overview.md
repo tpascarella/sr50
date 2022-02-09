@@ -12,6 +12,8 @@ In this section, we will go over all things related to credit, including:
 
 ## [Using Credit Rewards to Travel for Free (Travel Hacking)](travel-hacking.md)
 
-## [Differentiating "Good Debts" from "Bad Debts"](good-vs-bad-debts.md)
+## [Differentiating "Good Debts" from "Bad Debts"](acceptable-vs-unacceptable-debts.md)
+
+## [Debt Paydown Strategies](debt-paydown.md)
 
 >Increase Your Savings Rate
