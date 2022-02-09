@@ -10,21 +10,21 @@ Your credit score can range between 300-850, and there is *absolutely no reason*
 
 ![Credit Score Range](/img/credit-score-range-dark.svg)
 
-## How Your Credit Score is Determined
+## The Factors that Determine Credit Score
 
 Credit bureaus use 6 criteria when determining your credit score:
 
 ### High Impact
-- On-time payments (should always be 100%!)
-- Credit utilization (use less than 30% of your available credit at any given time)
-- Derogatory marks (don't have any)
+- On-time payments (**should always be 100%!**)
+- Credit utilization (**use less than 30% of your available credit at any given time**)
+- Derogatory marks (**don't have any**)
 
 ### Medium Impact
-- Age of credit (longer the better)
+- Age of credit (**longer the better**)
 
 ### Low Impact
-- Total accounts (more is better)
-- Credit inquiries (don't apply for new credit cards too often)
+- Total accounts (**more is better**)
+- Credit inquiries (**don't apply for new credit cards too often**)
 
 ## Building Credit From Scratch
 
