@@ -4,12 +4,6 @@ sidebar_position: 5
 
 # Formal Education
 
-:::danger
-
-Formal education is becoming less and less valuable as time goes on.
-
-:::
-
 ![The value of formal education](/img/education-meme.svg)
 
 ## Return on Investment
