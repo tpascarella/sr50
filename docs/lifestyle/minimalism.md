@@ -30,11 +30,21 @@ A half hour of Youtube videos can potentially prevent *decades* of inefficient p
 
 ### "Will this be in the final system?"
 
-Some purchases, if you do them right, you never need to make again. 
+Some purchases, if you do them right, you never need to make again. This is a helpful question to ask when decided whether to buy something. 
 
-This is a helpful question to ask when decided whether to buy something. Once you finally get your shit together, will you still use this item regularly? If not, reconsider how much you need this
+Once you finally get your shit together, will you still use this item regularly? If not, reconsider how badly you want this item.
 
-### Don't Upgrade Things for the Sake of "Just Buying Stuff"
+### "Will I use this consistently?"
+
+You don't need to use it every day, but it should be used on a recurring basis for some purchase.
+
+### "Will I still want this in 14 days?"
+
+A lot of people get blinded by "shiny object syndrome", as I like to call it.
+
+If you hold off making the purchase for 14 days, and come back wanting it **even more** than you did before, then go ahead and add it to one of your resupply shopping lists.
+
+### Don't upgrade things for the sake of *just buying stuff*
 
 A lot of people look around their house looking for what they should upgrade next.
 
@@ -54,7 +64,7 @@ In a strange way, you're kind of *adopting* that item into your life. That item 
 
 If it gets tossed into a landfill without getting the opportunity to be useful, that just sucks.
 
-### "Good Enough" is Usually Just That
+### "Good Enough" is usually that
 
 Most people obsess over owning the latest and greatest of everything. The minimalist stops and thinks whether "good enough" items are just that. 
 

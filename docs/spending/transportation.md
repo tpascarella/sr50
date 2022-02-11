@@ -38,6 +38,8 @@ If you have no choice but to have a long commute, at the very least don’t wast
 
 The goal is to continually learn new things while driving, making driving a much more productive activity. I recommend Starting Strength Radio, BiggerPockets & BiggerPockets Money, the Y Combinator podcast, Hoover Institution episodes, and the Jordan Peterson podcast.
 
+## Car Maintenance
+
 ## Biking
 
 Or, if you're *really smart*, you can transport yourself for free by biking. An ebike has become the new status symbol for Financial Independence. You can DIY mountain bikes with a motor and a Tesla battery, and these things can go over 40 miles an hour, they’re awesome! Just don’t tell my Madre, she worries.

@@ -6,7 +6,7 @@ sidebar_position: 2
 
 You become Financially Free once the financial freedom equation is satisfied. 
 
-The financial freedom is as follows:
+**The Financial Freedom Equation is as follows:**
 
 ![The Financial Freedom Equation](/img/financial-freedom-equation-dark.svg)
 
