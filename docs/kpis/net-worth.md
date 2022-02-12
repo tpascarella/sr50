@@ -10,13 +10,9 @@ Net Worth is the third most important KPI in personal finance, and it is a *dist
 
 ## Calculating Net Worth
 
-Net Worth is an accounting formula for 
+Net Worth is an accounting formula for: 
 
-Assets
-
-minus
-
-liabilities
+**Assets** minus **liabilities**
 
 ![Net Worth Formula](/img/net-worth-calculation-dark.svg)
 

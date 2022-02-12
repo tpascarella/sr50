@@ -6,9 +6,7 @@ sidebar_position: 4
 
 ## Importance
 
-You always spend more than you think you do on food.
-
-Every time, without exception.
+**You always spend more than you think you do on food. Every time, without exception.**
 
 ## Breakdown
 

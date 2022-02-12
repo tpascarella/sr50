@@ -5,7 +5,7 @@ const path = require('path');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'SR50',
-  tagline: 'The world\'s best financial advisor. Free, for everyone.',
+  tagline: 'Organizing the world\'s personal finance information.',
   url: 'https://sr50.finance',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -15,7 +15,7 @@ module.exports = {
   projectName: 'sr50', // Usually your repo name.
   customFields: {
     description:
-      'The cliffnotes for all the best personal finance information you can find on the internet.',
+      'The world\'s best financial advisor. Free, for everyone.',
   },
   themeConfig: {
     hideableSidebar: true,
@@ -26,7 +26,7 @@ module.exports = {
     },
     announcementBar: {
       id: 'support_us',
-      content: 'Be sure to give this project a like on Github!',
+      content: 'If you found this project valuable, give is a star on Github!',
       backgroundColor: 'var(--ifm-hero-background-color)',
       textColor: 'var(--ifm-navbar-link-color)', // Defaults to `#000`.
     },
