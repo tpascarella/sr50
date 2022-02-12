@@ -26,7 +26,7 @@ module.exports = {
     },
     announcementBar: {
       id: 'support_us',
-      content: 'If you found this project valuable, give is a star on Github!',
+      content: 'If you found this project useful, give it a star on Github! ⭐️',
       backgroundColor: 'var(--ifm-hero-background-color)',
       textColor: 'var(--ifm-navbar-link-color)', // Defaults to `#000`.
     },
