@@ -6,7 +6,7 @@ sidebar_position: 7
 
 As soon as you have a "big boy/girl" job, it will likely come with a benefits package that you should take full advantage of.
 
-## Know Your Benefits
+## Understand Your Benefits
 
 I can't give an exact recommendation because I don't know what company you work for or what they offer, that information will be found on your company's HR website.
 
