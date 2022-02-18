@@ -34,7 +34,7 @@ Savings Rate takes absolute priority!
 
 :::
 
-### What Counts as an Asset? And a Liability?
+### What counts as an asset? Or a liability?
 
 Assets are things that continually put money into your pocket. Liabilities are things that continually take money out of your pocket.
 

@@ -6,7 +6,7 @@ sidebar_position: 3
 
 Housing, Transportation and Food are the 3 categories that should get the most **mathematical attention** from you, but Student Loans will probably get the most **emotional attention** from you. 
 
-## Savings Rate Takes Priority
+## Savings Rate Makes Up For Everything
 
 You're probably wondering if your mammoth Student Loan balance means that you’re screwed. You'll be happy to hear that no! You're not!
 
@@ -44,11 +44,11 @@ Do an hour of research Googling the highest paying majors, and pick one you are 
 
 If you don't have a passion for it yet, that's ok. We'll cover that in the career section. 
 
-### Public vs. Private Universities
+### Public vs. private universities
 
 State schools offer pretty much as good a quality education as the Ivy Leagues, at significantly lower cost, so the fancy name isn't worth the extra expense. 
 
-### Trade Schools
+### Trade schools
 
 You can make a lot of money as a tradesman, and a lot of these jobs are going unfilled because there aren't enough qualified people to do them.
 

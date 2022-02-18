@@ -12,7 +12,7 @@ Taxes, as an expense, go largely unnoticed because they are invisible.
 
 You don't *pay* taxes, you have taxes *taken* from you, and then you get back the excess in April. But underestimating this expense is big a mistake since taxes make up approximately 1/3rd of your salary.
 
-### This Should Be One of the First Things You Fix
+### This should be one of the first things You fix
 
 Taxes should be one of the first places you optimize because no one, and I mean *no one* will be sad about paying less in taxes.
 
@@ -32,7 +32,6 @@ But not a penny more.
 :::
 
 :::info States That Don't Have an Income Tax:
-
 
 - Alaska
 - Florida
@@ -60,7 +59,7 @@ I personally use TaxAct, but [this article from NerdWallet](https://www.nerdwall
 
 :::
 
-### When It's Appropriate to Hire Someone
+### When it's appropriate to hire someone
 
 Once you have multiple business ventures, some rental properties, as well as if you are beginning to withdraw retirement accounts, then you should probably hire an professional to do your taxes for you. 
 

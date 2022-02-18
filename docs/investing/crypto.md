@@ -38,7 +38,7 @@ Bitcoin and Ethereum are the 2 most important cryptocurrencies.
 
 They are essentially digital nations because they have their own currencies and contracts. Maximizing your crypto wealth means maximizing your net worth demoninated in these 2 assets.
 
-### Is It Too Late To Buy?
+### Is it too late to buy?
 
 No! 
 
@@ -48,13 +48,13 @@ We're definitely paying higher valuations than people who bought Bitcoin back wh
 
 ![Technology adoption curve](/img/technology-adoption.svg)
 
-### Portfolio Strategy
+### Portfolio strategy
 
 The simplest Crypto strategy is to go 50/50 BTC/ETH, skewing to 75/25 in either direction depending on personal preference. It is modeled after Benjamin Graham's portfolio from The Intelligent Investor.
 
 There is no "best" portfolio allocation, as some would have you believe. You can't possibly know what the best portfolio allocation would be unless you have a time machine and can look 10 years into the future. The best bet you have is to make informed decisions about which tokens you are going to invest in, and dollar cost average for the long term.
 
-### Putting My Money Where My Mouth Is
+### Putting my money where my mouth is
 
 I would never advise you to invest in something if I wouldn't also invest in it myself. [Here is my current Coinbase portfolio if you would like to verify.](https://www.coinbase.com/portfolio/1a111208-34ea-4a02-beef-3b7f6d3102d6?utm_source=share&utm_platform=iOS)
 

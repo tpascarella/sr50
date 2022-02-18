@@ -26,7 +26,7 @@ You can keep your emergency savings in cash in a savings account, or take the ri
 
 The following are potential options to park your emergency savings:
 
-### (HIGH VOLATILITY) Proven Cryptocurrencies
+### (HIGH VOLATILITY) Established cryptocurrencies
 
 If you're up for the roller coaster of volatility that the crypto market offers, keeping your Emergency Savings in *stable, established coins with a strong track record and are proven to not be scams* (Bitcoin and Ethereum are the two best) can yield the highest return for your months of Runway.
 
@@ -38,7 +38,7 @@ This gives you similar liquidity while maximizing the return on your capital.
 
 :::
 
-### (MEDIUM VOLATILITY) Index Funds
+### (MEDIUM VOLATILITY) Index funds
 
 Index funds are a less aggressive approach, but will still likely yield higher returns than interest in a savings account, or on your stablecoins.
 
@@ -51,7 +51,7 @@ Index funds are a less aggressive approach, but will still likely yield higher r
 
 You will need a minimum investment of $3000 to invest in these funds.
 
-### (LOW/ZERO VOLATILITY) Savings Accounts / Money Market Accounts / Stablecoins 
+### (LOW/ZERO VOLATILITY) Savings accounts / Money market accounts / Stablecoins 
 
 These options do not provide much (if any) return, so as your financial picture improves you should migrate this capital into higher yield assets.
 
@@ -69,7 +69,7 @@ If that's 3 months, it's 3 months. If you need 12, you need 12. It's entirely up
 
 :::
 
-### A Good Starting Template
+### A good starting template
 
 I recommend keeping $10,000 in savings for every adult you are responsible for, and $5,000 for every child you are responsible. (you can include all of your pets as one child in this example)
 

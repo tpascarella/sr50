@@ -35,7 +35,7 @@ This 25X number is based on the famous Trinity Study, which analyzed 100+ years 
 
 The 4% rule is a *rule of thumb* and shouldn’t be taken as the end all be all of retirement plans, (especially for FI people), but it’s a good number to start with. You can, and probably will keep working past this point. 
 
-### Portfolio Allocation for the 4% Rule
+### Portfolio allocation for the 4% rule
 
 To satisfy the 4% rule, you will need one stock index fund and one bond index fund to invest in. 
 
@@ -62,7 +62,7 @@ An index fund is a mutual fund that invests in a group of stocks according to a 
 
 Index funds are the simplest, most powerful, most tax efficient, lowest time requirement investments you can ever make in this asset class. 
 
-### Expense Ratios
+### Expense ratios
 
 Index and mutual funds are considered “low cost” if their expense ratio is less than one tenth of a percent. Most index funds have expense ratios less than five hundredths of a percent. 
 
@@ -76,7 +76,7 @@ A 1% expense ratio doesn’t sound too bad, but when compounded over decades it�
 
 So look at the expense ratio of any fund you are planning on putting money into. If it is more than 1/10th of a percent (.1%), pick another fund.
 
-### Why are Index Funds So Much Cheaper?
+### Why are index funds so much cheaper than mutual funds?
 
 A few reasons:
 - any time stocks are bought and sold within the fund, that triggers a taxable event, which increases operating costs, 

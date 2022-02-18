@@ -4,7 +4,9 @@ sidebar_position: 2
 
 # Stage 0
 
-## Active Income < Lifestyle
+## Complete Financial Dependence
+
+### Active Income < Lifestyle Expenses
 
 Anyone whose active income (salary) cannot cover their lifestyle, and relies on family, friends, or a welfare check to support themselves are at Stage Zero. This is where everyone starts out, but Stage Zero isn’t just limited to children living at home. 
 

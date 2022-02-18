@@ -4,7 +4,9 @@ sidebar_position: 8
 
 # Stage 6
 
-## Passive Income > Big Life Goals
+## Financial Freedom
+
+### Passive Income > Big Life Goals
 
 :::tip
 

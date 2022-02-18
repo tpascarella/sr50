@@ -32,7 +32,7 @@ I’m sure you can come up with 100 reasons why these questions don’t apply to
 
 These are real dollars that are unnecessarily leaking from your budget because you strapped yourself with an inefficient lifestyle.
 
-### Making Productive Use of Your Commuting Time
+### Making productive use of your commuting time
 
 If you have no choice but to have a long commute, at the very least don’t waste that time listening to garbage radio. Find a few educational podcasts you enjoy, book summaries are also a great use of time (I like Productivity Game on Youtube). 
 
@@ -62,7 +62,7 @@ With the car you currently do have, if you aren't willing to downgrade, at least
 
 Give one of them a try until you make at least $500.
 
-### Tax Considerations
+### Tax considerations
 
 Business travel expenses can be deducted on your taxes, but commuting expenses cannot. The difference is that commuting expenses take place before you start working, while business expenses occur during working hours. 
 

@@ -48,8 +48,12 @@ Having this little of Savings to fall back on means that you are constantly with
 
 You want at least 12 months of Runway underneath you. Whatever that number happens to be will be determined by how much money you spend every month.
 
-## Do You Know How Much Runway You Have?
+:::caution Do you know your savings rate?
 
-If you don't, and that's a problem. Figure it out.
+If you don't, that's a problem.
+
+Figure it out.
+
+:::
 
 >Increase Your Savings Rate

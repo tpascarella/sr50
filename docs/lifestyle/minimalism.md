@@ -116,13 +116,13 @@ Find someone to participate with you and do the following for 30 days:
 
 Whoever lasts the longest wins!
 
-### Buying Used Items
+### Buying used items
 
 You can buy perfectly good items used on Craigslist or Ebay, for much less than buying new at retail.
 
 This leads me nicely into the next strategy.
 
-### Treasure Hunting
+### Treasure hunting
 
 Once you have decided you want to buy something, what's the best way to go about buying it? I call this strategy, *treasure hunting*.
 
@@ -136,7 +136,7 @@ Paying retail is for suckers.
 
 :::
 
-### Military Resupplies
+### Military resupplies
 
 Minimalists are incredibly efficient at resource management. Everything has a purpose, nothing goes to waste, you run very lean, and your possessions take up as little space as necessary (which makes moving cheaper and easier). I want you to treat making purchasing like a scheduled military resupply. 
 
@@ -150,13 +150,13 @@ Really evaluate how you will use it on a recurring basis and whether the price i
 
 If you know you will do your shopping in predictable intervals, you don't need to fight with yourself the other times to resist the temptation of going shopping.
 
-### Use Credit Rewards For These Resupplies
+### Use credit rewards for these resupplies
 
 Once you have your shopping list ready, try to use a new credit card to make these purchases so you can get the rewards that come with them. 
 
 Acquiring points and miles while doing the shopping you will need to do anyway, is a good way to maximize the efficiency of your dollars.
 
-### Take Advantage of Sales
+### Take advantage of sales
 
 If items can be bought in bulk and on sale, do it!
 

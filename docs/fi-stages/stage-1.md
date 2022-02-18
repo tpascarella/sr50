@@ -4,7 +4,9 @@ sidebar_position: 3
 
 # Stage 1
 
-## Active Income > Lifestyle
+## Financial Solvencyu
+
+### Active Income > Lifestyle Expenses
 
 Stage One happens when someone’s active income can roughly cover their lifestyle expenses. 
 

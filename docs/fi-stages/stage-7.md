@@ -4,7 +4,9 @@ sidebar_position: 9
 
 # Stage 7
 
-## “I couldn’t spend it even if I tried”
+## Financial Abundance
+
+### “I couldn’t spend it even if I tried”
 
 By Stage Seven, you need to plan beyond your own lifespan. You’ll need to set up an estate, a will, and a [Legacy Binder](../docs/lifestyle/legacy-binder.md). You’re going to have far more money than you could ever possibly spend or ever know what to do with, make sure it's put to good use.
 

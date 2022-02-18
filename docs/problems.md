@@ -26,7 +26,7 @@ The reason everyone around you thinks of 65 as retirement age is because this is
 
 Another problem is that financial advisors are actually insurance salesmen who pose as financial advisors. They try to hide this by using fancy advertising code, but all of the financial incentives are for these professionals to sell you as much insurance and investment products as they can.
 
-### Look At Their Job Postings
+### Look at their job postings
 
 Nearly every financial advisor in America is an *insurance salesman posing as a financial advisor*, which I discovered personally as I was looking at financial advisor jobs after I graduated from college. 
 
@@ -40,7 +40,7 @@ There is an obvious divide between what a financial advisor should be in theory,
 
 :::
 
-### The Job Is Now Obsolete
+### The job is now obsolete
 
 You don't need to pay someone thousands of dollars to tell you that you should spend less than you earn and invest for the future. We have access to Google (and this website) and these options can provide *infinitely better service* than these *"licensed professionals"*.
 
@@ -88,7 +88,7 @@ There are many other investments you can make that provide far greater swings to
 
 You need to consider the opportunity cost of what else you can do with that money. With $200,000 you can use FHA loans towards multiple house hacks (covered in the [Housing](/spending/housing.md) section), a [Franchise purchase](/investing/franchises.md), or a sizable portfolio of [Crypto](/investing/crypto.md).
 
-### Common Theme
+### Common theme
 
 A lot of bad advice stems from attempting to optimize Net Worth, or Income, *when your focus should really go towards maximizing your Savings Rate*. If you take care of Savings Rate, everything else will take care of itself.
 
@@ -100,7 +100,7 @@ The consequence of having a single digit Savings Rate is that your Runway (the l
 
 It's also much harder to start building passive income with a low Savings Rate. You have no capital to invest, or a means to acquire more. A high Savings Rate gives you infinitely more options over how to spend your time.
 
-### You Have No Choice But To Sell Your Soul for Money
+### You have no choice but to sell your soul for money
 
 Another consequence of having a low Savings Rate is that you are trapped in whatever job keeps the bills paid. You don't have the Runway (the time) needed to find or pursue a better opportunity.
 

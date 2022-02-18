@@ -14,7 +14,7 @@ While budgets are not required, as some people might claim, they are very useful
 
 Budgets are especially useful for people who are not naturally frugal, or are currently digging themselves out of a financial hole. 
 
-### Non-Optional Once You Get Married
+### Non-optional once you get married
 
 :::caution
 
@@ -30,7 +30,7 @@ Crack open a bottle of wine and make a date night out of it! Both of you need to
 
 ## Free Options
 
-### Paper and Pencil
+### Paper and pencil
 
 Paper and pencil budgets are what your grandparents did. You want to give every dollar an assignment before the month begins, and then follow the budget like a written contract. 
 
@@ -44,7 +44,7 @@ EveryDollar is Dave Ramsey's free budgeting app that is basically a spreadsheet 
 
 ## Paid Options
 
-### [YNAB (You Need a Budget)](https://www.youneedabudget.com/) 
+### [YNAB (You need a budget)](https://www.youneedabudget.com/) 
 
 I personally have never used this software, but have heard good reviews for it.
 

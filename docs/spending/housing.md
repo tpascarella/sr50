@@ -32,7 +32,7 @@ Paula Pant of AffordAnything.com has a [great article](https://affordanything.co
 
 In the grand scheme of things, the financial difference between buying and renting is negligible at most. The decision typically ends up being decided by lifestyle factors rather than mathematical ones. 
 
-### The Question You Should Really Be Asking
+### The question you should really be asking
 
 But, here's the reason why the question is stupid. What is the difference between a $900 a month rent payment and a $900 a month mortgage payment, *to your Savings Rate?* 
 

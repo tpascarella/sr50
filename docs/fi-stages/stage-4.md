@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Stage 4
 
-## Ramen Profitability
+## Financial Security (Ramen Profitability)
 
 ### Passive Income > Survival Expenses 
 
