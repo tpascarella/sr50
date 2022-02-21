@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Stage 1
 
-## Financial Solvencyu
+## Financial Solvency
 
 ### Active Income > Lifestyle Expenses
 

@@ -34,9 +34,12 @@ Crack open a bottle of wine and make a date night out of it! Both of you need to
 
 Paper and pencil budgets are what your grandparents did. You want to give every dollar an assignment before the month begins, and then follow the budget like a written contract. 
 
-Here is a good video tutorial:
-
-<iframe width="600" height="333" src="https://www.youtube.com/embed/7lHNMGoACdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<details>
+  <summary>Recommended Youtube Video</summary>
+  <div>
+    <iframe width="600" height="333" src="https://www.youtube.com/embed/7lHNMGoACdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</details>
 
 ### [EveryDollar](https://www.ramseysolutions.com/ramseyplus/everydollar)
 

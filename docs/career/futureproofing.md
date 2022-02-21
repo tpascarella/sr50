@@ -25,7 +25,12 @@ Every position should be an upgrade for your skillset, compensation, and work-li
 
 The following talk is a great explanation to why building skills trumps following your passion for building career capital.
 
-<iframe width="600" height="333" src="https://www.youtube.com/embed/qwOdU02SE0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<details>
+  <summary>Recommended Youtube Video</summary>
+  <div>
+    <iframe width="600" height="333" src="https://www.youtube.com/embed/qwOdU02SE0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</details>
 
 ### Deep work
 

@@ -4,7 +4,9 @@ sidebar_position: 6
 
 # Stage 4
 
-## Financial Security (Ramen Profitability)
+## Financial Security
+
+>Also known as Ramen Profitability
 
 ### Passive Income > Survival Expenses 
 

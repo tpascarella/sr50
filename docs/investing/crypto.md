@@ -58,11 +58,14 @@ There is no "best" portfolio allocation, as some would have you believe. You can
 
 I would never advise you to invest in something if I wouldn't also invest in it myself. [Here is my current Coinbase portfolio if you would like to verify.](https://www.coinbase.com/portfolio/1a111208-34ea-4a02-beef-3b7f6d3102d6?utm_source=share&utm_platform=iOS)
 
-## Recommended Videos
 
-<iframe width="600" height="333" src="https://www.youtube.com/embed/Xb4g8LzcFSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="600" height="333" src="https://www.youtube.com/embed/MhldkvdS_rM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="600" height="333" src="https://www.youtube.com/embed/G80Jq6ZwnOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="600" height="333" src="https://www.youtube.com/embed/EH6vE97qIP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<details>
+  <summary>Recommended Youtube Videos</summary>
+  <div>
+    <iframe width="600" height="333" src="https://www.youtube.com/embed/Xb4g8LzcFSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="600" height="333" src="https://www.youtube.com/embed/MhldkvdS_rM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="600" height="333" src="https://www.youtube.com/embed/G80Jq6ZwnOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      <iframe width="600" height="333" src="https://www.youtube.com/embed/EH6vE97qIP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</details>
 
 >Increase Your Savings Rate

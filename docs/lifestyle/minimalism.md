@@ -22,9 +22,14 @@ Check out the following YouTube videos and see if anything resonates.
 
 A half hour of Youtube videos can potentially prevent *decades* of inefficient purchasing decisions. That is a great ROI!
 
-<iframe width="600" height="333" src="https://www.youtube.com/embed/w7rewjFNiys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="600" height="333" src="https://www.youtube.com/embed/GgBpyNsS-jU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="600" height="333" src="https://www.youtube.com/embed/JHcGmiZqKXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<details>
+  <summary>Recommended Youtube Videos</summary>
+  <div>
+    <iframe width="600" height="333" src="https://www.youtube.com/embed/w7rewjFNiys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="600" height="333" src="https://www.youtube.com/embed/GgBpyNsS-jU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="600" height="333" src="https://www.youtube.com/embed/JHcGmiZqKXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</details>
 
 ## Considerations
 

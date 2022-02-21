@@ -4,7 +4,9 @@ sidebar_position: 7
 
 # Stage 5
 
-## Financial Independence (Regular FI)
+## Financial Independence
+
+>Also known as Regular FI
 
 ### Passive Income > Lifestyle Expenses 
 
