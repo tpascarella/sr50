@@ -70,7 +70,9 @@ Some practical tips:
 
 ### Psychological preparation
 
-When I say the crypto markets are volatile, I mean they are *volatile*. This is far more than you would have investing in the stock market with index funds, and if you have your entire life savings in crypto and overnight it gets cut by 20% you need to make sure you are prepared to handle that.
+When I say the crypto markets are volatile, I mean they are *volatile*. Far more than you would have investing in the stock market through index funds.
+
+If you invest your entire life savings into crypto and overnight it gets cut by 20% you need to make sure you are prepared to handle that.
 
 **"I'm the worst investor of all time!"**
 ![Portfolio performance](/img/crypto-portfolio.svg)
