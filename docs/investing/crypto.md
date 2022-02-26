@@ -22,6 +22,7 @@ My current recommendation is to buy and hold into a diversified pool of tokens, 
 
 - Much higher ROI than stocks/bonds or real estate.
 - The crypto revolution is happening whether you hop on board or not.
+- Self sovereignty.
 
 :::
 
@@ -44,20 +45,37 @@ No!
 
 In the technology adoption curve, we are probably in the early adopter/early majority camp. There is still tremendous upside by investing in crypto. 
 
-We're definitely paying higher valuations than people who bought Bitcoin back when it was $5, but we have far more educational resources and social validation that the technology is legit. 
+We are definitely paying higher valuations *now* than people who bought Bitcoin back when it was $5, but we have far more educational resources and social validation that the technology is legit. 
 
 ![Technology adoption curve](/img/technology-adoption.svg)
 
 ### Portfolio strategy
 
-The simplest Crypto strategy is to go 50/50 BTC/ETH, skewing to 75/25 in either direction depending on personal preference. It is modeled after Benjamin Graham's portfolio from The Intelligent Investor.
-
 There is no "best" portfolio allocation, as some would have you believe. You can't possibly know what the best portfolio allocation would be unless you have a time machine and can look 10 years into the future. The best bet you have is to make informed decisions about which tokens you are going to invest in, and dollar cost average for the long term.
 
-### Putting my money where my mouth is
+The *simplest* Crypto strategy, and probably the best for most people is to go 50/50 BTC/ETH, skewing to 75/25 in either direction depending on personal preference. It is modeled after Benjamin Graham's portfolio from The Intelligent Investor.
 
-I would never advise you to invest in something if I wouldn't also invest in it myself. [Here is my current Coinbase portfolio if you would like to verify.](https://www.coinbase.com/portfolio/1a111208-34ea-4a02-beef-3b7f6d3102d6?utm_source=share&utm_platform=iOS)
+Let BTC and ETH do the heavy lifting in your portfolio, if you want to take chances on some hail-mary coins, limit their total investment to 20% of your total portfolio.
 
+## What You Should Do To Start Investing in Crypto
+
+The first thing you should do is to commit to only putting your money into things that you *understand*. You can lose everything in crypto if you are careless.
+
+Some practical tips: 
+- Subscribe to [Bankless](https://www.youtube.com/c/Bankless?app=desktop) on YouTube and self educate constantly. Video recommendations included below.
+- Create an account with [Coinbase](https://www.coinbase.com/) or [Gemini](https://www.gemini.com/) and buy Bitcoin and/or Ethereum. 
+- Buy a [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x) hardware wallet to store yout Bitcoin.
+- Create accounts with [Argent](https://www.argent.xyz/) and [Metamask](https://metamask.io/) to use your Ethereum in open finance.
+- Dollar cost average your crypto investments over a long period of time.
+
+### Psychological preparation
+
+When I say the crypto markets are volatile, I mean they are *volatile*. This is far more than you would have investing in the stock market with index funds, and if you have your entire life savings in crypto and overnight it gets cut by 20% you need to make sure you are prepared to handle that.
+
+**"I'm the worst investor of all time!"**
+![Portfolio performance](/img/crypto-portfolio.svg)
+
+Don't throw *everything* you have at crypto when you first get excited about it. Mentally psych yourself up for the rollercoaster of volatility and learn to accept it. As long as you make sure you have enough cash to cover a few months of expenses available, and have a holding period of forever (you should) then the market volatility will be a little easier to swallow.
 
 <details>
   <summary>Recommended Youtube Videos</summary>
