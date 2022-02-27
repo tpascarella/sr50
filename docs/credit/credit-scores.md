@@ -45,6 +45,12 @@ To maintain a high credit score, you will need to follow a few basic principles:
 - Only open a new credit card around every 6 months.
 - Don't close old credit cards (use them for gas or Netflix).
 
+:::note
+
+You will need to monitor your credit from the day you start until the day you die. Make it a habit.
+
+:::
+
 ## The Horror Stories You Hear
 
 All of the horror stories you hear online and people getting burned with credit cards all come from irresponsible spending, and overleveraging yourself with payments for houses and cars.

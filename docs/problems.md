@@ -46,6 +46,10 @@ You don't need to pay someone thousands of dollars to tell you that you should s
 
 The one exception is that you might want to hire a tax professional once your portfolio is complicated enough to warrant such a hire, but that likely doesn't apply to you yet. 
 
+### YOU are your own best financial advisor
+
+Trust your judgement and make better and bets as you get more information.
+
 ## Well Intentioned, But Bad Advice
 
 Most Americans are in a terribly brittle financial position, and as a result they are *not qualified* to provide you any financial advice. 

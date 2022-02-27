@@ -79,6 +79,10 @@ If you invest your entire life savings into crypto and overnight it gets cut by 
 
 Don't throw *everything* you have at crypto when you first get excited about it. Mentally psych yourself up for the rollercoaster of volatility and learn to accept it. As long as you make sure you have enough cash to cover a few months of expenses available, and have a holding period of forever (you should) then the market volatility will be a little easier to swallow.
 
+### Take advantage of bonuses/promotions
+
+[This article from Money Ninja](https://themoneyninja.com/best-crypto-bonuses/) is a comprehensive list of the best crypto bonuses you can get. Arbitrage all of these and then transfer into your hardware wallet.
+
 <details>
   <summary>Recommended Youtube Videos</summary>
   <div>
