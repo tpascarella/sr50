@@ -49,7 +49,7 @@ A lot of people get blinded by "shiny object syndrome", as I like to call it.
 
 If you hold off making the purchase for 14 days, and come back wanting it **even more** than you did before, then go ahead and add it to one of your resupply shopping lists.
 
-### Don't upgrade things for the sake of *just buying stuff*
+### Don't upgrade things for the sake of *buying stuff*
 
 A lot of people look around their house looking for what they should upgrade next.
 
@@ -172,5 +172,17 @@ A lot of items have a long shelf life and can be stored for a long time. If you 
 If keeping the boxes provides the best option for safe transportation of items should you need to move, then that is a legitimate purpose and you can keep them. 
 
 If the only function the boxes serve is to be a display on your shelf, I don't think it's worth the space.
+
+### Forgiving past mistakes
+
+Fortune 50 companies have entire divisions dedicated to making accurate purchasing decisions for the upcoming quarters, with cutting edge machine learning technology to minimize excess inventory as much as possible, and STILL so much crap ends up on clearance shelves.
+
+Multi-billion dollar companies make purchasing decisions wrong all the time, if you wasted money on some thing that you'll take an L on when you donate it for $0, at least you learned not to make that mistake in the future. The **real mistake** is to never learn from your mistakes to begin with.
+
+## Find Your Hookshot
+
+A lot of items provide no value to you. Some, you use every single day of your life and make it better in real and tangible ways. *Those kind of items are the ones worth investing in*. 
+
+Buy more things like that, slash and burn the rest.
 
 >Increase Your Savings Rate
