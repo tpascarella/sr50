@@ -12,7 +12,7 @@ They were fortunate enough to live in an era where a Bachelor's degree was enoug
 
 ### What makes you think everything will be solved at 65?
 
-![Age](/img/decades-of-work.svg)
+![Age](/img/meme-decades-of-work.svg)
 
 The objective of personal finance is to put yourself in a position where you never need to trade your time for money again, and there is **absolutely no reason to think that this magically occurs once you turn 65.**
 
@@ -129,7 +129,7 @@ Another consequence of having a low Savings Rate is that you're trapped at *what
 
 Not to mention it's just soul crushing to work at an Initech type of company, for a Bill Lumbergh type boss.
 
-![Bill Lumbergh](/img/bill-lumbergh.svg)
+![Bill Lumbergh](/img/meme-bill-lumbergh.svg)
 
 ## Common Theme
 

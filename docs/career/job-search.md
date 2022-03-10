@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Job Search
 
-![Waiting for that one employer to respond.](/img/employer-response.svg)
+![Waiting for that one employer to respond.](/img/meme-employer-response-time.svg)
 
 ## Sending Out Applications
 

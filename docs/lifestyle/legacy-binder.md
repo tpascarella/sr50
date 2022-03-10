@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Legacy Binder
 
-![Ron Swanson Will](/img/rs-will.svg)
+![Ron Swanson Will](/img/meme-ron-swanson-will.svg)
 
 A Legacy Binder is where you store all of the documents that will be passed to your loved ones after you die. 
 

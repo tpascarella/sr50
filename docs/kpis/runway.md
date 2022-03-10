@@ -32,7 +32,7 @@ When calculating Bank Balance you should only include liquid assets. Retirement 
 
 :::
 
-![Runway calculation](/img/runway-calculation-dark.svg)
+![Runway calculation](/img/runway-calculation.svg)
 
 ## Average American Runway
 
@@ -44,7 +44,7 @@ Having this little of Savings to fall back on means that you are constantly with
 
 :::
 
-![Average american savings](/img/average-runway-dark.svg)
+![Average american savings](/img/runway-avg.svg)
 
 You want at least 12 months of Runway underneath you. Whatever that number happens to be will be determined by how much money you spend every month.
 

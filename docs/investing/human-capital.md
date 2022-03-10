@@ -34,7 +34,7 @@ You are able to produce work at a much higher quality and quantity than others b
 
 When people think "I need to get more educated!" they immediately look at what degree they should get. Use student loan debt very cautiously! 
 
-![Consumer prices over time](/img/price-changes.svg)
+![Consumer prices over time](/img/20yr-price-changes.svg)
 
 :::danger
 

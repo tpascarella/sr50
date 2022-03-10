@@ -26,7 +26,7 @@ over
 
 The resulting percentage is your Savings Rate.
 
-![Savings Rate Formula](/img/savings-rate-calculation-dark.svg)
+![Savings Rate Formula](/img/sr-calculation.svg)
 
 :::note
 
@@ -52,7 +52,7 @@ The average Savings Rate in America can be found at the [FRED website](https://f
 
 The following graph represents average Savings Rates fom 1959 through today, note that the historical avergage hovers around 10%.
 
-![Savings Rate Historical Graph](/img/historical-savings-rates-dark.svg)
+![Savings Rate Historical Graph](/img/sr-historical-avg.svg)
 
 :::caution Do you know your savings rate?
 

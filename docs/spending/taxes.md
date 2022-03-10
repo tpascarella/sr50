@@ -6,7 +6,7 @@ sidebar_position: 6
 
 ## Importance
 
-![Taxes proportion](/img/taxes-dark.svg)
+![Taxes proportion](/img/taxes-proportion.svg)
 
 Taxes, as an expense, go largely unnoticed because they are invisible. 
 

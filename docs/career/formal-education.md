@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Formal Education
 
-![The value of formal education](/img/education-meme.svg)
+![The value of formal education](/img/meme-pyramid-scheme.svg)
 
 ## Return on Investment
 

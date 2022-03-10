@@ -47,7 +47,7 @@ In the technology adoption curve, we are probably in the early adopter/early maj
 
 We are definitely paying higher valuations *now* than people who bought Bitcoin back when it was $5, but we have far more educational resources and social validation that the technology is legit. 
 
-![Technology adoption curve](/img/technology-adoption.svg)
+![Technology adoption curve](/img/technology-adoption-curve.svg)
 
 ### Portfolio strategy
 

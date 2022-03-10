@@ -14,7 +14,7 @@ Net Worth is an accounting formula for:
 
 **Assets** minus **liabilities**
 
-![Net Worth Formula](/img/net-worth-calculation-dark.svg)
+![Net Worth Formula](/img/nw-calculation.svg)
 
 :::caution
 

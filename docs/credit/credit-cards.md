@@ -16,7 +16,7 @@ Different cards will have different rewards. Use the highest grocery store rewar
 
 If you collected baseball cards as a kid, the plastic pages you would put the cards in are a great organizational tool for your credit cards.
 
+*Personal information hidden for obvious reasons.*
 ![Credit Card Organization](/img/cc-organization.svg)
->Personal information hidden for obvious reasons.
 
 >Increase Your Savings Rate

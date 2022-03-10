@@ -8,7 +8,7 @@ There are 2 primary methods that people use to paydown their debt. The debt snow
 
 ## Debt Snowball
 
-![Debt Snowball](/img/snowball.svg)
+![Debt Snowball](/img/method-snowball.svg)
 
 The Debt Snowball was coined by Dave Ramsey, and is the best way to eliminate your debts because of the psychological boost of getting small wins paying them off.
 
@@ -16,7 +16,7 @@ The Debt Snowball was coined by Dave Ramsey, and is the best way to eliminate yo
 
 ## Debt Avalanche
 
-![Debt Avalanche](/img/avalanche.svg)
+![Debt Avalanche](/img/method-avalanche.svg)
 
 The Debt Avalanche is different in that you pay off debts in order of highest interest rate to lowest interest rate.
 

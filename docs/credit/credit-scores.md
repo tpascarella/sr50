@@ -8,7 +8,7 @@ sidebar_position: 3
 
 Your credit score can range between 300-850, and there is *absolutely no reason* why you can't have an **excellent** credit score.
 
-![Credit Score Range](/img/credit-score-range-dark.svg)
+![Credit Score Range](/img/cs-range.svg)
 
 ## The Factors that Determine Credit Score
 
