@@ -1,121 +1,140 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 
 # Common Problems
 
-## "Work 'til You're 65" Does Not Apply Anymore
+## "Work 'til You're 65" Doesn't Apply Anymore
 
-Your parents' advice of "Get a job, put 15% into a 401k, and work that job until you're 65" is does not apply anymore. 
+The first problem is that our grandparents' advice of "Get a job, put 15% into a 401k, and work there until 65" does not apply in this day and age. 
 
-They were fortunate enough to live in an era where an undergraduate degree was enough to get you a good job at a good company, and you could be reasonably sure you'll have job security for the rest of your life. However, our generation is coming up in an era with automation breathing down our necks. 
+They were fortunate enough to live in an era where a Bachelor's degree was enough to get you a good job at a good company, and you could be sure you'll have job security and a pension for the rest of your life. That is not the world my generation (Gen Z) will grow old in. 
 
-The financial advice that might have worked for your grandparents, does not apply anymore.
+### What makes you think everything will be solved at 65?
 
-### Why 65?
+![Age](/img/decades-of-work.svg)
 
-Time is the only resource you can never buy more of. It is for this reason that time is the most important *thing* that money can buy. 
+The objective of personal finance is to put yourself in a position where you never need to trade your time for money again, and there is **absolutely no reason to think that this magically occurs once you turn 65.**
 
-![Age](/img/age-meme.svg)
+:::note
 
-The whole point of personal finance is to put yourself in a position where you never need to trade your time for money again, and there is no reason to think that this *magically* occurs once you turn 65.
+The reason everyone thinks of 65 as retirement age is because this is the age at which you can access your 401K and Roth IRA funds without having to pay taxes on the gain. 
 
-The reason everyone around you thinks of 65 as retirement age is because this is the age at which you can access your 401K and Roth IRA funds without paying taxes. Those types of investments are the only kind of investing most people ever do, and I am telling you that you can achieve the same level of financial independence within 3-5 years, instead of 30-40, if you invest aggressively and can reach a high Savings Rate. 
-
-## "Financial Advisors" are Actually Insurance Salesmen
-
-Another problem is that financial advisors are actually insurance salesmen who pose as financial advisors. They try to hide this by using fancy advertising code, but all of the financial incentives are for these professionals to sell you as much insurance and investment products as they can.
-
-### Look at their job postings
-
-Nearly every financial advisor in America is an *insurance salesman posing as a financial advisor*, which I discovered personally as I was looking at financial advisor jobs after I graduated from college. 
-
-All of these positions have a commision style compensation plan, and those commissions come from selling *EITHER* unnecessary and bloated insurance packages, or criminally overpriced mutual funds. 
-
-They don't get paid for what they know, they get paid for what they sell.
-
-:::danger They Sell You Insurance & Are Paid By Commission
-
-There is an obvious divide between what a financial advisor should be in theory, and the actual logistics of the industry.
+Age says absolutely nothing about your Savings Rate, it says nothing about your Runway, and has no impact on your passive income!
 
 :::
 
-### The job is now obsolete
+401K's and Roth IRA's are the only kind of investments most people ever make, and you can achieve the same amount of financial independence within 3-5 years, instead of 30-40, **if you invest aggressively and sustain a high Savings Rate.**
 
-You don't need to pay someone thousands of dollars to tell you that you should spend less than you earn and invest for the future. We have access to Google (and this website) and these options can provide *infinitely better service* than these *"licensed professionals"*.
+## "Financial Advisors" are Really Just Insurance Salesmen
 
-The one exception is that you might want to hire a tax professional once your portfolio is complicated enough to warrant such a hire, but that likely doesn't apply to you yet. 
+Another problem is that financial advisors are actually insurance salesmen *who pose as financial advisors.* 
 
-### YOU are your own best financial advisor
+They sell you (bad) investment products and insurance, and are paid by commisions.  They try to hide this by using fancy marketing code, but all of the financial incentives are for these professionals to sell you as much insurance and investment products as they can.
 
-Trust your judgement and make better and bets as you get more information.
+### Look at the job postings!
 
-## Well Intentioned, But Bad Advice
+Nearly all financial advisor jobs have a commision style compensation plan, and those commissions come from selling either unnecessary and bloated insurance packages, or criminally overpriced mutual funds. 
 
-Most Americans are in a terribly brittle financial position, and as a result they are *not qualified* to provide you any financial advice. 
+:::danger Don't believe me?
+
+Check out some financial advisor [jobs on LinkedIn.](https://www.linkedin.com/jobs/financial-advisor-jobs?position=1&pageNum=0) 
+
+:::
+
+Tell me if you notice crap like:
+
+- Uncapped earnings potential
+- Series 7 & 66 required, insurance licenses also likely required
+- Entrepreneurial spirit, building your "book of business"
+- Sales experience preferred
+
+**Financial advisors don't get paid for what they know. They get paid for what they sell.**
+
+### The job is obsolete now
+
+You don't need to *pay someone thousands of dollars* to tell you to spend less than you earn and invest for the future. 
+
+We have access to Google (and this website), and these options can provide *infinitely better service*, at *infinitely lower cost* than these *"professionals"*.
+
+## Well Intentioned, Bad Advice
+
+Most Americans suck at saving. They are horrible on all of the [KPIs](kpis/kpis-overview.md) in personal finance, and as a result **they are not qualified to offer you financial advice.** A lot of them pretend to, out of good intentions, but they are not doing you much of a service.
 
 :::caution 
 
-Be very careful about where you get your information! A lot of people try to offer you financial advice, but they do not have the knowledge or experience to actually be useful, and they are not doing you much of a service.
+Be very careful about where you get your information! A lot of people try to offer you financial advice, but they do not have the knowledge or experience to actually be useful.
 
 :::
 
-Here are the most common pieces of financial advice people will give you:
+Here are the most common pieces of financial advice you will hear:
 
 ### "You need to max out your retirement accounts" 
 
-No you don't. What you need to do is build up passive income. 
+No you don't. What you need is build up passive income. 
 
-*Cash flow* is the only thing that will give you your time back, and exclusively investing into accounts that do not provide cash flow and reduce the available capital you have to invest does not serve you well. In the traditional use case, you are not allowed to touch the money you invest until you turn 65. We can do better.
+*Cash flow* is the only thing that will give you your time back, and exclusively investing into accounts that do not provide cash flow, and also reduces the capital you have to invest is terribly inefficient. 
 
 :::note 
 
-This isn't to say that retirement accounts have *no place* in your financial picture, but all of your focus, and all of your capital, should go towards investments that generate cash flow *today*.
+This isn't to say that retirement accounts have *zero place* in your financial roadmap, but all of your focus, and all of your capital, should go towards investments that generate cash flow and move you closer to solving the FFE, *today*.
 
 :::
 
+In their designed use case, you are not allowed to touch the money in these accounts until you turn 65. I reject the premise.
+
 ### "Going to university is a great career move"
 
-Maybe. 
+Maybe, but not always. 
 
-It depends on the impact it'll have on your Savings Rate and Income. If the degree can double your income, and you have access to grants from a reasonable school, then sure. Go for it. 
+It depends on the impact your degree will have on your Savings Rate and your Income. If the degree can double your income, and you have access to grants from a reasonable school, then go for it. 
 
-But saying "university is a great option" as *one-size fits all, blanket career advice* is stupid. College is really god damn expensive, and should never be entered *on impulse*.
+But saying "university is a great option" as *one-size fits all, blanket career advice* is incredibly stupid. College is really god damn expensive, and should never be entered *on impulse*.
 
 ### "You should pay off your house"
 
-Paying off your house is an inefficient use of capital. 
+Paying off your house is another inefficient use of capital. 
 
-Say you pay off your $200,000 mortgage. The return you get on your $200K in capital is that you don't have to pay your mortgage payment anymore. In effect, your $200,000 has given you a mortgage payment's worth of swing in your Savings Rate. Also, how long would it take you to save up $200,000 in cash? 10 years? 20 years? 
+:::caution Considerations
 
-There are many other investments you can make that provide far greater swings to your Savings Rate, with far lower capital requirements, and those investments should get priority. 
+Say you have a $200,000 balance on your mortgage, and you decide to pay it off:
 
-You need to consider the opportunity cost of what else you can do with that money. With $200,000 you can use FHA loans towards multiple house hacks (covered in the [Housing](/spending/housing.md) section), a [Franchise purchase](/investing/franchises.md), or a sizable portfolio of [Crypto](/investing/crypto.md).
+1. How long would it take you to save up $200,000 in cash? 10 years? 20 years?
+2. What is the return you will make on your $200,000? Not having to pay a mortgage payment anymore.
+>In effect, your $200,000 has given you a SINGLE mortgage payment's swing to your Savings Rate. 
 
-### Common theme
+::: 
 
-A lot of bad advice stems from attempting to optimize Net Worth, or Income, *when your focus should really go towards maximizing your Savings Rate*. If you take care of Savings Rate, everything else will take care of itself.
+There are *so many better investments* you can make that provide far greater swings to your Savings Rate, with far lower capital requirements, and those investments should get absolute priority. 
 
-## No Savings, No Leverage, & No Options
+You need to consider the opportunity cost of what else you can do with that money. With $200,000 you can use FHA loans towards multiple [house hacks](/spending/housing.md), a [Franchise purchase](/investing/franchises.md), or a substantial portfolio of [crypto](/investing/crypto.md).
+
+## Americans Have No Savings, No Leverage, & No Options
 
 The average Savings Rate in America is about 8%.
 
-The consequence of having a single digit Savings Rate is that your Runway (the length of time you can survive without a paycheck) never increases, which keeps you trapped at your current Stage of Financial Independence. 
+:::info Current statistic
 
-It's also much harder to start building passive income with a low Savings Rate. You have no capital to invest, or a means to acquire more. A high Savings Rate gives you infinitely more options over how to spend your time.
+The national Savings Rate can be found at the Federal Reserve Economic Data website [here](https://fred.stlouisfed.org/series/PSAVERT).
+
+::: 
+
+The consequence of having a single digit Savings Rate, is that your Runway (the length of time you can survive without a paycheck) never increases, you never build up that buffer between yourself and bankruptcy. And since you never progress, this keeps you trapped at your current Stage of Financial Independence indefinitely. 
+
+It's also much harder to build any passive income with a low Savings Rate. You have no capital to invest, or any means to means to acquire more. 
 
 ### You have no choice but to sell your soul for money
 
-Another consequence of having a low Savings Rate is that you are trapped in whatever job keeps the bills paid. You don't have the Runway (the time) needed to find or pursue a better opportunity.
+Another consequence of having a low Savings Rate is that you're trapped at *whatever job keeps the bills paid.* You don't have the Runway (time) needed to find or pursue any better opportunities.
 
-Not to mention it's soul crushing to work at an Initech type company, for a Lumbergh type boss.
+Not to mention it's just soul crushing to work at an Initech type of company, for a Bill Lumbergh type boss.
 
-![Bill Lumbergh](/img/bill-lumbergh-meme-dark.svg)
+![Bill Lumbergh](/img/bill-lumbergh.svg)
 
-## Takeaway
+## Common Theme
 
-Your time is your most valuable resource, yet people give it away for pennies on the dollar because they trap themselves with a high burn rate. 
+A lot of these problems stem from attempting to optimize Net Worth or Income, *when your focus should really go towards maximizing your Savings Rate*. 
 
-Some of this is through sheer stupidity, some from being dealt a bad hand in life, but whatever the cause, it is in your best interest to increase your Savings Rate so you can regain control of your most valuable asset.
+**If you optimize for Savings Rate, everything else will take care of itself.**
 
 >Increase Your Savings Rate
