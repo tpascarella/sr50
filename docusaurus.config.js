@@ -11,8 +11,8 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.png',
-  organizationName: 'tpascarella', // Usually your GitHub org/user name.
-  projectName: 'sr50', // Usually your repo name.
+  organizationName: 'tpascarella',
+  projectName: 'sr50',
   customFields: {
     description:
       'The world\'s best financial advisor. Free, for everyone.',
@@ -28,7 +28,7 @@ module.exports = {
       id: 'support_us',
       content: 'If you found this project useful, give it a star on Github! ⭐️',
       backgroundColor: 'var(--ifm-hero-background-color)',
-      textColor: 'var(--ifm-navbar-link-color)', // Defaults to `#000`.
+      textColor: 'var(--ifm-navbar-link-color)',
     },
     navbar: {
       title: 'SR50',
@@ -147,17 +147,7 @@ module.exports = {
         sitemap: {
           changefreq: 'weekly',
           priority: 0.5,
-        },
-        /* 
-        googleAnalytics: {
-          trackingID: 'UA-141789564-1',
-          anonymizeIP: true,
-        },
-        gtag: {
-          trackingID: '141789564',
-          anonymizeIP: true,
-        },
-        */       
+        }, 
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },

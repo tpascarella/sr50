@@ -27,8 +27,6 @@ sidebar_position: 10
 
 ## Buying Gold
 
-<iframe width="600" height="333" src="https://www.youtube.com/embed/fORJCUsdFPs?list=PLkVQOSdFMaF-TkFiZXu2yD-gpBW8nyPC6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Storing Gold
 
 ### At home
