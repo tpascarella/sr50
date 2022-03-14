@@ -107,7 +107,7 @@ Say you have a $200,000 balance on your mortgage, and you decide to pay it off:
 
 There are *so many better investments* you can make that provide far greater swings to your Savings Rate, with far lower capital requirements, and those investments should get absolute priority. 
 
-You need to consider the opportunity cost of what else you can do with that money. With $200,000 you can use FHA loans towards multiple [house hacks](/spending/housing.md), a [Franchise purchase](/investing/franchises.md), or a substantial portfolio of [crypto](/investing/crypto.md).
+You need to consider the opportunity cost of what else you can do with that money. With $200,000 you can use FHA loans towards multiple [house hacks](/spending/housing.md), a [Franchise purchase](/investing/franchises.md), or a substantial portfolio of [crypto](/investing/cryptocurrencies.md).
 
 ## Americans Have No Savings, No Leverage, & No Options
 
