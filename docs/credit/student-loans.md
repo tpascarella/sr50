@@ -52,6 +52,6 @@ State schools offer pretty much as good a quality education as the Ivy Leagues, 
 
 You can make a lot of money as a tradesman, and a lot of these jobs are going unfilled because there aren't enough qualified people to do them.
 
-They aren't as *prestige* as typical degrees, but you are guaranteed to learn a marketable skill and are basically guaranteed a job when you get out.
+They might not be as "prestigious" as a typical bachelors degree, however you are guaranteed a job after graduation and are armed with a marketable skill. 
 
 >Increase Your Savings Rate

@@ -19,4 +19,10 @@ If you collected baseball cards as a kid, the plastic pages you would put the ca
 *Personal information hidden for obvious reasons.*
 ![Credit Card Organization](/img/cc-organization.svg)
 
+## The Horror Stories You Hear
+
+All of the horror stories you hear online about people getting burned with credit cards all come from irresponsible spending, and overleveraging yourself with payments for houses and cars.
+
+If you treat buying things with credit cards like buying things with cash, you will be just fine.
+
 >Increase Your Savings Rate

@@ -51,10 +51,4 @@ You will need to monitor your credit from the day you start until the day you di
 
 :::
 
-## The Horror Stories You Hear
-
-All of the horror stories you hear online and people getting burned with credit cards all come from irresponsible spending, and overleveraging yourself with payments for houses and cars.
-
-Treat credit cards like you treat cash, and don't take on too big a payment for houses and cars and you will **be just fine**.
-
 >Increase Your Savings Rate
