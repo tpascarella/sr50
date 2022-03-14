@@ -6,19 +6,31 @@ sidebar_position: 4
 
 *Capital*, the term, is defined as the portion of financial resources you are able to invest. Some asset classes, as described in [the Overview section](investing-overview.md) rank order assets by their capital requirements.
 
-## How Much Capital Do I Need to Make Different Types of Investments?
+## Effort/Capital/Return for Different Asset Classes
 
-High Effort - Variable Capital Requirement - *Potentially* High Return) Entrepreneurship
+**Entrepreneurship:**
+>High Effort - Variable Capital Requirement - *Potentially* High Return
 
-High Effort - High Capital Requirement - Medium/High Return) Franchises
+**Franchises:**
+>High Effort - High Capital Requirement - Medium/High Return
 
-No Effort - Low/Medium Capital Requirement - Medium/High Return) Cryptocurrencies
+**Cryptocurrencies:**
+>No Effort - Low/Medium Capital Requirement - Medium/High Return)
 
-Medium/Low Effort - Variable Capital Requirement - Medium/High Return Real Estate
+**Real Estate:**
+>Medium/Low Effort - Variable Capital Requirement - Medium/High Return
 
-Zero Effort - High Capital Requirement - Low Return - Stocks and Bonds
+**Stocks & Bonds:**
+>Zero Effort - High Capital Requirement - Low Return
 
-High Effort - Low Capital Requirement - High Return) Human Capital
+**Human Capital:**
+>High Effort - Low Capital Requirement - High Return
+
+**Gold:**
+>No Effort - High Capital Requirements - Low Return
+
+**Guns:**
+>No Effort - High Capital Requirements - Low/No Return
 
 ## Pinch Pennies When You Have None
 
