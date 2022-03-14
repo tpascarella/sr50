@@ -15,7 +15,11 @@ There are a few things to keep in the back of your head when deciding to take a 
 - Are you able to develop your deep work ability?
 - Are the stress levels within your tolerance?
 
+:::tip
+
 A job you are considering doesn't need to have all of these qualities, but the more the better. 
+
+:::
 
 At the very least you need to have an answer to these questions. The more Runway you have, the longer you can hold out for finding a job you really want at a company you deeply respect.
 

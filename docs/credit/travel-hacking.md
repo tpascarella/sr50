@@ -10,9 +10,9 @@ You should never use credit irresponsibly to collect the points, but tactfully u
 
 ![Spend more to earn more](/img/rewards.svg)
 
-:::tip
+:::caution
 
-This is a REWARD for responsible money management. Never spend irresponsibly just to stockpile rewards!
+This strategy is a REWARD for responsible money management. Never spend irresponsibly just to stockpile rewards!
 
 Credit card companies make money hand over fist because of the impulsive nature of the general public.
 
