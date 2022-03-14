@@ -24,7 +24,7 @@ over
 
 **(your after-tax take home pay)** 
 
-The resulting percentage is your Savings Rate.
+>The resulting percentage is your Savings Rate.
 
 ![Savings Rate Formula](/img/sr-calculation.svg)
 

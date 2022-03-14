@@ -18,6 +18,8 @@ minus
 
 **liabilities**
 
+>The resulting dollar amount is your Net Worth.
+
 ![Net Worth Formula](/img/nw-calculation.svg)
 
 :::caution

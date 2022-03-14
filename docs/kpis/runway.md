@@ -24,7 +24,7 @@ over
 
 **your average Burn (how much average cash it costs you to live)**
 
-The resulting WHOLE number (rounded down) is your months of Runway.
+>The resulting WHOLE number (rounded down) is your months of Runway.
 
 :::note
 
