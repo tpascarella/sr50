@@ -30,7 +30,7 @@ While instructions for each method are found in the above pictures, links to the
 
 :::
 
-### Takeaway
+### - Takeaway
 
 While the Avalanche method *might* result in fewer dollars spent paying down your debt balance, the quick victories of the Snowball method make it the superior debt paydown strategy in my opinion.
 

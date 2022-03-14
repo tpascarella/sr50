@@ -62,7 +62,7 @@ With the car you currently do have, if you aren't willing to downgrade, at least
 
 Give one of them a try until you make at least $500.
 
-### Tax considerations
+### - Tax considerations
 
 Business travel expenses can be deducted on your taxes, but commuting expenses cannot. The difference is that commuting expenses take place before you start working, while business expenses occur during working hours. 
 

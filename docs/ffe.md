@@ -28,7 +28,7 @@ Get your Savings Rate as high as you can sustain. 50% is good. 75% would be bett
 
 :::
 
-### Experiment with different Savings Rates
+### - Experiment with different Savings Rates
 
 You can experiment to see how long it will take to solve the FFE with different Savings Rates using the calculator at [Networthify.com](https://networthify.com/calculator/earlyretirement?income=50000&initialBalance=0&expenses=20000&annualPct=5&withdrawalRate=4).
 

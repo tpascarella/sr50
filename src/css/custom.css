@@ -26,3 +26,10 @@
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, .3);
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Quattrocento+Sans&display=swap');
+
+p {
+  font-family: 'Quattrocento';
+  font-weight: bold;
+}

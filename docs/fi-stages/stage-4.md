@@ -8,7 +8,7 @@ sidebar_position: 6
 
 >Also known as Ramen Profitability
 
-### Passive Income > Survival Expenses 
+### - Passive Income > Survival Expenses 
 
 Stage Four happens once passive income can cover your barebones survival expenses. 
 

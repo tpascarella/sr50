@@ -33,23 +33,23 @@ A half hour of Youtube videos can potentially prevent *decades* of inefficient p
 
 ## Considerations
 
-### "Will this be in the final system?"
+### - "Will this be in the final system?"
 
 Some purchases, if you do them right, you never need to make again. This is a helpful question to ask when decided whether to buy something. 
 
 Once you finally get your shit together, will you still use this item regularly? If not, reconsider how badly you want this item.
 
-### "Will I use this consistently?"
+### - "Will I use this consistently?"
 
 You don't need to use it every day, but it should be used on a recurring basis for some purchase.
 
-### "Will I still want this in 14 days?"
+### - "Will I still want this in 14 days?"
 
 A lot of people get blinded by "shiny object syndrome", as I like to call it.
 
 If you hold off making the purchase for 14 days, and come back wanting it **even more** than you did before, then go ahead and add it to one of your resupply shopping lists.
 
-### Don't upgrade things for the sake of *buying stuff*
+### - Don't upgrade things for the sake of *buying stuff*
 
 A lot of people look around their house looking for what they should upgrade next.
 
@@ -61,7 +61,7 @@ It’s also healthy to break yourself of the notion that everything always needs
 
 :::
 
-### "A place for everything, and everything in its place"
+### - "A place for everything, and everything in its place"
 
 Everything you own should have some kind of purpose. You don't need to use it every day, but there should be a concrete reason you keep it around. If something is just sitting idle, see if you can find a new use for it.
 
@@ -69,7 +69,7 @@ In a strange way, you're kind of *adopting* that item into your life. That item 
 
 If it gets tossed into a landfill without getting the opportunity to be useful, that just sucks.
 
-### "Good Enough" is usually that
+### - "Good Enough" is usually that
 
 Most people obsess over owning the latest and greatest of everything. The minimalist stops and thinks whether "good enough" items are just that. 
 
@@ -83,7 +83,7 @@ It also becomes far more expensive to use and protect these items (you need to i
 
 ## Common Objections
 
-### "I can't be a minimalist, I love shopping!"
+### - "I can't be a minimalist, I love shopping!"
 
 People say they can't become a minimalist because they deeply enjoy shopping. 
 
@@ -106,7 +106,7 @@ And if you genuinely enjoy shopping, imagine how much you will enjoy it once you
 
 ## Strategies
 
-### Decluttering
+### - Decluttering
 
 If you are brand new to minimalism, there is a big chance you have far too much stuff, and will need to begin downsizing.
 
@@ -121,13 +121,13 @@ Find someone to participate with you and do the following for 30 days:
 
 Whoever lasts the longest wins!
 
-### Buying used items
+### - Buying used items
 
 You can buy perfectly good items used on Craigslist or Ebay, for much less than buying new at retail.
 
 This leads me nicely into the next strategy.
 
-### Treasure hunting
+### - Treasure hunting
 
 Once you have decided you want to buy something, what's the best way to go about buying it? I call this strategy, *treasure hunting*.
 
@@ -141,7 +141,7 @@ Paying retail is for suckers.
 
 :::
 
-### Military resupplies
+### - Military resupplies
 
 Minimalists are incredibly efficient at resource management. Everything has a purpose, nothing goes to waste, you run very lean, and your possessions take up as little space as necessary (which makes moving cheaper and easier). I want you to treat making purchasing like a scheduled military resupply. 
 
@@ -155,25 +155,25 @@ Really evaluate how you will use it on a recurring basis and whether the price i
 
 If you know you will do your shopping in predictable intervals, you don't need to fight with yourself the other times to resist the temptation of going shopping.
 
-### Use credit rewards for these resupplies
+### - Use credit rewards for these resupplies
 
 Once you have your shopping list ready, try to use a new credit card to make these purchases so you can get the rewards that come with them. 
 
 Acquiring points and miles while doing the shopping you will need to do anyway, is a good way to maximize the efficiency of your dollars.
 
-### Take advantage of sales
+### - Take advantage of sales
 
 If items can be bought in bulk and on sale, do it!
 
 A lot of items have a long shelf life and can be stored for a long time. If you have the option to buy paper products or toothpaste at a discount, stocking up for the rest of the year is a smart idea.
 
-### "Should I keep the boxes?"
+### - "Should I keep the boxes?"
 
 If keeping the boxes provides the best option for safe transportation of items should you need to move, then that is a legitimate purpose and you can keep them. 
 
 If the only function the boxes serve is to be a display on your shelf, I don't think it's worth the space.
 
-### Forgiving past mistakes
+### - Forgiving past mistakes
 
 Fortune 50 companies have entire divisions dedicated to making accurate purchasing decisions for the upcoming quarters, with cutting edge machine learning technology to minimize excess inventory as much as possible, and STILL so much crap ends up on clearance shelves.
 

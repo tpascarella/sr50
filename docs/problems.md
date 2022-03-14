@@ -10,7 +10,7 @@ The first problem is that our grandparents' advice of "Get a job, put 15% into a
 
 They were fortunate enough to live in an era where a Bachelor's degree was enough to get you a good job at a good company, and you could be sure you'll have job security and a pension for the rest of your life. That is not the world my generation (Gen Z) will grow old in. 
 
-### What makes you think everything will be solved at 65?
+### - Why do you think everything will be solved, at 65?
 
 ![Age](/img/meme-decades-of-work.svg)
 
@@ -32,7 +32,7 @@ Another problem is that financial advisors are actually insurance salesmen *who 
 
 They sell you (bad) investment products and insurance, and are paid by commisions.  They try to hide this by using fancy marketing code, but all of the financial incentives are for these professionals to sell you as much insurance and investment products as they can.
 
-### Look at the job postings!
+### - Look at the job postings!
 
 Nearly all financial advisor jobs have a commision style compensation plan, and those commissions come from selling either unnecessary and bloated insurance packages, or criminally overpriced mutual funds. 
 
@@ -51,7 +51,7 @@ Tell me if you notice crap like:
 
 **Financial advisors don't get paid for what they know. They get paid for what they sell.**
 
-### The job is obsolete now
+### - The job is obsolete now
 
 You don't need to *pay someone thousands of dollars* to tell you to spend less than you earn and invest for the future. 
 
@@ -69,7 +69,7 @@ Be very careful about where you get your information! A lot of people try to off
 
 Here are the most common pieces of financial advice you will hear:
 
-### "You need to max out your retirement accounts" 
+### - "You need to max out your retirement accounts" 
 
 No you don't. What you need is build up passive income. 
 
@@ -83,7 +83,7 @@ This isn't to say that retirement accounts have *zero place* in your financial r
 
 In their designed use case, you are not allowed to touch the money in these accounts until you turn 65. I reject the premise.
 
-### "Going to university is a great career move"
+### - "Going to university is a great career move"
 
 Maybe, but not always. 
 
@@ -91,7 +91,7 @@ It depends on the impact your degree will have on your Savings Rate and your Inc
 
 But saying "university is a great option" as *one-size fits all, blanket career advice* is incredibly stupid. College is really god damn expensive, and should never be entered *on impulse*.
 
-### "You should pay off your house"
+### - "You should pay off your house"
 
 Paying off your house is another inefficient use of capital. 
 
@@ -123,7 +123,7 @@ The consequence of having a single digit Savings Rate, is that your Runway (the 
 
 It's also much harder to build any passive income with a low Savings Rate. You have no capital to invest, or any means to means to acquire more. 
 
-### You have no choice but to sell your soul for money
+### - You have no choice but to sell your soul for money
 
 Another consequence of having a low Savings Rate is that you're trapped at *whatever job keeps the bills paid.* You don't have the Runway (time) needed to find or pursue any better opportunities.
 

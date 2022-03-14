@@ -20,7 +20,7 @@ Franchises are less risky than standard entrepreneurship, but you won't make ast
 
 Cash flow is pretty reliable, but requires a lot to get started, (sometimes in the millions) and also requires active management from you or someone you hire.
 
-## (No Effort - Low/Medium Capital Requirement - Medium/High Return) [Cryptocurrencies](crypto.md) 
+## (No Effort - Low/Medium Capital Requirement - Medium/High Return) [Cryptocurrencies](cryptocurrencies.md) 
 
 The track record of proven cryptocurrencies speak for themselves. 
 

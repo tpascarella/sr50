@@ -28,7 +28,7 @@ These debts do you absolutely no good. Get rid of them as fast as you can.
 
 :::
 
-### Takeaway
+### - Takeaway
 
 Not all debts need to be eliminated from your financial position immediately, as a lot of financial professionals would have you believe. 
 

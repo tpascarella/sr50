@@ -14,15 +14,15 @@ Your credit score can range between 300-850, and there is *absolutely no reason*
 
 Credit bureaus use 6 criteria when determining your credit score:
 
-### High impact
+### - High impact
 - On-time payments (**should always be 100%!**)
 - Credit utilization (**use less than 30% of your available credit at any given time**)
 - Derogatory marks (**don't have any**)
 
-### Medium impact
+### - Medium impact
 - Age of credit (**longer the better**)
 
-### Low impact
+### - Low impact
 - Total accounts (**more is better**)
 - Credit inquiries (**don't apply for new credit cards too often**)
 

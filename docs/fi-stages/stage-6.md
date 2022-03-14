@@ -6,7 +6,7 @@ sidebar_position: 8
 
 ## Financial Freedom
 
-### Passive Income > Big Life Goals
+### - Passive Income > Big Life Goals
 
 :::tip
 

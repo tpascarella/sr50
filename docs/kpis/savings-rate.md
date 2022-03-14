@@ -48,7 +48,7 @@ You won't make any serious progress if you can't reach a 50% Savings Rate. That 
 
 The average Savings Rate in America can be found at the [FRED website](https://fred.stlouisfed.org/series/PSAVERT). The current average is around 8%.
 
-### Historical american savings rates
+### - Historical american savings rates
 
 The following graph represents average Savings Rates fom 1959 through today, note that the historical avergage hovers around 10%.
 

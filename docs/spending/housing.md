@@ -32,7 +32,7 @@ Paula Pant of AffordAnything.com has a [great article](https://affordanything.co
 
 In the grand scheme of things, the financial difference between buying and renting is negligible at most. The decision typically ends up being decided by lifestyle factors rather than mathematical ones. 
 
-### The question you should really be asking
+### - The question you should really be asking
 
 But, here's the reason why the question is stupid. What is the difference between a $900 a month rent payment and a $900 a month mortgage payment, *to your Savings Rate?* 
 
@@ -70,7 +70,7 @@ Building a tiny house is also kind of trendy now, and so is living in an RV and 
 
 If you will be moving in the near future and need flexibility, you can also temporarily live in Airbnbs instead of signing a full 12-month lease. This is great if you need to figure out any details of your work life while testing the waters living in a new city, and is also a good way to test moving out of your parents’ house for the first time. The prices month to month will likely be similar to renting, so it's worth considering. 
 
-### Airbnb
+### - Airbnb
 
 [Airbnb](https://www.airbnb.com/) offers a way to make money renting out the spare room in your house. This can be an exciting way to make money off of the extra space you have, and depending how valauble your space is, can reap similar financial benefits to house hacking.
 

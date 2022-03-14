@@ -18,11 +18,11 @@ Know all of the options available to you! It's free money you can take advantage
 
 ## Retirement Accounts
 
-### Take the match
+### - Take the match
 
 If your company offers a $1 for $1 match for contributions up to a certain percent, then that is a 100% return on your money. That is a great bet and you should invest up to the match (if you can afford the slight reduction in paycheck)
 
-### Check the expense ratios
+### - Check the expense ratios
 
 Many of the investment options are mutual or index funds, which can vary widely in expense ratios.
 

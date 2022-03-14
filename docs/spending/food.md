@@ -18,7 +18,7 @@ You should always default to cooking your meals.
 
 :::
 
-### Eating out
+### - Eating out
 
 For eating out, the best advice I can give is to just never do it. It’s unhealthy, it’s expensive, and can usually be prevented with a bit of forethought. 
 
@@ -30,7 +30,7 @@ They are in the business of selling tasty food, not food that is good for you.
 
 :::
 
-### Buying groceries
+### - Buying groceries
 
 Plan out your grocery trips so you only need to go once a week. Grocery stores are designed so you'll buy way more than you intially intended. 
 
@@ -61,7 +61,7 @@ You have Google. Use it.
 
 Find 5 recipes online that look good and try making them! It doesn't matter whether they're healthy at first, the important thing is that you start, and that you build the habit to cook your own food. You'll get better at it as time goes on, and will be shocked how much better food tastes when you cook it yourself.
 
-### Physical health is an investment
+### - Physical health is an investment
 
 Gradually try to get at least 80% of your calories from nutritious foods that you like. Your physical health is an investment, so don’t live on Ramen to save money any longer than is absolutely necessary.
 

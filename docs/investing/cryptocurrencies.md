@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-# Cryptocurrency
+# Cryptocurrencies
 
 Crypto is making a lot of headlines, and for good reason, the technology is actively disrupting central and commercial banks, and has very promising implications for the future. 
 

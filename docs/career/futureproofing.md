@@ -21,7 +21,7 @@ Every position should be an upgrade for your skillset, compensation, and work-li
 
 ## How to Become Irreplaceable
 
-### Don't follow your passion, develop skills
+### - Don't follow your passion, develop skills
 
 The following talk is a great explanation to why building skills trumps following your passion for building career capital.
 
@@ -32,7 +32,7 @@ The following talk is a great explanation to why building skills trumps followin
   </div>
 </details>
 
-### Deep Work
+### - Deep Work
 
 The ability to do Deep Work means you are able to focus without distraction on a cognitively demanding task. The book [Deep Work](https://www.amazon.com/dp/B013UWFM52/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) is essential reading for anyone who wants to build up career capital. 
 

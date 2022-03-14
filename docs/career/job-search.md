@@ -10,7 +10,7 @@ sidebar_position: 4
 
 You will probably need to send out a hundred applications for every 3 interviews you get.
 
-### Dealing with rejection
+### - Dealing with rejection
 
 Pretty soon, your email inbox will be just a wall of: 
 - "Thank you for your consideration, unfortunately..."

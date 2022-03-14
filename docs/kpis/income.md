@@ -18,15 +18,15 @@ A higher income is potentially better for reaching FI, IF AND ONLY IF it is acco
 
 There are also many common pitfalls that come with having a high income, such as:
 
-### Increased stress from jobs that pay that much
+### - Increased stress from jobs that pay that much
 
 A lot of jobs that pay high salaries are very stressful and require working lots of hours, which defeats our purpose of not having to trade time for money.
 
-### You can dig a much bigger hole
+### - You can dig a much bigger hole
 
 It is significantly easier to bury yourself into a financial hole making six figures than minimum wage. All of a sudden, credit card companies are offering you financing options left and right, which requires higher willpower to resist.
 
-### Societal pressures
+### - Societal pressures
 
 As you make more money, societal pressure is higher to flaunt that wealth through expensive houses, cars and tech gadgets. If you're a Neurosurgeon, you can't expect to drive a 10 year old Honda, right?
 

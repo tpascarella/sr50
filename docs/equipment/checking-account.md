@@ -12,7 +12,7 @@ That bank in the grocery store that you opened a checking account with when you 
 
 [Nerdwallet.com](https://www.nerdwallet.com/rates/banking/checking-accounts?trk=nw_gn_5.0) has unbiased reviews of all major checking accounts. Pick any one of those and you'll be fine.
 
-### What to look for in a checking account
+### - What to look for in a checking account
 
 - No fees of any kind. (Because you can)
 - EITHER unlimited worldwide ATM reimbursements or generous overdraft protection.
