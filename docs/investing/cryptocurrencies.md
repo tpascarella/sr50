@@ -83,6 +83,8 @@ Don't throw *everything* you have at crypto when you first get excited about it.
 
 [This article from Money Ninja](https://themoneyninja.com/best-crypto-bonuses/) is a comprehensive list of the best crypto bonuses you can get. Arbitrage all of these and then transfer into your hardware wallet.
 
+### Recommended YouTube videos
+
 <details>
   <summary>Recommended Youtube Videos</summary>
   <div>
