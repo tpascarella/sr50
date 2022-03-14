@@ -18,13 +18,13 @@ This tells you how secure you are right now.
 
 Runway is calculated by dividing:
 
-Your Bank Balance (how much cash you can get into your checking account within 48 hours) 
+**Your Bank Balance (how much cash you can get into your checking account within 48 hours)**
 
 over
 
-your average Burn (how much cash it costs you to live, on average). 
+**your average Burn (how much average cash it costs you to live)**
 
-The resulting WHOLE NUMBER (you chop off the remainder) is your months of Runway.
+The resulting WHOLE number (rounded down) is your months of Runway.
 
 :::note
 

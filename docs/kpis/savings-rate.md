@@ -18,11 +18,11 @@ This tells you how fast you are progressing.
 
 Savings Rate is calculated by dividing: 
 
-(how much $$$ you are able to save or invest) 
+**(how much $$$ you are able to save or invest)** 
 
 over 
 
-(your after-tax take home pay). 
+**(your after-tax take home pay)** 
 
 The resulting percentage is your Savings Rate.
 
