@@ -6,6 +6,20 @@ sidebar_position: 4
 
 *Capital*, the term, is defined as the portion of financial resources you are able to invest. Some asset classes, as described in [the Overview section](investing-overview.md) rank order assets by their capital requirements.
 
+## How Much Capital Do I Need to Make Different Types of Investments?
+
+High Effort - Variable Capital Requirement - *Potentially* High Return) Entrepreneurship
+
+High Effort - High Capital Requirement - Medium/High Return) Franchises
+
+No Effort - Low/Medium Capital Requirement - Medium/High Return) Cryptocurrencies
+
+Medium/Low Effort - Variable Capital Requirement - Medium/High Return Real Estate
+
+Zero Effort - High Capital Requirement - Low Return - Stocks and Bonds
+
+High Effort - Low Capital Requirement - High Return) Human Capital
+
 ## Pinch Pennies When You Have None
 
 If you have no capital to invest, the only way to *get* capital to invest, is to *save* your pennies when you have none.
