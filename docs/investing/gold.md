@@ -48,6 +48,8 @@ If you will be buying gold bars/coins of gold from a reputable online dealer, th
 
 ## Storing Your Gold
 
+[Here is a good article for deciding where to store your gold and silver.](https://www.usmoneyreserve.com/blog/how-to-store-gold-silver/#:~:text=Rather%20than%20storing%20them%20in,be%20on%20the%20safe%20side.)
+
 ### - At home
 
 ### - In a vault
