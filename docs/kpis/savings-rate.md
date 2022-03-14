@@ -20,7 +20,7 @@ Savings Rate is calculated by dividing:
 
 **(how much $$$ you are able to save or invest)** 
 
-over 
+over
 
 **(your after-tax take home pay)** 
 

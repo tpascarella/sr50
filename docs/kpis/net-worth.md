@@ -16,7 +16,7 @@ Net Worth is an accounting formula for:
 
 minus 
 
-**liabilities**
+**Liabilities**
 
 >The resulting dollar amount is your Net Worth.
 
