@@ -73,12 +73,17 @@ Then do the following:
 
 When I say the crypto markets are volatile, I mean they are *volatile*. Far more than you would have investing in the stock market through index funds.
 
-If you invest your entire life savings into crypto and overnight it gets cut by 20% you need to make sure you are prepared to handle that.
+:::caution Volatility
+
+The only way to prepare for the volatility of the crypto markets is to tie yourself to the ship, and to vow to never sell out of fear.
+
+:::
+
 
 >**"I'm the worst investor of all time!"**
 ![Portfolio performance](/img/crypto-portfolio.svg)
 
-Don't throw *everything* you have at crypto when you first get excited about it. Mentally psych yourself up for the rollercoaster of volatility and learn to accept it. As long as you make sure you have enough cash to cover a few months of expenses available, and have a holding period of forever (you should) then the market volatility will be a little easier to swallow.
+Also don't throw *everything* you have at crypto when you first get excited about it. Do it gradually, mentally psych yourself up for the rollercoaster of volatility and learn to embrace it. As long as you have a holding period of forever (you should) then the market volatility will be a little easier to swallow.
 
 ### Take advantage of bonuses/promotions
 
