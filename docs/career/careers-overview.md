@@ -28,14 +28,14 @@ Keeping morale high is of critical importance.
 
 If you need to gain more education to advance your career, you better make sure that the *massive* investment is justified.
 
+## [Benefits](benefits.md)
+
+Your benefits make up around 30% of your total compensation, so make the most out of what's available! Educate yourself on what your company offers and how you can maximally take advantage.
+
 ## [Military Careers](military.md)
 
 Due to all of the benefits and opportunities available to people in the military, military careers are a surprisingly **fantastic** path to become financially independent in a short period of time. 
 
 Many of the benefits are still available to you after your service ends.
-
-## [Benefits](benefits.md)
-
-Your benefits make up around 30% of your total compensation, so make the most out of what's available! Educate yourself on what your company offers and how you can maximally take advantage.
 
 >Increase Your Savings Rate
