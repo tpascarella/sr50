@@ -155,6 +155,15 @@ Really evaluate how you will use it on a recurring basis and whether the price i
 
 If you know you will do your shopping in predictable intervals, you don't need to fight with yourself the other times to resist the temptation of going shopping.
 
+#### - Amazon
+
+Amazon is great for buying small durable items, but there are some drawbacks using it for other items. However not all items should be bought there. 
+
+For example:
+- items that are high risk of being counterfeit. (crypto hardware wallet being an example)
+
+should not be bought on Amazon.
+
 ### - Use credit rewards for these resupplies
 
 Once you have your shopping list ready, try to use a new credit card to make these purchases so you can get the rewards that come with them. 
