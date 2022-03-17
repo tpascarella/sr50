@@ -51,9 +51,10 @@ The recommended Vanguard funds are VTSAX for stocks, and VBTLX for bonds.
 
 ## Index Funds
 
-:::info A Quote From Warren Buffett
+:::info Quote
 
-"A low-cost index fund is the most sensible equity investment for the great majority of investors. By periodically investing in an index fund, the know-nothing investor can actually outperform most investment professionals." 
+"A low-cost index fund is the most sensible equity investment for the great majority of investors." - Warren Buffett
+
 :::
 
 An index fund is a mutual fund that invests in a group of stocks according to a specific index. 

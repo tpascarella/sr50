@@ -26,6 +26,10 @@ If a giant EMP bomb wipes out the global power grid, anarchy will begin and you 
 
 ## Buying Your First Gun
 
+You want to buy a gun that you have experience shooting. Start with a handgun.
+
 ## Proper Storage
+
+Buy a case for your gun and store your ammunition in a separate location.
 
 >Increase Your Savings Rate
