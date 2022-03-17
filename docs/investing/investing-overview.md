@@ -8,6 +8,9 @@ There are many different asset classes you can invest in to rapidly acquire fina
 
 They vary in how much time, effort and capital is required to invest in them, and the return you get is usually correlated to it.
 
+## [Philosophy](philosophy.md)
+>Develop an enduring strategy.
+
 ## [Human Capital](human-capital.md) 
 >YOU are your own best investment.
 

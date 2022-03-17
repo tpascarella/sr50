@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Strategy
+# Philosophy
 
 The best investing strategy is **the continual and unrelenting accumulation of Assets.**
 
@@ -28,7 +28,7 @@ Diversity across as many asset classes as you are willing to. They each have adv
 
 Buy crypto, gold, guns, and real estate.
 
-### Plan for WW3
+### - Plan for WW3
 
 It's easy to forget that the comforts of modernity are really strange when you look at the world historically. Our ancestors dealt with war, plague, famine, and the elements repeatedly.
 

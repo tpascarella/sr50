@@ -8,12 +8,16 @@ In this section we will go over all of the equipment and supplies you will need 
 
 Items include:
 
-## A [Checking Account](checking-account.md) 
+## [Checking Account](checking-account.md) 
+>Everybody needs one.
 
-## Some Type of [Savings Account](emergency-funds.md)
+## [Savings Account](emergency-funds.md)
+>Does not have to technically be a savings account, but just a place to hold savings.
 
-## [These Apps](apps.md) 
+## [Apps](apps.md) 
+>These specific apps.
 
-## Some [Cash on Hand](cash-on-hand.md)
+## [Cash on Hand](cash-on-hand.md)
+>Makes life easier.
 
 >Increase Your Savings Rate

@@ -33,7 +33,7 @@ As a general rule, it is wise to put your money into something only if you can a
 
 Bitcoin and Ethereum are the 2 most important cryptocurrencies. Maximizing your crypto wealth means maximizing your net worth demoninated in these 2 assets.
 
-### Is it too late to buy?
+### - Is it too late to buy?
 
 No! 
 
@@ -41,13 +41,13 @@ In the technology adoption curve, we are probably in the early adopter/early maj
 
 ![Technology adoption curve](/img/technology-adoption-curve.svg)
 
-### Portfolio strategy
+### - Portfolio strategy
 
 There is no "best" portfolio allocation, as some will say. You can't possibly know what the best portfolio allocation would be unless you have a time machine and can look 10 years into the future. *The best bet you have is to make informed decisions about which tokens you are going to invest in, and dollar cost average for the long term.*
 
 If you subscribe to the investment strategy of indexing, buy one or a few of the indexes listed below. Let the indexes do the heavy lifting in your portfolio. If after that you want to take chances on some hail-mary tokens, limit their total investment to 20% of your portfolio.
 
-### Crypto index funds
+### - Crypto index funds
 
 These are crypto index funds worth investing in:
 - [Bankless Bed Index (BED)](https://indexcoop.com/bankless-bed-index)
@@ -69,7 +69,7 @@ Then do the following:
 - Create accounts with [Argent](https://www.argent.xyz/) and [Metamask](https://metamask.io/) to use your Ethereum in open finance.
 - Dollar cost average your crypto investments over a long period of time.
 
-### Psychological preparation
+### - Psychological preparation
 
 When I say the crypto markets are volatile, I mean they are *volatile*. Far more than you would have investing in the stock market through index funds.
 
@@ -85,11 +85,11 @@ The only way to prepare for the volatility of the crypto markets is to tie yours
 
 Also don't throw *everything* you have at crypto when you first get excited about it. Do it gradually, mentally psych yourself up for the rollercoaster of volatility and learn to embrace it. As long as you have a holding period of forever (you should) then the market volatility will be a little easier to swallow.
 
-### Take advantage of bonuses/promotions
+### - Take advantage of bonuses/promotions
 
 [This article from Money Ninja](https://themoneyninja.com/best-crypto-bonuses/) is a comprehensive list of the best crypto bonuses you can get. Arbitrage all of these and then transfer into your hardware wallet.
 
-### Recommended YouTube videos
+### - Recommended YouTube videos
 
 <details>
   <summary>Recommended Youtube Videos</summary>

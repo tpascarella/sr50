@@ -35,7 +35,7 @@ This 25X number is based on the famous Trinity Study, which analyzed 100+ years 
 
 The 4% rule is a *rule of thumb* and shouldn’t be taken as the end all be all of retirement plans, (especially for FI people), but it’s a good number to start with. You can, and probably will keep working past this point. 
 
-### Portfolio allocation for the 4% rule
+### - Portfolio allocation for the 4% rule
 
 To satisfy the 4% rule, you will need one stock index fund and one bond index fund to invest in. 
 
@@ -63,7 +63,7 @@ An index fund is a mutual fund that invests in a group of stocks according to a 
 
 Index funds are the simplest, most powerful, most tax efficient, lowest time requirement investments you can ever make in this asset class. 
 
-### Expense ratios
+### - Expense ratios
 
 Index and mutual funds are considered “low cost” if their expense ratio is less than one tenth of a percent. Most index funds have expense ratios less than five hundredths of a percent. 
 
@@ -77,7 +77,7 @@ A 1% expense ratio doesn’t sound too bad, but when compounded over decades it�
 
 So look at the expense ratio of any fund you are planning on putting money into. If it is more than 1/10th of a percent (.1%), pick another fund.
 
-### Why are index funds so much cheaper than mutual funds?
+### - Why are index funds so much cheaper than mutual funds?
 
 A few reasons:
 - any time stocks are bought and sold within the fund, that triggers a taxable event, which increases operating costs, 
@@ -108,14 +108,14 @@ You can also buy index funds in fractional amounts, whereas with ETFs you need t
 
 ## Portfolio Allocation Recommendations
 
-### JL Collins
+### - JL Collins
 
 JL Collins in the book, A Simple Path to Wealth recommends a portfolio allocation of the following:
 
 - 100% Stocks while you are in the Wealth Building Phase (Stage 3 and below)
 - 75% Stocks / 25% Bonds while you are in the Wealth Preservation Phase (Stage 4 and higher)
 
-### Benjamin Graham
+### - Benjamin Graham
 
 Benjamin Graham, author of The Intelligent Investor, recommends a portfolio allocation of the following:
 
@@ -128,7 +128,7 @@ Benjamin Graham, author of The Intelligent Investor, recommends a portfolio allo
 - [VTI](https://investor.vanguard.com/etf/profile/VTI) (stock ETF)
 - [BND](https://investor.vanguard.com/etf/profile/BND) (bond ETF)
 
-### Why Vanguard?
+### - Why Vanguard?
 
 Vanguard is the best option in the mutual fund industry because of their ownership structure. 
 

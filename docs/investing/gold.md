@@ -22,7 +22,7 @@ sidebar_position: 10
 
 :::
 
-### Recommended YouTube Videos
+### - Recommended YouTube Videos
 
 <iframe width="600" height="333" src="https://www.youtube.com/embed/1Dg3Vxx1iIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
 <iframe width="600" height="333" src="https://www.youtube.com/embed/UH6VFKVx08c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

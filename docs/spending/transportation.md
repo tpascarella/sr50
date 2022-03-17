@@ -32,7 +32,7 @@ I’m sure you can come up with 100 reasons why these questions don’t apply to
 
 These are real dollars that are unnecessarily leaking from your budget because you strapped yourself with an inefficient lifestyle.
 
-### Making productive use of your commuting time
+### - Making productive use of your commuting time
 
 If you have no choice but to have a long commute, at the very least don’t waste that time listening to garbage radio. Find a few educational podcasts you enjoy, book summaries are also a great use of time (I like Productivity Game on Youtube). 
 
