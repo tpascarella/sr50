@@ -54,7 +54,11 @@ If you will be buying gold bars/coins of gold from a reputable online dealer, th
 
 The first rule of gold ownership is that you don't talk about gold ownership. You especially do not admit this publicly unless necessary.
 
-Don't talk about, don't become a target.
+:::danger
+
+Talking publicly about gold ownership can make you a target. Do not disclose this to anyone.
+
+:::
 
 ## Storing Your Gold
 
