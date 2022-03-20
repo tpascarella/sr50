@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Budgets
 
-## These are a Good Idea
+## Optional, But Recommended
 
 :::info Optional
 
@@ -28,7 +28,7 @@ Financial problems are one of, if not the, biggest cause of divorce, and a divor
 
 Crack open a bottle of wine and make a date night out of it! Both of you need to be in agreement about where your money is going, so you might as well make it fun.
 
-## Free Options
+## Free Budgeting Options
 
 ### - Paper and pencil
 
@@ -45,9 +45,9 @@ Paper and pencil budgets are what your grandparents did. You want to give every 
 
 EveryDollar is Dave Ramsey's free budgeting app that is basically a spreadsheet with a nice coat of paint. It does the job well
 
-## Paid Options
+## Paid Budgeting Options
 
-### - [YNAB (You need a budget)](https://www.youneedabudget.com/) 
+### - [YNAB (You Need A budget)](https://www.youneedabudget.com/) 
 
 I personally have never used this software, but have heard good reviews for it.
 

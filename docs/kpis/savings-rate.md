@@ -10,7 +10,7 @@ Savings Rate is the most important KPI in personal finance. It measures how much
 
 :::tip
 
-This tells you how fast you are progressing.
+Savings Rate tells you how fast you are progressing.
 
 :::
 

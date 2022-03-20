@@ -10,7 +10,7 @@ Runway is the second most important KPI in personal finance. Runway tells you ho
 
 :::tip 
 
-This tells you how secure you are right now.
+Runway tells you how secure you are right now.
 
 :::
 
