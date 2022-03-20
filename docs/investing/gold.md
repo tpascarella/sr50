@@ -31,7 +31,7 @@ sidebar_position: 10
 
 If you will be buying gold bars/coins of gold from a reputable online dealer, there are some considerations you should make. **Look for the following**:
 - Reviews from the [Better Business Bureau](https://www.bbb.org/), and/or [Trustpilot](https://www.trustpilot.com/). 
-- DO NOT ASSUME IF A WEBSITE HAS THE LOGOS THEY ARE LEGITIMATE. LOGOS CAN BE COPIED. CHECK THE SOURCE WEBSITE AND READ THE REVIEWS ON THERE.
+  >DO NOT ASSUME IF A WEBSITE HAS THE LOGOS THEY ARE LEGITIMATE. LOGOS CAN BE COPIED. CHECK THE SOURCE WEBSITE AND READ THE REVIEWS ON THERE.
 - Website buyback program. If they are selling you quality gold they will purchase it back from you.
 - Buy from a recognized mint. (Makes liquidating that much easier)
 
@@ -52,11 +52,11 @@ If you will be buying gold bars/coins of gold from a reputable online dealer, th
 
 ### The first rule of gold ownership
 
-The first rule of gold ownership is that you don't talk about gold ownership. You especially do not admit this publicly unless necessary.
+The first rule of gold ownership is: you do not talk about gold ownership. You especially do not talk about gold ownership publicly.
 
 :::danger
 
-Talking publicly about gold ownership can make you a target for theft, assault, or worse. Do not disclose this information carelessly.
+Talking publicly about gold ownership can make you a target for theft, assault, or worse. It is dangerous to disclose this information carelessly.
 
 :::
 
