@@ -24,8 +24,14 @@ sidebar_position: 10
 
 ### - Recommended YouTube Videos
 
+<details>
+  <summary>Recommended YouTube Videos</summary>
+
+- [Hidden Secrets of Money Series](https://www.youtube.com/playlist?list=PLE88E9ICdipidHkTehs1VbFzgwrq1jkUJ)
 <iframe width="600" height="333" src="https://www.youtube.com/embed/1Dg3Vxx1iIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
 <iframe width="600" height="333" src="https://www.youtube.com/embed/UH6VFKVx08c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</details>
 
 ## Buying Gold
 
@@ -52,7 +58,9 @@ If you will be buying gold bars/coins of gold from a reputable online dealer, th
 
 ### The first rule of gold ownership
 
-The first rule of gold ownership is: you do not talk about gold ownership. You especially do not talk about gold ownership publicly.
+The first rule of gold ownership is: **you do not talk about gold ownership.** 
+
+You especially do not talk about gold ownership publicly.
 
 :::danger
 
