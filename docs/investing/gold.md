@@ -50,6 +50,12 @@ If you will be buying gold bars/coins of gold from a reputable online dealer, th
 
 >My personal recommendation is to buy gold from [BGASC.com](https://www.bgasc.com/)
 
+### The first rule of gold ownership
+
+The first rule of gold ownership is that you don't talk about gold ownership. You especially do not admit this publicly unless necessary.
+
+Don't talk about, don't become a target.
+
 ## Storing Your Gold
 
 [Here is a good article for explaining different options to store your gold and silver.](https://www.usmoneyreserve.com/blog/how-to-store-gold-silver/#:~:text=Rather%20than%20storing%20them%20in,be%20on%20the%20safe%20side.)
