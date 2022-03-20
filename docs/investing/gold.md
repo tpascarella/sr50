@@ -86,6 +86,8 @@ Don't keep a lot of gold at home unless you are willing to invest heavily in sec
 
 ### - In a vault
 
-This will cost some money. Cost of doing business.
+Once any human being other than yourself knows that you own gold bullion, that't when you should look into off site storage. A safe isn't secure enough.
+
+You should also immediately invest in a home security system.
 
 >Increase Your Savings Rate
