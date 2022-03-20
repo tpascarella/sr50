@@ -41,6 +41,8 @@ In the technology adoption curve, we are probably in the early adopter/early maj
 
 ![Technology adoption curve](/img/technology-adoption-curve.svg)
 
+Buying ETH *before* the merge is preferable to buying ETH *after* the merge. 
+
 ### - Portfolio strategy
 
 There is no "best" portfolio allocation, as some will say. You can't possibly know what the best portfolio allocation would be unless you have a time machine and can look 10 years into the future. *The best bet you have is to make informed decisions about which tokens you are going to invest in, and dollar cost average for the long term.*
@@ -49,7 +51,7 @@ If you subscribe to the investment strategy of indexing, buy one or a few of the
 
 ### - Crypto index funds
 
-These are crypto index funds worth investing in:
+Some crypto index funds to consider:
 - [Bankless Bed Index (BED)](https://indexcoop.com/bankless-bed-index)
 - [Data Economy Index (DATA)](https://indexcoop.com/data-economy-index)
 - [DeFi Pulse Index (DPI)](https://indexcoop.com/defi-pulse-index-dpi)

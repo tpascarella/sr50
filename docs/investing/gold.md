@@ -36,7 +36,7 @@ If you will be buying gold bars/coins of gold from a reputable online dealer, th
 - Buy from a recognized mint. (Makes liquidating that much easier)
 
 <details>
-  <summary>Reputable Gold Sources (NOT EXHAUSTIVE)</summary>
+  <summary>Reputable Gold Sources (NOT EXHAUSTIVE LIST)</summary>
 
 - Johnson Matthey
 - PAMP Suisse
@@ -56,7 +56,7 @@ The first rule of gold ownership is that you don't talk about gold ownership. Yo
 
 :::danger
 
-Talking publicly about gold ownership can make you a target. Do not disclose this to anyone.
+Talking publicly about gold ownership can make you a target for theft, assault, or worse. Do not disclose this information carelessly.
 
 :::
 
@@ -66,6 +66,18 @@ Talking publicly about gold ownership can make you a target. Do not disclose thi
 
 ### - At home
 
+Don't keep a lot of gold at home unless you are willing to invest heavily in security.
+
+<details>
+  <summary>Discreet Storage Options</summary>
+
+- [Weather Proof Storage Bin](https://www.homedepot.com/p/IRIS-82-Qt-Remington-Weather-Tight-Store-It-All-Storage-Bin-in-Black-296004/300735811)
+- [Tote Bag](https://www.inkedgaming.com/collections/gaming-crates?offset=72)
+
+</details>
+
 ### - In a vault
+
+This will cost some money. Cost of doing business.
 
 >Increase Your Savings Rate
