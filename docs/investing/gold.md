@@ -76,18 +76,8 @@ Talking publicly about gold ownership can make you a target for theft, assault, 
 
 Don't keep a lot of gold at home unless you are willing to invest heavily in security.
 
-<details>
-  <summary>Discreet Storage Options</summary>
-
-- [Weather Proof Storage Bin](https://www.homedepot.com/p/IRIS-82-Qt-Remington-Weather-Tight-Store-It-All-Storage-Bin-in-Black-296004/300735811)
-- [Tote Bag](https://www.inkedgaming.com/collections/gaming-crates?offset=72)
-
-</details>
-
 ### - In a vault
 
-Once any human being other than yourself knows that you own gold bullion, that't when you should look into off site storage. A safe isn't secure enough.
-
-You should also immediately invest in a home security system.
+Once any human being other than yourself knows that you own gold bullion, that's when you should look into off site storage. A safe in your bedroom isn't secure enough.
 
 >Increase Your Savings Rate
