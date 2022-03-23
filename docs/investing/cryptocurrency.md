@@ -2,7 +2,9 @@
 sidebar_position: 8
 ---
 
-# Cryptocurrencies
+# Cryptocurrency
+
+Technical disruption of central and commercial banks.
 
 Crypto is making a lot of headlines, and for good reason, the technology is actively disrupting central and commercial banks, and has very promising implications for the future. However, along with that, has attracted a lot of unsavory individuals to this space. You do need to do your homework in crypto. You could lose everything if you are not careful.
 

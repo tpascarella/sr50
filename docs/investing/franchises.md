@@ -4,6 +4,8 @@ sidebar_position: 6
 
 # Franchises
 
+Buying a business someone else has already proven out.
+
 Franchises are opportunities to purchase an existing business that you own and operate, while using an established business's brand.
 
 ## Advantages & Disadvantages

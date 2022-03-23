@@ -4,41 +4,15 @@ sidebar_position: 3
 
 # Financial Capital
 
-*Capital*, the term, is defined as the portion of financial resources you are able to invest. 
+"You gotta spend money to make money." - Unknown
 
-Different asset classes have different capital requirements to get started.
+*Capital*, the term, is defined as the portion of financial resources you are able to invest. Different asset classes have different capital requirements to get started.
 
-## Effort/Capital/Return for Different Asset Classes
-
-**Entrepreneurship:**
->High Effort - Variable Capital Requirement - *Potentially* High Return
-
-**Franchises:**
->High Effort - High Capital Requirement - Medium/High Return
-
-**Cryptocurrencies:**
->No Effort - Low/Medium Capital Requirement - Medium/High Return)
-
-**Real Estate:**
->Medium/Low Effort - Variable Capital Requirement - Medium/High Return
-
-**Stocks & Bonds:**
->Zero Effort - High Capital Requirement - Low Return
-
-**Human Capital:**
->High Effort - Low Capital Requirement - High Return
-
-**Gold:**
->No Effort - High Capital Requirements - Low Return
-
-**Guns:**
->No Effort - High Capital Requirements - Low/No Return
-
-## Pinch Pennies When You Have None
+## Pinch Your Pennies When You Have No Capital
 
 If you have no capital to invest, the only way to *get* capital to invest, is to *save* your pennies when you have none.
 
-## Predict 1 Year of Cash Flows
+## Predict The Next 1 Year of Cash Flows
 
 If you have a *salary* and are reasonably confidend in your paycheck size and frequency, figure out how much you will get paid for the next year. 
 

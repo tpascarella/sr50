@@ -4,46 +4,48 @@ sidebar_position: 4
 
 # Income
 
+Makes zero impact on Savings Rate. (in a vacuum)
+
 ## Importance
 
 Income is the 4th most important KPI in personal finance, and a lot of people mistake it as being the most important.
 
-:::caution 
+### - Considerations
 
-A higher income is potentially better for reaching FI, IF AND ONLY IF it is accompanied by a correspondingly higher Savings Rate.
+- A higher income is potentially better for reaching FI, IF AND ONLY IF it is accompanied by a correspondingly higher Savings Rate.
+- Do not elevate your lifestyle as you begin making more and more money!
 
-:::
+## Pitfalls of a Low Income
+
+All of them. 
 
 ## Pitfalls of a High Income
 
-There are also many common pitfalls that come with having a high income, such as:
+There are also many pitfalls exclusive to high income earners, such as:
 
 ### - Increased stress from jobs that pay that much
 
-A lot of jobs that pay high salaries are very stressful and require working lots of hours, which defeats our purpose of not having to trade time for money.
+A lot of jobs that pay high salaries are very stressful and require working lots of hours, which kind of defeats the purpose of not being forced to trade time for money.
 
-### - You can dig a much bigger hole
+### - You can dig a much deeper hole
 
-It is significantly easier to bury yourself into a financial hole making six figures than minimum wage. All of a sudden, credit card companies are offering you financing options left and right, which requires higher willpower to resist.
+It is **much easier** to bury yourself into a financial hole making six figures than minimum wage. 
+
+All of a sudden, credit card companies are offering you financing options left and right, which require ever increasing willpower to resist.
 
 ### - Societal pressures
 
-As you make more money, societal pressure is higher to flaunt that wealth through expensive houses, cars and tech gadgets. If you're a Neurosurgeon, you can't expect to drive a 10 year old Honda, right?
-
-:::danger
-
-It is significantly easier to bury yourself into a financial hole with a high salary than a low salary.
-
-:::
+As you make more money, societal pressure is higher to flaunt that wealth through expensive houses, cars and tech gadgets. Neurosurgeons can't expect to drive a 10 year old Honda Civic, right?
 
 ## Lifestyle Creep
 
-Lifestyle creep is the term for elevating your lifestyle up to your current level of income, and is the reason six-figure earners have just as low of Savings Rates as people making modest incomes. If you increase your lifestyle because you are making more money, you completely eliminate the financial benefit of making more money!
+Lifestyle creep is the term for elevating your lifestyle up to your current level of income, and is the reason six-figure earners have just as low of Savings Rates as people making modest incomes. If you increase your lifestyle because you are making more money, you completely erased the benefit of earning more money!
 
-:::info What's the first thing people go for when they get a big promotion?
+<details>
+  <summary>What's the first thing people go for when they get a big promotion?</summary>
 
-Nicer apartment, better car, and fancy meals out. The Big 3 expense categories often scale with your income, and is what keeps high income earners poor as well.
+>Nicer apartment, better car, and fancy meals out. The Big 3 expense categories often scale with your income, and should be avoided if possible.
 
-:::
+</details>
 
 >Increase Your Savings Rate

@@ -4,6 +4,8 @@ sidebar_position: 9
 
 # Gold & Other Metals
 
+Time proven (& government agnostic) store of value.
+
 ## Advantages & Disadvantages
 
 :::tip Advantages

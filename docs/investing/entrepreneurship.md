@@ -4,6 +4,8 @@ sidebar_position: 7
 
 # Entrepreneurship
 
+Creating a business from scratch.
+
 ## Advantages & Disadvantages
 
 :::tip Advantages

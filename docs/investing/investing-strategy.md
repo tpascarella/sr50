@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Investing Strategy
 
+Develop & refine a strategy you'll use for decades.
+
 The best investing strategy is **the continual and unrelenting accumulation of Assets.**
 
 ## Make Bets That Align With The Future

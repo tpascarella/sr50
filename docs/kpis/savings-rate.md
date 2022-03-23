@@ -4,61 +4,54 @@ sidebar_position: 1
 
 # Savings Rate
 
+BY FAR the most important KPI.
+
 ## Importance
 
-Savings Rate is the most important KPI in personal finance. It measures how much of your available resources you are utilizing to get your time back as a percentage.  
+Savings Rate measures how much of your available resources you are utilizing to get your time back as a percentage.  
 
-:::tip
+>Essentially, Savings Rate tells you how fast you are progressing.
 
-Savings Rate tells you how fast you are progressing.
+## Savings Rate Calculation
 
-:::
+<APITable>
 
-## How to Calculate Savings Rate
+| `Calculation` | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
+| `How much $$$ you are able to save or invest` | `DIVIDED_BY` | `Your after-tax take home pay` | `GIVES_YOU` | `Your Savings Rate (as a %)`|
 
-Savings Rate is calculated by dividing: 
+</APITable>
 
-**(how much $$$ you are able to save or invest)** 
+### - Considerations
 
-over
+- After-tax take home pay is what gets deposited into your checking account.
+- The higher your Savings Rate, the better.
+- You won't make any serious progress until you can sustain a 50% Savings Rate.
+>**This is your initial target.**
+- Savings Rate works **exactly the same regardless of your [Income](income.md) or [Net Worth](net-worth.md)!
 
-**(your after-tax take home pay)** 
+### - How long it will take you to reach FI at different Savings Rates
 
->The resulting percentage is your Savings Rate.
-
-![Savings Rate Formula](/img/sr-calculation.svg)
-
-:::note
-
-Note that Savings Rate works exactly the same regardless of Income and Net Worth.
-
-:::
-
-## How Long It Will Take You to Reach FI at Different Savings Rates
-
-[Networthify.com](https://networthify.com/calculator/earlyretirement?income=50000&initialBalance=0&expenses=20000&annualPct=5&withdrawalRate=4) will tell you how long it will take you to reach FI at varying Savings Rates. 
-
-:::note
-
-You won't make any serious progress if you can't reach a 50% Savings Rate. That is what the rest of this website is attempting to help with.
-
-:::
+[Networthify.com](https://networthify.com/calculator/earlyretirement?income=50000&initialBalance=0&expenses=20000&annualPct=5&withdrawalRate=4) has a great online calculator that will tell you how long it will take you to reach FI at different Savings Rates.
+>Experiment whenever you get a second. 
 
 ## Average American Savings Rate
 
-The average Savings Rate in America can be found at the [FRED website](https://fred.stlouisfed.org/series/PSAVERT). The current average is around 8%.
+The average Savings Rate in America can be found at the [FRED website here,](https://fred.stlouisfed.org/series/PSAVERT) or in the screenshot below. 
 
-### - Historical american savings rates
-
-The following graph represents average Savings Rates fom 1959 through today, note that the historical avergage hovers around 10%.
+The current (March '22) national average hovers around 8%.
 
 ![Savings Rate Historical Graph](/img/sr-historical-avg.svg)
 
-:::caution Do you know your savings rate?
+### - Historical american savings rates
 
-If you don't, that's a problem.
+Note that the historical avergage hovers around 10%.
 
-Figure it out.
+## Know Your Numbers!
+
+:::caution Do you know your current savings rate?
+
+If not, figure it out.
 
 :::
 

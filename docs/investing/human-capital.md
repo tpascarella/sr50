@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Human Capital
 
+"I only invest in myself." - Elon Musk
+
 Your Human Capital is the sum total of your knowledge, skills, and abilities you have to offer in a competitive job marketplace, and investing in your Human Capital is one of the highest leverage investments you can possibly make.
 
 ## Advantages & Disadvantages

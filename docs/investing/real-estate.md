@@ -4,6 +4,8 @@ sidebar_position: 5
 
 # Real Estate
 
+Acquiring/using land and buildings.
+
 Real Estate investing is the process of acquiring land and buildings that will provide economic value, usually by renting out to individual renters or businesses.
 
 ## Advantages & Disadvantages

@@ -4,6 +4,8 @@ sidebar_position: 4
 
 # Stocks & Bonds
 
+Buying ownership of companies.
+
 ## Advantages & Disadvantages
 
 :::tip Advantages

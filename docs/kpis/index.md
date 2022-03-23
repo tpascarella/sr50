@@ -1,59 +1,10 @@
 # KPIs
 
-KPI is an acronym for Key Performance Indicator. As with any objective there are metrics that you use to determine how well you are doing, and for our purposes there are 4 you need to understand.
+KPI is an acronym for *Key Performance Indicator*. In personal finance, there are 4 you should be aware of. 
 
 import DocCardList from '@theme/DocCardList';
 import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
 
 <DocCardList items={useCurrentSidebarCategory().items}/>
-
-## [Savings Rate](savings-rate.md) (HIGH IMPACT)
-
-**Savings Rate is the most imprtant KPI in Personal Finance.** Savings Rate measures how much of your after-tax take home pay you are utilizing to reach Financial Independence. (resulting in a percentage)
->The best part is that this happens *regardless* of Income and Net Worth. Meaning an 80% Savings Rate works THE EXACT SAME for someone making a $30,000 salary, as it does for someone making a $300,000 salary. 
-
-**It does not matter at all how much you make, it only matters how much you keep!**
-
-:::info Essentially
-
-Savings Rate tells you how *fast you're moving forward.*
-
-:::
-
-## [Runway](runway.md) (HIGH IMPACT)
-
-**Runway is the second most important KPI in Personal Finance.** Runway measures how many months you can survive with no income and had to live off reserves. (resulting in a number of **whole** months)
->Meaning if you lost your job tomorrow and had to live off reserves, how many months would you be able to last? 
-
-:::info Essentially
-
-Runway tells you how *secure you are right now.*
-
-:::
-
-## [Net Worth](net-worth.md) (LOW IMPACT)
-
-**Net Worth is a *very distant third* KPI.**
-
-Net Worth is an accounting formula that tells you the total value of your assets minus liabilities. However, assets can vary widely in usefulness, and it reveals nothing about your cash flow situation. 
->It's entirely possible to have a million dollar Net Worth, but if it is composed of home equity, retirement accounts, and other "assets" you don't have access to, it really doesn't benefit you much now does it?
-
-:::note
-
-Net Worth is useful for revealing any blind spots *left behind* by Savings Rate and Runway.
->It is an *order of magnitude less important than the previous two.*
-
-:::
-
-## [Income](income.md) (LOW IMPACT)
-
-Income is only imporant in what impact it has on your Savings Rate. If you have a 6-figure income, but a single digit Savings Rate, your income does not benefit you *at all*. 
->**Again, Savings Rate is EVERYTHING.**
-
-:::note
-
-Income does not matter, UNLESS you use it to INCREASE YOUR SAVINGS RATE.
-
-:::
 
 >Increase Your Savings Rate

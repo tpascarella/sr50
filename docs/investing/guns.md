@@ -4,6 +4,8 @@ sidebar_position: 10
 
 # Guns & Ammo
 
+For when the apocolypse starts.
+
 ## Advantages & Disadvantages
 
 :::tip Advantages
