@@ -1,8 +1,4 @@
----
-sidebar_position: 1
----
-
-# Career Overview
+# Careers
 
 In this section we will go over different tactics to build a great career, and to make sure that it pays you enough to become financially independent in a short time time.
 

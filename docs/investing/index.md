@@ -1,14 +1,10 @@
----
-sidebar_position: 1
----
-
-# Investing Overview
+# Investing
 
 There are many different asset classes you can invest in to rapidly acquire financial freedom. 
 
 They vary in how much time, effort and capital is required to invest in them, and the return you get is usually correlated to it.
 
-## [Philosophy](philosophy.md)
+## [Investing Strategy](investing-strategy.md)
 >Develop an enduring strategy.
 
 ## [Human Capital](human-capital.md) 

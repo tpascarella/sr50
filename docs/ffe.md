@@ -28,7 +28,7 @@ Challenge yourself to sustain a Savings Rate of 50%+
 
 :::
 
->A breakdown of average American spending can be found on the [Spending Categories Overview](spending/spending-overview.md) page.
+>A breakdown of average American spending can be found on the [Spending Categories Overview](spending/index.md) page.
 
 ### - Experiment using different Savings Rates
 

@@ -1,8 +1,4 @@
----
-sidebar_position: 1
----
-
-# Lifestyle Design Overview
+# Lifestyle Design
 
 Lifestyle design is the single most important input in solving ther Financial Freedom Equation.
 

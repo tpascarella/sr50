@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# Philosophy
+# Investing Strategy
 
 The best investing strategy is **the continual and unrelenting accumulation of Assets.**
 

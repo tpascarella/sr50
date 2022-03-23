@@ -1,8 +1,4 @@
----
-sidebar_position: 1
----
-
-# Spending Categories Overview
+# Spending Categories
 
 As previously mentioned, Savings Rate is the most important KPI when determining how long it will take to reach financial independence. We recommend reaching a Savings Rate of 50%, but if you can get it higher than that, do so!
 

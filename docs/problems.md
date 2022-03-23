@@ -62,7 +62,7 @@ We have access to Google (and this website), and these options can provide infin
 
 ## Well Intentioned, Bad Advice
 
-Most Americans are horrible on all of the [KPIs](kpis/kpis-overview.md) that matter. As a result **none of them are qualified to offer you financial advice.**
+Most Americans are horrible on all of the [KPIs](kpis/index.md) that matter. As a result **none of them are qualified to offer you financial advice.**
 
 A lot of them try to, usually out of good intentions, but they are not doing you much of a service.
 
