@@ -5,7 +5,7 @@ const path = require('path');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'SR50',
-  tagline: 'A distillation of the internet\'s best personal finance knowledge.',
+  tagline: 'A distillation of the internet\'s best personal finance information.',
   url: 'https://sr50.finance',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -15,10 +15,11 @@ module.exports = {
   projectName: 'sr50',
   customFields: {
     description:
-      'The world\'s best financial advisor. Free, for everyone.',
+      'A distillation of the internet\'s best personal finance information',
   },
   themeConfig: {
     hideableSidebar: true,
+    
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: true,
