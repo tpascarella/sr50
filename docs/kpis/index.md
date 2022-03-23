@@ -2,6 +2,11 @@
 
 KPI is an acronym for Key Performance Indicator. As with any objective there are metrics that you use to determine how well you are doing, and for our purposes there are 4 you need to understand.
 
+import DocCardList from '@theme/DocCardList';
+import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
+
+<DocCardList items={useCurrentSidebarCategory().items}/>
+
 ## [Savings Rate](savings-rate.md) (HIGH IMPACT)
 
 **Savings Rate is the most imprtant KPI in Personal Finance.** Savings Rate measures how much of your after-tax take home pay you are utilizing to reach Financial Independence. (resulting in a percentage)

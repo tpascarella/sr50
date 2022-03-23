@@ -16,4 +16,9 @@ The reason that the list starts from 0 instead of 1, is because the FI community
 
 Each stage is defined by **cash flow!** **They are NOT Net Worth milestones!**
 
+import DocCardList from '@theme/DocCardList';
+import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
+
+<DocCardList items={useCurrentSidebarCategory().items}/>
+
 >Increase Your Savings Rate

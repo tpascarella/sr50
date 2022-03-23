@@ -2,6 +2,11 @@
 
 In this section we will go over all of the equipment and supplies you will need to get started with FI.
 
+import DocCardList from '@theme/DocCardList';
+import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
+
+<DocCardList items={useCurrentSidebarCategory().items}/>
+
 Items include:
 
 ## [Checking Account](checking-account.md) 

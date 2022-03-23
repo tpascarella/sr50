@@ -1,5 +1,10 @@
 # Spending Categories
 
+import DocCardList from '@theme/DocCardList';
+import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
+
+<DocCardList items={useCurrentSidebarCategory().items}/>
+
 As previously mentioned, Savings Rate is the most important KPI when determining how long it will take to reach financial independence. We recommend reaching a Savings Rate of 50%, but if you can get it higher than that, do so!
 
 However it would be impossible to give you advice as to how to increase your Savings Rate, without first going over how your spending likely breaks down. Here is the breakdown of the average American's spending patterns.

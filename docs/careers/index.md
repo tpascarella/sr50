@@ -4,6 +4,11 @@ In this section we will go over different tactics to build a great career, and t
 
 Topics include:
 
+import DocCardList from '@theme/DocCardList';
+import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
+
+<DocCardList items={useCurrentSidebarCategory().items}/>
+
 ## [Career Considerations](considerations.md)
 
 Once you have a few offer sheets in hand, how do you compare them to one another? How do you know you are making a good decision?
