@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Stages of FI Overview
+# The 8 Stages of Financial Independence
 
 Wealth has 8 predefined stages.
 
