@@ -42,7 +42,7 @@ As you make more money, societal pressure is higher to flaunt that wealth throug
 Lifestyle creep is the term for elevating your lifestyle up to your current level of income, and is the reason six-figure earners have just as low of Savings Rates as people making modest incomes. If you increase your lifestyle because you are making more money, you completely erased the benefit of earning more money!
 
 <details>
-  <summary>What's the first thing people go for when they get a big promotion?</summary>
+  <summary>Question: What's the first thing people go for when they get a big promotion?</summary>
 
 >Nicer apartment, better car, and fancy meals out. The Big 3 expense categories often scale with your income, and should be avoided if possible.
 

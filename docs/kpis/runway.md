@@ -21,7 +21,7 @@ Runway tells you how long you can last off reserves if you had no income at all,
 
 </APITable>
 
-### Considerations
+### - Considerations
 
 - *Bank Balance* is defined as all the cash you can get into your checking account within 48 hours without significant penalty.
 - Bank Balance should only include highly liquid assets. Retirement accounts and home equity do not count because they cannot be quickly and easily converted into cash.
@@ -30,7 +30,7 @@ Runway tells you how long you can last off reserves if you had no income at all,
 
 ## Average American Runway
 
-![Average american savings](/img/runway-avg.svg)
+![Average American Runway](/img/runway-avg.svg)
 
 Statistics vary, but the general consensus is that most Americans have less than 3 months of savings. Obviously, this is not good enough.
 

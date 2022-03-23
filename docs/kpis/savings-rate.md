@@ -41,7 +41,7 @@ The average Savings Rate in America can be found at the [FRED website here,](htt
 
 The current (March '22) national average hovers around 8%.
 
-![Savings Rate Historical Graph](/img/sr-historical-avg.svg)
+![Savings Rate Graph](/img/sr-historical-avg.svg)
 
 ### - Historical american savings rates
 
