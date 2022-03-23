@@ -4,9 +4,13 @@ sidebar_position: 3
 
 # Financial Capital
 
-"You gotta spend money to make money." - Unknown
+>"You gotta spend money to make money." - Unknown
 
-*Capital*, the term, is defined as the portion of financial resources you are able to invest. Different asset classes have different capital requirements to get started.
+## Importance
+
+*Capital*, the term, is defined as the portion of financial resources you are able to invest. 
+
+**Different asset classes have different capital requirements to get started.**
 
 ## Pinch Your Pennies When You Have No Capital
 

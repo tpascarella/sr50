@@ -7,7 +7,7 @@ import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
 
 <DocCardList items={useCurrentSidebarCategory().items}/>
 
-## Asset Class Comparisons
+## Comparing Asset Classes
 
 <APITable>
 

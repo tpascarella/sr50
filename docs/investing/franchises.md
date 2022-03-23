@@ -6,14 +6,13 @@ sidebar_position: 6
 
 Buying a business someone else has already proven out.
 
-Franchises are opportunities to purchase an existing business that you own and operate, while using an established business's brand.
-
 ## Advantages & Disadvantages
 
 :::tip Advantages
 
-- Less risk than starting a business from scratch
+- Less risk than starting a business from scratch.
 - Can provide reliable cash flow.
+- Franchises are opportunities to purchase an existing business that you own and operate, without having to start from zero.
 
 :::
 

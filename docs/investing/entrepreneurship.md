@@ -4,7 +4,7 @@ sidebar_position: 7
 
 # Entrepreneurship
 
-Creating a business from scratch.
+> Creating a business from scratch.
 
 ## Advantages & Disadvantages
 

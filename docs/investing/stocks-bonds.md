@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Stocks & Bonds
 
-Buying ownership of companies.
+Buying ownership of companies, and fixed future payments.
 
 ## Advantages & Disadvantages
 

@@ -4,15 +4,7 @@ sidebar_position: 8
 
 # Cryptocurrency
 
-Technical disruption of central and commercial banks.
-
-Crypto is making a lot of headlines, and for good reason, the technology is actively disrupting central and commercial banks, and has very promising implications for the future. However, along with that, has attracted a lot of unsavory individuals to this space. You do need to do your homework in crypto. You could lose everything if you are not careful.
-
-:::tip 
-
-As a general rule, it is wise to put your money into something only if you can also explain to a 5 year old. 
-
-:::
+>Technical disruption of central and commercial banks.
 
 ## Advantages & Disadvantages
 
@@ -28,6 +20,16 @@ As a general rule, it is wise to put your money into something only if you can a
 
 - Incredibly volatile.
 - There are lots of shady characters in the crypto space. (Vast majority of ICOs are complete scams)
+
+:::
+
+## Importance
+
+Crypto is making a lot of headlines, and for good reason, the technology is actively disrupting central and commercial banks, and has very promising implications for the future. However, along with that, has attracted a lot of unsavory individuals to this space. You do need to do your homework in crypto. You could lose everything if you are not careful.
+
+:::tip 
+
+As a general rule, it is wise to put your money into something only if you can also explain to a 5 year old. 
 
 :::
 
