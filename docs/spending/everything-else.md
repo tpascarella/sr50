@@ -2,7 +2,9 @@
 sidebar_position: 4
 ---
 
-# Everything Else
+# 38% - Everything Else
+
+(Minus insurance)
 
 ## Importance
 

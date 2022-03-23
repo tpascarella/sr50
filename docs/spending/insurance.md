@@ -4,13 +4,13 @@ sidebar_position: 6
 
 # Insurance
 
+Shop around.
+
 ## Importance
 
 Insurance takes up about 12% of your take-home pay. We can't completely eliminate insurance costs, but can mitigate their impact.
 
-
 ## Strategies for Paying Less for Insurance
-
 
 ### - Shop around
 

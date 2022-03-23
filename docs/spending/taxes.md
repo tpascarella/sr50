@@ -2,7 +2,9 @@
 sidebar_position: 5
 ---
 
-# Taxes
+# (~1/3rd of Salary) - Taxes 
+
+An often neglected third (!) of your salary
 
 ## Importance
 

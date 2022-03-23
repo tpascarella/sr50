@@ -6,23 +6,31 @@ sidebar_position: 4
 
 You become Financially Free once the Financial Freedom Equation (FFE) is satisfied. **The Financial Freedom Equation is as follows:**
 
-![The Financial Freedom Equation](/img/ffe.svg)
+## FFE Calculation
 
-:::info Terminology
+<APITable>
+
+| `Calculation` | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
+| `Passive Income` | `IS_GREATER_THAN?` | `Average Burn` | `RETURNS` | `(True/False)`|
+
+</APITable>
+
+>Once the Financial Freedom Equation is satisfied, this is the first point where you don't need your employer's paychecl to sustain your lifestyle. 
+
+:::note Website terminology
 
 You will see the Financial Freedom Equation referred to as the FFE, throughout the rest of this site.
 
 :::
 
-Once the Financial Freedom Equation is satisfied, this is the first point where you don't need your employer's paychecl to sustain your lifestyle. 
-
-## How Long Will it Take Me To Solve The FFE?
+## How Long Will it Take To Solve The FFE?
 
 How fast you solve the FFE is determined entirelt by how high you can get your Savings Rate. 
 
 :::tip
 
-Challenge yourself to sustain a Savings Rate of 50%+
+Challenge yourself to sustain a Savings Rate of 50%+.
 
 75% is even better.
 
