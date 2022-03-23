@@ -5,7 +5,7 @@ const path = require('path');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'SR50',
-  tagline: 'An Open Source Financial Advisor Alternative.',
+  tagline: 'A distillation of the internet\'s best personal finance knowledge.',
   url: 'https://sr50.finance',
   baseUrl: '/',
   onBrokenLinks: 'throw',

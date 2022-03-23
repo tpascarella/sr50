@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Common Problems
@@ -26,7 +26,7 @@ Age says absolutely nothing about your Savings Rate, it says nothing about your 
 
 401K's and Roth IRA's are the only kind of investments most people ever make, and you can achieve the same amount of financial independence within 3-5 years, instead of 30-40, **if you invest aggressively and sustain a high Savings Rate.**
 
-## "Financial Advisors" are Really Just Insurance Salesmen
+## "Financial Advisors" are Actually Just Insurance Salesmen
 
 Another problem is that financial advisors are actually insurance salesmen *who pose as financial advisors.* 
 
