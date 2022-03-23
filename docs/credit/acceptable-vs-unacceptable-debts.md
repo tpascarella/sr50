@@ -33,7 +33,7 @@ These debts do you absolutely no good. Get rid of them as fast as you can.
 Not all debts need to be eliminated from your financial position immediately, as a lot of financial professionals would have you believe. 
 
 Unacceptable debts should be cleared as fast as possible. 
->The [Debt Paydown page](debt-paydown.md) lists different strategies for eliminating these debts as quickly as possible.
+>The [Debt Paydown Strategies](debt-paydown-strategies.md) page lists strategies for eliminating these debts as quickly as possible.
 
 Acceptable debts can be left alone, so long as they increase your Savings Rate and Income.
 
