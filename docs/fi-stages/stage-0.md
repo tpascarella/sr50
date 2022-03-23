@@ -8,20 +8,13 @@ sidebar_position: 2
 
 ### - Active Income < Lifestyle Expenses
 
-Anyone whose active income (salary) cannot cover their lifestyle, and relies on family, friends, or a welfare check to support themselves are at Stage Zero. This is where everyone starts out, but Stage Zero isn’t just limited to children living at home. 
+Anyone whose active income (salary) cannot cover their lifestyle, and relies on family, friends, or a welfare check to support themselves are at Stage 0. This is where everyone starts out, but Stage 0 isn’t just limited to children living at home. 
 
-:::info 
-
-The reason the first stage is Stage Zero instead of Stage One, is because the FI community has deep roots in the software engineering/computer science communities, and computer science people start lists from zero.
-
-:::
-
-
-The only way out of Stage Zero is to increase your income or reduce your Burn until you can support yourself, there is no other way. 
+**The only way out of Stage 0 is to increase your income or reduce your Burn until you can support yourself, there is no other way.**
 
 :::danger 
 
-Get out of this stage as fast as possible.
+Get out of this stage as fast as possible!
 
 :::
 

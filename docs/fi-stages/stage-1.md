@@ -8,23 +8,23 @@ sidebar_position: 3
 
 ### - Active Income > Lifestyle Expenses
 
-Stage One happens when someone’s active income can roughly cover their lifestyle expenses. 
+Stage 1 happens when someone’s active income can roughly cover their lifestyle expenses. 
 
-At Stage One, you are able to support yourself, but your Savings Rate is still zero, and as a result you are not extending your Runway. 
+At Stage 1, you are able to support yourself, but your Savings Rate is still 0%, and as a result you are not extending your Runway. 
 
 :::caution
 
-People at Stage One are trapped in an endless cycle of: earn money, spend everything, go back to work, repeat until death.
+People at Stage 1 are trapped in an endless cycle of: earn money, spend everything, go back to work, repeat indefinitely.
 
 :::
 
-Being at Stage One is better than being at Stage Zero, but the lack of Runway leaves people at this stage with still few options. 
+Being at Stage 1 is better than being at Stage 0, but the lack of Runway leaves people at this stage with still few options. 
 
-The only way out of this stage is to increase the gap between cash in and cash out. 
+**The only way out of this stage is to increase the gap between cash coming in and cash going out.**
 
 :::danger 
 
-Get out of this stage as fast as possible.
+Get out of this stage as fast as possible!
 
 :::
 

@@ -2,34 +2,43 @@
 sidebar_position: 3
 ---
 
-# The Financial Freedom Equation
+# The Financial Freedom Equation (FFE)
 
-You become Financially Free once the financial freedom equation is satisfied. 
-
-## The FFE
-
-**The Financial Freedom Equation is as follows:**
+You become Financially Free once the Financial Freedom Equation (FFE) is satisfied. **The Financial Freedom Equation is as follows:**
 
 ![The Financial Freedom Equation](/img/ffe.svg)
 
-:::info Terms
+:::info Terminology
 
-You will see the Financial Freedom Equation referred to as the FFE throughout this site.
+You will see the Financial Freedom Equation referred to as the FFE, throughout the rest of this site.
 
 :::
 
-## How Soon Will I Solve The FFE?
+Once the Financial Freedom Equation is satisfied, this is the first point where you don't need your employer's paychecl to sustain your lifestyle. 
 
-Once the Financial Freedom Equation is satisfied, this is the first point where you don't need your employer's paychecl to sustain your lifestyle. How *fast* you solve the FFE is determined by how high you can get your Savings Rate. 
+## How Long Will it Take Me To Solve The FFE?
+
+How fast you solve the FFE is determined entirelt by how high you can get your Savings Rate. 
 
 :::tip
 
-Get your Savings Rate as high as you can sustain. 50% is good. 75% would be better.
+Challenge yourself to sustain a Savings Rate of 50%+
+
+75% is even better.
 
 :::
 
-### - Experiment with different Savings Rates
+>A breakdown of average American spending can be found on the [Spending Categories Overview](spending/spending-overview.md) page.
+
+### - Experiment using different Savings Rates
 
 You can experiment to see how long it will take to solve the FFE with different Savings Rates using the calculator at [Networthify.com](https://networthify.com/calculator/earlyretirement?income=50000&initialBalance=0&expenses=20000&annualPct=5&withdrawalRate=4).
+
+Some examples:
+- A Savings Rate of **25%** will solve the FFE in **31.9 years.**
+- A Savings Rate of **40%** will solve the FFE in **21.6 years.**
+- A Savings Rate of **55%** will solve the FFE in **14.4 years.**
+- A Savings Rate of **70%** will solve the FFE in **8.8 years.**
+- A Savings Rate of **85%** will solve the FFE in **4.1 years.**
 
 >Increase Your Savings Rate

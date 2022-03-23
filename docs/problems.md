@@ -42,24 +42,29 @@ Check out some financial advisor [jobs on LinkedIn.](https://www.linkedin.com/jo
 
 :::
 
-Tell me if you notice crap like:
+You'll see some similarities:
 
-- Uncapped earnings potential
-- Series 7 & 66 required, insurance licenses also likely required
-- Entrepreneurial spirit, building your "book of business"
-- Sales experience preferred
+- "Uncapped earnings potential!"
+- "Series 7 & 66 required, insurance licenses also required"
+- "Entrepreneurial spirit, building your 'book of business'"
+- "Sales experience preferred"
 
-**Financial advisors don't get paid for what they know. They get paid for what they sell.**
+There is a clear divide between what a financia advisor *should be,* in theory; and the actual logistics of the industry. 
+
+In short:
+>**Financial advisors don't get paid for the knowledge they have. They get paid commissions on the products they sell.**
 
 ### - The job is obsolete now
 
 You don't need to *pay someone thousands of dollars* to tell you to spend less than you earn and invest for the future. 
 
-We have access to Google (and this website), and these options can provide *infinitely better service*, at *infinitely lower cost* than these *"professionals"*.
+We have access to Google (and this website), and these options can provide infinitely better service, at substantially lower cost than *"the professionals"*.
 
 ## Well Intentioned, Bad Advice
 
-Most Americans suck at saving. They are horrible on all of the [KPIs](kpis/kpis-overview.md) in personal finance, and as a result **they are not qualified to offer you financial advice.** A lot of them pretend to, out of good intentions, but they are not doing you much of a service.
+Most Americans are horrible on all of the [KPIs](kpis/kpis-overview.md) that matter. As a result **none of them are qualified to offer you financial advice.**
+
+A lot of them try to, usually out of good intentions, but they are not doing you much of a service.
 
 :::caution 
 
@@ -69,7 +74,7 @@ Be very careful about where you get your information! A lot of people try to off
 
 Here are the most common pieces of financial advice you will hear:
 
-### - "You need to max out your retirement accounts" 
+### - "You need to max out your retirement accounts!" 
 
 No you don't. What you need is build up passive income. 
 
@@ -83,15 +88,13 @@ This isn't to say that retirement accounts have *zero place* in your financial r
 
 In their designed use case, you are not allowed to touch the money in these accounts until you turn 65. I reject the premise.
 
-### - "Going to university is a great career move"
+### - "Going to university is a great career move!"
 
-Maybe, but not always. 
+Maybe, but not always. It depends on the impact your degree will have on your Savings Rate and your Income. If that degree can double your income, and you have access to grants, then sure, go for it. 
 
-It depends on the impact your degree will have on your Savings Rate and your Income. If the degree can double your income, and you have access to grants from a reasonable school, then go for it. 
+However, saying "university is a great option" as *one-size fits all, blanket career advice* is incredibly stupid. College is expensive, and certainly should never be entered *on impulse*.
 
-But saying "university is a great option" as *one-size fits all, blanket career advice* is incredibly stupid. College is really god damn expensive, and should never be entered *on impulse*.
-
-### - "You should pay off your house"
+### - "My house is the best investment I've ever made!"
 
 Paying off your house is another inefficient use of capital. 
 
@@ -101,29 +104,29 @@ Say you have a $200,000 balance on your mortgage, and you decide to pay it off:
 
 1. How long would it take you to save up $200,000 in cash? 10 years? 20 years?
 2. What is the return you will make on your $200,000? Not having to pay a mortgage payment anymore.
->In effect, your $200,000 has given you a SINGLE mortgage payment's swing to your Savings Rate. 
+>In effect, that $200,000 has returned to you, a SINGLE MORTGAGE PAYMENT's swing to your Savings Rate. 
 
 ::: 
 
-There are *so many better investments* you can make that provide far greater swings to your Savings Rate, with far lower capital requirements, and those investments should get absolute priority. 
+There are *many better investments* you can make that provide far greater swings to your Savings Rate, with far lower capital requirements, and those investments should get absolute priority. 
 
-You need to consider the opportunity cost of what else you can do with that money. With $200,000 you can use FHA loans towards multiple [house hacks](/spending/housing.md), a [Franchise purchase](/investing/franchises.md), or a substantial portfolio of [crypto](/investing/cryptocurrencies.md).
+You need to consider the opportunity cost of what else you can do with that money. With $200,000 you can use FHA loans towards multiple [house hacks](/spending/housing.md), a [franchise purchase](/investing/franchises.md), or a substantial portfolio of [crypto](/investing/cryptocurrencies.md).
 
 ## Americans Have No Savings, No Leverage, & No Options
 
 The average Savings Rate in America is about 8%.
 
-:::info Current statistic
+:::note Current statistics
 
-The national Savings Rate can be found at the Federal Reserve Economic Data website [here](https://fred.stlouisfed.org/series/PSAVERT).
+Current Savings Rate data can be found at the [Federal Reserve Economic Data website here](https://fred.stlouisfed.org/series/PSAVERT).
 
 ::: 
 
-The consequence of having a single digit Savings Rate, is that your Runway (the length of time you can survive without a paycheck) never increases, you never build up that buffer between yourself and bankruptcy. And since you never progress, this keeps you trapped at your current Stage of Financial Independence indefinitely. 
+One consequence of having a single digit Savings Rate is that your Runway (the length of time you can survive without a paycheck) never increases, you never build up that buffer between yourself and bankruptcy. Since you never progress, this keeps you trapped at your current Stage of Financial Independence indefinitely. 
 
-It's also much harder to build any passive income with a low Savings Rate. You have no capital to invest, or any means to means to acquire more. 
+It's also much harder to build any passive income with a low Savings Rate. You have no capital to invest, or have any means to means to acquire more. 
 
-### - You have no choice but to sell your soul for money
+### - No choice but to sell your soul to Lumbergh
 
 Another consequence of having a low Savings Rate is that you're trapped at *whatever job keeps the bills paid.* You don't have the Runway (time) needed to find or pursue any better opportunities.
 

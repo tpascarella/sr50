@@ -22,7 +22,7 @@ Using them like you would cash.
 ## ["Acceptable" & "Unacceptable" Debts](acceptable-vs-unacceptable-debts.md)
 >Differentiating between "Acceptable" & "Unacceptable" debts.
 
-## [Debt Paydown Strategies](debt-paydown.md)
+## [Debt Paydown Strategies](debt-paydown-strategies.md)
 >The snowball and the avalanche.
 
 >Increase Your Savings Rate
