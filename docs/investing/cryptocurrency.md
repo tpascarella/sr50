@@ -62,13 +62,22 @@ Some crypto index funds to consider:
 
 These funds can be purchased through [Argent](https://www.argent.xyz/download-argent/?_branch_match_id=1032833481488341820&utm_source=website&utm_campaign=homepage&utm_medium=marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTyxKT80r0cvJzMvWT08tgXABaOacVx0AAAA%3D).
 
-## Beginner Steps
+## If You Are a Crypto Beginner
 
-The first thing you should do is to commit to only putting your money into things that you *understand*. You can lose everything in crypto if you are careless.
+### - TAKE PROPER PRECAUTIONS!
+
+There are some precautions you should take if you are a crypto beginner playing with their life savings:
+- Only give your money into things that you *understand*, and *believe in wholeheartedly*. 
+  - **You can lose everything to sly crypto scammers if you act carelessly.**
+- SEND TEST TRANSACTIONS BEFORE YOU SEND SIGNIFICANT QUANTITIES.
+  - A guide for your first crypto transfer is included below.
+
+### - Action steps
 
 Then do the following: 
-- Subscribe to [Bankless](https://www.youtube.com/c/Bankless?app=desktop) on YouTube and self educate constantly. Video recommendations included below.
-- Create an account with [Coinbase](https://www.coinbase.com/) or [Gemini](https://www.gemini.com/) and buy Bitcoin and/or Ethereum. 
+- Subscribe to [Bankless](https://www.youtube.com/c/Bankless?app=desktop) on YouTube and self educate constantly. 
+  - Video recommendations included below.
+- Create an account with [Coinbase](https://www.coinbase.com/) or [Gemini](https://www.gemini.com/) and buy Bitcoin and Ethereum. 
 - Buy a [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x) hardware wallet to store yout Bitcoin.
 - Create accounts with [Argent](https://www.argent.xyz/) and [Metamask](https://metamask.io/) to use your Ethereum in open finance.
 - Dollar cost average your crypto investments over a long period of time.
@@ -83,7 +92,6 @@ The only way to prepare for the volatility of the crypto markets is to tie yours
 
 :::
 
-
 >**"I'm the worst investor of all time!"**
 ![Portfolio performance](/img/crypto-portfolio.svg)
 
@@ -92,6 +100,19 @@ Also don't throw *everything* you have at crypto when you first get excited abou
 ### - Take advantage of bonuses/promotions
 
 [This article from Money Ninja](https://themoneyninja.com/best-crypto-bonuses/) is a comprehensive list of the best crypto bonuses you can get. Arbitrage all of these and then transfer into your hardware wallet.
+
+## Crypto Guides
+
+<details>
+  <summary>How To Transfer Crypto From an Exchange to a Wallet</summary>
+
+- Send a $10 test transaction to yourself first!
+- Round up to the next factor of 10 to transfer the rest of your crypto.
+  - $10 -> $90 -> $900 -> $,9000 -> ...
+
+</details>
+
+## References
 
 ### - Recommended YouTube videos
 
