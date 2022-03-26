@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Insurance
 
-Shop around.
+Do an hour of research to make sure you aren't being ripped off.
 
 ## Importance
 

@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # 13% - Food
 
-Cook healthy food & limit eating out.
+>Cook healthy food & limit eating out.
 
 ## Importance
 

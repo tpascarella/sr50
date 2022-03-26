@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # 16% - Transportation
 
-Don't have a car payment & live close to your work.
+>Don't have a car payment & live close to your work.
 
 ## Importance
 

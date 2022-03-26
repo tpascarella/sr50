@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # 33% - Housing
 
-Live in cheap apartments until you can house hack.
+>Live in cheap apartments until you can house hack.
 
 ## Importance
 
