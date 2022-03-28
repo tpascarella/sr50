@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Being Rich
+# "Being Rich"
 
 ## What Does Being Rich Actually Look Like?
 
