@@ -12,7 +12,7 @@ import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
 
 <DocCardList items={useCurrentSidebarCategory().items}/>
 
-:::info First stage is stage zero
+:::note First stage is stage zero
 
 The reason that the list starts from 0 instead of 1, is because the FI community has deep roots in the software engineering and computer science communities, and they both start lists at 0.
 

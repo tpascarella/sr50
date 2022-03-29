@@ -6,6 +6,8 @@
  */
 
 /* You can override the default Infima variables here. */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Quattrocento+Sans&display=swap');
+
 :root {
   --ifm-color-primary: #09d3ac;
   --ifm-color-primary-dark: rgb(8, 190, 155);
@@ -27,19 +29,23 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, .3);
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Quattrocento+Sans&display=swap');
-
 p {
-  font-family: 'Quattrocento', 'Arial';
-  font-weight: 200;
+  font-family: 'Quattrocento Sans';
+  font-size: 16px;
+}
+
+h1, h2 {
+  font-family: 'Montserrat';
 }
 
 h3 {
+  font-family: 'Montserrat';
   color: aquamarine; 
   font-size: 32px;
 }
 
 h4 {
+  font-family: 'Montserrat';
   color:lightcyan;
   font-size: 28px;
 }

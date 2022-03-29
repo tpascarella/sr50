@@ -49,7 +49,7 @@ You'll see some similarities:
 - "Entrepreneurial spirit, building your 'book of business'"
 - "Sales experience preferred"
 
-There is a clear divide between what a financia advisor *should be,* in theory; and the actual logistics of the industry. 
+There is a clear divide between what a financial advisor *should be,* in theory; and the actual logistics of the industry. 
 
 In short:
 >**Financial advisors don't get paid for the knowledge they have. They get paid commissions on the products they sell.**

@@ -43,7 +43,7 @@ Grocery stores are designed so you'll buy way more than you intially intended, s
 
 If you follow these rules, you should have a pantry full of reasonably healthy food that didn't cost you an arm and a leg. 
 
-## Cooking
+## Cooking Your Own Food
 
 Cooking is a valuable life skill you should continually develop. You are quite literally crafting the sustenance you need to survive, so get good at it! People will like you more if you feed them. 
 

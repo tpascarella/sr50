@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # 38% - Everything Else
 
->(Minus insurance)
+>Does not include insurance.
 
 ## Importance
 
@@ -28,7 +28,7 @@ The following are the percentages for different expense categories from the [202
 - Cash Contrubutions - 3.7%
 - Personal Insurance and Pensions - 11.8%
 
-### - (for the most part) You can keep these
+### - (within reason) You can keep these
 
 If you are frugal in the Big 3 expense categories, you can reach a high Savings Rate and don’t need to stress about the other categories, since they will provide a marginal (at best) increase to your Savings Rate.
 
