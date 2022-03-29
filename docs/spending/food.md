@@ -8,60 +8,52 @@ sidebar_position: 3
 
 ## Importance
 
-**You always spend more than you think you do on food. Every time, without exception.**
+You always spend more than you think you do on food. **Every time, without exception.**
 
 ## Breakdown
 
-Peoples' food bills are usually split pretty evenly between buying groceries and eating out. 
+Per the [Consumer Expenditures survey](https://www.bls.gov/opub/reports/consumer-expenditures/2020/home.htm), consumers grocery bills and restaurant bills take up approximately the same percentage of your income.
 
-:::tip 
-
-You should always default to cooking your meals.
-
-:::
+You should always default to cooking your meals! It is much cheaper and much healthier.
 
 ### - Eating out
 
-For eating out, the best advice I can give is to just never do it. It’s unhealthy, it’s expensive, and can usually be prevented with a bit of forethought. 
+The best advice we can give for eating out is to just never do it. It’s unhealthy, it’s expensive, and can usually be prevented with a bit of forethought. 
 
 :::danger 
 
-Despite what the nutrition facts sheet may claim, restaurant food is often worse for you than you think. 
-
-They are in the business of selling tasty food, not food that is good for you.
+Despite what the nutrition facts sheet may claim, restaurant food is often far worse for you than you think. They are in the business of selling *tasty food*, not *healthy food*.
 
 :::
 
 ### - Buying groceries
 
-Plan out your grocery trips so you only need to go once a week. Grocery stores are designed so you'll buy way more than you intially intended. 
+You should aim to get 100% of your calories from healthy food that you buy from grocery stores.
 
-So only go once a week, and bring a list. 
+Grocery stores are designed so you'll buy way more than you intially intended, so only go once a week, and bring a list. 
 
 :::tip Some Tips For Lowering Your Grocery Bills
-- bring a grocery list based off the weekly ad,
-- take advantage of BOGO deals and discounts, 
+- create a grocery list based off the weekly ad,
+- take full advantage of BOGO deals and discounts, 
 - keep your freezer stocked with protein, 
-- stockpile paper products and other staples when they’re on sale,  
-- buy bulk items at Costco first, then get the rest from other grocery stores. 
+- stockpile products that have a very long shelf life when they’re on sale,  
+- buy bulk items at [Costco](https://www.costco.com/join-costco.html) first, then get the rest from other grocery stores. 
 
 :::
 
-If you follow these rules, you should have a cabinet full of reasonably healthy food that won't cost you an arm and a leg. 
+If you follow these rules, you should have a pantry full of reasonably healthy food that didn't cost you an arm and a leg. 
 
 ## Cooking
 
-Cooking is a valuable life skill you should continually develop, it's a lifelong process. 
+Cooking is a valuable life skill you should continually develop. You are quite literally crafting the sustenance you need to survive, so get good at it! People will like you more if you feed them. 
 
-You are quite literally crafting the sustenance you need to survive, so get good at it! People will like you more if you feed them. 
-
-:::note "But I don't know how to cook!" You cry
+:::note "But I don't know how to cook!"
 
 You have Google. Use it.
 
 :::
 
-Find 5 recipes online that look good and try making them! It doesn't matter whether they're healthy at first, the important thing is that you start, and that you build the habit to cook your own food. You'll get better at it as time goes on, and will be shocked how much better food tastes when you cook it yourself.
+Find 5 recipes that look good and try making them! It does not matter whether the dishes are healthy at first, the important thing is that you start and build the habit to cook your own food. You'll get better at it as time goes on, and soon you'll be shocked how much better food tastes when you cook it yourself.
 
 ### - Physical health is an investment
 
