@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Savings Rate
 
-BY FAR the most important KPI.
+>BY FAR the most important KPI.
 
 ## Importance
 
@@ -16,9 +16,9 @@ Savings Rate measures how much of your available resources you are utilizing to 
 
 <APITable>
 
-| `Calculation` | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- |
-| `How much $$$ you are able to save or invest` | `DIVIDED_BY` | `Your after-tax take home pay` | `GIVES_YOU` | `Your Savings Rate (as a %)`|
+| `Calculation` | - | - | - | - |
+| - | - | - | - | - |
+| `How much $$$ you are able to save or invest` | `DIVIDED BY` | `Your after-tax take home pay` | `GIVES YOU` | `Your Savings Rate (as a %)`|
 
 </APITable>
 
@@ -39,8 +39,7 @@ Savings Rate measures how much of your available resources you are utilizing to 
 
 The average Savings Rate in America can be found at the [FRED website here,](https://fred.stlouisfed.org/series/PSAVERT) or in the screenshot below. 
 
-The current (March '22) national average hovers around 8%.
-
+The spike from COVID appears to have died down and it has returned to the historical average.
 ![Savings Rate Graph](/img/sr-historical-avg.svg)
 
 ### - Historical american savings rates

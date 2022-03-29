@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Runway
 
-The 2nd most important KPI.
+>The 2nd most important KPI.
 
 ## Importance
 
@@ -15,9 +15,9 @@ Runway tells you how long you can last off reserves if you had no income at all,
 
 <APITable>
 
-| `Calculation` | --- | --- | --- | --- |
+| `Calculation` | - | - | - | - |
 | --- | --- | --- | --- | --- |
-| `Your Bank Balance` | `DIVIDED_BY` | `Your average Burn` | `GIVES_YOU` | `Your $ of Months of Runway (rounded down)`|
+| `Your Bank Balance` | `DIVIDED BY` | `Your average Burn` | `GIVES YOU` | `Your $ of Months of Runway (rounded down)`|
 
 </APITable>
 

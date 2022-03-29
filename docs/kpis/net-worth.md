@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Net Worth
 
-A very distant 3rd KPI.
+>A very distant 3rd KPI.
 
 ## Importance
 
