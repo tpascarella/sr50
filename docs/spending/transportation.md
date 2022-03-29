@@ -8,19 +8,23 @@ sidebar_position: 2
 
 ## Importance
 
-Transportation is the second largest expense category for most Americans. This is due to having too expensive a car, and too long a commute.
+Transportation is the second largest expense category for most Americans. Most of this is comes from having too expensive a car, and too long a commute.
 
 ## Car Payments
 
 :::tip
 
-Don't have a car payment. That's the best strategy. 
+Never have a car payment. 
+
+That's the best strategy. 
 
 :::
 
-But that is probably not feasible. The second best strategy is to keep your payment down to the minimum you can reasonably manage. 
+But that is probably not feasible for most people. The second best strategy is to keep your car payment down to the minimum you can reasonably manage. I'm not going to give a recommendation like "only spend 15% of your take home pay on your car payment" because your first inclination should be to have it be as little as possible.
 
-Car payments are always a bad idea. Cars only go down in value, and they aren't an investment. You don’t need a Mercedes to transport you to your job, your car is just a tool to get you from one point to another without leaving you stranded. It’s only a status symbol in your brain. 
+Car payments are always a bad idea. Cars only go down in value, so they aren't an investment. Your car is just a tool to get you from one point to another without leaving you stranded. 
+
+>It’s only a status symbol in your brain. 
 
 ## Commuting
 
@@ -32,52 +36,51 @@ Two questions:
 
 I’m sure you can come up with 100 reasons why these questions don’t apply to you. 2% of them might be right, 98% are probably wrong. 
 
-These are real dollars that are unnecessarily leaking from your budget because you strapped yourself with an inefficient lifestyle.
-
 ### - Making productive use of your commuting time
 
-If you have no choice but to have a long commute, at the very least don’t waste that time listening to garbage radio. Find a few educational podcasts you enjoy, book summaries are also a great use of time (I like Productivity Game on Youtube). 
+If you have no choice but to have a long commute, at the very least don’t waste that time listening to garbage radio. Find a few educational podcasts you enjoy, book summaries are also a great use of time. 
 
-The goal is to continually learn new things while driving, making driving a much more productive activity. I recommend Starting Strength Radio, BiggerPockets & BiggerPockets Money, the Y Combinator podcast, Hoover Institution episodes, and the Jordan Peterson podcast.
-
-## Car Maintenance
+The goal is to continually learn new things while you're driving, making it a much more productive activity. I recommend the [Starting Strength](https://podcasts.apple.com/us/podcast/starting-strength-radio/id687932160), [BiggerPockets](https://podcasts.apple.com/us/podcast/biggerpockets-real-estate-podcast/id594419649) & [BiggerPockets Money](https://podcasts.apple.com/us/podcast/biggerpockets-money-podcast/id1330225136), [Y Combinator](https://podcasts.apple.com/us/podcast/y-combinator/id1236907421), [Uncommon Knowledge](https://podcasts.apple.com/us/podcast/uncommon-knowledge/id1378389941) , and the [Jordan Peterson](https://podcasts.apple.com/us/podcast/the-jordan-b-peterson-podcast/id1184022695) podcasts.
 
 ## Biking
 
-Or, if you're *really smart*, you can transport yourself for free by biking. An ebike has become the new status symbol for Financial Independence. You can DIY mountain bikes with a motor and a Tesla battery, and these things can go over 40 miles an hour, they’re awesome! Just don’t tell my Madre, she worries.
+Biking is free, and nobody talks about this!
 
-:::note
+An ebike has become the new status symbol for the FIRE movement, replacing the BMW. You can DIY mountain bikes with a motor and a Tesla battery, and these things can go over 40 miles an hour, they’re awesome! Just don’t tell my Madre, she worries.
 
 [Here is a good article explaining how to DIY an electric mountain bike.](https://www.mrmoneymustache.com/2016/05/25/recipe-for-a-badass-diy-electric-mountain-bike/)
 
-:::
-
 ## Side Hustles
 
-With the car you currently do have, if you aren't willing to downgrade, at least try to use it to make some extra money. There are lots of ways you can make a decent amount of cash with your car, including:
-- Uber
-- Lyft
-- Instacart
-- Doordash
-- Postmates
-- Turo
+Using the car you currently do have, if you aren't willing to downgrade, at least try to make some extra money with it. There are lots of ways you can make a decent amount of cash with your car, including:
+- [Uber](https://www.uber.com/us/en/s/d/join/?next_url=https%3A%2F%2Fdrivers.uber.com%2Fp3%2F&source=auth)
+- [Lyft](https://www.lyft.com/driver)
+- [Instacart](https://shoppers.instacart.com/role/full-service)
+- [Doordash](https://www.doordash.com/dasher/signup/)
+- [Turo](https://turo.com/us/en/list-your-car)
 
-Give one of them a try until you make at least $500.
+Give one a try until you make at least $500.
 
 ### - Tax considerations
 
-Business travel expenses can be deducted on your taxes, but commuting expenses cannot. The difference is that commuting expenses take place before you start working, while business expenses occur during working hours. 
+Business travel expenses can be deducted on your taxes, however commuting expenses cannot. The difference is that commuting expenses take place *before you start working*, while business expenses occur *during work hours.* 
 
-If you have business miles and need to deduct them, download MileIQ on your phone and classify your business trips, and the app will give you the form to deduct them on your taxes.
+If you have business miles and need to deduct them, download [MileIQ](https://apps.apple.com/us/app/mileiq-mileage-tracker-log/id578830929) and classify your business trips, and the app will give you the form to deduct them on your taxes.
 
 ## Self Driving Cars
 
-Cars are one of the most common places that human beings die, so see if your car is compatible with an Openpilot compatible device from Comma AI. This is the company that will solve self driving cars (better than Tesla!), and they just released their [next generation of hardware](https://comma.ai/shop/products/three). 
+Tesla and Comma AI are the two companies that have made serious progress in self driving cars. 
 
-:::note
+### Tesla
 
-See if your car is compatible with their devices [here](https://comma.ai/vehicles). 
+Tesla cars are known for their ridiculous 0-60 acceleration, and for how safe they are. However their high price tag makes then unavailable to the masses, at least yet.
 
-:::
+You should only buy a Tesla once you have reached [Stage 6.](/fi-stages/stage-6.md)
+
+### Comma AI
+
+If Tesla is the iOS of self driving cars, Comma AI is the android. They sell devices that can hook up into common cars (Toyotas, Hondas, Hyundais, etc.) and gives them self driving capabilities with their open source software, Openpilot.
+
+Make sure the next car your purchase is [compatible with Comma devices](https://comma.ai/vehicles), and then buy a [Comma Three.](https://comma.ai/shop/products/three)
 
 >Increase Your Savings Rate
