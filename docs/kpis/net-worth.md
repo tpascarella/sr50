@@ -14,7 +14,7 @@ Net Worth is an order of magnitude less important than both Savings Rate and Run
 
 <APITable>
 
-| `Calculation` | --- | --- | --- | --- |
+| `Calculation` | - | - | - | - |
 | --- | --- | --- | --- | --- |
 | `"Assets"` | `MINUS` | `"Liabilities"` | `GIVES_YOU` | `Your Net Worth (as a $#)`|
 

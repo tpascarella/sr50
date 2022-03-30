@@ -10,7 +10,7 @@ You become Financially Free once the Financial Freedom Equation (FFE) is satisfi
 
 <APITable>
 
-| `Calculation` | --- | --- | --- | --- |
+| `Calculation` | - | - | - | - |
 | --- | --- | --- | --- | --- |
 | `Passive Income` | `IS_GREATER_THAN?` | `Average Burn` | `RETURNS` | `(True/False)`|
 

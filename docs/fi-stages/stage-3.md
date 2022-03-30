@@ -21,7 +21,12 @@ Whether mortgage or student loan debts are included here is up to you.
 You need to understand the difference between “Acceptable" and “Unacceptable" debts here. 
 
 Acceptable debts are debts incurred at low interest rates, which you can tactfully use to increase your Savings Rate. Examples of acceptable debts include mortgages on rental properties, Student Loans to get a degree that will actually increase your income, and prime car loans in order to get to work and make money. These are not the worst things in the world to have, and can be left alone for now. 
->These debts should never be accrued *needlessly*, however. 
+
+:::caution
+
+While these debts can be useful, they should never be accrued *needlessly*, however. 
+
+:::
 
 Unacceptable debts include high interest debt from things like credit cards, subprime car loans, payday loans, or any personal loans to friends or family. These debts do you absolutely no good. 
 >The best method to pay off unacceptable debts can be found in the [Debt Paydown Stretegies](/credit/debt-paydown-strategies.md) section.

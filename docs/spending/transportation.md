@@ -71,13 +71,13 @@ If you have business miles and need to deduct them, download [MileIQ](https://ap
 
 Tesla and Comma AI are the two companies that have made serious progress in self driving cars. 
 
-### Tesla
+### - Tesla
 
 Tesla cars are known for their ridiculous 0-60 acceleration, and for how safe they are. However their high price tag makes then unavailable to the masses, at least yet.
 
 You should only buy a Tesla once you have reached [Stage 6.](/fi-stages/stage-6.md)
 
-### Comma AI
+### - Comma AI
 
 If Tesla is the iOS of self driving cars, Comma AI is the android. They sell devices that can hook up into common cars (Toyotas, Hondas, Hyundais, etc.) and gives them self driving capabilities with their open source software, Openpilot.
 
