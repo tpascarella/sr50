@@ -69,10 +69,23 @@ These funds can be purchased through [Argent](https://www.argent.xyz/download-ar
 ### - TAKE PROPER PRECAUTIONS!
 
 There are some precautions you should take if you are a crypto beginner playing with their life savings:
-- Only give your money into things that you *understand*, and *believe in wholeheartedly*. 
-  - **You can lose everything to sly crypto scammers if you act carelessly.**
-- SEND TEST TRANSACTIONS BEFORE YOU SEND SIGNIFICANT QUANTITIES.
-  - A guide for your first crypto transfer is included below.
+- Only put your money into tokens that you **understand**, **believe in wholeheartedly**, and have **actual real world utility**. 
+- SEND A TEST TRANSACTION BEFORE YOU SEND SIGNIFICANT QUANTITIES.
+  >A guide for your first crypto transfer is included below.
+
+### - How to not get scammed
+
+There are a *lottttt* of shady characters in the crypto space. When there is potential for massive profit that will happen, but here are some rules to minimize the risk of getting taken advantage of:
+
+- Does the token have a whitepaper?
+- Does the token have a proven track record?
+- Does the token have a large liquidity pool?
+- Does the token have distributed ownership?
+- Does the token have actual utility?
+
+### - Tools to use
+
+- [Etherscan](https://etherscan.io/)
 
 ### - Action steps
 
@@ -84,7 +97,7 @@ Then do the following:
 - Create accounts with [Argent](https://www.argent.xyz/) and [Metamask](https://metamask.io/) to use your Ethereum in open finance.
 - Dollar cost average your crypto investments over a long period of time.
 
-### - Psychological preparation
+### - Psychologically prepare for the volatility
 
 When I say the crypto markets are volatile, I mean they are *volatile*. Far more than you would have investing in the stock market through index funds.
 
@@ -110,7 +123,7 @@ Also don't throw *everything* you have at crypto when you first get excited abou
 
 - Send a $10 test transaction to yourself first!
 - Round up to the next factor of 10 to transfer the rest of your crypto.
-  - $10 -> $90 -> $900 -> $,9000 -> ...
+  - $10 -> round up to $100 -> round up to $1000 -> etc.
 
 </details>
 

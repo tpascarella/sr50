@@ -23,6 +23,10 @@ If you collected baseball cards as a kid, the plastic pages you would put the ca
 
 It is best to keep these in a binder with a zipper closure like [this one](https://www.amazon.com/dp/B007SQZE5U/?coliid=I2LHB0U9SZM8ZI&colid=JBE09B17WEP6&psc=1&ref_=lv_ov_lig_dp_it), credit cards have a tendency to slide out of the sleeves relatively easily and you definitely don't want these scattering around.
 
+### - Optimum use cases
+
+Use a label maker to write the optimum use case for each of your credit cards. Also make sure to note the zip codes for each. 
+
 ## The Horror Stories You Hear
 
 All of the horror stories you hear online about people getting burned with credit cards all come from irresponsible spending, and overleveraging yourself with payments for houses and cars.
