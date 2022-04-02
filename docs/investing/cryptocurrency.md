@@ -33,6 +33,12 @@ As a general rule, it is wise to put your money into something only if you can a
 
 :::
 
+### - Nations die when their currency becomes worthless
+
+![Zimbabwe Hyperinflation](/img/100-trillion.svg)
+
+[In 1971, they made the dollar backed by nothing.](https://www.investopedia.com/terms/f/fiatmoney.asp) The only value the dollar has anymore is the "full faith and credit of the US Government." Hard pass.
+
 ## Buy Bitcoin and Ethereum
 
 Bitcoin and Ethereum are the 2 most important cryptocurrencies. Maximizing your crypto wealth means maximizing your net worth demoninated in these 2 assets.
@@ -136,7 +142,9 @@ Also don't throw *everything* you have at crypto when you first get excited abou
   <div>
     <iframe width="600" height="333" src="https://www.youtube.com/embed/Xb4g8LzcFSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <iframe width="600" height="333" src="https://www.youtube.com/embed/MhldkvdS_rM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <iframe width="600" height="333" src="https://www.youtube.com/embed/G80Jq6ZwnOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      <iframe width="600" height="333" src="https://www.youtube.com/embed/EH6vE97qIP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="600" height="333" src="https://www.youtube.com/embed/G80Jq6ZwnOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
+    <iframe width="600" height="333" src="https://www.youtube.com/embed/EH6vE97qIP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="600" height="333" src="https://www.youtube.com/embed/noQsHiTJAXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </details>
 
