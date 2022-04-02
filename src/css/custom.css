@@ -45,6 +45,10 @@ h1, h2 {
   line-height: .9;
 }
 
+h2 {
+  font-size: 32px;
+}
+
 h3 {
   font-family: 'Montserrat';
   color: aquamarine; 
