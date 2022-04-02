@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Minimalism
 
+![Alpaca](/img/meme-purchases.svg)
+
 ## Philosophy
 
 Minimalism is not about owning a specific number of items, or living like a hermit. 
