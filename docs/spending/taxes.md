@@ -10,30 +10,28 @@ sidebar_position: 5
 
 ![Taxes proportion](/img/taxes-proportion.svg)
 
-Taxes, as an expense, go largely unnoticed because they are invisible. 
+Taxes go largely unnoticed because they are an invisible expense. You don't *pay* taxes, you have taxes *taken* from you, and then you get back the excess in April. 
 
-You don't *pay* taxes, you have taxes *taken* from you, and then you get back the excess in April. But underestimating this expense is big a mistake since taxes make up approximately 1/3rd of your salary.
+However, underestimating taxes is big a mistake since taxes take up approximately 1/3rd of your salary.
 
 ### - This should be one of the first things You fix
 
-Taxes should be one of the first places you optimize because no one, and I mean *no one* will be sad about paying less in taxes.
+As a result, taxes should be one of the first places you optimize. No one, and I mean *no one* will be sad about paying less in taxes.
 
 ## Tax Reduction Strategies
 
-Taxes are the price you have to pay to live in the greatest country the world has ever seen, and it is your civic duty to pay your fair share.
+Taxes are the price you have to pay to live in this country, but you are not required to pay any more than is absolutely necessary. 
 
-But not a penny more.
-
-:::tip Some Strategies to Reduce Your Tax Liability:
+<details>
+  <summary>Strategies to Lower Your Tax Liability</summary>
 
 - Fix your W-4 form at work so only the *bare minimum* is withheld.
-- Invest in Real Estate. 
+- Invest in [Real Estate.](/investing/real-estate.md) 
 - Have kids! (If you're ready)
 - Move to a state with no income tax.
 
-:::
-
-:::info States That Don't Have an Income Tax:
+<details>
+  <summary>States With No Income Tax</summary>
 
 - Alaska
 - Florida
@@ -44,27 +42,26 @@ But not a penny more.
 - Wyoming
 - Tennessee
 - New Hampshire 
-
 >Although Tennessee and New Hampshire do not charge income tax, they do tax dividend income from investments.
 
-:::
+</details>
+
+</details>
 
 ## Should I Hire a CPA?
 
 Probably not yet.
 
-If your tax situation is still relatively simple (meaning you have a W2 and possibly a house), then it is perfectly fine to do your taxes yourself using online software.
+If your tax situation is still relatively simple (meaning you just have a W2 and/or a house), then it is perfectly fine to do your taxes yourself using online software.
 
 :::tip
 
-I personally use TaxAct, but [this article from NerdWallet](https://www.nerdwallet.com/article/taxes/best-tax-software) should give you confidence about which options are good.
+I personally use [TaxAct](https://www.taxact.com/), but [this article from NerdWallet](https://www.nerdwallet.com/article/taxes/best-tax-software) will explain which options are good.
 
 :::
 
-### - When it's appropriate to hire someone
+### - When it becomes appropriate to hire someone
 
-Once you have multiple business ventures, some rental properties, as well as if you are beginning to withdraw retirement accounts, then you should probably hire an professional to do your taxes for you. 
-
-By this point, they will likely pay for themself.
+Once you have multiple business ventures or rental properties to account for, as well as if you are beginning to withdraw retirement accounts, then and only then should you hire a professional to do your taxes for you. By this point they will likely pay for themself.
 
 >Increase Your Savings Rate
