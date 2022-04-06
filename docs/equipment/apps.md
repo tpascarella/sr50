@@ -4,7 +4,9 @@ sidebar_position: 3
 
 # Apps
 
-These are the apps you should download onto your phone.
+>Download these apps onto your phone.
+
+You will need the following:
 
 ## Checking Account App
 
@@ -18,7 +20,7 @@ Every credit card you can get will come with an app. Download it. Youprobably al
 
 Credit Karma is my favorite app to keep track of my credit score, it has officially surpassed Mint in that category. It shows you your most up to date credit score, from both Equifax and TransUnion. 
 
-It can also show you offers to refinance loans for your house and car if that would be of benefit to you.
+It also shows you offers to refinance loans for your house and car if that would be of benefit to you.
 
 - [Credit Karma iOS Link](https://apps.apple.com/us/app/credit-karma/id519817714)
 
