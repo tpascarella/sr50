@@ -4,35 +4,39 @@ sidebar_position: 3
 
 # Budgets
 
+>Every dollar has an assignment.
+
 ## Optional, But Recommended
 
-:::info Optional
+:::info
 
-While budgets are not required, as some people might claim, they are very useful and you should try them at least once.
+While budgets are not required (a minimalist mindset and living below your means are enough) they are still very useful and you should try them at least once.
 
 :::
 
-Budgets are especially useful for people who are not naturally frugal, or are currently digging themselves out of a financial hole. 
+Budgets are especially helpful for people who are not naturally frugal, or people who are currently digging themselves out of a financial hole. 
 
 ### - Non-optional once you get married
 
 :::caution
 
-The one exception to my “budgets are optional” rule is if you’re married. If you’re married, 100%, both of you need to budget together. 
+The one exception to my “budgets are optional” rule is if you’re married. If you’re married, 100%, both of you need to budget together. You need to be on the same page financially as your spouse, and a budget is the best way to get you both in sync.
 
-You need to be on the same page financially as your spouse, and a budget is the best way to get you both in sync.
-
-Financial problems are one of, if not the, biggest cause of divorce, and a divorce will cost you a quarter million dollars. Minimum 
+Financial problems are one of, if not the, biggest cause of divorce, and a divorce will cost you a quarter million dollars. Minimum.
 
 :::
 
-Crack open a bottle of wine and make a date night out of it! Both of you need to be in agreement about where your money is going, so you might as well make it fun.
+Nobody says that you can't make budgeting fun, crack open a bottle of wine and make a date night out of it! Both you and your spouse need to be in agreement about where your money is going, so you might as well make it fun.
 
-## Free Budgeting Options
+## Budgeting Tools
 
-### - Paper and pencil
+You can create a budget for free that works exactly the same as paid options, so consider these options first.
 
-Paper and pencil budgets are what your grandparents did. You want to give every dollar an assignment before the month begins, and then follow the budget like a written contract. 
+### - Free Options
+
+#### - Paper and pencil
+
+Paper and pencil budgets are what your grandparents did. The way you do them is to write at the top of the page exactly how much money you will make this upcoming month, then you give every dollar an assignment until you have a remaining balance of zero. Then you follow the budget like a written contract.
 
 <details>
   <summary>Recommended Youtube Video</summary>
@@ -41,16 +45,14 @@ Paper and pencil budgets are what your grandparents did. You want to give every 
   </div>
 </details>
 
-### - [EveryDollar](https://www.ramseysolutions.com/ramseyplus/everydollar)
+#### - EveryDollar
 
-EveryDollar is Dave Ramsey's free budgeting app that is basically a spreadsheet with a nice coat of paint. It does the job well
+[EveryDollar](https://www.ramseysolutions.com/ramseyplus/everydollar) is Dave Ramsey's free budgeting app. It's basically a spreadsheet with a nice coat of paint, and does the job well enough.
 
-## Paid Budgeting Options
+### - Paid Budgeting Tools
 
-### - [YNAB (You Need A budget)](https://www.youneedabudget.com/) 
+#### - YNAB (You Need a Budget)
 
-I personally have never used this software, but have heard good reviews for it.
-
-The free options are more than good enough however, so consider those before spending money on budgeting software.
+I personally have never used the [You Need a Budget software](https://www.youneedabudget.com/), I don't pay for things I can get for free, but have heard good reviews for it.
 
 >Increase Your Savings Rate
