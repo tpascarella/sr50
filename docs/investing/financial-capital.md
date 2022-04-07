@@ -31,6 +31,8 @@ sidebar_position: 2
 
 If you have zero capital to invest, the only way to *acquire* capital is to save your pennies as often as possible. You can do this by spending less, earning more or both.
 
+<iframe width="600" height="333" src="https://www.youtube.com/embed/TFD0UtfI960" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Plan For The Next Year of Cash Flows
 
 If you have a salary and are confident in your paycheck size and consistency, predict and plan for how much after-tax capital will be disbursed to you. You can then use this number to estimate how much you can invest in the next year.

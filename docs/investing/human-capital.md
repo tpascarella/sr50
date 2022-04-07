@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Human Capital
 
-"I only invest in myself." - Elon Musk
+>"I only invest in myself." - Elon Musk
 
 ## Advantages & Disadvantages
 
