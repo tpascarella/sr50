@@ -51,13 +51,13 @@ You want to own a variety of:
 - [Gold and other precious metals](gold.md)
 - [Guns and ammunition](guns.md)
 
-## Do Not Call Attention to Yourself
+## Do Not Draw Attention to Yourself
 
-Openly talking about your assets or flaunting your money can make you a target for assault, robbery, or worse. Do not disclose how much you are worth to anyone unless you take extreme precaution. You don't know what that person is capable of, how desperate they may be for cash, or anyone else they might tell. 
+Openly talking about your assets or flaunting your money can make you a target for assault, robbery, or a gold digging spouse. 
 
-:::tip
+:::danger Don't become a target
 
-Look poor to stay rich is 100% true.
+Do not carelessly disclose how much you are worth. You don't know what that person is capable of, how desperate they may be for cash, or who they might tell.
 
 :::
 
