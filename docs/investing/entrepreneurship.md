@@ -10,16 +10,16 @@ sidebar_position: 7
 
 :::tip Advantages
 
-- Unlimited potential ROI.
-- Complete control over the assets you build.
-- High status.
+- Unlimited ROI potential.
+- Absolute control over the asset you build.
+- High status career.
 
 :::
 
 :::danger Disadvantages
 
 - Much higher chance of failure.
-- You likely won't see a return for a long time.
+- You probably won't see a return for a long time.
 - Much more difficult and time intensive.
 
 :::

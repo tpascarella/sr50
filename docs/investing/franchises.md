@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Franchises
 
-Buying a business someone else has already proven out.
+>Buying a business someone else has already validated.
 
 ## Advantages & Disadvantages
 
@@ -12,25 +12,31 @@ Buying a business someone else has already proven out.
 
 - Less risk than starting a business from scratch.
 - Can provide reliable cash flow.
-- Franchises are opportunities to purchase an existing business that you own and operate, without having to start from zero.
+- Provides jobs and makes an impact in the local economy.
 
 :::
 
 :::danger Disadvantages
 
-- Significant capital requirements up front.
-- Requires constant management from you or someone you hire.
-- Fast food franchises attract fast food employee talent.
+- Very high capital requirements. ($1M+ sometimes)
+- Requires continual management from you or someone you hire.
+- Fast food franchises requires managing fast food employees.
 
 :::
 
 ## Prerequisities
 
-:::caution 
+Investing in franchises requires significantly more capital than real estate. You will need at least $100,000 saved up in order to get financing for one of these, and usually more than $500,000.
 
-Investing in franchises requires significantly more capital than real estate (in most cases). You will probably need at least $100,000 saved up in order to get financing for one of these.
+### - Deciding which franchise you want
 
-:::
+[This article from NerdWallet.com](https://www.nerdwallet.com/article/small-business/best-franchises) states the 15 best franchise opportunities for 2022. Begin here if you don't already know which franchise you would like to invest in.
+
+### - Don't just look at the numbers!
+
+I would never open a Jimmy John's franchise, even if it pays well. Not all money is good money! Some of it is just blood money. You bought yourself a crappy job if you invest in one of those.
+
+This is a marriage that you should be equally excited about 30 years from now as today. Don't let the cash flow numbers make the decision for you.
 
 ## Resources
 
