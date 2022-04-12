@@ -4,7 +4,7 @@ sidebar_position: 10
 
 # Guns & Ammo
 
-For when the apocolypse starts.
+>For when the apocolypse starts.
 
 ## Advantages & Disadvantages
 
@@ -12,6 +12,7 @@ For when the apocolypse starts.
 
 - Useful if an EMP bomb hits.
 - Long lasting and always useful.
+- Can save your life.
 
 :::
 
@@ -19,19 +20,23 @@ For when the apocolypse starts.
 
 - Loud.
 - Expensive.
-- Needs to be practiced with
-- Need to store and transport guns and ammunition.
+- Needs to be practiced with.
+- Need to store securely.
 
 :::
 
-If a giant EMP bomb wipes out the global power grid, anarchy will begin and you need to protect yourself.
+If an EMP bomb wipes out the global power grid, anarchy will reign and you need to protect yourself.
 
 ## Buying Your First Gun
 
-You want to buy a gun that you have experience shooting. Start with a handgun.
+You want to buy a gun that you have experience shooting. Go to a range and test out different options and decide on one you like. That is *your gun* that you need to practice with and can rely on if your life is in danger.
 
 ## Proper Storage
 
-Buy a case for your gun and store your ammunition in a separate location.
+Buy a locked case for your gun and keep it out of the reach of children. Store your ammunition in a water resistent box.
+
+## You Can Tell People You Own Guns
+
+Unlike gold or crypto, it is perfectly acceptable to let the world know you are armed to the teeth. It will deter thiefs and attackers.
 
 >Increase Your Savings Rate

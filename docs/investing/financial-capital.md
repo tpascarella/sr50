@@ -29,7 +29,9 @@ sidebar_position: 2
 
 ## Pinch Your Pennies
 
-If you have zero capital to invest, the only way to *acquire* capital is to save your pennies as often as possible. You can do this by spending less, earning more or both.
+The only way to *acquire* capital is to either spend less or earn more. **You save your pennies to build up capital, which you then use to invest towards early financial freedom.** 
+
+A consequence of a single digit Savings Rate is that it takes forever to build up a significant amount of capital. Any life changing investment will require capital to do it!
 
 <iframe width="600" height="333" src="https://www.youtube.com/embed/TFD0UtfI960" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

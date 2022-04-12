@@ -37,6 +37,18 @@ As a general rule, it is wise to only put your money into something if you can a
 
 :::
 
+:::info Fun fact
+
+The term "sound money" is used to describe crypto. It comes from back in the day when everyone used gold coins, you would throw the coin against a table and the sound it made could distinguish real gold coins from gold plated lead coins.
+
+:::
+
+### - Warren Buffett hates crypto
+
+Esteemed investor and raging boomer Warren Buffett is skeptical of crypto, however he is an *investor*, and is looking at crypto the same way he would evaluate a company. It's comparing apples to oranges. 
+
+Warren Buffet is neither an economist of an engineer. I trust George Hotz, Elon Musk and Milton Friedman far more than Warren when it comes to evaluating cryptocurrency.
+
 ### - Nations die when their currency becomes worthless
 
 ![Zimbabwe Hyperinflation](/img/100-trillion.svg)

@@ -47,4 +47,12 @@ You will also need to build up a solid (700+) credit score. It is explained how 
 
 [House Hacking](/spending/housing.md) is a strategy that anyone interested in early financial freedom should consider, becauase it offers the swing in your Savings Rate without a significant downgrade in lifestyle.
 
+## Graduate to BRRRR
+
+BRRRR, the acronym stands for Buy, Rehab, Rent, Refinance, and Repeat and was made popular by BiggerPockets. 
+
+By refinancing at the end of the process, you can sometimes pull more money out of a deal than it took to make the deal happen. It allows you to *gain equity without losing capital* and is my preferred method of real estate investing as a result.
+
+[David Greene's BRRRR book](https://www.amazon.com/Buy-Rehab-Rent-Refinance-Repeat/dp/B07S4LQWQ2) is a great resource to begin learning how to invest this way.
+
 >Increase Your Savings Rate
