@@ -64,4 +64,14 @@ I personally use [TaxAct](https://www.taxact.com/), but [this article from NerdW
 
 Once you have multiple business ventures or rental properties to account for, as well as if you are beginning to withdraw retirement accounts, then and only then should you hire a professional to do your taxes for you. By this point they will likely pay for themself.
 
+## Proper Paperwork Storage
+
+### - Physical
+
+Keep the previous 7 years worth of tax forms in a binder in a fireproof safe.
+
+### - Digital
+
+Store your tax documents offline on a hard drive or flash drive. If you want to store it online (it's riskier) then get a service with a *vault* feature for added security. A Google Drive account is not secure enough!
+
 >Increase Your Savings Rate
