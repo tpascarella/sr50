@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # Student Loans
 
+>Solvable!
+
 Housing, Transportation and Food are the 3 categories that should get the most **mathematical attention** from you, but Student Loans will probably get the most **emotional attention** from you. 
 
 ## Savings Rate Makes Up For Everything

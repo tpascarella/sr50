@@ -4,6 +4,8 @@ sidebar_position: 5
 
 # "Acceptable" & "Unacceptable" Debts
 
+>Differentiating acceptable from unacceptable debts.
+
 ## Acceptable Debts
 
 "Acceptable" debts are debts at low interest rates which you can tactfully use to increase your Savings Rate. 

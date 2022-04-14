@@ -4,6 +4,8 @@ sidebar_position: 4
 
 # Travel Hacking
 
+>Using credit card points to travel for free.
+
 Travel Hacking is the process of intentionally stockpiling credit card points and rewards to travel for free, or exceptionally low cost.
 
 You should never use credit irresponsibly to collect the points, but tactfully using this on the spending **YOU WERE ALREADY GOING TO DO ANYWAY,** is a powerful way to maximize the efficiency of your dollars.

@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Credit Cards
 
+>Use these like you use cash and you'll be fine.
+
 ## Your First Credit Cards
 
 In order to build your credit history, you will first need to register for a few secured cards. You will need to spend around $250 in security deposits for these cards (it's riskier lending to people who have zero history), but those deposits will be returned to you in a couple of months of responsible spending.

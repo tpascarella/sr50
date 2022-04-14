@@ -4,6 +4,8 @@ sidebar_position: 6
 
 # Debt Paydown Strategies
 
+>The snowball and the avalanche.
+
 There are 2 primary methods that people use to paydown their debt. The debt snowball, and the debt avalanche.
 
 ## Debt Snowball

@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Credit Scores
 
+>Building and maintaining immaculate credit.
+
 ## Range of Credit Scores
 
 Your credit score can range between 300-850, and there is *absolutely no reason* why you can't have an **excellent** credit score.
