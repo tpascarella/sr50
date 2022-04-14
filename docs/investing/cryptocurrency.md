@@ -65,13 +65,16 @@ Bitcoin and Ethereum are the 2 most important cryptocurrencies. Maximizing your 
 
 No! Absolutely not.
 
-We are in the early stages of the technology adoption curve. Somewhere around the early adopter/early majority camp. There is still tremendous upside to investing in crypto. We are definitely paying higher prices than people who bought Bitcoin in the early 2010's, but we have far more educational content and social validation that the technology is legitimate. 
+We are definitely still in the early market of the technology adoption life cycle, and there is still 
+**tremendous upside** to investing in crypto. We are definitely paying higher prices than people who bought Bitcoin in the early 2010's, but we have far more educational content and social validation that the technology is legitimate. 
 
 ![Technology adoption curve](/img/technology-adoption-curve.svg)
 
 #### - Get on it.
 
-The longer you wait, the higher the prices will be. Obviously buying ETH *before* the merge is preferable to buying ETH *after* the merge. 
+I personally do not care in the slightest whether you choose to listen to me and buy crypto, because all that will do for me is raise the price for when I buy more! However, the longer you wait, the higher the price will be. 
+
+Obviously buying ETH *before* the merge is preferable to buying ETH *after* the merge. 
 
 ### - Portfolio strategy
 
