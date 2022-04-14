@@ -8,31 +8,35 @@ sidebar_position: 1
 
 ## Your First Credit Cards
 
-In order to build your credit history, you will first need to register for a few secured cards. You will need to spend around $250 in security deposits for these cards (it's riskier lending to people who have zero history), but those deposits will be returned to you in a couple of months of responsible spending.
+In order to build your credit history, you will first need to apply for a few secured cards. You will need to spend around $250 in security deposits for these cards (it's riskier lending to people who have zero history), but those deposits will be returned to you after a few months of responsible spending.
 
-## Optimizing for Rewards
+## Highest and Best Uses
 
-Different cards will have different rewards. Use the highest grocery store rewards card to buy your groceries, and the highest gas station rewards card to buy gas.
+Different cards will have different rewards programs. Use the highest grocery store rewards card to buy your groceries, the highest gas station rewards card to buy gas, and so on. Use a label maker to write the optimum use case for each of your credit cards. Also make sure to note the billing zip codes for each card. 
 
-Target one reward at a time, and understand how much needs to be spent by when. It's best if you can use these limits to make a scheduled resupply, explained in the [Minimalism](/lifestyle/minimalism.md) section.
+### - Points and miles
 
-## Organizing Your Credit Cards
+Each new card you apply for will likely come with a reward of points or miles after spending a certain amount in a predetermined time frame. This can be used to travel for free, explained in the [Travel Hacking section.](travel-hacking.md)
+
+Target one reward at a time, and know how much needs to be spent and by when. Helpful to add it to your Google Calendar. Use these cards for your scheduled resuppliyes, explained in the [Minimalism](/lifestyle/minimalism.md) section.
+
+## Organizing Your Cards
 
 If you collected baseball cards as a kid, the plastic pages you would put the cards in are a great organizational tool for your credit cards.
 
 ![Credit Card Organization](/img/cc-organization.svg)
 >*Personal information hidden for obvious reasons.*
 
-It is best to keep these in a binder with a zipper closure like [this one](https://www.amazon.com/dp/B007SQZE5U/?coliid=I2LHB0U9SZM8ZI&colid=JBE09B17WEP6&psc=1&ref_=lv_ov_lig_dp_it), credit cards have a tendency to slide out of the sleeves relatively easily and you definitely don't want these scattering around.
+:::tip
 
-### - Optimum use cases
+It is best to keep these in a binder with a zippered closure [like this one](https://www.amazon.com/dp/B007SQZE5U/?coliid=I2LHB0U9SZM8ZI&colid=JBE09B17WEP6&psc=1&ref_=lv_ov_lig_dp_it), credit cards have a tendency to slide out of the sleeves relatively easily and you definitely don't want these scattering everywhere.
 
-Use a label maker to write the optimum use case for each of your credit cards. Also make sure to note the zip codes for each. 
+:::
 
-## The Horror Stories You Hear
+## Horror Stories with Credit Cards
 
-All of the horror stories you hear online about people getting burned with credit cards all come from irresponsible spending, and overleveraging yourself with payments for houses and cars.
+All of the horror stories you hear online about people getting burned with credit cards **all come from irresponsible spending.** 
 
-If you treat buying things with credit cards like buying things with cash, you will be just fine.
+If you treat buying things with credit cards the same way you buy things with cash, you will be just fine.
 
 >Increase Your Savings Rate
