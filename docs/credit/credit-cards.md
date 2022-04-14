@@ -6,10 +6,6 @@ sidebar_position: 1
 
 >Use these like you use cash and you'll be fine.
 
-## Your First Credit Cards
-
-In order to build your credit history, you will first need to apply for a few secured cards. You will need to spend around $250 in security deposits for these cards (it's riskier lending to people who have zero history), but those deposits will be returned to you after a few months of responsible spending.
-
 ## Highest and Best Uses
 
 Different cards will have different rewards programs. Use the highest grocery store rewards card to buy your groceries, the highest gas station rewards card to buy gas, and so on. Use a label maker to write the optimum use case for each of your credit cards. Also make sure to note the billing zip codes for each card. 
