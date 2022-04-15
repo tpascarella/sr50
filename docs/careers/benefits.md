@@ -4,6 +4,8 @@ sidebar_position: 5
 
 # Benefits
 
+>Take full advantage of these.
+
 As soon as you have a "big boy/girl" job, it will likely come with a benefits package that you should take full advantage of.
 
 ## Understand Your Benefits

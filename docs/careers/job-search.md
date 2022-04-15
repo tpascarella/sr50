@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # Job Search
 
+>Prepare for a 99% rejection rate.
+
 ![Waiting for that one employer to respond.](/img/meme-employer-response-time.svg)
 
 ## Sending Out Applications

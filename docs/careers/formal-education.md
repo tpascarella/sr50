@@ -4,6 +4,8 @@ sidebar_position: 4
 
 # Formal Education
 
+>Not worth the money, most of the time.
+
 ![The value of formal education](/img/meme-pyramid-scheme.svg)
 
 ## Return on Investment

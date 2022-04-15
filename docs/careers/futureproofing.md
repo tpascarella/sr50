@@ -3,6 +3,8 @@ sidebar_position: 2
 ---
 # Futureproofing
 
+>You should be scared of automation.
+
 Being 25 myself, I will need to deal with automation for the entirety of my working career. You need to actively develop a skillset that will make you relevant and employable moving forward.
 
 This is not **just** a concern for you, but for your employer as well! If automation wipes out your employer, you're out of a job as well.
@@ -15,9 +17,7 @@ Check out [Work at a Startup](https://www.workatastartup.com/) from Y Combinator
 
 ## Every Job Should Be Incrementally Additive
 
-Every job you take should be incrementally additive to your human capital. You don't need to get the first job right, just the last job. 
-
-Every position should be an upgrade for your skillset, compensation, and work-life balance.
+Every job you take should be incrementally additive to your human capital. You don't need to get the first job right, just the last job. Every position should be an upgrade for your skillset, compensation, and work-life balance.
 
 ## How to Become Irreplaceable
 
@@ -26,7 +26,7 @@ Every position should be an upgrade for your skillset, compensation, and work-li
 The following talk is a great explanation to why building skills trumps following your passion for building career capital.
 
 <details>
-  <summary>Recommended Youtube Video</summary>
+  <summary>So Good They Can't Ignore You</summary>
   <div>
     <iframe width="600" height="333" src="https://www.youtube.com/embed/qwOdU02SE0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
@@ -36,6 +36,6 @@ The following talk is a great explanation to why building skills trumps followin
 
 The ability to do Deep Work means you are able to focus without distraction on a cognitively demanding task. The book [Deep Work](https://www.amazon.com/dp/B013UWFM52/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) is essential reading for anyone who wants to build up career capital. 
 
-[This article](https://blog.doist.com/deep-work/) provides a nice summary of what is required.
+[This article](https://blog.doist.com/deep-work/) provides a nice summary of what the process is like.
 
 >Increase Your Savings Rate
