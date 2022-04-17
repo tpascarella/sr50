@@ -10,11 +10,11 @@ You will need the following:
 
 ## Checking Account App
 
-Any decent checking account will come with an app. Download it. You probably already have.
+Any decent checking account will come with an app. Download it.
 
 ## Apps from All Credit Cards
 
-Every credit card you can get will come with an app. Download it. Youprobably already have.
+Every credit card you can get will come with an app. Download it.
 
 ## Credit Karma
 
@@ -38,6 +38,14 @@ To buy crypto.
 
 - [Gemini Android Link](https://play.google.com/store/apps/details?id=com.gemini.android.app&hl=en_US&gl=US)
 
+## Crypto Portfolio Tracker
+
+To track your balances.
+
+- [CoinMarketCap iOS Link](https://apps.apple.com/us/app/coinmarketcap-crypto-tracker/id1282107098)
+
+- [CoinMarketCap Android Link](https://play.google.com/store/apps/details?id=com.coinmarketcap.android&hl=en_US&gl=US)
+
 ## Some Cash Transferring App 
 
 I personally use Venmo, but any cash transferring app will work.
@@ -45,5 +53,13 @@ I personally use Venmo, but any cash transferring app will work.
 - [Venmo iOS Link](https://apps.apple.com/us/app/venmo/id351727428)
 
 - [Venmo Android Link](https://play.google.com/store/apps/details?id=com.venmo&hl=en_US&gl=US)
+
+- [Cash App iOS Link](https://apps.apple.com/us/app/cash-app/id711923939)
+
+- [Cash App Android Link](https://play.google.com/store/apps/details?id=com.squareup.cash&hl=en_US&gl=US)
+
+- [Zelle iOS Link](https://apps.apple.com/us/app/zelle/id1260755201)
+
+- [Zelle Android Link](https://play.google.com/store/apps/details?id=com.zellepay.zelle&hl=en_US&gl=US)
 
 >Increase Your Savings Rate
