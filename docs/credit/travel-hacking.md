@@ -6,13 +6,15 @@ sidebar_position: 4
 
 >Using credit card points to travel for free.
 
-Travel Hacking is the process of intentionally stockpiling credit card points and rewards to travel for free, or exceptionally low cost. You should never use credit irresponsibly to collect the points, but tactfully using this on the spending **you were already going to do anyway,** is a powerful way to maximize the efficiency of your dollars.
+Travel Hacking is the process of tactfully acquiring credit card points and miles to travel for free (or exceptionally low cost). 
+
+You should never use credit cards irresponsibly to collect points, but if you take advantage of rewards programs **while doing the spending you were going to do regardless**, is an easy way to increase the efficiency of your dollars.
 
 ![Spend more to earn more](/img/rewards.svg)
 
 :::caution
 
-This strategy should be a REWARD for responsible money management. Never spend irresponsibly just to stockpile rewards! Credit card companies make money hand over fist because of the impulsive nature of the general public.
+Travel Hacking is a REWARD for efficient spending. Never spend irresponsibly just to stockpile rewards!
 
 :::
 
@@ -24,6 +26,6 @@ This strategy should be a REWARD for responsible money management. Never spend i
 
 ## Tracking Your Rewards Points
 
-[Award Wallet](https://awardwallet.com/api/main) compiles all of your rewards onto one place and keeps everything organized. It also lets you know when your points are about to expire, which is good to make sure you don't lose anything by mistake! Use the desktop version of AwardWallet if possible. Their iPhone app is infuriating.
+[Award Wallet](https://awardwallet.com/api/main) compiles all of your rewards into one screen, it also lets you know when your points are about to expire, which is good to make sure you don't lose anything by mistake! Use the desktop version of AwardWallet if possible, their iPhone app is infuriating.
 
 >Increase Your Savings Rate

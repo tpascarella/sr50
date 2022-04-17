@@ -4,13 +4,18 @@ sidebar_position: 5
 
 # "Acceptable" & "Unacceptable" Debts
 
->Some debts can be useful, others should be avoided at all costs.
+>Only some debts are worth taking on.
 
 ## Acceptable Debts
 
-"Acceptable" debts are debts at low interest rates which you can tactfully use to increase your Savings Rate. 
+"Acceptable Debts" are debts at low interest rates which you can tactfully use to increase your Savings Rate. 
 
-Examples of acceptable debts include mortgages on real estate investments, Student Loans to get a degree that will increase your income, or prime car loans you need in order to get to work. As long as they increase your Savings Rate, these can be kept (within reason).
+Examples of acceptable debts include:
+- mortgages on real estate investments.
+- student loans to get marketable degrees,
+- prime car loans you need in order to get to work.
+
+As long as they increase your Savings Rate, these can be left alone (within reason).
 
 :::caution 
 
@@ -20,21 +25,25 @@ While these debts are not the worst thing in the world to have, they should neve
 
 ## Unnaceptable Debts
 
-"Unacceptable" debts include high interest debt from things like credit cards, subprime car loans, payday loans, or personal loans to friends or family. 
+"Unacceptable Debts" are debts at high interest rates (15%+). These include:
+- high interest debt from things like credit cards, 
+- subprime car loans, payday loans, 
+- personal loans to friends or family. 
+
+These debts do not benefit you at all.
 
 :::danger
 
-These debts do you give any positive benefit. Get rid of them as fast as you can.
+Get rid of these debts as fast as you can.
 
 :::
 
 ### - Takeaway
 
-Not all debts need to be eliminated from your financial position immediately, as many financial professionals would have you believe. 
-
-Unacceptable debts should be cleared as fast as possible. 
->The [Debt Paydown Strategies](debt-paydown-strategies.md) page lists strategies for eliminating these debts as quickly as possible.
+Not all debts need to be eliminated from your financial position immediately, as some financial professionals would have you believe. 
 
 Acceptable debts can be left alone for now, so long as they increase your Savings Rate or Income.
+
+Unacceptable debts should be cleared as fast as possible. The [Debt Paydown Strategies](debt-paydown-strategies.md) page lists strategies for paying off these debts as quickly as possible.
 
 >Increase Your Savings Rate
