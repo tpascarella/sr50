@@ -6,7 +6,15 @@ sidebar_position: 6
 
 >A surprisingly fantastic career path for FI.
 
-The military is a surprisingly fantastic career path to become financially independent in a short time, because of the world class benefits available to you both during and after service. You can reach a Savings Rate in excess of 80% if you take advantage of all the opportunities available.
+## A Fantastic Career Path for FI
+
+The military is a surprisingly fantastic career path to become financially independent in a short time. You have access to a world class benefits package, available to you both during your service and after you return to society. 
+
+You can reach a very impressive Savings Rate if you take advantage of all the opportunities available, including:
+
+- VA loans, which let you house hack for free
+- Free food and housing on base
+- 100% tuition reimbursement using the 9/11 GI bill
 
 :::tip
 
