@@ -4,7 +4,9 @@ sidebar_position: 4
 
 # Contributing
 
-SR50 is open source so anyone can contribute to the site!
+>Ways to contribute to this project.
+
+## Content Edits/Requests
 
 You can either
 - Submit a pull request on Github,

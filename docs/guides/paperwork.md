@@ -4,26 +4,30 @@ sidebar_position: 2
 
 # Organizing Paperwork
 
-## Sensitive Documents
+>Keeping documents safe and organized.
 
-Store these files in an online storage provider using 2 factor authentication. 
-
-Examples include:
-- Microsoft OneDrive & Microsoft Authenticator
-- Dropbox Vault (Requires Dropbox Plus subscription)
-
->Keep it where you think it is least likely to get hacked.
-
-### Crypto private keys
-
-Keep these completely offline. Have multiple copies of each stored in multiple secure location. Ideally off site in a storage option with video surveillance.
-
-### Tax documents
-
-Keep a dedicated binder with the previous 7 years worth of tax forms, and store the binder in a safe.
+Certain documents require certain extra protections and privacy. Other documents you can simply leave in a Dropbox account and everything will be fine.
 
 ## Non-Sensitive Documents
 
-Anywhere really. Google Drive's 15gb free option is useful for this.
+Google Drive's 15gb free plan is useful for storing these documents.
+
+## Sensitive Documents
+
+Examples of sensitive documents include:
+- Microsoft OneDrive & Microsoft Authenticator
+- Dropbox Vault (Requires Dropbox Plus subscription)
+
+Store these files in an online storage provider using 2 factor authentication. Keep it where you think it is least likely to get hacked.
+
+### Crypto private keys
+
+DO NOT STORE YOUR CRYPTO PRIVATE KEYS DIGITALLY. DO NOT TAKE PICTURES OF THEM. KEEP THEM 100% OFFLINE AND SECURE IN A FIREPROOF SAFE.
+
+"Not your keys, not your coins" is a common phrase in the crypto world. You should keep your private keys completely offline, and ideally in multiple locations.
+
+### Tax documents
+
+Keep a dedicated binder with the previous 7 years worth of tax forms, and store the binder in a fireproof safe.
 
 >Increase Your Savings Rate

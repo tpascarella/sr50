@@ -11,7 +11,7 @@ Check out the official [SR50 book!](https://docs.google.com/document/d/1Va6BySu3
 :::tip Details
 
 - The SR50 book is a Google Doc released under the Creative Commons License. 
-- You can download/distribute/build on top of it in any way you choose, even for commercial purposes, so long as Thomas Pascarella is credited for being the author.
+- You can download/distribute/build on top of it in any way you choose, even for commercial purposes, so long as Thomas Pascarella is credited as the author.
 
 :::
 
