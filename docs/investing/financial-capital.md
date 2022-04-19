@@ -45,4 +45,10 @@ If you get paid monthly it will look like this:
 If you get paid every 2 weeks, count how many paychecks you will receive (some months you will get 3)
 - **X# of Paychecks * Paycheck Amount**
 
+## Leverage
+
+You can use other people's money to leverage your investments. While this is commonly used for Real Estate investing, you could use it for stock or crypto investments if you believe the cost will pay for itself.
+
+[This course from Radical Personal Finance](https://www.radicalpersonalfinance.com/store/Csp4iJET) is a great tutorial how to borrow money using credit cards without paying interest. Raising capital this way is much cheaper than using a personal loan.
+
 >Increase Your Savings Rate
