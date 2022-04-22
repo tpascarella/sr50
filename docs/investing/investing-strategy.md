@@ -29,7 +29,7 @@ They pretend to be Warren Buffett, reading quarterly reports and timing trades p
 - what else could you have done with that time? 
 - how big an impact did that boost in return have to your overall financial picture?
 
-:::caution It pays less than minimum wage
+:::caution "Timing the market" pays less than minimum wage
 
 If you beat the market by 1%, but you only have $1000 total invested in stocks, that 1% boost amounts to an extra $10 per year. 
 
