@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-# Gold & Other Metals
+# Gold & Precious Metals
 
 >Time proven & government independent store of value.
 
