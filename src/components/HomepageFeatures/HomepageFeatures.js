@@ -5,28 +5,19 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Open Source',
-    Svg: require('../../static/img/public_white_18dp.svg').default, 
+    Svg: require('../../../static/img/public_white_18dp.svg').default, 
     description: (
       <>
-        The SR50 method is open source, and constantly improving.
-      </>
-    ),
-  },
-  {
-    title: 'Transparent',
-    Svg: require('../../static/img/search_white_18dp.svg').default,
-    description: (
-      <>
-        Everything taught is organized into a free documentation website.
+        All of our educational material is released under an open-source documentation website that is constantly improving.
       </>
     ),
   },
   {
     title: 'Private',
-    Svg: require('../../static/img/lock_white_18dp.svg').default,
+    Svg: require('../../../static/img/lock_white_18dp.svg').default,
     description: (
       <>
-        No account is required to use the product.  
+        No account is required to use the product, and we collect zero data from users.  
       </>
     ),
   },
@@ -40,6 +31,9 @@ function Feature({Svg, title, description}) {
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
+      </div>
+      <div className="text--center padding-horiz--md">
+        <p>{description}</p>
       </div>
     </div>
   );
