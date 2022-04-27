@@ -44,7 +44,7 @@ module.exports = {
           position: 'left',
           label: 'Library',
         },
-        {to: '/blog', label: 'Articles', position: 'left'},
+        {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/tpascarella/sr50',
           label: 'GitHub',
@@ -63,7 +63,7 @@ module.exports = {
               to: '/docs/intro',
             },
             {
-              label: 'Articles',
+              label: 'Blog',
               to: '/blog',
             },
           ],
