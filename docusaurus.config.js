@@ -89,7 +89,7 @@ module.exports = {
       darkTheme: darkCodeTheme,
     },
   },
-  plugins: [require.resolve('docusaurus-lunr-search')],
+  plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -101,15 +101,7 @@ module.exports = {
           editUrl:
             'https://github.com/tpascarella/sr50-docs/tree/main/',
             showLastUpdateAuthor: true,
-            showLastUpdateTime: true,
-          remarkPlugins: [require('mdx-mermaid')],
-          include: ['**/*.md', '**/*.mdx'],
-          exclude: [
-            '**/_*.{js,jsx,ts,tsx,md,mdx}',
-            '**/_*/**',
-            '**/*.test.{js,jsx,ts,tsx}',
-            '**/__tests__/**',
-          ],
+            showLastUpdateTime: true,  
         },
         blog: {
           path: 'blog',
