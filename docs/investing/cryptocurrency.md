@@ -57,6 +57,26 @@ Warren Buffet is neither an economist of an engineer. I trust George Hotz, Elon 
 
 How much full faith and credit do you have in the US Government? Decide for yourself.
 
+## Is Crypocurrency Legit Money?
+
+In short, it is the most complete money that has ever existed.
+
+To elaborate, money needs to have a few characteristics that make it legitamate. Those traits are:
+- Durability
+>Money needs to last for a long time. This is why animals or food can't be considered money because they die and rot over time.
+- Portability
+>It needs to be portable to actually trade hands.
+- Divisibility
+>You need to be able to divide it into smaller units.
+- Uniformity
+>Every $20 is the exact same as every other $20 bill. All cows are different from each other.
+- Scarcity
+>If supply increases and demand stays the same, value decreases. This is why fiat currencies have always trended towards zero, the cost of printing more is essentially zero.
+- Acceptability
+>People need to be willing to take it in a trade.
+
+All fiat currencies lack the scarcity component, crypto has this.
+
 ## Buy Bitcoin and Ethereum
 
 Bitcoin and Ethereum are the 2 most important cryptocurrencies. Maximizing your crypto wealth means maximizing your Net Worth demoninated in these 2 assets.

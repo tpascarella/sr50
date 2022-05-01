@@ -24,6 +24,10 @@ sidebar_position: 4
 
 :::
 
+## Prereqs
+
+There are no prerequisites to being a startup founder, but I would advise at least to spend some time working for companies of varying sizes. See how they operate, the tools they use, and take the lessons you learned from them into your startup. It will help you make more informed decisions.
+
 ## Resources
 
 [Y Combinator](https://www.ycombinator.com/) is the best resource I have found for learning how to start a high growth startup. 
