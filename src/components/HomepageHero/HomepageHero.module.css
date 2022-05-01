@@ -3,6 +3,7 @@
   padding: 4rem 4rem;
   box-sizing: content-box;
   display: flex;
+  overflow: auto;
 }
 
 .title {

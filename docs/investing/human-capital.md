@@ -48,6 +48,8 @@ That is a very dangerous trend to invest in.
 
 Your ability to focus without distraction on a cognitively demanding task is what will separate you from the chaff of employees. If you cultivate your deep work ability, you are able to produce work at a much higher quality and quantity than others.
 
-[Deep Work](https://www.amazon.com/dp/B013UWFM52/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Cal Newport is required reading for everyone. [This article on doist.com](https://blog.doist.com/deep-work/) offers a great introduction to the concepts, as well as a cliffnotes version of the training regimen.
+[Deep Work](https://www.amazon.com/dp/B013UWFM52/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Cal Newport is required reading for everyone. 
+
+[This article on doist.com](https://blog.doist.com/deep-work/) offers a great introduction to the concepts, as well as a cliffnotes version of the training regimen.
 
 >Increase Your Savings Rate

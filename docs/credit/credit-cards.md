@@ -6,7 +6,7 @@ sidebar_position: 1
 
 >Use these like you use cash and you'll be fine.
 
-## Highest and Best Uses
+## Highest and Best Use Cases
 
 Different cards will have different rewards programs. Use the highest grocery store rewards card to buy your groceries, the highest gas station rewards card to buy gas, and so on. Use a label maker to write the optimum use case for each of your credit cards. Also make sure to note the billing zip codes for each card. 
 
@@ -29,7 +29,7 @@ It is best to keep these in a binder with a zippered closure [like this one](htt
 
 :::
 
-## Horror Stories with Credit Cards
+## Horror Stories With Credit Cards
 
 All of the horror stories you hear online about people getting burned with credit cards **all come from irresponsible spending.** 
 

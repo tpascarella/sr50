@@ -14,7 +14,7 @@ sidebar_position: 2
 
 <APITable>
 
-| Investment | Denomination | Capital Required | Time Required | Effort Required | Potential Upside? |
+| Asset Class | Currency Denomination | Capital Required | Time Required | Effort Required | Potential Upside? |
 | --- | --- | --- | --- | --- | --- |
 | `Human Capital` | `Other` | `Variable` | `High` | `High `| `Infinite` |
 | `Stocks & Bonds` | `Fiat` | `High` | `Zero` | `Zero `| `Low` |

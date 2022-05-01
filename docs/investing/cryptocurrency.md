@@ -59,7 +59,7 @@ How much full faith and credit do you have in the US Government? Decide for your
 
 ## Is Crypocurrency Legit Money?
 
-In short, it is the most complete money that has ever existed.
+In short, crypto is the most complete money that has ever existed.
 
 To elaborate, money needs to have a few characteristics that make it legitamate. Those traits are:
 - Durability
