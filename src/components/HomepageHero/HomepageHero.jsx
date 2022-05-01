@@ -11,10 +11,10 @@ export default function HomepageHero() {
       </h1>
       <h2 className={styles.tagline}>
         <p>
-          <span className={styles.nonCode}>- Financial advisors will tell you to put 15% of your income into a 401K so you can become rich 40 years from now.</span>
+          <span className={styles.nonCode}>- Financial advisors will tell you to put 15% of your income into a 401K and get rich in 40 years.</span>
         </p>
         <p>
-          <span className={styles.nonCode}>- We tell you to save and invest 50% of your income so you can become rich 5 years from now.</span>
+          <span className={styles.nonCode}>- We tell you to get to a 50% Savings Rate and invest as aggressively as you can to become rich in 5 years.</span>
         </p>
       </h2>
     </div>
