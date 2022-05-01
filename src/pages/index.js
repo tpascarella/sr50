@@ -18,7 +18,12 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Start.
+            Learn.
+          </Link>
+          <Link
+            className="button button--secondary button--lg"
+            to="https://docs.google.com/spreadsheets/d/1ek2bVQG92nA0KChM-Dz4_43cVil9HQ1BwvrQOybIq4w/template/preview">
+            Calculators.
           </Link>
         </div>
       </div>
