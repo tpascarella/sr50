@@ -30,8 +30,6 @@ Despite what the nutrition facts sheet may claim, restaurant food is often far w
 
 You should aim to get 100% of your calories from healthy food that you buy from grocery stores.
 
-Grocery stores are designed so you'll buy way more than you intially intended, so only go once a week, and bring a list. 
-
 :::tip Some Tips For Lowering Your Grocery Bills
 - create a grocery list based off the weekly ad,
 - take full advantage of BOGO deals and discounts, 
@@ -42,6 +40,10 @@ Grocery stores are designed so you'll buy way more than you intially intended, s
 :::
 
 If you follow these rules, you should have a pantry full of reasonably healthy food that didn't cost you an arm and a leg. 
+
+#### - Only go once a week
+
+Grocery stores are designed so you'll buy way more than you intially intended, so only go once a week, and bring a shopping list. 
 
 ## Cooking Your Own Food
 

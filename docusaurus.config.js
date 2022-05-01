@@ -15,7 +15,7 @@ module.exports = {
   projectName: 'sr50',
   customFields: {
     description:
-      'A distillation of the internet\'s best personal finance information',
+      'The best financial advisor on planet Earth.',
   },
   themeConfig: {
     hideableSidebar: true,
