@@ -4,30 +4,38 @@ sidebar_position: 1
 
 # Having the Right Motivations
 
->Keeping Money in its Proper Context
+>Putting Money into its Proper Context.
 
 “Money” shouldn’t be the goal, it should be a resource that when properly managed helps you achieve other, more important goals.
 
-## What Does Money Mean to You?
-
-Ask yourself why you want to become financially independent. Common reasons include:
-- Securing your family's financial future for generations
-- Making sure your kids can graduate from college debt free
-- Not having to answer to a piece of shit boss
-- Not having to work for a piece of shit company
-- Travel the world while you still have youthful energy
-- Make a dent in the universe
-
-Find your why.
-
-## Your Role as an Economic Actor
+## Your Responsibility as an Economic Actor
 
 Your purchasing decisions have a very real impact on the future of the world. The goal of profits and threat of losses directly influence what companies do and provide to their customers. They can only do things that make them money, so don't give a dollar to things you don't support!
 
 - Hate how Disney is treating Star Wars? Stop buying tickets.
 - Don't like how makeup companies test on animals? Buy from a company that doesn't.
 
+:::note
+
 Every purchase you make is a signal to the world that "yes, I will willingly trade resources for this, make more of it."
+
+Choose wisely.
+
+:::
+
+## What Does Money Mean to You?
+
+Define exactly why you want to become financially independent. 
+
+Common reasons include:
+- Securing your family's financial future for generations,
+- Making sure your kids can graduate from college debt free,
+- Not having to answer to a piece of shit boss,
+- Not having to work for a piece of shit company,
+- Travel the world while you still have youthful energy,
+- Make a dent in the universe
+
+Find your why.
 
 ## Money can Elevate or Sink You
 

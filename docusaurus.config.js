@@ -56,7 +56,7 @@ module.exports = {
       style: 'light',
       links: [
         {
-          title: 'Documentation',
+          title: 'Content',
           items: [
             {
               label: 'Library',
@@ -69,7 +69,7 @@ module.exports = {
           ],
         },
         {
-          title: 'More',
+          title: 'Links',
           items: [
             {
               label: 'Founder',
