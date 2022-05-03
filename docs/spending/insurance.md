@@ -26,4 +26,13 @@ If you call your insurance company and say another one is willing to insure you 
 
 Don't let your financial advisor decide what insurance is necessary, they will absolutely sell you a bloated and unecessary insurance package. 
 
+### - Recommended YouTube videos
+
+<details>
+  <summary>Recommended Youtube Videos</summary>
+  <div>
+    <iframe width="600" height="333" src="https://www.youtube.com/embed/102Uwils0lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</details>
+
 >Increase Your Savings Rate
