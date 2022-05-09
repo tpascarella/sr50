@@ -30,4 +30,8 @@ DO NOT STORE YOUR CRYPTO PRIVATE KEYS DIGITALLY. DO NOT TAKE PICTURES OF THEM. K
 
 Keep a dedicated binder with the previous 7 years worth of tax forms, and store the binder in a fireproof safe.
 
+## Proper Document Disposal
+
+Invest in a shredder to properly dispose of paperwork. Throwing it in the trash is acceptable but burning in a grill or bonfire once a month/quarter offers maximum privacy and efficient destruction of potentially sensitive documents.
+
 >Increase Your Savings Rate
