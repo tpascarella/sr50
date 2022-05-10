@@ -42,6 +42,6 @@ Deep Work is becoming increasingly valuable at the same time it's becoming incre
 
 :::
 
-The book [Deep Work](https://www.amazon.com/dp/B013UWFM52/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) is essential reading for anyone who wants to build up career capital, and [this article](https://blog.doist.com/deep-work/) provides a nice summary of what the process is like.
+The book [Deep Work](https://www.amazon.com/dp/B013UWFM52/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) is essential reading for anyone who wants to build up career capital, and [this article](https://blog.doist.com/deep-work/) provides a nice summary.
 
 >Increase Your Savings Rate

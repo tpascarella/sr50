@@ -6,7 +6,7 @@ sidebar_position: 6
 
 >A surprisingly fantastic career path for FI.
 
-## A Fantastic Career Path for FI
+## A Surprisingly Fantastic Career Path for FI
 
 The military is a surprisingly fantastic career path to become financially independent in a short time. You have access to a world class benefits package, available to you both during your service and after you return to society. 
 

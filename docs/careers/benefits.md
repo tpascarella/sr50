@@ -12,7 +12,7 @@ As soon as you have a "big boy/big girl" job, it will likely come with a benefit
 
 I can't give an exact recommendation because I don't know what company you work for or what they offer, that information will be found on your company's HR website.
 
-:::tip Read it!
+:::tip Read them!
 
 Know all of the options available to you, and plan in advance how you will use it.
 
@@ -22,7 +22,7 @@ Know all of the options available to you, and plan in advance how you will use i
 
 ### - Take the match
 
-If your company offers a $1 for $1 match for contributions up to a certain percent, then that is a 100% return on your money. That is a great bet and you should invest up to the match (if you can afford the slight reduction in paycheck).
+If your company offers a $1 for $1 match for contributions up to a certain percent, then that is a 100% return on your money. That is a great bet and you should invest up to the match if you can afford the slight reduction in your paycheck.
 
 ### - Check expense ratios
 
