@@ -27,6 +27,18 @@ sidebar_position: 2
 
 </APITable>
 
+## Invest "F You Money", Do Not Invest "Oh $hit Money"
+
+A common pitfall I fell into as a young investor was to invest every dollar I had and left myself very little cash to protect myself. I was enticed by the dip price of crypto and went from 3 months of Runway down to 1.5 months. This was a mistake.
+
+:::danger
+
+Do not put yourself in a position where you need to liquidate assets at a loss to cover your cash needs. Always have enough cash to secure yourself for a reasonable period of time and only invest what you have on top of that.
+
+:::
+
+Your "Oh $hit Money" serves a valuable purpose, it is insurance so you don't have to sell assets at a loss.
+
 ## Pinch Your Pennies
 
 The only way to *acquire* capital is to either spend less or earn more. **You save your pennies to build up capital, which you then use to invest towards early financial freedom.** 
@@ -35,7 +47,7 @@ A consequence of a single digit Savings Rate is that it takes forever to build u
 
 <iframe width="600" height="333" src="https://www.youtube.com/embed/TFD0UtfI960" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Plan For The Next Year of Cash Flows
+## Budget For The Next Year of Cash Flows
 
 If you have a salary and are confident in your paycheck size and consistency, predict and plan for how much after-tax capital will be disbursed to you. You can then use this number to estimate how much you can invest in the next year.
 
