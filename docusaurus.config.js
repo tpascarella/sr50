@@ -19,7 +19,6 @@ module.exports = {
   },
   themeConfig: {
     hideableSidebar: true,
-    
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: true,

@@ -51,6 +51,12 @@ You want to own a variety of:
 - [Gold and other precious metals](gold.md)
 - [Guns and ammunition](guns.md)
 
+## Have an Exit Strategy
+
+A lot of investors think that their holding period should be forever for their assets, and are afraid to pull profits out of their investments. This assumes that the price will always go up and there will never be a correction, and history has shown that is not the case.
+
+Pull profits out of one investment and reinvest it into other assets that are currently undervalued. Have some target price you are willing to sell in your mind.
+
 ## Do Not Draw Attention to Yourself
 
 Openly talking about your assets or flaunting your money can make you a target for assault, robbery, or a gold digging spouse. 
