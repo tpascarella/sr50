@@ -18,7 +18,6 @@ module.exports = {
       'The best financial advisor on planet Earth.',
   },
   themeConfig: {
-    hideableSidebar: true,
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: true,
