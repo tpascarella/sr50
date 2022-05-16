@@ -10,15 +10,19 @@ sidebar_position: 1
 
 The best investing strategy is **the continual and unrelenting accumulation of Assets.**
 
-### - Make bets that align with the future
+## Just Keep Buying
 
-Invest in things that will still be valuable in the next 100 years (estimating to the best of your ability). Often times this means not chasing what worked for your grandparents. That world is long behind us.
+The market will keep going up until the end of human civilization. Buying consistently over time will increase the odds you will get the average market return of that asset class.
 
 ## Time in the Market vs. Timing the Market
 
 [This graphic from Putnam Investments](https://www.putnam.com/literature/pdf/II508-ec7166a52bb89b4621f3d2525199b64b.pdf) shows the consequence of missing a handful of the best days of stock market returns. 
 
 It is impossible to predict *when* the best days of the market will occur, and if you are not invested due to an attempt to *"time the market"* there is a very high probability you will miss out entirely and your cumulative returns will be significantly lower.
+
+### - Make bets that align with the future
+
+Invest in things that will still be valuable in the next 100 years (estimating to the best of your ability). Often times this means not chasing what worked for your grandparents. That world is long behind us.
 
 ### - It isn't worth the time
 

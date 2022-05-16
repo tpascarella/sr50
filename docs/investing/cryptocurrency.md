@@ -81,6 +81,10 @@ All fiat currencies lack the scarcity component, crypto has this.
 
 Bitcoin and Ethereum are the 2 most important cryptocurrencies. Maximizing your crypto wealth means maximizing your Net Worth demoninated in these 2 assets.
 
+### Bitcoin
+
+Bitcoin is digital gold. If you subscribe to the value proposition of owning gold, investing in Bitcoin is a no brainer.
+
 ### - Isn't it too late to buy?
 
 No! Absolutely not.
@@ -132,6 +136,8 @@ There are a *lot* of shady characters in the crypto space, when there is potenti
 - Does the token have a large liquidity pool?
 - Does the token have distributed ownership?
 - Does the token have actual utility?
+
+At the very least you should have an answer to these questions before you put money into it.
 
 ### - Tools to bookmark
 
