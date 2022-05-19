@@ -27,7 +27,7 @@ sidebar_position: 2
 
 </APITable>
 
-## Invest "F You Money", Do Not Invest "Oh $hit Money"
+## Invest "F You Money", Not "Oh $hit Money"
 
 A common pitfall I fell into as a young investor was to invest every dollar I had and left myself very little cash to protect myself. I was enticed by the dip price of crypto and went from 3 months of Runway down to 1.5 months. This was a mistake.
 

@@ -14,11 +14,15 @@ The best investing strategy is **the continual and unrelenting accumulation of A
 
 The market will keep going up until the end of human civilization. Buying consistently over time will increase the odds you will get the average market return of that asset class.
 
+![Just keep buying](/img/just-keep-buying.svg)
+
 ## Time in the Market vs. Timing the Market
 
 [This graphic from Putnam Investments](https://www.putnam.com/literature/pdf/II508-ec7166a52bb89b4621f3d2525199b64b.pdf) shows the consequence of missing a handful of the best days of stock market returns. 
 
 It is impossible to predict *when* the best days of the market will occur, and if you are not invested due to an attempt to *"time the market"* there is a very high probability you will miss out entirely and your cumulative returns will be significantly lower.
+
+![Dollar cost averaging](/img/dollar-cost-average.svg)
 
 ### - Make bets that align with the future
 
