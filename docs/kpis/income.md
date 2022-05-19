@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Income
 
->Makes zero impact on Savings Rate. (in a vacuum)
+>Meaningless, unless it increases your Savings Rate.
 
 ## Importance
 
