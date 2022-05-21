@@ -45,7 +45,12 @@ The only way to *acquire* capital is to either spend less or earn more. **You sa
 
 A consequence of a single digit Savings Rate is that it takes forever to build up a significant amount of capital. Any life changing investment will require capital to do it!
 
+<details>
+  <summary>Recommended Videos</summary>
+
 <iframe width="600" height="333" src="https://www.youtube.com/embed/TFD0UtfI960" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</details>
 
 ## Budget For The Next Year of Cash Flows
 
