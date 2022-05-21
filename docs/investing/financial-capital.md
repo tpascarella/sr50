@@ -10,7 +10,7 @@ sidebar_position: 2
 
 *Capital*, the term, is defined as the portion of financial resources you are able to invest. Different asset classes have different capital requirements in order to get started.
 
-## Comparing Asset Classes By Capital/Time/Effort Requirements
+## Comparing Asset Classes By Capital / Time / Effort Requirements
 
 <APITable>
 

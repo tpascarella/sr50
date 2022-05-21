@@ -12,15 +12,14 @@ sidebar_position: 9
 
 - Governments can't print more gold.
 - Anonymous.
-- Highly liquid (assuming you buy high quality bars).
+- Highly liquid if you buy good bars.
 
 :::
 
 :::danger Disadvantages
 
 - Divisibility is difficulty.
-- Heavy to transport.
-- Impractical to store at your home.
+- Heavy & cumbersome to transport.
 
 :::
 
@@ -60,7 +59,7 @@ If you will be buying gold bars/coins from a reputable online dealer, **look for
 
 I personally buy gold from [BGASC.com](https://www.bgasc.com/)
 
-### The first rule of gold ownership
+### - The first rule of gold ownership
 
 The first rule of gold ownership is that **you do not talk about gold ownership.** 
 
@@ -70,7 +69,7 @@ Talking publicly about gold ownership can make you a target for theft, assault o
 
 :::
 
-## Storing Your Gold
+## Storing Gold
 
 [Here is a good article explaining different options to store gold and silver.](https://www.usmoneyreserve.com/blog/how-to-store-gold-silver/#:~:text=Rather%20than%20storing%20them%20in,be%20on%20the%20safe%20side.)
 

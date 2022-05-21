@@ -66,8 +66,6 @@ A $1500 pair of headphones is not 10X better than a $150 pair of headphones, *it
 
 :::
 
-## Common Objections
-
 ### - "I can't be a minimalist, I love shopping!"
 
 People say they can't become a minimalist because they deeply enjoy shopping. 
@@ -79,9 +77,9 @@ The good news is, you'll still be shopping as a minimalist. You need to bring re
 - items you will actually use,
 - at way better prices! (because you took the time to shop around)
 
-:::tip Minimalism will make you a better shopper
-
 If you were to grade yourself on your purchases like a teacher would grade you on a test, being a minimalist will improve your grades in every category. 
+
+:::tip Minimalism will make you a better shopper
 
 In every aspect of the activity, you become a *better shopper.* And if you genuinely enjoy shopping, imagine how much you will enjoy it once you actually *get good.*
 
