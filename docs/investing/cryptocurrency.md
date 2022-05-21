@@ -25,7 +25,7 @@ sidebar_position: 5
 
 :::
 
-## Importance
+## Importance of this Asset Class
 
 Crypto is making a lot of headlines and for good reason. The technology is actively disrupting central and commercial banks, and empowers individuals regardless of citizenship.
 
@@ -43,25 +43,23 @@ The term "sound money" is used to describe crypto. It comes from back in the day
 
 :::
 
-### - Warren Buffett hates crypto
+### - Warren Buffett hates crypto (for now at least)
 
-Esteemed investor and raging boomer Warren Buffett is skeptical of crypto, however he is an *investor*, and is looking at crypto the same way he would evaluate a company. It's comparing apples to oranges. 
+Esteemed investor Warren Buffett is skeptical of cryptocurrency, however he is looking at it through the lens of an *investor*, and I would argue that the opinions of engineers and economists would be more applicable here. Warren Buffet is neither. 
 
-Warren Buffet is neither an economist of an engineer. I trust George Hotz, Elon Musk and Milton Friedman far more than Warren when it comes to evaluating cryptocurrency.
+If George Hotz, Elon Musk and Milton Friedman are in favor, that is a strong enough case for me.
 
 ### - Nations die when their currency becomes worthless
 
 ![Zimbabwe Hyperinflation](/img/100-trillion.svg)
 
-[In 1971, the government made the dollar backed by nothing.](https://www.investopedia.com/terms/f/fiatmoney.asp) The only value the dollar has anymore is the "full faith and credit of the US Government." 
+[In 1971, the government made the dollar worth as much as the "full faith and credit of the US Government."](https://www.investopedia.com/terms/f/fiatmoney.asp) How much full faith and credit do you have in the US Government? Choose for yourself.
 
-How much full faith and credit do you have in the US Government? Decide for yourself.
+### "Is crypocurrency legitimate money?"
 
-## Is Crypocurrency Legit Money?
+Crypto is the most complete money that has ever existed in human history.
 
-In short, crypto is the most complete money that has ever existed.
-
-To elaborate, money needs to have a few characteristics that make it legitamate. Those traits are:
+Money needs to have a few characteristics to make it legitamate. These characteristics are:
 - Durability
 >Money needs to last for a long time. This is why animals or food can't be considered money because they die and rot over time.
 - Portability
@@ -75,42 +73,36 @@ To elaborate, money needs to have a few characteristics that make it legitamate.
 - Acceptability
 >People need to be willing to take it in a trade.
 
-All fiat currencies lack the scarcity component, crypto has this.
+All fiat currencies lack the scarcity component.
 
-## Buy Bitcoin and Ethereum
+## Buy Bitcoin and Ethereum (to start)
 
 Bitcoin and Ethereum are the 2 most important cryptocurrencies. Maximizing your crypto wealth means maximizing your Net Worth demoninated in these 2 assets.
 
-### Bitcoin
+### - "Is it too late to buy?"
 
-Bitcoin is digital gold. If you subscribe to the value proposition of owning gold, investing in Bitcoin is a no brainer.
+No!
 
-### - Isn't it too late to buy?
+As investors, we are easily still in the "early market" portion of the technology adoption life cycle pictured below. There is still **tremendous upside** to investing in crypto. 
 
-No! Absolutely not.
-
-We are definitely still in the early market of the technology adoption life cycle, and there is still 
-**tremendous upside** to investing in crypto. We are definitely paying higher prices than people who bought Bitcoin in the early 2010's, but we have far more educational content and social validation that the technology is legitimate. 
+Of course, we are definitely paying higher prices than the early adopters, but we as investors have far more educational resources and social validation that the technology is legitimate. 
 
 ![Technology adoption curve](/img/technology-adoption-curve.svg)
 
-#### - Get on it.
-
-I personally do not care in the slightest whether you choose to listen to me and buy crypto, because all that will do for me is raise the price for when I buy more! However, the longer you wait, the higher the price will be. 
-
-Obviously buying ETH *before* the merge is preferable to buying ETH *after* the merge. 
-
 ### - Portfolio strategy
 
-There is no "best" portfolio allocation, as some will say. You can't know what the best portfolio allocation will be unless you have a time machine and can look 10 years into the future. *The best bet you have is to make informed decisions about which tokens you are going to invest in, and dollar cost average for the long term.*
+There is no "best" portfolio allocation. 
 
-My recommendation is to go 50/50 Bitcoin and Ethereum for your investment portfolio, and then use DAI to make purchases with a crypto visa card.
+You cannot know what the best portfolio allocation will be unless you have a time machine and can look 10 years into the future. The best bet you have is to make informed decisions about which tokens you are going to invest in, and dollar cost average for a long enough holding period to make a profit.
+
+### - Portfolio allocation
+
+Start with 50% BTC & 50% ETH. Proceed then as you will.
 
 ### - Crypto index funds
 
-If you subscribe to the investment strategy of indexing, buy one or a few of the indexes listed below. Let the indexes do the heavy lifting in your portfolio. If after that you want to take chances on some hail-mary tokens, limit their total investment to 20% of your portfolio.
+If you subscribe to the investment strategy of indexing, buy one or a few of the indexes listed below:
 
-Crypto index funds to consider:
 - [Bankless Bed Index (BED)](https://indexcoop.com/bankless-bed-index)
 - [Data Economy Index (DATA)](https://indexcoop.com/data-economy-index)
 - [DeFi Pulse Index (DPI)](https://indexcoop.com/defi-pulse-index-dpi)
@@ -120,16 +112,17 @@ Crypto index funds to consider:
 
 These funds can be purchased through [Argent](https://www.argent.xyz/download-argent/?_branch_match_id=1032833481488341820&utm_source=website&utm_campaign=homepage&utm_medium=marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTyxKT80r0cvJzMvWT08tgXABaOacVx0AAAA%3D).
 
-## TAKE PROPER PRECAUTIONS
+## ***TAKE PROPER PRECAUTIONS***
 
 There are some precautions you should take if you are a crypto beginner using their life savings:
-- Only put your money into tokens that you **understand**, **believe in wholeheartedly**, and have **actual real world utility**. 
-- SEND A TEST TRANSACTION BEFORE YOU SEND SIGNIFICANT QUANTITIES. If you send your entire balance to the wrong address, you could lose your funds forever.
-  >A guide for your first crypto transaction is included below.
+- Only put your money into tokens that you **understand**, **believe in**, and have **actual real world utility**. 
+- Send test transactions if you are a beginner using a hardware or software wallet.
+- Beware the spam. Bots and theives are everywhere.
+- Research & self educate consistently.
 
-### - How to not get scammed
+### - Project risk factors
 
-There are a *lot* of shady characters in the crypto space, when there is potential for massive profit that will happen. Here are some rules to minimize the risk of getting taken advantage of:
+Here are some risk factor questions for tokens you are thinking of putting money into:
 
 - Does the token have a whitepaper? 
 - Does the token have a proven track record?
@@ -139,7 +132,7 @@ There are a *lot* of shady characters in the crypto space, when there is potenti
 
 At the very least you should have an answer to these questions before you put money into it.
 
-### - Tools to bookmark
+### - Web tools to bookmark
 
 - [Etherscan](https://etherscan.io/)
 
@@ -161,18 +154,18 @@ When I say the crypto markets are volatile, I mean they are *volatile*. Far more
 
 The only way to prepare for the volatility of the crypto markets is to experience it for yourself. 
 
-Tie yourself to the ship, and to vow to **never sell out of fear.**
+Tie yourself to the ship, and to vow to **never sell at a position of weakness.**
 
 :::
 
 >**"I'm the worst investor of all time!"**
 ![Portfolio performance](/img/crypto-portfolio.svg)
 
-### - Take advantage of bonuses/promotions
+### - Crypto bonus arbitrage
 
 [This article from Money Ninja](https://themoneyninja.com/best-crypto-bonuses/) is a comprehensive list of the best crypto bonuses you can get. Arbitrage all of these and then transfer into your hardware wallet.
 
-## Crypto Guides
+## Guides
 
 <details>
   <summary>How To Transfer Crypto From an Exchange to a Wallet</summary>
