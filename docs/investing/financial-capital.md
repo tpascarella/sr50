@@ -52,7 +52,7 @@ A consequence of having a single digit Savings Rate is that it takes a long time
 
 </details>
 
-## Budget For The Next Year of Cash Flows
+## Plan For The Next Year of Cash Flows
 
 If you have a salary and are confident in your paycheck size and consistency, predict and plan for how much after-tax capital will be disbursed to you. You can then use this number to estimate how much you can invest in the next year.
 
@@ -61,6 +61,8 @@ If you get paid monthly it will look like this:
 
 If you get paid every 2 weeks, count how many paychecks you will receive (some months you will get 3)
 - **X# of Paychecks * Paycheck Amount**
+
+If you do this, you can set aside appropriate percentages of capital towards different lifestyle and investing goals.
 
 ## Leverage
 
