@@ -41,9 +41,9 @@ Your "Oh $hit Money" serves a valuable purpose, it is insurance so you don't hav
 
 ## Pinch Your Pennies
 
-The only way to *acquire* capital is to either spend less or earn more. **You save your pennies to build up capital, which you then use to invest towards early financial freedom.** 
+The only way to *acquire* capital is to either spend less or earn more. You save your pennies to **accumulate capital,** which you then use to invest towards solving the Financial Freedom Equation.
 
-A consequence of a single digit Savings Rate is that it takes forever to build up a significant amount of capital. Any life changing investment will require capital to do it!
+A consequence of having a single digit Savings Rate is that it takes a long time to build up a sufficient level of capital. Most life changing investments require significant capital!
 
 <details>
   <summary>Recommended Videos</summary>
