@@ -16,17 +16,19 @@ While budgets are not required (a minimalist mindset and living below your means
 
 Budgets are especially helpful for people who are not naturally frugal, or people who are currently digging themselves out of a financial hole. 
 
+If you ARE single and naturally frugal, playing fast and loose with tracking isn't a huge issue.
+
 ### - Non-optional once you get married
 
 :::caution
 
-The one exception to my “budgets are optional” rule is if you’re married. If you’re married, 100%, both of you need to budget together. You need to be on the same page financially as your spouse, and a budget is the best way to get you both in sync.
-
-Financial problems are one of, if not the, biggest cause of divorce, and a divorce will cost you a quarter million dollars. Minimum.
+The one exception to my “budgets are optional” rule is if you’re married. If you’re married, you need to budget together. You need to be on the same page financially as your spouse, and a budget is the best way to get you both in sync. Financial problems are one of, if not the, biggest cause of divorce, try to avoid it.
 
 :::
 
-Nobody says that you can't make budgeting fun, crack open a bottle of wine and make a date night out of it! Both you and your spouse need to be in agreement about where your money is going, so you might as well make it fun.
+### - Gamification
+
+There is no rule that says that you can't make budgeting enjoyable, crack open a bottle of wine and make a date night of it! A quick Google search can give you a lot of ideas to try.
 
 ## Budgeting Tools
 
@@ -47,7 +49,9 @@ Paper and pencil budgets are what your grandparents did. The way you do them is 
 
 #### - EveryDollar
 
-[EveryDollar](https://www.ramseysolutions.com/ramseyplus/everydollar) is Dave Ramsey's free budgeting app. It's basically a spreadsheet with a nice coat of paint, and does the job well enough.
+[EveryDollar](https://www.ramseysolutions.com/ramseyplus/everydollar) is Dave Ramsey's free budgeting app. It's basically a spreadsheet with a nice coat of paint, and does the job well.
+
+I use EveryDollar because it's free and easy to use.
 
 ### - Paid Budgeting Tools
 
