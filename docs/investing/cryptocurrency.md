@@ -69,7 +69,7 @@ Money needs to have a few characteristics to make it legitamate. These character
 - Uniformity
 >Every $20 is the exact same as every other $20 bill. All cows are different from each other.
 - Scarcity
->If supply increases and demand stays the same, value decreases. This is why fiat currencies have always trended towards zero, the cost of printing more is essentially zero.
+>If supply increases and demand stays the same, value decreases. (This is why the value of fiat currencies have always trended towards zero, the cost of creating more is essentially zero.)
 - Acceptability
 >People need to be willing to take it in a trade.
 
