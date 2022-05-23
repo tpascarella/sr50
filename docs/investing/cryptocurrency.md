@@ -112,6 +112,11 @@ If you subscribe to the investment strategy of indexing, buy one or a few of the
 
 These funds can be purchased through [Argent](https://www.argent.xyz/download-argent/?_branch_match_id=1032833481488341820&utm_source=website&utm_campaign=homepage&utm_medium=marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTyxKT80r0cvJzMvWT08tgXABaOacVx0AAAA%3D).
 
+### - Global metrics
+
+![Up and to the right](/img/052322metrics.svg)
+Up and to the right.
+
 ## ***TAKE PROPER PRECAUTIONS***
 
 There are some precautions you should take if you are a crypto beginner using their life savings:
@@ -159,11 +164,6 @@ When I say the crypto markets are volatile, I mean they are *volatile*. Far more
 :::
 
 This is why you can make a case that cryptocurrency is not for everyone. It takes a siginificant amount of will to bear the volatility of the markets head on.
-
-### - Global metrics
-
-![Up and to the right](/img/052322metrics.svg)
-Up and to the right.
 
 ### - Crypto bonus arbitrage
 
