@@ -160,9 +160,10 @@ When I say the crypto markets are volatile, I mean they are *volatile*. Far more
 
 This is why you can make a case that cryptocurrency is not for everyone. It takes a siginificant amount of will to bear the volatility of the markets head on.
 
-#### What volatility can look like
+### - Global metrics
 
-![Portfolio performance](/img/crypto-portfolio.svg)
+![Up and to the right](/img/052322metrics.svg)
+Up and to the right.
 
 ### - Crypto bonus arbitrage
 
