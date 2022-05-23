@@ -152,13 +152,16 @@ When I say the crypto markets are volatile, I mean they are *volatile*. Far more
 
 :::caution Volatility
 
-The only way to prepare for the volatility of the crypto markets is to experience it for yourself. 
+- The only way to prepare for the volatility of the crypto markets is to experience it for yourself. 
 
-Tie yourself to the ship, and to vow to **never sell at a position of weakness.**
+- Tie yourself to the ship and *never sell during a position of weakness.*
 
 :::
 
->**"I'm the worst investor of all time!"**
+This is why you can make a case that cryptocurrency is not for everyone. It takes a siginificant amount of will to bear the volatility of the markets head on.
+
+#### What volatility can look like
+
 ![Portfolio performance](/img/crypto-portfolio.svg)
 
 ### - Crypto bonus arbitrage
