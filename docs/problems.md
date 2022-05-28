@@ -32,7 +32,7 @@ Another problem is that financial advisors are actually insurance salesmen *who 
 
 They sell you (bad) investment products and insurance, and are paid by commisions.  They try to hide this by using fancy marketing code, but all of the financial incentives are for these professionals to sell you as much insurance and investment products as they can.
 
-### - Look at the job postings!
+### - Check the listings yourself
 
 Nearly all financial advisor jobs have a commision style compensation plan, and those commissions come from selling either unnecessary and bloated insurance packages, or criminally overpriced mutual funds. 
 
@@ -49,10 +49,7 @@ You'll see some similarities:
 - "Entrepreneurial spirit, building your 'book of business'"
 - "Sales experience preferred"
 
-There is a clear divide between what a financial advisor *should be,* in theory; and the actual logistics of the industry. 
-
-In short:
->**Financial advisors don't get paid for the knowledge they have. They get paid commissions on the products they sell.**
+There is a clear divide between what a financial advisor *should be,* in theory; and the actual logistics of the industry. **Financial advisors don't get paid for the knowledge they have, they get paid commissions on the products they sell.**
 
 ### - The job is obsolete now
 
