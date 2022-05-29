@@ -26,6 +26,12 @@ Car payments are always a bad idea. Cars only go down in value, so they aren't a
 
 >It’s only a status symbol in your brain. 
 
+## Buying a Car vs. Leasing a Car
+
+I recommend leasing over buying because it lets you drive a better car at the same monthly payment. You have less freedom with leased cars, but you also have lower maintenance costs since the dealerships want to keep the cars in as good a condition as possible.
+
+Building equity in cars is useless because they always go down in value. Leasing is less of a headache and gives you far more flexibility in terms of upgrading or replacement.
+
 ## Commuting
 
 The second biggest problem with transportation is that people seriously underestimate how expensive their commutes are, in both money and time. People trap themselves into a lifestyle where their house is over an hour away from their jobs, and as a result they “need” a fancy car for the commute.
@@ -67,7 +73,7 @@ Business travel expenses can be deducted on your taxes, however commuting expens
 
 If you have business miles and need to deduct them, download [MileIQ](https://apps.apple.com/us/app/mileiq-mileage-tracker-log/id578830929) and classify your business trips, and the app will give you the form to deduct them on your taxes.
 
-## Self Driving Cars
+## Self Driving
 
 Tesla and Comma AI are the two companies that have made serious progress in self driving cars. 
 

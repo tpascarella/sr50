@@ -125,7 +125,17 @@ There are some precautions you should take if you are a crypto beginner using th
 - Beware the spam. Bots and theives are everywhere.
 - Research & self educate consistently.
 
-### - Project risk factors
+### - Private keys
+
+:::danger
+
+Your private keys are the literal key to your digital empire. Guard them with your life!
+
+:::
+
+Store your private keys securely and completely offline. Options include [Stonebook notebooks](https://shieldfolio.com/products/shieldfolio-stonebook) or [steel capsules](https://shop.ledger.com/products/cryptosteel-capsule-solo), that should ideally be stored within fireproof bags, in multiple secure locations.
+
+### - Individual project risk factors
 
 Here are some risk factor questions for tokens you are thinking of putting money into:
 
@@ -137,7 +147,7 @@ Here are some risk factor questions for tokens you are thinking of putting money
 
 At the very least you should have an answer to these questions before you put money into it.
 
-### - Web tools to bookmark
+### - Web tools you should bookmark
 
 - [Etherscan](https://etherscan.io/)
 
@@ -165,7 +175,7 @@ When I say the crypto markets are volatile, I mean they are *volatile*. Far more
 
 This is why you can make a case that cryptocurrency is not for everyone. It takes a siginificant amount of will to bear the volatility of the markets head on.
 
-### - Crypto bonus arbitrage
+### - Crypto bonuses
 
 [This article from Money Ninja](https://themoneyninja.com/best-crypto-bonuses/) is a comprehensive list of the best crypto bonuses you can get. Arbitrage all of these and then transfer into your hardware wallet.
 
