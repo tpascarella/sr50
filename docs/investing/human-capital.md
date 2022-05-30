@@ -30,19 +30,26 @@ Your Human Capital is the sum total of your knowledge, skills, and abilities you
 
 Investing in your Human Capital is one of the highest leverage investments you can possibly make, but since it doesn't pay immediate dividends like stocks, investing in human capital goes largely ignored.
 
-### - Human capital is not the same as formal education!
+### - Not the same as formal education!
 
-When people think "I need to get more educated!" they immediately look at which degree to apply for. The problwm is that degrees are expensive and not always worth the cost (theater majors can tell you all about that)
+When people think "I need more education" they immediately look at which degree they should apply for. The problem is that degrees are expensive and not always worth the cost (theater majors can tell you all about that).
 
+The following chart shows the rise in price of a college education
 ![Consumer prices over time](/img/20yr-price-changes.svg)
 
 :::danger
 
 A college degree is becoming more and more expensive at the exact same time as it's becoming less and less valuable. 
 
-That is a very dangerous trend to invest in.
+That is a dangerous trend to invest in.
 
 :::
+
+### - Free education
+
+You can learn anything on google. Everything.
+
+[MIT OpenCourseWare](https://ocw.mit.edu/) is literally MIT posting their courses and materials online for free.
 
 ## Deep Work
 
