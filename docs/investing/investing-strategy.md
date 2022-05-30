@@ -10,13 +10,13 @@ sidebar_position: 1
 
 The best investing strategy is **the continual and unrelenting accumulation of Assets.**
 
+## Up and To the Right
+
+You only invest in things that will go up and to the right. WHICH investment those happen to be will depend on your age and personal risk tolerance. If you have a longer time horizon, you can afford to make riskier investments because you have more time to wait for a good outcome.
+
 ## Just Keep Buying
 
 The market will keep going up until the end of human civilization. Buying consistently over time will increase the odds you will get the average market return of that asset class.
-
-![Just keep buying](/img/just-keep-buying.svg)
-
-## Time in the Market vs. Timing the Market
 
 [This graphic from Putnam Investments](https://www.putnam.com/literature/pdf/II508-ec7166a52bb89b4621f3d2525199b64b.pdf) shows the consequence of missing a handful of the best days of stock market returns. 
 
@@ -28,7 +28,7 @@ It is impossible to predict *when* the best days of the market will occur, and i
 
 Invest in things that will still be valuable in the next 100 years (estimating to the best of your ability). Often times this means not chasing what worked for your grandparents. That world is long behind us.
 
-### - It isn't worth the time
+### - "Timing the market" is a less than minimum wage job
 
 Through investing in index funds, you can reasonably expect an 8% annual return if you do nothing but buy and hold the index, it requires zero effort. And [even though it has been definitely shown that hardly anyone can outperform the market](https://www.investopedia.com/ask/answers/12/beating-the-market.asp), many people still try. 
 
@@ -45,7 +45,7 @@ Divide that $10 by how many hours it took you to get that return, and you will q
 
 :::
 
-## Diversify
+## Diversify Across and Within Asset Classes
 
 Diversify across as many asset classes as you can. They each have advantages and disadvantages that will be useful in a variety of circumstances.
 
@@ -64,6 +64,16 @@ You want to own a variety of:
 A lot of investors think that their holding period should be forever for their assets, and are afraid to pull profits out of their investments. This assumes that the price will always go up and there will never be a correction, and history has shown that is not the case.
 
 Pull profits out of one investment and reinvest it into other assets that are currently undervalued. Have some target price you are willing to sell in your mind.
+
+## Protecting Yourself From Scams
+
+This has become very common in crypto but happens in the regular investing world. Here are some suggestions to make sure you don't fall victim to a scam:
+- Be VERY skeptical of returns that seem too good to be true.
+- Don't invest in things you don't understand.
+- Double check promotions that are run claiming to be from high profile individuals.
+- Only invest what you can afford to lose.
+- Remember Dr. Sowell's advice
+>"Eternal vigilence is the price of liberty"
 
 ## Do Not Draw Attention to Yourself
 

@@ -53,7 +53,7 @@ You can learn anything on google. Everything.
 
 ## Deep Work
 
-Your ability to focus without distraction on a cognitively demanding task is what will separate you from the chaff of employees. If you cultivate your deep work ability, you are able to produce work at a much higher quality and quantity than others.
+Your ability to focus without distraction on a cognitively demanding task is what will separate you from the chaff of employees. It's like Starting Strength for your brain. If you cultivate your deep work ability, you are able to produce work at a much higher quality and quantity than others.
 
 [Deep Work](https://www.amazon.com/dp/B013UWFM52/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Cal Newport is required reading for everyone. 
 

@@ -30,7 +30,7 @@ Car payments are always a bad idea. Cars only go down in value, so they aren't a
 
 I recommend leasing over buying because it lets you drive a better car at the same monthly payment. You have less freedom with leased cars, but you also have lower maintenance costs since the dealerships want to keep the cars in as good a condition as possible.
 
-Building equity in cars is useless because they always go down in value. Leasing is less of a headache and gives you far more flexibility in terms of upgrading or replacement.
+Building equity in cars is useless because cars always go down in value. Leasing is less of a headache and gives you far more flexibility in terms of upgrading or replacement.
 
 ## Commuting
 
