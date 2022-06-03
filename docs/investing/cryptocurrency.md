@@ -43,11 +43,11 @@ The term "sound money" is used to describe crypto. It comes from back in the day
 
 :::
 
-### - Warren Buffett hates crypto (for now at least)
+### - The FED is a Ponzi Scheme
 
-Esteemed investor Warren Buffett is skeptical of cryptocurrency, however he is looking at it through the lens of an *investor*, and I would argue that the opinions of engineers and economists would be more applicable here. Warren Buffet is neither. 
+[Watch this video,](https://www.youtube.com/watch?v=5S-ZjGvOZ1A) and [read this book.](https://www.amazon.com/Creature-Jekyll-Island-Federal-Reserve/dp/091298645X)
 
-If George Hotz, Elon Musk and Milton Friedman are in favor, that is a strong enough case for me.
+>"The FED is the biggest ponzi scheme in the history of the world. If the American people truly knew how it really worked, they would be screaming for it to be abolished immediately." - Michael Snyder
 
 ### - Nations die when their currency becomes worthless
 
