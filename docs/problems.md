@@ -10,6 +10,12 @@ The first problem is that our grandparents' advice of "Get a job, put 15% into a
 
 They were fortunate enough to live in an era where a Bachelor's degree was enough to get you a good job at a good company, and you could be sure you'll have job security and a pension for the rest of your life. That is not the world my generation (Gen Z) will grow old in. 
 
+### - "Golden years"
+
+People think your golden years are 65+ when you have enough money to never need to work again, but I would argue that your golden years are when your kids are between 0-4.
+
+They might be the highest stress years of your life, but you have the energy to overcome it and can build family memories that you will *never have the opportunity to repeat.* Do not let the time pass you by!
+
 ### - Why do you think everything will be solved, at 65?
 
 ![Age](/img/meme-decades-of-work.svg)
