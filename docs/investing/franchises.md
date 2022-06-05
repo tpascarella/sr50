@@ -32,11 +32,9 @@ Investing in franchises requires significantly more capital than real estate. Yo
 
 [This article from NerdWallet.com](https://www.nerdwallet.com/article/small-business/best-franchises) states the 15 best franchise opportunities for 2022. Begin here if you don't already know which franchise you would like to invest in.
 
-### - Don't just look at the numbers!
+### - Numbers aren't everything, lifestyle factors matter too
 
-I would never open a Jimmy John's franchise, even if it pays well. Not all money is good money! Some of it is just blood money. You bought yourself a crappy job if you invest in one of those.
-
-This is a marriage that you should be equally excited about 30 years from now as today. Don't let the cash flow numbers make the decision for you.
+This is a marriage that you should be equally excited about 30 years from now as today. Don't let the cash flow numbers make the decision for you. I would never open a Jimmy John's franchise even tough it pays well. Not all money is good money! Some of it is just blood money. You bought yourself a crappy job if you invest in one of these because you have to deal with fast food employees and customers.
 
 ## Resources
 

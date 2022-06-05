@@ -99,6 +99,12 @@ You cannot know what the best portfolio allocation will be unless you have a tim
 
 Start with 50% BTC & 50% ETH. Proceed then as you will.
 
+### - Consider a crypto IRA
+
+These allow you to invest in crypto tax free! The same rules apply to crypto retirement accounts as typical retirement accounts, tax deferred is preferable.
+
+You can sign up for one at [Alto IRA.](https://www.altoira.com/products/alto-cryptoira)
+
 ### - Crypto index funds
 
 If you subscribe to the investment strategy of indexing, buy one or a few of the indexes listed below:
@@ -115,7 +121,7 @@ These funds can be purchased through [Argent](https://www.argent.xyz/download-ar
 ### - Global metrics
 
 ![Up and to the right](/img/052322metrics.svg)
-Up and to the right.
+Highly volatile, but up and to the right.
 
 ## ***TAKE PROPER PRECAUTIONS***
 
