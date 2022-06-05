@@ -18,7 +18,11 @@ Budgets are especially helpful for people who are not naturally frugal, or peopl
 
 If you ARE single and naturally frugal, playing fast and loose with tracking isn't a huge issue.
 
-### - Non-optional once you get married
+### - Timing cash flows
+
+Your bills will be withdrawn at different dates of the month, so you need to be aware of this while budgeting to make sure you have enough of a buffer in your checking account to not go into overdraft.
+
+### - Non-optional after you get married
 
 :::caution
 
@@ -28,7 +32,7 @@ The one exception to my “budgets are optional” rule is if you’re married. 
 
 ### - Gamification
 
-There is no rule that says that you can't make budgeting enjoyable, crack open a bottle of wine and make a date night of it! A quick Google search can give you a lot of ideas to try.
+There is no rule that says that you can't make budgeting enjoyable, crack open a bottle of wine and make a date night of it! A quick Google search can give you lots of ideas to try.
 
 ## Budgeting Tools
 
