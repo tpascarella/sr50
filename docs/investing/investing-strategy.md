@@ -10,6 +10,10 @@ sidebar_position: 1
 
 The best investing strategy is **the continual and unrelenting accumulation of Assets.**
 
+## The Longer Your Time Horizon, The More Aggressive You Can Be
+
+I invest as aggressively as possible because I have a very long time horizon to make a return. I also weirdly enjoy the chaos of volatility, but that's a personal preference.
+
 ## Up and To the Right
 
 You only invest in things that will go up and to the right. WHICH investment those happen to be will depend on your age and personal risk tolerance. If you have a longer time horizon, you can afford to make riskier investments because you have more time to wait for a good outcome.

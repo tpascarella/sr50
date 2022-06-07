@@ -39,7 +39,7 @@ As a general rule, it is wise to only put your money into something if you can a
 
 :::info Fun fact
 
-The term "sound money" is used to describe crypto. It comes from back in the day when everyone used gold coins, you would throw the coin against a table and the sound it made could distinguish real gold coins from gold plated lead coins.
+The term "sound money" is sometimes used to describe crypto, the term comes from a time when people used gold coins as payment. You would throw the coin against a table and use the sound it made to distinguish real gold coins from gold plated lead coins.
 
 :::
 

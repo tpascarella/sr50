@@ -9,6 +9,14 @@ import TabItem from '@theme/TabItem';
 
 >Buying ownership of companies, and fixed future payments.
 
+:::danger Caution
+
+Inflation is rising fast enough that investing in these assets might not outpace it. Consider that when deciding what to invest in.
+
+Also read [Is the stock market a Ponzi scheme?](https://www.financial-spread-betting.com/Stock-market-ponzi.html#:~:text=Yes%2C%20the%20stock%20market%20is,will%20be%20alive%20and%20well.)
+
+:::
+
 ## Advantages & Disadvantages
 
 :::tip Advantages

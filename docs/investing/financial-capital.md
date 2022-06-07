@@ -10,6 +10,8 @@ sidebar_position: 2
 
 *Capital*, the term, is defined as the portion of financial resources you are able to invest. Different asset classes have different capital requirements in order to get started.
 
+*Managing money* is only part of the equation, you need to *actually have money* to manage in order to make a massive impact.
+
 ## Comparing Asset Classes By Capital / Time / Effort Requirements
 
 <APITable>
