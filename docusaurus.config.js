@@ -71,7 +71,7 @@ module.exports = {
           items: [
             {
               label: 'Founder',
-              href: 'https://thomaspascarella.com'
+              href: 'https://tpascarella.github.io'
             },
             {
               label: 'GitHub',
