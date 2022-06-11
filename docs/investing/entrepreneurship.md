@@ -24,7 +24,7 @@ sidebar_position: 4
 
 :::
 
-## Prereqs
+## Prerequisites
 
 There are no prerequisites to being a startup founder, but I would advise at least to spend some time working for companies of varying sizes. See how they operate, the tools they use, and take the lessons you learned from them into your startup. It will help you make more informed decisions.
 

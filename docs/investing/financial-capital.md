@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Financial Capital
 
->"You gotta spend money to make money."
+>"You gotta spend money to make money." - Tom Bueller
 
 ## Importance
 

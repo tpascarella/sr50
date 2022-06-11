@@ -2,9 +2,9 @@
 sidebar_position: 7
 ---
 
-# Franchises
+# Franchise Businesses
 
->Buying a business someone else has already validated.
+>Buying and operating a proven business.
 
 ## Advantages & Disadvantages
 

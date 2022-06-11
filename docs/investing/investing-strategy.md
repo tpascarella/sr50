@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Investing Strategy
+# Investing Thesis
 
 >Develop & refine a strategy you'll use for decades.
 
