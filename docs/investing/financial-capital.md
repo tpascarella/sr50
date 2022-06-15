@@ -72,4 +72,8 @@ You can use other people's money to leverage your investments. While this is com
 
 [This course from Radical Personal Finance](https://www.radicalpersonalfinance.com/store/Csp4iJET) is a great tutorial how to borrow money using credit cards without paying interest. Raising capital this way is much cheaper than using a personal loan.
 
+## Purchasing Power
+
+You only want to invest in things that increase in purchasing power over time. This excluded nearly all fiat denominated assets because they are fundamentally linked to the collapsing value of their respective fiat currencies.
+
 >Increase Your Savings Rate
