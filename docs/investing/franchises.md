@@ -6,6 +6,12 @@ sidebar_position: 7
 
 >Buying and operating a proven business.
 
+:::danger Caution
+
+Franchises are only worth the discounted value of future cash flows, and since those cash flows are denominated in fiat money, the purchasing power of the cash flows, and subsequently the value of the business, will fall alongside it.
+
+:::
+
 ## Advantages & Disadvantages
 
 :::tip Advantages

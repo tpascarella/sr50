@@ -11,16 +11,15 @@ sidebar_position: 3
 :::tip Advantages
 
 - Unlimited ROI potential.
-- Deeply gratifying expanding your skills.
-- You will become far more valuable in our competitive world.
+- Deeply gratifying expanding your skillset.
+- You will become far more valuable in the competitive job market.
 
 :::
 
 :::danger Disadvantages
 
-- Difficult to quantify.
+- Difficult to measure and quantify.
 - Does not pay immediate dividends.
-- Requires a leap of faith.
 
 :::
 

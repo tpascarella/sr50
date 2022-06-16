@@ -6,6 +6,14 @@ sidebar_position: 6
 
 >Acquiring/using land and buildings.
 
+:::caution Caution
+
+Real Estate properties are only worth the discounted value of future cash flows, and since those cash flows are denominated in fiat money, the purchasing power of the cash flows, and subsequently the value of the business, will fall alongside it.
+
+I only recommend investing in Real Estate if you are house hacking to increase your Savings Rate, or the BRRRR method since it lets you invest without losing capital, which you can then deploy towards assets that increase in purchasing power over time (crypto).
+
+:::
+
 ## Advantages & Disadvantages
 
 :::tip Advantages
@@ -25,13 +33,7 @@ sidebar_position: 6
 
 :::
 
-## Opportunity
-
-Real Estate investing is the process of acquiring land and buildings that will provide economic value, usually by renting out to individual renters or businesses.
-
 ## Prerequisites
-
-If possible, network with local investors and agents before you jump into real estate investing. There is a substantial learning curve with this asset class, and the more smart people you take advice from, the better off you will likely be.
 
 ### - Financial prerequisites
 
@@ -39,11 +41,15 @@ You will need at least 1 year of runway saved up before you should even consider
 
 You will also need to build up a solid (700+) credit score. It is explained how to do this in the [credit scores section.](/credit/credit-scores.md)
 
-## Resources To Get Educated
+### - Network
+
+If possible, network with local investors and agents before you jump into real estate investing. There is a substantial learning curve with this asset class, and the more smart people you take advice from, the better off you will likely be.
+
+## Educational Resources
 
 [Biggerpockets.com](https://www.biggerpockets.com/) is the best resource I have found to become educated on Real Estate investing.
 
-## Start With House Hacking
+## Start by House Hacking
 
 [House Hacking](/spending/housing.md) is a strategy that anyone interested in early financial freedom should consider, becauase it offers the swing in your Savings Rate without a significant downgrade in lifestyle.
 

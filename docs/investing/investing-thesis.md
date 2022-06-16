@@ -14,7 +14,7 @@ The best investing strategy is **the continual and unrelenting accumulation of A
 
 I invest as aggressively as possible because I have a very long time horizon to make a return. I also weirdly enjoy the chaos of volatility, but that's a personal preference.
 
-## Up and To the Right
+## "Up and To the Right"
 
 You only invest in things that will go up and to the right. WHICH investment those happen to be will depend on your age and personal risk tolerance. If you have a longer time horizon, you can afford to make riskier investments because you have more time to wait for a good outcome.
 
@@ -49,19 +49,19 @@ Divide that $10 by how many hours it took you to get that return, and you will q
 
 :::
 
-## Diversify Across and Within Asset Classes
+## Only Invest in Things that Increase in Purchasing Power
 
-Diversify across as many asset classes as you can. They each have advantages and disadvantages that will be useful in a variety of circumstances.
-
-You want to own a variety of:
+I recommend owning the following during peace time:
 - [Crypto assets](cryptocurrency.md)
-- Fiat assets:
-  - [Stocks/bonds](stocks-bonds.md)
-  - [Franchise businesses](franchises.md)
-  - [Equity in your own startup](entrepreneurship.md)
-- [Land/property](real-estate.md)
-- [Gold and other precious metals](gold.md)
-- [Guns and ammunition](guns.md)
+- [Certain types of Real Estate](real-estate.md)
+
+And the following during the apocolypse:
+- [Gold](gold.md)
+- [Guns/ammunition](guns.md)
+
+## Portfolio Allocation
+
+I recommend splitting your portfolio 50/50 between Store of Value assets (Bitcoin, Gold and Guns), and Cash Flow assets (staked Ethereum).
 
 ## Have an Exit Strategy
 
