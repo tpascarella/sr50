@@ -76,7 +76,7 @@ This has become very common in crypto but happens in the regular investing world
 - Don't invest in things you don't understand.
 - Double check promotions that are run claiming to be from high profile individuals.
 - Only invest what you can afford to lose.
-- Remember Dr. Sowell's advice
+- Remember Dr. Sowell's timeless advice.
 >"Eternal vigilence is the price of liberty"
 
 ## Do Not Draw Attention to Yourself

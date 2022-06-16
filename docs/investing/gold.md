@@ -36,11 +36,11 @@ sidebar_position: 9
 
 ## Buying Gold
 
-If you will be buying gold bars/coins from a reputable online dealer, **look for the following**:
+If you will be buying gold bars/coins from a reputable online dealer, **look for the following characteristics**:
 - Reviews from the [Better Business Bureau](https://www.bbb.org/), and/or [Trustpilot](https://www.trustpilot.com/). 
->DO NOT ASSUME IF A WEBSITE HAS THE LOGOS THEY ARE LEGITIMATE, BECAUSE LOGOS CAN BE COPIED. CHECK THE SOURCE WEBSITE AND READ THE REVIEWS ON THERE.
-- buyback program. If they are selling you high quality gold they will purchase it back from you.
-- Buy bars from a recognized mint, this makes liquidation much easier.
+>DO NOT ASSUME IF A WEBSITE HAS THE CORRESPONDING LOGOS THEY ARE LEGITIMATE REVIEWS. LOGOS CAN BE COPIED. CHECK THE SOURCE WEBSITES AND READ THE REVIEWS ON THERE.
+- A buyback program. If the dealer is selling you a high quality gold bar, they will purchase it back from you.
+- Buy bars produced from a recognized refinery, this makes liquidation much easier. A list of reputable refineries can be found below.
 
 <details>
   <summary>Reputable Gold Refineries (NOT EXHAUSTIVE LIST)</summary>
@@ -61,7 +61,7 @@ I personally buy gold from [BGASC.com](https://www.bgasc.com/)
 
 ### - The first rule of gold ownership
 
-The first rule of gold ownership is that **you do not talk about gold ownership.** 
+The first rule of gold ownership is that you **do not talk about gold ownership.** 
 
 :::danger
 
@@ -71,14 +71,14 @@ Talking publicly about gold ownership can make you a target for theft, assault o
 
 ## Storing Gold
 
-[Here is a good article explaining different options to store gold and silver.](https://www.usmoneyreserve.com/blog/how-to-store-gold-silver/#:~:text=Rather%20than%20storing%20them%20in,be%20on%20the%20safe%20side.)
+[Here is a good article explaining different options to store your gold.](https://www.usmoneyreserve.com/blog/how-to-store-gold-silver/#:~:text=Rather%20than%20storing%20them%20in,be%20on%20the%20safe%20side.)
 
 ### - At home
 
-Don't keep a lot of gold at home unless you are willing to invest in security. If you store gold at home, you should also store guns at home.
+Don't keep a lot of gold at home unless you are willing to invest in security. If you store gold at home, you should also invest in keeping guns at home.
 
 ### - In a vault
 
-Once any other human being knows you own bullion, that's when you should look into off site storage.
+Once any other human being knows you own bullion, that is when you should look into off site storage.
 
 >Increase Your Savings Rate

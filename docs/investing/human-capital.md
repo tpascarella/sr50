@@ -48,7 +48,8 @@ That is a dangerous trend to invest in.
 
 You can learn anything on google. Everything.
 
-[MIT OpenCourseWare](https://ocw.mit.edu/) is literally MIT posting their courses and materials online for free.
+- [MIT OpenCourseWare](https://ocw.mit.edu/) is literally MIT posting their courses and materials online for free.
+- [Saylor Academy](https://www.saylor.org/) allows you to take accedited courses for free across a wide variety of topics.
 
 ## Deep Work
 
