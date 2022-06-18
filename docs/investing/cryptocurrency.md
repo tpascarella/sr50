@@ -143,7 +143,7 @@ Store your private keys securely and completely offline. Options include [Stoneb
 
 ### - Individual project risk factors
 
-Here are some risk factor questions for tokens you are thinking of putting money into:
+Here are some risk factor considerations for tokens you are thinking of putting money into:
 
 - Does the token have a whitepaper? 
 - Does the token have a proven track record?
@@ -151,11 +151,12 @@ Here are some risk factor questions for tokens you are thinking of putting money
 - Does the token have distributed ownership?
 - Does the token have actual utility?
 
-At the very least you should have an answer to these questions before you put money into it.
+At the very least you should have an acceptable answer to these questions before you put any money into these projects.
 
 ### - Web tools you should bookmark
 
 - [Etherscan](https://etherscan.io/)
+- [CoinMarketCap](https://coinmarketcap.com/)
 
 ### - Action steps
 
@@ -164,6 +165,8 @@ Do the following:
 >Video recommendations included below.
 - Create an account with [Coinbase](https://www.coinbase.com/) or [Gemini](https://www.gemini.com/) and buy Bitcoin and Ethereum. 
 - Buy a [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x) hardware wallet to store Bitcoin.
+- Transfer your coins off of an exchange onto your hardware wallet.
+- Buy a faraday bag to keep your wallet secure from wireless attacks.
 - Create accounts with [Argent](https://www.argent.xyz/) and [Metamask](https://metamask.io/) to use Ethereum in open finance.
 - Dollar cost average your crypto investments over a long period of time.
 
