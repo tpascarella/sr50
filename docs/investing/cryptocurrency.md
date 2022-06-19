@@ -75,9 +75,13 @@ Money needs to have a few characteristics to make it legitamate. These character
 
 All fiat currencies lack the scarcity component.
 
-## Buy Bitcoin and Ethereum (to start)
+## Buy Bitcoin and Ethereum
 
 Bitcoin and Ethereum are the 2 most important cryptocurrencies. Maximizing your crypto wealth means maximizing your Net Worth demoninated in these 2 assets.
+
+Bitcoin is a store of value with a fixed supply.
+
+Ethereum is the bedrock for the entire Defi ecosystem.
 
 ### - "Is it too late to buy?"
 
