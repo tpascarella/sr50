@@ -79,9 +79,12 @@ All fiat currencies lack the scarcity component.
 
 Bitcoin and Ethereum are the 2 most important cryptocurrencies. Maximizing your crypto wealth means maximizing your Net Worth demoninated in these 2 assets.
 
-Bitcoin is a store of value with a fixed supply.
+- Bitcoin is a store of value with a fixed supply.
+- Ethereum is the bedrock for the entire Defi ecosystem.
 
-Ethereum is the bedrock for the entire Defi ecosystem.
+### - Resources to learn about Bitcoin
+
+[Hope.com](https://www.hope.com/en) is the best sole resource to learn about Bitcoin.
 
 ### - "Is it too late to buy?"
 
@@ -181,7 +184,6 @@ When I say the crypto markets are volatile, I mean they are *volatile*. Far more
 :::caution Volatility
 
 - The only way to prepare for the volatility of the crypto markets is to experience it for yourself. 
-
 - Tie yourself to the ship and *never sell during a position of weakness.*
 
 :::
