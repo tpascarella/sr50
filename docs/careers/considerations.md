@@ -16,6 +16,8 @@ sidebar_position: 1
 - Does the company have a promising financial future?
 - Are the stress levels for the job within your stress tolerance?
 - What does your gut tell you?
+- How hard do you want to work?
+  >If the answer is very hard, is your career the highest and best use of your time?
 
 A job doesn't need to have all of these qualities, but the more the better, at the very least you need to have an answer to these questions. 
 
