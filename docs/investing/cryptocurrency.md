@@ -75,6 +75,10 @@ Money needs to have a few characteristics to make it legitamate. These character
 
 All fiat currencies lack the scarcity component.
 
+### Hard Money lowers time preference
+
+People are much more willing to save and invest for the future if they are able to do so through a Hard Money.  Hard Money incentivizes saving for the future and sacrificing current consumption because you know your purchasing power will *increase* in the future if you sacrifice the present. This greatly reduces the willpower necessary to save.
+
 ## Buy Bitcoin and Ethereum
 
 Bitcoin and Ethereum are the 2 most important cryptocurrencies. Maximizing your crypto wealth means maximizing your Net Worth demoninated in these 2 assets.
