@@ -6,7 +6,7 @@ export default function HomepageHero() {
     <div className={styles.container}>
       <h1 className={styles.logo}>
         <span className={styles.title}>
-          <code className={styles.titleCode}>Our Approach to Financial Advising</code>
+          <code className={styles.title}>Our Approach</code>
         </span>
       </h1>
       <h2 className={styles.tagline}>

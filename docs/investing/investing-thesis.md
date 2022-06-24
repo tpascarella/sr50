@@ -56,7 +56,7 @@ I recommend owning the following during peace time:
 - [Certain types of Real Estate](real-estate.md)
 
 And the following during the apocolypse:
-- [Gold](gold.md)
+- [Possibly some Gold](gold.md)
 - [Guns/ammunition](guns.md)
 
 ## Portfolio Allocation
