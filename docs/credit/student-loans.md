@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # Student Loans
 
+import Slogan from '/src/components/Slogan';
+
 >Solvable!
 
 Housing, Transportation and Food are the 3 categories that should get the most *mathematical attention* from you, but Student Loans will probably get the most *emotional attention* from you. 
@@ -42,4 +44,4 @@ Public schools offer basically as good of an education as the Ivy Leagues, at si
 
 You can make a lot of money as a tradesman, and a millions of these jobs are going unfilled because there aren't enough qualified people to do them. Trade schools might not be as "prestigious" as a typical bachelors degree, however you are *guaranteed a job after graduation* and know you are armed with a marketable skill. 
 
->Increase Your Savings Rate
+<Slogan/>

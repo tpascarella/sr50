@@ -4,6 +4,8 @@ sidebar_position: 6
 
 # Debt Paydown Strategies
 
+import Slogan from '/src/components/Slogan';
+
 >The Snowball and the Avalanche.
 
 There are 2 primary methods that people use to paydown their debt. The [Debt Snowball](https://www.ramseysolutions.com/debt/how-the-debt-snowball-method-works), and the [Debt Avalanche.](https://www.nerdwallet.com/article/finance/what-is-a-debt-avalanche)
@@ -32,4 +34,4 @@ While the Avalanche method *might* result in fewer dollars spent paying down you
 
 And in all honestly, if you are the type of person who wakes up one day and realizes you are $40,000 in credit card debt, you were probably never too concerned with math to begin with.
 
->Increase Your Savings Rate
+<Slogan/>

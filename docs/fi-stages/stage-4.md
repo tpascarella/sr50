@@ -4,6 +4,8 @@ sidebar_position: 5
 
 # Stage 4
 
+import Slogan from '/src/components/Slogan';
+
 ## Financial Security (AKA Ramen Profitability)
 
 ### - Passive Income > Survival Expenses 
@@ -22,4 +24,4 @@ This is the first point (mathematically) where you have *complete control over y
 
 Having enough passive income to cover survival expenses is a huge accomplishment that you should celebrate! You won’t stay at Stage 4 forever, but you have a *wealth of choice* available to you that few others will ever have. 
 
->Increase Your Savings Rate
+<Slogan/>

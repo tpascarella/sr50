@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # Human Capital
 
+import Slogan from '/src/components/Slogan';
+
 >"I only invest in myself." - Elon Musk
 
 ## Advantages & Disadvantages
@@ -59,4 +61,4 @@ Your ability to focus without distraction on a cognitively demanding task is wha
 
 [This article on doist.com](https://blog.doist.com/deep-work/) offers a great introduction to the concepts, as well as a cliffnotes version of the training regimen.
 
->Increase Your Savings Rate
+<Slogan/>

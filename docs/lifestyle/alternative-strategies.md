@@ -4,6 +4,8 @@ sidebar_position: 6
 
 # Alternative Strategies
 
+import Slogan from '/src/components/Slogan';
+
 >Utilizing every unfair advantage you can.
 
 ## Geoarbritrage
@@ -28,4 +30,4 @@ Going zero waste is gaining traction as a lifestyle trend. It's not as popular a
 
 [This article](https://www.goingzerowaste.com/blog/the-ultimate-list-of-zero-waste-swaps/) gives a comprehensive list of zero waste swaps you can implement into your life. It'll reduce your environmental impact and will save you some money as well!
 
->Increase Your Savings Rate
+<Slogan/>

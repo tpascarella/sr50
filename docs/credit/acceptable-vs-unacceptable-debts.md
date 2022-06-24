@@ -4,6 +4,8 @@ sidebar_position: 5
 
 # "Acceptable" & "Unacceptable" Debts
 
+import Slogan from '/src/components/Slogan';
+
 >Only some debts are worth taking on.
 
 ## Acceptable Debts
@@ -46,4 +48,4 @@ Acceptable debts can be left alone for now, so long as they increase your Saving
 
 Unacceptable debts should be cleared as fast as possible. The [Debt Paydown Strategies](debt-paydown-strategies.md) page lists strategies for paying off these debts as quickly as possible.
 
->Increase Your Savings Rate
+<Slogan/>

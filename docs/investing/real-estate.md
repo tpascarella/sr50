@@ -4,6 +4,8 @@ sidebar_position: 6
 
 # Real Estate
 
+import Slogan from '/src/components/Slogan';
+
 >Acquiring/using land and buildings.
 
 :::caution Caution
@@ -61,4 +63,4 @@ By refinancing at the end of the process, you can sometimes pull more money out 
 
 [David Greene's BRRRR book](https://www.amazon.com/Buy-Rehab-Rent-Refinance-Repeat/dp/B07S4LQWQ2) is a great resource to begin learning how to invest this way.
 
->Increase Your Savings Rate
+<Slogan/>

@@ -4,6 +4,8 @@ sidebar_position: 4
 
 # Formal Education
 
+import Slogan from '/src/components/Slogan';
+
 >Not worth the money, most of the time.
 
 ![The value of formal education](/img/meme-egyptology.svg)
@@ -18,4 +20,4 @@ If you are going to pay a significant amount for an advanced degree, you better 
 
 If you have the ability to have your company pay for college courses, feast on that buffet!
 
->Increase Your Savings Rate
+<Slogan/>

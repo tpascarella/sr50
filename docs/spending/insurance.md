@@ -4,6 +4,8 @@ sidebar_position: 6
 
 # Insurance
 
+import Slogan from '/src/components/Slogan';
+
 >Do an hour of research to make sure you aren't being ripped off.
 
 ## Importance
@@ -35,4 +37,4 @@ Don't let your financial advisor decide what insurance is necessary, they will a
   </div>
 </details>
 
->Increase Your Savings Rate
+<Slogan/>

@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Minimalism
 
+import Slogan from '/src/components/Slogan';
+
 >"Take only what you need to survive" - Lone Starr
 
 ![Alpaca](/img/meme-purchases.svg)
@@ -141,4 +143,4 @@ Many items provide no value to you. Some items you use every single day of your 
   </div>
 </details>
 
->Increase Your Savings Rate
+<Slogan/>

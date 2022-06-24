@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # 13% - Food
 
+import Slogan from '/src/components/Slogan';
+
 >Cook healthy food & limit eating out.
 
 ## Importance
@@ -67,4 +69,4 @@ Gradually try to get at least 80% of your calories from nutritious foods that yo
 
 :::
 
->Increase Your Savings Rate
+<Slogan/>

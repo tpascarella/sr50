@@ -4,6 +4,8 @@ sidebar_position: 5
 
 # Benefits
 
+import Slogan from '/src/components/Slogan';
+
 >Take full advantage of these.
 
 As soon as you have a "big boy/big girl" job, it will likely come with a benefits package that you should take full advantage of.
@@ -34,4 +36,4 @@ Basis points refer to hundredths of a percent. For example, 5 basis points would
 
 :::
 
->Increase Your Savings Rate
+<Slogan/>

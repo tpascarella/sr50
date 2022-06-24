@@ -4,6 +4,8 @@ sidebar_position: 10
 
 # Guns & Ammo
 
+import Slogan from '/src/components/Slogan';
+
 >Prepare for the apocolypse.
 
 ## Advantages & Disadvantages
@@ -39,4 +41,4 @@ Buy a locked case for your gun and keep it out of the reach of children. Store y
 
 Unlike gold or crypto, it is perfectly acceptable to let the world know you are armed to the teeth. It will deter thiefs and attackers.
 
->Increase Your Savings Rate
+<Slogan/>

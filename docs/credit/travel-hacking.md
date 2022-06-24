@@ -4,6 +4,8 @@ sidebar_position: 4
 
 # Travel Hacking
 
+import Slogan from '/src/components/Slogan';
+
 >Using credit card points to travel for free.
 
 Travel Hacking is the process of tactfully acquiring credit card points and miles to travel for free (or exceptionally low cost). 
@@ -28,4 +30,4 @@ Travel Hacking is a REWARD for efficient spending. Never spend irresponsibly jus
 
 [Award Wallet](https://awardwallet.com/api/main) compiles all of your rewards into one screen, it also lets you know when your points are about to expire, which is good to make sure you don't lose anything by mistake! Use the desktop version of AwardWallet if possible, their iPhone app is infuriating.
 
->Increase Your Savings Rate
+<Slogan/>

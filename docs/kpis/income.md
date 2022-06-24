@@ -4,6 +4,8 @@ sidebar_position: 4
 
 # Income
 
+import Slogan from '/src/components/Slogan';
+
 >Meaningless, unless it increases your Savings Rate.
 
 ## Importance
@@ -48,4 +50,4 @@ Lifestyle creep is the term for elevating your lifestyle up to your current leve
 
 </details>
 
->Increase Your Savings Rate
+<Slogan/>

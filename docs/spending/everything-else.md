@@ -4,6 +4,8 @@ sidebar_position: 4
 
 # 38% - Everything Else
 
+import Slogan from '/src/components/Slogan';
+
 >Does not include insurance or taxes.
 
 ## Importance
@@ -52,4 +54,4 @@ Insurance is covered in the [insurance section.](insurance.md)
 
 Taxes will be covered in the [taxes section.](taxes.md)
 
->Increase Your Savings Rate
+<Slogan/>

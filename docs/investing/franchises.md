@@ -4,6 +4,8 @@ sidebar_position: 7
 
 # Franchise Businesses
 
+import Slogan from '/src/components/Slogan';
+
 >Buying and operating a proven business.
 
 :::danger Caution
@@ -46,4 +48,4 @@ This is a marriage that you should be equally excited about 30 years from now as
 
 [The Franchise Bible](https://www.amazon.com/dp/B01N95E8IW/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) is the best book I have currently read on franchise investing. 
 
->Increase Your Savings Rate
+<Slogan/>

@@ -4,6 +4,8 @@ sidebar_position: 4
 
 # Cash on Hand
 
+import Slogan from '/src/components/Slogan';
+
 >Having some cash within reach makes life easier.
 
 ## How Much Cash to Keep In Your Wallet
@@ -26,4 +28,4 @@ If you aren't willing to keep cash on hand, you at least need to be able to grab
 
 Do not carry this with you on a daily basis if it is your only access to cash. If you only have one debit card and you lose it, you have no access to your money until a replacement comes in the mail.
 
->Increase Your Savings Rate
+<Slogan/>

@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Organizing Paperwork
 
+import Slogan from '/src/components/Slogan';
+
 >Keeping documents safe and organized.
 
 Certain documents require certain extra protections and privacy. Other documents you can simply leave in a Dropbox account and everything will be fine.
@@ -34,4 +36,4 @@ Keep a dedicated binder with the previous 7 years worth of tax forms, and store 
 
 Invest in a shredder to properly dispose of paperwork. Throwing it in the trash is acceptable but burning in a grill or bonfire once a month/quarter offers maximum privacy and efficient destruction of potentially sensitive documents.
 
->Increase Your Savings Rate
+<Slogan/>

@@ -3,6 +3,8 @@ sidebar_position: 2
 ---
 # Futureproofing
 
+import Slogan from '/src/components/Slogan';
+
 >You should be scared of automation.
 
 You need to actively develop a skillset that will make you relevant and employable moving forward. Automation isn't just a concern for you, but your employer as well! If automation wipes out the company you work for, you're on the street as well.
@@ -44,4 +46,4 @@ Deep Work is becoming increasingly valuable at the same time it's becoming incre
 
 The book [Deep Work](https://www.amazon.com/dp/B013UWFM52/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) is essential reading for anyone who wants to build up career capital, and [this article](https://blog.doist.com/deep-work/) provides a nice summary.
 
->Increase Your Savings Rate
+<Slogan/>

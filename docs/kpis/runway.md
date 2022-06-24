@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Runway
 
+import Slogan from '/src/components/Slogan';
+
 >The 2nd most important KPI.
 
 ## Importance
@@ -50,4 +52,4 @@ If not, figure it out.
 
 :::
 
->Increase Your Savings Rate
+<Slogan/>

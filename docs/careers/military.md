@@ -4,6 +4,8 @@ sidebar_position: 6
 
 # Military Careers
 
+import Slogan from '/src/components/Slogan';
+
 >A surprisingly fantastic career path for FI.
 
 ## A Surprisingly Fantastic Career Path for FI
@@ -22,4 +24,4 @@ You can reach a very impressive Savings Rate if you take advantage of all the op
 
 :::
 
->Increase Your Savings Rate
+<Slogan/>

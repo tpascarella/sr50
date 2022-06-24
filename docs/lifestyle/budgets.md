@@ -4,6 +4,8 @@ sidebar_position: 5
 
 # Budgets
 
+import Slogan from '/src/components/Slogan';
+
 >Every dollar has an assignment.
 
 ## Optional, But Recommended
@@ -63,4 +65,4 @@ I use EveryDollar because it's free and easy to use.
 
 I personally have never used the [You Need a Budget software](https://www.youneedabudget.com/), I don't pay for things I can get for free, but have heard good reviews for it.
 
->Increase Your Savings Rate
+<Slogan/>

@@ -4,6 +4,8 @@ sidebar_position: 4
 
 # The Financial Freedom Equation (FFE)
 
+import Slogan from '/src/components/Slogan';
+
 You become Financially Free once the Financial Freedom Equation (FFE) is satisfied. **The Financial Freedom Equation is as follows:**
 
 ## FFE Calculation
@@ -49,4 +51,4 @@ Some examples:
 - A Savings Rate of **70%** will solve the FFE in **8.8 years.**
 - A Savings Rate of **85%** will solve the FFE in **4.1 years.**
 
->Increase Your Savings Rate
+<Slogan/>

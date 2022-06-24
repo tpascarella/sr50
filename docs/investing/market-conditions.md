@@ -4,6 +4,8 @@ sidebar_position: 13
 
 # Market Conditions
 
+import Slogan from '/src/components/Slogan';
+
 >Usually control portfolio performance.
 
 ## Bull Markets
@@ -28,4 +30,4 @@ The best thing you can do, during either a Bull or Bear market, is to maintain a
 
 Never be forced to sell your assets from a position of weakness!
 
->Increase Your Savings Rate
+<Slogan/>

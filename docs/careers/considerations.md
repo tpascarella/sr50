@@ -3,6 +3,8 @@ sidebar_position: 1
 ---
 # Career Considerations
 
+import Slogan from '/src/components/Slogan';
+
 >Ask yourself these questions:
 
 - Do the people you work with elevate you or deflate you?
@@ -35,4 +37,4 @@ This is the single most important consideration for your career. People think th
 
 If your job sucks and you hate your life everyday, that is a very expensive job. Don’t ask “is the job is worth the money”, ask “is the job worth the time?” Time is the only thing you can never buy more of, don’t sell it at pennies on the dollar for something as *common as money.*
 
->Increase Your Savings Rate
+<Slogan/>

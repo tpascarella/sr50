@@ -4,6 +4,8 @@ sidebar_position: 8
 
 # Stage 7
 
+import Slogan from '/src/components/Slogan';
+
 ## Financial Abundance
 
 ### - “I couldn’t spend it even if I tried”
@@ -16,4 +18,4 @@ Personal finance is personal responsibility, become someone capable of handling 
 
 :::
 
->Increase Your Savings Rate
+<Slogan/>

@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Savings Rate
 
+import Slogan from '/src/components/Slogan';
+
 >BY FAR the most important KPI.
 
 ## Importance
@@ -54,4 +56,4 @@ If not, figure it out.
 
 :::
 
->Increase Your Savings Rate
+<Slogan/>

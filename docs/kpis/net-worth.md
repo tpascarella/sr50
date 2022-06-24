@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # Net Worth
 
+import Slogan from '/src/components/Slogan';
+
 >A very distant 3rd KPI.
 
 ## Importance
@@ -44,4 +46,4 @@ We subscribe to the [Rich Dad Poor Dad definition of assets and liabilities](htt
 - Assets are anything that *continually puts money into your pocket.*
 - Liabilities are anything that *continually take money out of your pocket.*
 
->Increase Your Savings Rate
+<Slogan/>

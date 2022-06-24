@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # "Being Rich"
 
+import Slogan from '/src/components/Slogan';
+
 ## What Does Being Rich Actually Look Like?
 
 The most important thing money can buy is freedom. It's all about having the financial capacity to walk away from your job, *consequence free.* 
@@ -70,4 +72,4 @@ Online, there exists a community of finance nerds like me who have dedicate our 
 
 Our goal is to get individuals' [Savings Rates](/kpis/savings-rate.md) as high as we can, then invest that money as aggresively as possible into assets that produce the most passive income, so that you don't have to trade time for money *any longer than is absolutely necessary.*
 
->Increase Your Savings Rate
+<Slogan/>

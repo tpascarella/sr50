@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Stage 0
 
+import Slogan from '/src/components/Slogan';
+
 ## Complete Financial Dependence
 
 ### - Active Income < Lifestyle Expenses
@@ -18,4 +20,4 @@ Get out of this stage as fast as possible!
 
 :::
 
->Increase Your Savings Rate
+<Slogan/>

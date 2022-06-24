@@ -4,6 +4,8 @@ sidebar_position: 9
 
 # Gold
 
+import Slogan from '/src/components/Slogan';
+
 >Time proven & government independent store of value.
 
 ## Advantages & Disadvantages
@@ -81,4 +83,4 @@ Don't keep a lot of gold at home unless you are willing to invest in security. I
 
 Once any other human being knows you own bullion, that is when you should look into off site storage.
 
->Increase Your Savings Rate
+<Slogan/>

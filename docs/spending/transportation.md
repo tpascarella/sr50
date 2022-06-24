@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # 16% - Transportation
 
+import Slogan from '/src/components/Slogan';
+
 >Don't have a car payment & live close to your work.
 
 ## Importance
@@ -89,4 +91,4 @@ If Tesla is the iOS of self driving cars, Comma AI is the android. They sell dev
 
 Make sure the next car your purchase is [compatible with Comma devices](https://comma.ai/vehicles), and then buy a [Comma Three.](https://comma.ai/shop/products/three)
 
->Increase Your Savings Rate
+<Slogan/>

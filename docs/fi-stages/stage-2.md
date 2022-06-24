@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # Stage 2
 
+import Slogan from '/src/components/Slogan';
+
 ## Financial Stability
 
 ### - (Active Income > Lifestyle Expenses) + Savings
@@ -26,4 +28,4 @@ Notice that the "work 'til you're 65" life script will not get you past Stage 2.
 
 :::
 
->Increase Your Savings Rate
+<Slogan/>

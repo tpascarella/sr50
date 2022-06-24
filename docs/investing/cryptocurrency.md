@@ -4,6 +4,8 @@ sidebar_position: 5
 
 # Cryptocurrency
 
+import Slogan from '/src/components/Slogan';
+
 >Technical disruption of central and commercial banks.
 
 ## Advantages & Disadvantages
@@ -228,4 +230,4 @@ This is why you can make a case that cryptocurrency is not for everyone. It take
   </div>
 </details>
 
->Increase Your Savings Rate
+<Slogan/>

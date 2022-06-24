@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # 33% - Housing
 
+import Slogan from '/src/components/Slogan';
+
 >Live in cheap apartments until you can house hack.
 
 ## Importance
@@ -87,4 +89,4 @@ This is one of the single most detrimental financial decisions someone can make,
 
 :::
 
->Increase Your Savings Rate
+<Slogan/>

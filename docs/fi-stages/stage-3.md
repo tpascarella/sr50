@@ -4,6 +4,8 @@ sidebar_position: 4
 
 # Stage 3
 
+import Slogan from '/src/components/Slogan';
+
 ## Debt Freedom
 
 Stage 3 occurs once active income is enough to support current lifestyle expenses, some Runway has been saved, and unacceptable debts have been eliminated from their financial picture. 
@@ -43,4 +45,4 @@ It can be argued that Stage 3 should preceed Stage 2, however I believe the adde
 
 It isn't a big difference either way.
 
->Increase Your Savings Rate
+<Slogan/>

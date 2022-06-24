@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Credit Scores
 
+import Slogan from '/src/components/Slogan';
+
 >Building and maintaining immaculate credit.
 
 ## Importance
@@ -62,4 +64,4 @@ Make it a habit.
 
 :::
 
->Increase Your Savings Rate
+<Slogan/>

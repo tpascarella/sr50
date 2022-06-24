@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # Common Problems
 
+import Slogan from '/src/components/Slogan';
+
 ## "Work 'til You're 65" Doesn't Apply Anymore
 
 The first problem is that our grandparents' advice of "Get a job, put 15% into a 401k, and work there until 65" does not apply in this day and age. 
@@ -143,4 +145,4 @@ A lot of these problems stem from attempting to optimize Net Worth or Income, *w
 
 **If you optimize for Savings Rate, everything else will take care of itself.**
 
->Increase Your Savings Rate
+<Slogan/>

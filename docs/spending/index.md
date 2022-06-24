@@ -1,5 +1,7 @@
 # Spending Categories
 
+import Slogan from '/src/components/Slogan';
+
 import DocCardList from '@theme/DocCardList';
 import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
 
@@ -24,4 +26,4 @@ However, it would be impossible to advise as to how to increase your Savings Rat
 
 - The above data comes from the [Consumer Expenditures Report](https://www.bls.gov/opub/reports/consumer-expenditures/2020/pdf/home.pdf) from the Bureau of Labor Statistics.
 
->Increase Your Savings Rate
+<Slogan/>

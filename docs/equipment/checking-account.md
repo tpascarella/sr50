@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Checking Account
 
+import Slogan from '/src/components/Slogan';
+
 >Get one that doesn't suck.
 
 Your checking account is the digital connection you have to your money, so you will want a good one.That bank in the grocery store that you opened a checking account with when you were 16 for your first job at Jimmy Johns, was fine back when you were 16. But you're not 16 anymore, you're an adult. 
@@ -34,4 +36,4 @@ You want *at least* one month's worth of expenses plus a buffer of at least $500
 
 Use credit cards for purchases because of the fraud protections and [rewards](/credit/travel-hacking.md) they give. If your debit card is used fraudulently it is very unlikely you’ll get the funds back. Use your checking account as the bucket in which credit card payments are withdrawn from.
 
->Increase Your Savings Rate
+<Slogan/>

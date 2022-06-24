@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Stage 1
 
+import Slogan from '/src/components/Slogan';
+
 ## Financial Solvency
 
 ### - Active Income > Lifestyle Expenses
@@ -28,4 +30,4 @@ Get out of this stage as fast as possible!
 
 :::
 
->Increase Your Savings Rate
+<Slogan/>

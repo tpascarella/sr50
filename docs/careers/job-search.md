@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # Job Search
 
+import Slogan from '/src/components/Slogan';
+
 >Prepare for a 99% rejection rate.
 
 ![Waiting for that one employer to respond.](/img/meme-employer-response-time.svg)
@@ -72,4 +74,4 @@ A good book for making this decision is [How to Decide](https://www.amazon.com/H
 
 :::
 
->Increase Your Savings Rate
+<Slogan/>

@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # Resupplies
 
+import Slogan from '/src/components/Slogan';
+
 Minimalists are incredibly efficient at inventory management. 
 
 Every item has a purpose, nothing goes to waste, you run very lean, and your possessions take up as little space as necessary (which makes moving cheaper and easier). I want you to treat making purchasing like a scheduled military resupply. Settle on a time frame between purchases (once a month is a good place to start) and take stock of what you need to stock up on. 
@@ -36,4 +38,4 @@ A lot of items have a long shelf life and can be stored for a long time. If you 
 
 Buying things in bulk and on sale gives an impressive ROI for your dollar.
 
->Increase Your Savings Rate
+<Slogan/>

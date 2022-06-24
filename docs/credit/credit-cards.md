@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Credit Cards
 
+import Slogan from '/src/components/Slogan';
+
 >Use these like you use cash and you'll be fine.
 
 ## Highest and Best Use Cases
@@ -35,4 +37,4 @@ All of the horror stories you hear online about people getting burned with credi
 
 If you treat buying things with credit cards the same way you buy things with cash, you will be just fine.
 
->Increase Your Savings Rate
+<Slogan/>

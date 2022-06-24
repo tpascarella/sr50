@@ -1,5 +1,7 @@
 # Lifestyle Design
 
+import Slogan from '/src/components/Slogan';
+
 import DocCardList from '@theme/DocCardList';
 import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
 
@@ -11,4 +13,4 @@ Lifestyle design is the single most important input in solving the Financial Fre
 
 Smart people let their Savings Rate dictate how they design their lifestyle, not the other way around! Most people design their lifestyle *first* and then just deal with the resulting Savings Rate.
 
->Increase Your Savings Rate
+<Slogan/>

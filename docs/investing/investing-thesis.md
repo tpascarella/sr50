@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Investing Thesis
 
+import Slogan from '/src/components/Slogan';
+
 >Develop & refine a strategy you'll use for decades.
 
 ## The Best Investing Strategy
@@ -89,4 +91,4 @@ Do not carelessly disclose how much you are worth. You don't know what that pers
 
 :::
 
->Increase Your Savings Rate
+<Slogan/>

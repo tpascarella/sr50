@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Emergency Fund
 
+import Slogan from '/src/components/Slogan';
+
 >A place where you can quickly and cheaply access savings.
 
 What people call "emergency funds" are really just the first few months of your Runway. You can keep this money in a traditional savings account, a money market account, or in [Cryptocurrency](/investing/cryptocurrency.md). 
@@ -75,4 +77,4 @@ As time passes, your purchasing power with your dollars decreases due to inflati
 
 [Our emergency fund is exactly $0.00](https://earlyretirementnow.com/2016/05/05/emergency-fund/) is a great article that explains the opportunity cost of keeping significant capital in low/no yield assets.
 
->Increase Your Savings Rate
+<Slogan/>

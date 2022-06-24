@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Having the Right Motivations
 
+import Slogan from '/src/components/Slogan';
+
 >Putting Money into its Proper Context.
 
 “Money” shouldn’t be the goal, it should be a resource that when properly managed helps you achieve other, more important goals.
@@ -51,4 +53,4 @@ The worst thing you can give to someone with serious problems is a lot of money.
 - Gambling
 >[National Councel on Problem Gambling](https://www.ncpgambling.org/help-treatment/national-helpline-1-800-522-4700/)
 
->Increase Your Savings Rate
+<Slogan/>
