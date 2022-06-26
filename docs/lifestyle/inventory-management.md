@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Resupplies
+# Inventory Management
 
 import Slogan from '/src/components/Slogan';
 
@@ -13,6 +13,32 @@ Every item has a purpose, nothing goes to waste, you run very lean, and your pos
 ## Eliminates the Need for Willpower
 
 If you know you will do your shopping in predictable intervals, you don't need to fight with yourself the other times to resist the temptation of going shopping.
+
+## Types of Inventory
+
+Your possessions can be divided into 2 categories, consumables and durables. Consumables are the things you bring in, use them up, and then replace them with more. Toothpaste, qtips, notebooks fall into this category. Durables are things that can be used repeatedly over a very long period of time. The cost of getting these purchases wrong is significantly higher. You can settle for a suboptimal shampoo for a month until you need to get another one, but getting the wrong laptop can be a much more expensive problem to fix. Be very deliberate in the decisions you make with your durables. They can be the most useful items you own, or the most useless. It is hard to never use a consumable assuming you bought it to use it, but durables gathering rust is a much bigger shame.
+
+### - Consumables
+
+Here are some rules of thumb when evaluating consumables:
+- Do I seriously need this item?
+- What function does it serve?
+- Is that a legitimate function?
+- Is there a better price, better product, or better overall solution for what I want to accomplish by using this item?
+- Is there a zero waste substitute?
+- Is there a DIY alternative?
+- Can I use less?
+- Does this make me stronger or weaker?
+  - Drugs and alcohol are two good examples
+
+### - Durables
+
+Here are some rules of thumb for evaluating durables:
+- How often will I use this item?
+- Is it an in store good product or an at home good product?
+- Would I recommend it to a friend or family member without having any incentive to, and at any time?
+- What is an acceptable price I would pay for this item?
+- Can I find a used version for a significantly cheaper price? You often can.
 
 ## Stores
 

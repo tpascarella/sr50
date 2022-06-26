@@ -88,9 +88,16 @@ Bitcoin and Ethereum are the 2 most important cryptocurrencies. Maximizing your 
 - Bitcoin is a store of value with a fixed supply.
 - Ethereum is the bedrock for the entire Defi ecosystem.
 
-### - Resources to learn about Bitcoin
+### - Resources to learn about Cryptocurrencies
 
 [Hope.com](https://www.hope.com/en) is the best sole resource to learn about Bitcoin.
+
+<details>
+  <summary>Required Reading</summary>
+
+- [Going Bankless: The Ultimate Guide](https://newsletter.banklesshq.com/p/-guide-1-starting-with-bankless)
+
+</details>
 
 ### - "Is it too late to buy?"
 

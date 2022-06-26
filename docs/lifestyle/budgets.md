@@ -57,12 +57,14 @@ Paper and pencil budgets are what your grandparents did. The way you do them is 
 
 [EveryDollar](https://www.ramseysolutions.com/ramseyplus/everydollar) is Dave Ramsey's free budgeting app. It's basically a spreadsheet with a nice coat of paint, and does the job well.
 
-I use EveryDollar because it's free and easy to use.
+Is it perfect? No. Is it good enough? Yes. And it's free.
 
 ### - Paid Budgeting Tools
 
+I personally do not believe that you need to pay for a budgeting tool, the free options are more than sufficient. However if you insist, here are some good paid options:
+
 #### - YNAB (You Need a Budget)
 
-I personally have never used the [You Need a Budget software](https://www.youneedabudget.com/), I don't pay for things I can get for free, but have heard good reviews for it.
+I personally have never used the [You Need a Budget software](https://www.youneedabudget.com/), but have seen good reviews for it.
 
 <Slogan/>
