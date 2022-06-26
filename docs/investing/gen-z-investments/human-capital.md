@@ -61,4 +61,6 @@ Your ability to focus without distraction on a cognitively demanding task is wha
 
 [This article on doist.com](https://blog.doist.com/deep-work/) offers a great introduction to the concepts, as well as a cliffnotes version of the training regimen.
 
+A recommendation for sustaining concentration is to listen to [40hz binaural beats,](https://www.youtube.com/watch?v=ZGHbKWGgH_E) with noise cancelling headphones.
+
 <Slogan/>
