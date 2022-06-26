@@ -28,7 +28,7 @@ Taxes are the price you have to pay to live in this country, but you are not req
   <summary>Strategies to Lower Your Tax Liability</summary>
 
 - Fix your W-4 form at work so only the *bare minimum* is withheld.
-- Invest in [Real Estate.](/investing/real-estate.md) 
+- Invest in [Real Estate.](/investing/gen-z-investments/real-estate.md) 
 - Have kids! (If you're ready)
 - Move to a state with no income tax.
 

@@ -8,7 +8,7 @@ import Slogan from '/src/components/Slogan';
 
 >A place where you can quickly and cheaply access savings.
 
-What people call "emergency funds" are really just the first few months of your Runway. You can keep this money in a traditional savings account, a money market account, or in [Cryptocurrency](/investing/cryptocurrency.md). 
+What people call "emergency funds" are really just the first few months of your Runway. You can keep this money in a traditional savings account, a money market account, or in [Cryptocurrency](/investing/gen-z-investments/cryptocurrency.md). 
 
 :::tip
 
