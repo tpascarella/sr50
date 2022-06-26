@@ -58,7 +58,7 @@ People talk about personal finance like it's a **math problem**, but personal fi
 
 >Time is the only resource you can never buy more of! Stop selling it for pennies on the dollar for a job you hate at a company you don't respect!
 
-### - An entire community living this way
+### - An army of spreadsheet nerds researching this
 
 Online, there exists a community of finance nerds like me who have dedicate our time to uncover every single strategy, tactic, and unfair advantage related to personal finance, and all of this material is made freely avaibale online. 
 

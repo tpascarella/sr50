@@ -6,7 +6,7 @@ sidebar_position: 3
 
 import Slogan from '/src/components/Slogan';
 
-## "Work 'til You're 65" Doesn't Apply Anymore
+## Misconceptions About "Work 'til You're 65"
 
 The first problem is that our grandparents' advice of "Get a job, put 15% into a 401k, and work there until 65" does not apply in this day and age. 
 
@@ -18,7 +18,7 @@ People think your golden years are 65+ when you have enough money to never need 
 
 They might be the highest stress years of your life, but you have the energy to overcome it and can build family memories that you will *never have the opportunity to repeat.* Do not let the time pass you by!
 
-### - Why do you think everything will be solved, at 65?
+### - 65 is NOT a finish line
 
 ![Age](/img/meme-decades-of-work.svg)
 
