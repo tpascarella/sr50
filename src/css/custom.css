@@ -6,7 +6,7 @@
  */
 
 /* You can override the default Infima variables here. */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Quattrocento+Sans&family=Varela&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&family=Gloria+Hallelujah&family=Montserrat&family=Quattrocento+Sans&family=Varela&display=swap');
 
 :root {
   --ifm-color-primary: #09d3ac;
@@ -64,4 +64,14 @@ h4 {
   font-family: 'Montserrat';
   color:lightcyan;
   font-size: 28px;
+}
+
+#slogan {
+  font-family: 'Gloria hallelujah';
+  font-size: 36px; 
+  color: lavender;
+}
+
+#technical-note {
+  font-family: 'Chakra Petch';
 }

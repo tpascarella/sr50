@@ -2,8 +2,8 @@ import React from "react";
 
 export default function Slogan() {
   return (
-    <p>
-      Increase Your Savings Rate.
+    <p id="slogan">
+      - Increase Your Savings Rate
     </p>
   );
 }
