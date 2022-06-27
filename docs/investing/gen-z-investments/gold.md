@@ -83,4 +83,7 @@ Don't keep a lot of gold at home unless you are willing to invest in security. I
 
 Once any other human being knows you own bullion, that is when you should look into off site storage.
 
+---
 <Slogan/>
+
+---

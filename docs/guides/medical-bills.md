@@ -14,4 +14,7 @@ Call your health insurance provider and ask for a breakdown of all the charges o
 
 [Here](https://thecollegeinvestor.com/21732/disputing-medical-bill/) is a good article detailing the process of challenging a medical bill.
 
+---
 <Slogan/>
+
+---

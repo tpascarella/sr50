@@ -24,4 +24,7 @@ A few things:
 
 </details>
 
+---
 <Slogan/>
+
+---

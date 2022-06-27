@@ -30,4 +30,7 @@ The best thing you can do, during either a Bull or Bear market, is to maintain a
 
 Never be forced to sell your assets from a position of weakness!
 
+---
 <Slogan/>
+
+---

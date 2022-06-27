@@ -10,4 +10,7 @@ import Slogan from '/src/components/Slogan';
 
 *Will release Q3 2022.*
 
+---
 <Slogan/>
+
+---

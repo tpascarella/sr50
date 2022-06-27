@@ -27,4 +27,7 @@ Here are some universal rules of personal finance.
 - Invest in things that increase in purchasing power
 - Have enough passive income to cover lifestyle expenses
 
+---
 <Slogan/>
+
+---

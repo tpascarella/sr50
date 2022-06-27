@@ -74,4 +74,7 @@ A good book for making this decision is [How to Decide](https://www.amazon.com/H
 
 :::
 
+---
 <Slogan/>
+
+---

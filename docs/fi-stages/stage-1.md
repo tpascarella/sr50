@@ -30,4 +30,7 @@ Get out of this stage as fast as possible!
 
 :::
 
+---
 <Slogan/>
+
+---

@@ -36,4 +36,7 @@ You still need a will to dictate what happens to your empire, and a copy should 
 
 [This article from Investopedia](https://www.investopedia.com/best-online-will-makers-4843732) has recommendations for good online will services.
 
+---
 <Slogan/>
+
+---

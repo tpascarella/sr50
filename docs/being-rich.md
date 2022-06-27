@@ -72,4 +72,7 @@ Online, there exists a community of finance nerds like me who have dedicate our 
 
 Our goal is to get individuals' [Savings Rates](/kpis/savings-rate.md) as high as we can, then invest that money as aggresively as possible into assets that produce the most passive income, so that you don't have to trade time for money *any longer than is absolutely necessary.*
 
+---
 <Slogan/>
+
+---

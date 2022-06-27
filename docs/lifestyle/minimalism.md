@@ -143,4 +143,7 @@ Many items provide no value to you. Some items you use every single day of your 
   </div>
 </details>
 
+---
 <Slogan/>
+
+---

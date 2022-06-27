@@ -237,4 +237,7 @@ This is why you can make a case that cryptocurrency is not for everyone. It take
   </div>
 </details>
 
+---
 <Slogan/>
+
+---

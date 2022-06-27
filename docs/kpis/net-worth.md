@@ -46,4 +46,7 @@ We subscribe to the [Rich Dad Poor Dad definition of assets and liabilities](htt
 - Assets are anything that *continually puts money into your pocket.*
 - Liabilities are anything that *continually take money out of your pocket.*
 
+---
 <Slogan/>
+
+---

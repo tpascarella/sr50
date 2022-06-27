@@ -53,4 +53,7 @@ The worst thing you can give to someone with serious problems is a lot of money.
 - Gambling
 >[National Councel on Problem Gambling](https://www.ncpgambling.org/help-treatment/national-helpline-1-800-522-4700/)
 
+---
 <Slogan/>
+
+---

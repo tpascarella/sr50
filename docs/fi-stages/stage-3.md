@@ -45,4 +45,7 @@ It can be argued that Stage 3 should preceed Stage 2, however I believe the adde
 
 It isn't a big difference either way.
 
+---
 <Slogan/>
+
+---

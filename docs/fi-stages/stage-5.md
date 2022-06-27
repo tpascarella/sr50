@@ -14,4 +14,7 @@ Stage 5 (Regular FI) occurs once passive income exceeds a desired lifestyle. Her
 
 Stage 5 isn’t too far past Stage 4, so just keep the trajectory going a little longer and pretty soon these expenses will be covered as well.
 
+---
 <Slogan/>
+
+---

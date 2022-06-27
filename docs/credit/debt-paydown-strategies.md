@@ -34,4 +34,7 @@ While the Avalanche method *might* result in fewer dollars spent paying down you
 
 And in all honestly, if you are the type of person who wakes up one day and realizes you are $40,000 in credit card debt, you were probably never too concerned with math to begin with.
 
+---
 <Slogan/>
+
+---

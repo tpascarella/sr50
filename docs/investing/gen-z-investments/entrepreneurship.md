@@ -36,4 +36,7 @@ There are no prerequisites to being a startup founder, but I would advise at lea
 
 [Rework](https://www.amazon.com/dp/B002MUAJ2A/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) is a great book I would recommend for small business owners.
 
+---
 <Slogan/>
+
+---

@@ -67,4 +67,7 @@ I personally do not believe that you need to pay for a budgeting tool, the free 
 
 I personally have never used the [You Need a Budget software](https://www.youneedabudget.com/), but have seen good reviews for it.
 
+---
 <Slogan/>
+
+---

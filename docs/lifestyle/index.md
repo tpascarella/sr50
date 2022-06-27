@@ -13,4 +13,7 @@ Lifestyle design is the single most important input in solving the Financial Fre
 
 Smart people let their Savings Rate dictate how they design their lifestyle, not the other way around! Most people design their lifestyle *first* and then just deal with the resulting Savings Rate.
 
+---
 <Slogan/>
+
+---

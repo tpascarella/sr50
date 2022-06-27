@@ -17,4 +17,7 @@ The official [SR50 book](https://docs.google.com/document/d/1Va6BySu3akYa1SWyfu4
 
 :::
 
+---
 <Slogan/>
+
+---

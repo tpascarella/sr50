@@ -37,4 +37,7 @@ All of the horror stories you hear online about people getting burned with credi
 
 If you treat buying things with credit cards the same way you buy things with cash, you will be just fine.
 
+---
 <Slogan/>
+
+---

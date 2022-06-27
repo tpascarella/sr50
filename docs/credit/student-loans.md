@@ -44,4 +44,7 @@ Public schools offer basically as good of an education as the Ivy Leagues, at si
 
 You can make a lot of money as a tradesman, and a millions of these jobs are going unfilled because there aren't enough qualified people to do them. Trade schools might not be as "prestigious" as a typical bachelors degree, however you are *guaranteed a job after graduation* and know you are armed with a marketable skill. 
 
+---
 <Slogan/>
+
+---

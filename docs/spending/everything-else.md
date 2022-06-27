@@ -54,4 +54,7 @@ Insurance is covered in the [insurance section.](insurance.md)
 
 Taxes will be covered in the [taxes section.](taxes.md)
 
+---
 <Slogan/>
+
+---

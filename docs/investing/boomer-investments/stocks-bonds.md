@@ -162,4 +162,7 @@ As a general rule you want to invest pre-tax dollars before you invest post-tax 
 
 There are strategies you can use to pull the money out tax free later. [This article from the Mad Fientist](https://www.madfientist.com/how-to-access-retirement-funds-early/) explains how to optimize taxes with these types of accounts.
 
+---
 <Slogan/>
+
+---

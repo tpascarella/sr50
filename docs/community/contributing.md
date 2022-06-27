@@ -14,4 +14,7 @@ You can either
 - Submit a pull request on Github,
 - Email your suggestions to <thomas@sr50.finance> 
 
+---
 <Slogan/>
+
+---

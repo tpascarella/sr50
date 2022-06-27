@@ -28,4 +28,7 @@ Notice that the "work 'til you're 65" life script will not get you past Stage 2.
 
 :::
 
+---
 <Slogan/>
+
+---

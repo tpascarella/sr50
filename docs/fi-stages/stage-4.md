@@ -24,4 +24,7 @@ This is the first point (mathematically) where you have *complete control over y
 
 Having enough passive income to cover survival expenses is a huge accomplishment that you should celebrate! You won’t stay at Stage 4 forever, but you have a *wealth of choice* available to you that few others will ever have. 
 
+---
 <Slogan/>
+
+---

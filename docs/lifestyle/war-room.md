@@ -16,4 +16,7 @@ I recommend keeping a screen in your house dedicated towards dashboards for impo
 - [Truflation,](https://app.truflation.com/) to keep track on inflation
 - [Credit Karma,](https://www.creditkarma.com/) to keep track of your credit score and financing options
 
+---
 <Slogan/>
+
+---

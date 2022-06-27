@@ -36,4 +36,7 @@ You want *at least* one month's worth of expenses plus a buffer of at least $500
 
 Use credit cards for purchases because of the fraud protections and [rewards](/credit/travel-hacking.md) they give. If your debit card is used fraudulently it is very unlikely you’ll get the funds back. Use your checking account as the bucket in which credit card payments are withdrawn from.
 
+---
 <Slogan/>
+
+---

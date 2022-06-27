@@ -41,4 +41,7 @@ Buy a locked case for your gun and keep it out of the reach of children. Store y
 
 Unlike gold or crypto, it is perfectly acceptable to let the world know you are armed to the teeth. It will deter thiefs and attackers.
 
+---
 <Slogan/>
+
+---

@@ -145,4 +145,7 @@ A lot of these problems stem from attempting to optimize Net Worth or Income, *w
 
 **If you optimize for Savings Rate, everything else will take care of itself.**
 
+---
 <Slogan/>
+
+---

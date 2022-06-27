@@ -64,4 +64,7 @@ A lot of items have a long shelf life and can be stored for a long time. If you 
 
 Buying things in bulk and on sale gives an impressive ROI for your dollar.
 
+---
 <Slogan/>
+
+---

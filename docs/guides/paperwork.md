@@ -36,4 +36,7 @@ Keep a dedicated binder with the previous 7 years worth of tax forms, and store 
 
 Invest in a shredder to properly dispose of paperwork. Throwing it in the trash is acceptable but burning in a grill or bonfire once a month/quarter offers maximum privacy and efficient destruction of potentially sensitive documents.
 
+---
 <Slogan/>
+
+---

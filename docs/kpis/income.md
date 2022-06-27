@@ -50,4 +50,7 @@ Lifestyle creep is the term for elevating your lifestyle up to your current leve
 
 </details>
 
+---
 <Slogan/>
+
+---

@@ -77,4 +77,7 @@ As time passes, your purchasing power with your dollars decreases due to inflati
 
 [Our emergency fund is exactly $0.00](https://earlyretirementnow.com/2016/05/05/emergency-fund/) is a great article that explains the opportunity cost of keeping significant capital in low/no yield assets.
 
+---
 <Slogan/>
+
+---

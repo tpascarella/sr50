@@ -76,4 +76,7 @@ Keep the previous 7 years worth of tax forms in a binder in a fireproof safe.
 
 Store your tax documents offline on a hard drive or flash drive. If you want to store it online (it's riskier) then get a service with a *vault* feature for added security. A Google Drive account is not secure enough!
 
+---
 <Slogan/>
+
+---

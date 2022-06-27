@@ -18,4 +18,7 @@ Personal finance is personal responsibility, become someone capable of handling 
 
 :::
 
+---
 <Slogan/>
+
+---

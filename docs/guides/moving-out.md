@@ -16,4 +16,7 @@ You will need the following:
 - A minimum of 3 months expenses saved up.
 - A salary that will allow you to save *at least* 25% of your take home pay.
 
+---
 <Slogan/>
+
+---

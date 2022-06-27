@@ -54,4 +54,7 @@ I personally use Venmo, but any cash transferring app will work.
 - [Zelle iOS Link](https://apps.apple.com/us/app/zelle/id1260755201)
 - [Zelle Android Link](https://play.google.com/store/apps/details?id=com.zellepay.zelle&hl=en_US&gl=US)
 
+---
 <Slogan/>
+
+---

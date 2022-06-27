@@ -63,4 +63,7 @@ Your ability to focus without distraction on a cognitively demanding task is wha
 
 A recommendation for sustaining concentration is to listen to [40hz binaural beats,](https://www.youtube.com/watch?v=ZGHbKWGgH_E) with noise cancelling headphones.
 
+---
 <Slogan/>
+
+---
