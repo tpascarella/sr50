@@ -2,7 +2,7 @@
 
 ![Logo](static/img/sr50logo.svg)
 
-SR50 is an open source financial advisor alternative.
+SR50 (ess-are-fifty) is an open source financial advisor alternative. We make educational content and software tools to teach people how to manage money.
 
 ## Links
 
