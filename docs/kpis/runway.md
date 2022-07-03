@@ -19,7 +19,7 @@ Runway tells you how long you can last off reserves if you had no income at all,
 
 | `Calculation` | - | - | - | - |
 | --- | --- | --- | --- | --- |
-| `Your Bank Balance` | `DIVIDED BY` | `Your average Burn` | `GIVES YOU` | `Your $ of Months of Runway (rounded down)`|
+| `Your Bank Balance` | `DIVIDED BY` | `Your average Burn` | `GIVES YOU` | `# of Months of Runway (rounded down)`|
 
 </APITable>
 

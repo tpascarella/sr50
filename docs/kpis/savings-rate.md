@@ -20,7 +20,7 @@ Savings Rate measures how much of your available resources you are utilizing to 
 
 | `Calculation` | - | - | - | - |
 | - | - | - | - | - |
-| `How much $$$ you are able to save or invest` | `DIVIDED BY` | `Your after-tax take home pay` | `GIVES YOU` | `Your Savings Rate (as a %)`|
+| `How much $$$ you are able to save or invest` | `DIVIDED BY` | `Your after-tax take home pay` | `GIVES YOU` | `Savings Rate (as a %)`|
 
 </APITable>
 
@@ -29,8 +29,8 @@ Savings Rate measures how much of your available resources you are utilizing to 
 - After-tax take home pay is what gets deposited into your checking account.
 - The higher your Savings Rate, the better.
 - You won't make any serious progress until you can sustain a 50% Savings Rate.
->**This is your initial target.**
-- Savings Rate works **exactly the same regardless of your [Income](income.md) or [Net Worth](net-worth.md)!
+>**This will be your initial target.**
+- Savings Rate works **exactly the same regardless of your [Income](income.md) or [Net Worth](net-worth.md)!**
 
 ### - How long it will take you to reach FI at different Savings Rates
 

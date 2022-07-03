@@ -6,7 +6,7 @@ sidebar_position: 3
 
 import Slogan from '/src/components/Slogan';
 
->A very distant 3rd KPI.
+>The very distant 3rd KPI.
 
 ## Importance
 
@@ -29,7 +29,7 @@ Net Worth is an order of magnitude less important than both Savings Rate and Run
 - It is *entirely possible* to have a fantastic Savings Rate at an awful Net Worth, and you will still be doing great financially because Savings Rate makes up for everything else. 
 - It is *also entirely possible* to have a 7-figure Net Worth but only a single digit Savings Rate, and still be doing terribly.
 
-## Why Net Worth is Kind of Misleading
+## Why Net Worth Can Be Kind of Misleading
 
 Net Worth is the metric most financial advisors brag about improving, but it really does not make a difference to your financial picture. The 8 Stages of Financial Independence are defined by *cash flow*, not Net Worth! 
 
@@ -37,7 +37,9 @@ Net Worth is the metric most financial advisors brag about improving, but it rea
 
 ### - What is the definition of an asset? Or a liability?
 
-In the *accounting* world, an asset is anything that has economic value (meaning it's worth something if you sell), but this does not contribute at all to your cash flow problem, and *"investing"* into these takes [Capital](/investing/financial-capital.md) away from **real assets** that provide cash flow and benefit you starting right now.
+In the *accounting* world, an asset is anything that has economic value (meaning it's worth something if you sell), but this does not contribute at all to your cash flow problem.
+
+"investing" into these "assets" takes [Capital](/investing/financial-capital.md) away from **real assets** that provide cash flow and benefit you starting right now.
 
 ### - How we define assets and liabilities
 
