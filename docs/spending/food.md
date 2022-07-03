@@ -22,7 +22,7 @@ You should always default to cooking your meals! It is much cheaper and much hea
 
 The best advice we can give for eating out is to just never do it. It’s unhealthy, it’s expensive, and can usually be prevented with a bit of forethought. 
 
-:::danger 
+:::danger All restaurant food is unhealthy
 
 Despite what the nutrition facts sheet may claim, restaurant food is often far worse for you than you think. They are in the business of selling *tasty food*, not *healthy food*.
 

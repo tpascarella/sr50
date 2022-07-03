@@ -14,15 +14,13 @@ Transportation is the second largest expense category for most Americans. Most o
 
 ## Car Payments
 
-:::tip
-
-Never have a car payment. 
+:::tip Never have a car payment
 
 That's the best strategy. 
 
 :::
 
-But that is probably not feasible for most people. The second best strategy is to keep your car payment down to the minimum you can reasonably manage. I'm not going to give a recommendation like "only spend 15% of your take home pay on your car payment" because your first inclination should be to have it be as little as possible.
+But this is probably not feasible for most people. The second best strategy is to keep your car payment down to the minimum you can reasonably manage. I'm not going to give a recommendation like "only spend 15% of your take home pay on your car payment" because your first inclination should be to have it be as little as possible.
 
 Car payments are always a bad idea. Cars only go down in value, so they aren't an investment. Your car is just a tool to get you from one point to another without leaving you stranded. 
 
@@ -44,7 +42,7 @@ Two questions:
 
 I’m sure you can come up with 100 reasons why these questions don’t apply to you. 2% of them might be right, 98% are probably wrong. 
 
-### - Making productive use of your commuting time
+### - Make productive use of your commuting time
 
 If you have no choice but to have a long commute, at the very least don’t waste that time listening to garbage radio. Find a few educational podcasts you enjoy, book summaries are also a great use of time. 
 
@@ -81,9 +79,7 @@ Tesla and Comma AI are the two companies that have made serious progress in self
 
 ### - Tesla
 
-Tesla cars are known for their ridiculous 0-60 acceleration, and for how safe they are. However their high price tag makes then unavailable to the masses, at least yet.
-
-You should only buy a Tesla once you have reached [Stage 6.](/fi-stages/stage-6.md)
+Tesla cars are known for their ridiculous 0-60 acceleration, and for how safe they are. However their high price tag makes then unavailable to the masses, at least yet. You should only buy a Tesla once you have reached [Stage 6.](/fi-stages/stage-6.md)
 
 ### - Comma AI
 

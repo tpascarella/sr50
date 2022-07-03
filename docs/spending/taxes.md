@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# (~1/3rd of Salary) - Taxes 
+# (~33%) - Taxes 
 
 import Slogan from '/src/components/Slogan';
 
@@ -50,7 +50,7 @@ Taxes are the price you have to pay to live in this country, but you are not req
 
 </details>
 
-## Should I Hire a CPA?
+## Should I Hire a Tax Accountant?
 
 Probably not yet.
 
@@ -70,7 +70,7 @@ Once you have multiple business ventures or rental properties to account for, as
 
 ### - Physical
 
-Keep the previous 7 years worth of tax forms in a binder in a fireproof safe.
+Keep the previous 7 years worth of tax forms in a fireproof in a fireproof safe. Do not store these online!
 
 ### - Digital
 

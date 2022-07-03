@@ -28,21 +28,21 @@ The following are the percentages for different expense categories from the [202
 - Cash Contrubutions - 3.7%
 - Personal Insurance and Pensions - 11.8%
 
-### - (within reason) You can keep these
+### - Within reason, you can keep these
 
 **If you are frugal in the Big 3 expense categories,** you don't need to stress about these expenses. Focusing on the Big 3 can get your Savings Rate where it needs to be, so keep the fun things!
 
-### - Some exceptions
+### - Exceptions
 
 #### - Healthcare
 
 The only advice I can give with regards to reducing healthcare costs is to try your best to keep yourself healthy.
 
-:::info Control what you can control:
+:::info Control what you can control
 
 Eat healthy foods, exercise, don't smoke cigarettes or do any other activities that are needlessly detrimental to your physical health.
 
-You can't control whether you get cancer, but you have a lot of control over your body composition is made up.
+You can't control whether you get cancer, but you have a lot of control over your body composition and general health.
 
 :::
 

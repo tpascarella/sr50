@@ -32,14 +32,14 @@ Paula Pant from AffordAnything.com has a [great article comparing the financial 
 
 :::
 
-Don't limit yourself to **1 of 2 options** presented to you by a nation with a single digit Savings Rate. There are more than 2 available!
+Do not limit yourself to **1 of 2 options** presented to you by a nation with a single digit Savings Rate. There are more than 2 options!
 
 ### - The question you should really be asking
 
 Here's the reason why the "buy vs rent" question is stupid. What's the difference between a $900 a month rent payment, and a $900 a month mortgage payment, *to your Savings Rate?* 
 >**Zero.**
 
-The question you should really ask is “how do I situate my Housing so it has the minimum possible detrimental effect to my Savings Rate?” **Once you look at your housing options through the impact they have on your Savings Rate, a clear winner emerges.** 
+The question you should really ask is “how do I situate my Housing so it has the minimum possible detrimental effect to my Savings Rate?” Once you look at your housing options through the impact they have on your Savings Rate, a clear winner emerges.
 
 ## House Hacking
 
