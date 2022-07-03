@@ -6,8 +6,9 @@ sidebar_position: 1
 
 import Slogan from '/src/components/Slogan';
 
-The wealth building journey has 8 stages. 
->Each stage is defined by **cash flow!** **These are NOT Net Worth milestones!**
+The wealth building journey has 8 stages. Each stage is defined by **cash flow!** 
+
+>They are NOT Net Worth milestones!
 
 import DocCardList from '@theme/DocCardList';
 import {useCurrentSidebarCategory} from '@docusaurus/theme-common';

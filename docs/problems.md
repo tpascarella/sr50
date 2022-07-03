@@ -65,11 +65,17 @@ You don't need to *pay someone thousands of dollars* to tell you to spend less t
 
 We have access to Google (and this website), and these options can provide infinitely better service, at substantially lower cost than *"the professionals"*.
 
+### - You really don't need them
+
+Personal finance is not a black box of information that is being withheld by elitist financial advisors.
+
+Everything you need to know can be freely found online. You don't need to *pay* someone to teach this stuff to you.
+
 ## Well Intentioned, Bad Advice
 
-Most Americans are horrible on all of the [KPIs](kpis/index.md) that matter. As a result **none of them are qualified to offer you financial advice.**
+Almnost all Americans have single digit Savings Rates and little to no Runway. On the two most important KPIs in personal finance, almost everyone is *awful.* As a result **none of these people are qualified to offer you financial advice.**
 
-A lot of them try to, usually out of good intentions, but they are not doing you much of a service.
+Many of them attempt to out of good intentions, but they're not doing you much of a service.
 
 :::caution 
 
@@ -77,11 +83,11 @@ Be very careful about where you get your information! A lot of people try to off
 
 :::
 
-Here are the most common pieces of financial advice you will hear:
+Here are the sommon common pieces of financial "advice" you will be given:
 
 ### - "You need to max out your retirement accounts!" 
 
-No you don't. What you need is build up passive income. 
+False. What you need to do is build up passive cash flow. 
 
 *Cash flow* is the only thing that will give you your time back, and exclusively investing into accounts that do not provide cash flow, and also reduces the capital you have to invest is terribly inefficient. 
 
@@ -95,31 +101,32 @@ In their designed use case, you are not allowed to touch the money in these acco
 
 ### - "Going to university is a great career move!"
 
-Maybe, but not always. It depends on the impact your degree will have on your Savings Rate and your Income. If that degree can double your income, and you have access to grants, then sure, go for it. 
+Maybe, but not always. It depends on the impact your degree will have on your Savings Rate and your Income. 
 
-However, saying "university is a great option" as *one-size fits all, blanket career advice* is incredibly stupid. College is expensive, and certainly should never be entered *on impulse*.
+If that degree can double your income, and you have access to grants, then sure, go for it. However, saying "going to university is a great option" as *one-size fits all, blanket career advice* is incredibly stupid. College is expensive, and certainly should never be entered *on impulse*.
 
 ### - "My house is the best investment I've ever made!"
 
-Paying off your house is another inefficient use of capital. 
+An inefficient use of capital. 
 
 :::caution Considerations
 
-Say you have a $200,000 balance on your mortgage, and you decide to pay it off:
+Say you have a $200,000 balance on your mortgage, and you decide to pay it off. You will be told that that was a great thing to do, but there are more things to consider. Such as:
 
 1. How long would it take you to save up $200,000 in cash? 10 years? 20 years?
 2. What is the return you will make on your $200,000? Not having to pay a mortgage payment anymore.
 >In effect, that $200,000 has returned to you, a SINGLE MORTGAGE PAYMENT's swing to your Savings Rate. 
+3. Would another investment option have returned more to you using the same capital?
 
 ::: 
 
-There are *many better investments* you can make that provide far greater swings to your Savings Rate, with far lower capital requirements, and those investments should get absolute priority. 
-
 You need to consider the opportunity cost of what else you can do with that money. With $200,000 you can use FHA loans towards multiple [house hacks](/spending/housing.md), a [franchise purchase](/investing/boomer-investments/franchises.md), or a substantial portfolio of [crypto](/investing/gen-z-investments/cryptocurrency.md).
+
+There are *many better investments* you can make that provide far greater swings to your Savings Rate, with far lower capital requirements, and those investments should get absolute priority. 
 
 ## Americans Have No Savings, No Leverage, & No Options
 
-The average Savings Rate in America is about 8%.
+The average Savings Rate in America is about 5%. (Q3 2022)
 
 :::note Current statistics
 
@@ -141,9 +148,9 @@ Not to mention it's just soul crushing to work at an Initech type of company, fo
 
 ## Common Theme
 
-A lot of these problems stem from attempting to optimize Net Worth or Income, *when your focus should really go towards maximizing your Savings Rate*. 
+A lot of these problems stem from attempting to optimize Net Worth or Income, *when your focus should be to maximize your Savings Rate*. 
 
-**If you optimize for Savings Rate, everything else will take care of itself.**
+If you optimize for Savings Rate, everything else will take care of itself.
 
 ---
 <Slogan/>

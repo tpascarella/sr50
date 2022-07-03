@@ -8,13 +8,13 @@ import Slogan from '/src/components/Slogan';
 
 ## Debt Freedom
 
-Stage 3 occurs once active income is enough to support current lifestyle expenses, some Runway has been saved, and unacceptable debts have been eliminated from their financial picture. 
+Stage 3 occurs once active income is enough to support current lifestyle expenses, some Runway has been saved, and [unacceptable debts](/credit/acceptable-vs-unacceptable-debts.md) have been eliminated from their financial picture. 
 
 :::info 
 
 Whether mortgage or student loan debts are included here is up to you. 
 
->What we're really trying to accomplish is to eliminate all debts that are **egregious** hits to your Savings Rate and overall financial well being.
+>I argue you can be at this stage as long as all unacceptable debts have been removed from your financial picture.
 
 :::
 
@@ -39,7 +39,7 @@ You will often see people refer to these debts as "Good Debts" and "Bad Debts", 
 
 :::
 
-### - Technicality for Dave Ramsey fans
+### - "But Dave Ramsey says paying off debt is more important!"
 
 It can be argued that Stage 3 should preceed Stage 2, however I believe the added Runway is more impactful than paying off debts 3 months sooner. 
 

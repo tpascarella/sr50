@@ -10,13 +10,16 @@ import Slogan from '/src/components/Slogan';
 
 ### - (Active Income > Lifestyle Expenses) + Savings
 
-Stage 2 happens once active income is greater than current lifestyle expenses, but *now* this person has some Runway underneath them. Stage 2 is a moderately comfortable place to be, you have a small buffer between you and the money cliff, but you still have no passive income and are completely reliant on your paycheck.
+Stage 2 happens once active income is greater than current lifestyle expenses, but *now* this person has some Runway to fall back on. 
+
+Stage 2 is a moderately comfortable place to be, you have a small buffer between you and the money cliff, but you still have no passive income and are completely reliant on your paycheck.
 
 :::info 
 
-Many people believe that getting to Stage 2 and maxing out their retirement accounts means you are doing *everything you can* to be financially responsible (almost as if they don't know of anything past this stage...) 
+Many people believe that getting to Stage 2 and maxing out their retirement accounts means you are doing *everything you can* to be financially responsible.
+>Almost as if they don't know of anything past this stage...
 
-Do not get complacent at this stage! There is still a lot of work to be done.
+Do not get complacent at Stage 2, there is still much to do!
 
 :::
 

@@ -6,7 +6,9 @@ sidebar_position: 5
 
 import Slogan from '/src/components/Slogan';
 
-You become Financially Free once the Financial Freedom Equation (FFE) is satisfied. **The Financial Freedom Equation is as follows:**
+You become Financially Free once the Financial Freedom Equation (FFE) is satisfied. 
+
+**The Financial Freedom Equation is as follows:**
 
 ## FFE Calculation
 
@@ -22,7 +24,7 @@ You become Financially Free once the Financial Freedom Equation (FFE) is satisfi
 
 :::note Website terminology
 
-You will see the Financial Freedom Equation referred to as the FFE, throughout the rest of this site.
+You will see the Financial Freedom Equation referred to as "the FFE" throughout the rest of this site.
 
 :::
 
@@ -32,19 +34,19 @@ How fast you solve the FFE is determined entirelt by how high you can get your S
 
 :::tip
 
-Challenge yourself to sustain a Savings Rate of 50%+.
+Challenge yourself to sustain a Savings Rate of 50%+, but do not place a cap on this.
 
-75% is even better.
+50% is good, 75% is better.
 
 :::
 
 >A breakdown of average American spending can be found on the [Spending Categories Overview](spending/index.md) page.
 
-### - Experiment using different Savings Rates
+### - Playing with different Savings Rates
 
 You can experiment to see how long it will take to solve the FFE with different Savings Rates using the calculator at [Networthify.com](https://networthify.com/calculator/earlyretirement?income=50000&initialBalance=0&expenses=20000&annualPct=5&withdrawalRate=4).
 
-Some examples:
+Some example Savings Rates:
 - A Savings Rate of **25%** will solve the FFE in **31.9 years.**
 - A Savings Rate of **40%** will solve the FFE in **21.6 years.**
 - A Savings Rate of **55%** will solve the FFE in **14.4 years.**
