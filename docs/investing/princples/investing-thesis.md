@@ -54,12 +54,12 @@ Divide that $10 by how many hours it took you to get that return, and you will q
 ## Only Invest in Things that Increase in Purchasing Power
 
 I recommend owning the following during peace time:
-- [Crypto assets](gen-z-investments/cryptocurrency.md)
-- [Certain types of Real Estate](gen-z-investments/real-estate.md)
+- [Crypto assets](../gen-z-investments/cryptocurrency.md)
+- [Certain types of Real Estate](../gen-z-investments/real-estate.md)
 
 And the following during the apocolypse:
-- [Possibly some Gold](gen-z-investments/gold.md)
-- [Guns/ammunition](gen-z-investments/guns.md)
+- [Possibly some Gold](../gen-z-investments/gold.md)
+- [Guns/ammunition](../gen-z-investments/guns.md)
 
 ## Portfolio Allocation
 

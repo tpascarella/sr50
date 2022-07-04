@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 3
 ---
 
 # Cryptocurrency
@@ -90,14 +90,14 @@ Bitcoin and Ethereum are the 2 most important cryptocurrencies. Maximizing your 
 
 ### - Resources to learn about Cryptocurrencies
 
-[Hope.com](https://www.hope.com/en) is the best sole resource to learn about Bitcoin.
-
 <details>
   <summary>Required Reading</summary>
 
 - [Going Bankless: The Ultimate Guide](https://newsletter.banklesshq.com/p/-guide-1-starting-with-bankless)
 
 </details>
+
+[Hope.com](https://www.hope.com/en) is the best sole resource to learn about Bitcoin.
 
 ### - "Is it too late to buy?"
 
