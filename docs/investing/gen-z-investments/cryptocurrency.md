@@ -57,7 +57,7 @@ The term "sound money" is sometimes used to describe crypto, the term comes from
 
 [In 1971, the government made the dollar worth as much as the "full faith and credit of the US Government."](https://www.investopedia.com/terms/f/fiatmoney.asp) How much full faith and credit do you have in the US Government? Choose for yourself.
 
-### "Is crypocurrency legitimate money?"
+### - "Is crypocurrency legitimate money?"
 
 Crypto is the most complete money that has ever existed in human history.
 
@@ -77,7 +77,7 @@ Money needs to have a few characteristics to make it legitamate. These character
 
 All fiat currencies lack the scarcity component.
 
-### Hard Money lowers time preference
+### - Hard Money lowers time preference
 
 People are much more willing to save and invest for the future if they are able to do so through a Hard Money.  Hard Money incentivizes saving for the future and sacrificing current consumption because you know your purchasing power will *increase* in the future if you sacrifice the present. This greatly reduces the willpower necessary to save.
 
@@ -95,6 +95,21 @@ Bitcoin and Ethereum are the 2 most important cryptocurrencies. Maximizing your 
 
 - [Going Bankless: The Ultimate Guide](https://newsletter.banklesshq.com/p/-guide-1-starting-with-bankless)
 
+</details>
+
+<details>
+  <summary>Recommended Youtube Videos</summary>
+  <div>
+    <iframe width="600" height="333" src="https://www.youtube.com/embed/Xb4g8LzcFSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="600" height="333" src="https://www.youtube.com/embed/MhldkvdS_rM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="600" height="333" src="https://www.youtube.com/embed/G80Jq6ZwnOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
+    <iframe width="600" height="333" src="https://www.youtube.com/embed/EH6vE97qIP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="600" height="333" src="https://www.youtube.com/embed/noQsHiTJAXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="600" height="333" src="https://www.youtube.com/embed/3xH1vBuDbBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="600" height="333" src="https://www.youtube.com/embed/NPATmaprDRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="600" height="333" src="https://www.youtube.com/embed/xLYYh4aPXAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="600" height="333" src="https://www.youtube.com/embed/AQO7KePXUEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
 </details>
 
 [Hope.com](https://www.hope.com/en) is the best sole resource to learn about Bitcoin.
@@ -210,31 +225,12 @@ This is why you can make a case that cryptocurrency is not for everyone. It take
 ## Guides
 
 <details>
-  <summary>How To Transfer Crypto From an Exchange to a Wallet</summary>
+  <summary>How To Transfer Crypto Off of an Exchange to a Wallet</summary>
 
 - Send a $10 test transaction to yourself first!
 - Round up to the next factor of 10 to transfer the rest of your crypto.
   - $10 -> round up to $100 -> round up to $1000 -> etc.
 
-</details>
-
-## References
-
-### - Recommended YouTube videos
-
-<details>
-  <summary>Recommended Youtube Videos</summary>
-  <div>
-    <iframe width="600" height="333" src="https://www.youtube.com/embed/Xb4g8LzcFSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <iframe width="600" height="333" src="https://www.youtube.com/embed/MhldkvdS_rM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <iframe width="600" height="333" src="https://www.youtube.com/embed/G80Jq6ZwnOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
-    <iframe width="600" height="333" src="https://www.youtube.com/embed/EH6vE97qIP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <iframe width="600" height="333" src="https://www.youtube.com/embed/noQsHiTJAXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <iframe width="600" height="333" src="https://www.youtube.com/embed/3xH1vBuDbBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <iframe width="600" height="333" src="https://www.youtube.com/embed/NPATmaprDRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <iframe width="600" height="333" src="https://www.youtube.com/embed/xLYYh4aPXAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <iframe width="600" height="333" src="https://www.youtube.com/embed/AQO7KePXUEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
 </details>
 
 ---
