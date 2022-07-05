@@ -59,7 +59,7 @@ Paper and pencil budgets are what your grandparents did. The way you do them is 
 
 Is it perfect? No. Is it good enough? Yes. And it's free.
 
-### - Paid Budgeting Tools
+### - Paid Options
 
 I personally do not believe that you need to pay for a budgeting tool, the free options are more than sufficient. However if you insist, here are some good paid options:
 
