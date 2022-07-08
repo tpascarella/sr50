@@ -10,7 +10,7 @@ import Slogan from '/src/components/Slogan';
 
 “Money” shouldn’t be the goal, it should be a resource that when properly managed helps you achieve other, more important goals.
 
-## Your Responsibility as an Economic Actor
+## Your Role & Responsibility as an Economic Actor
 
 Your purchasing decisions have a very real impact on the future of the world. The goal of profits and threat of losses directly influence what companies do and provide to their customers. They can only do things that make them money, so don't give a dollar to things you don't support!
 
@@ -30,20 +30,24 @@ Choose wisely.
 Define exactly why you want to become financially independent. 
 
 Common reasons include:
-- Securing your family's financial future for generations,
-- Making sure your kids can graduate from college debt free,
-- Not having to answer to a piece of shit boss,
-- Not having to work for a piece of shit company,
-- Travel the world while you still have youthful energy,
+- Securing your family's financial future for generations
+- Making sure your kids can graduate from college debt free
+- Not having to answer to a piece of shit boss
+- Not having to work for a piece of shit company
+- Travel the world while you still have youthful energy
 - Make a dent in the universe
 
-Find your why.
+Choose your why.
 
 ## Money can Elevate or Sink You
 
 >"If you have character defects that exist already, they become exacerbated with money. Money can be so helpful, but if you aren't prepared to handle it, or be the right person with it, you'll just blow right through it and that's exactly what I did." -Ryan Leaf
 
-The worst thing you can give to someone with serious problems is a lot of money. Here is a non-exhaustive list of character flaws that money can exacerbate if not handled properly, as well as resources that can help:
+The worst thing you can give to someone with serious problems is a lot of money. 
+
+### - Resources for destructive habits
+
+Here is a non-exhaustive list of character flaws that money can exacerbate if not handled properly, as well as resources that can help:
 - Alcohol
 >[Alcoholics Anonymous](https://www.aa.org/)
 - Cigarettes

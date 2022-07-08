@@ -8,11 +8,13 @@ import Slogan from '/src/components/Slogan';
 
 >An often neglected third (!) of your salary
 
+![Taxes](/img/taxes.svg)
+
 ## Importance
 
-![Taxes proportion](/img/taxes-proportion.svg)
-
 Taxes go largely unnoticed because they are an invisible expense. You don't *pay* taxes, you have taxes *taken* from you, and then you get back the excess in April. 
+
+![Taxes proportion](/img/taxes-proportion.svg)
 
 However, underestimating taxes is big a mistake since taxes take up approximately 1/3rd of your salary.
 
