@@ -53,7 +53,7 @@ The term "sound money" is sometimes used to describe crypto, the term comes from
 
 ### - Nations die when their currency becomes worthless
 
-![Zimbabwe Hyperinflation](/img/100-trillion.svg)
+![Zimbabwe Hyperinflation](/img/zimbabwe-100-trillion-bill.svg)
 
 [In 1971, the government made the dollar worth as much as the "full faith and credit of the US Government."](https://www.investopedia.com/terms/f/fiatmoney.asp) How much full faith and credit do you have in the US Government? Choose for yourself.
 

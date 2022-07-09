@@ -15,7 +15,7 @@ module.exports = {
   projectName: 'sr50',
   customFields: {
     description:
-      'The best financial advisor on planet Earth.',
+      'A modern financial advisor platform for Gen Z.',
   },
   themeConfig: {
     colorMode: {
@@ -32,7 +32,7 @@ module.exports = {
     navbar: {
       title: 'SR50',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Logo',
         src: 'img/sr50logo.svg',
       },
       items: [
@@ -103,10 +103,10 @@ module.exports = {
         },
         blog: {
           path: 'blog',
-          showReadingTime: true,
+          showReadingTime: false,
           editUrl:
             'https://github.com/tpascarella/sr50-docs/tree/main/',
-          blogTitle: 'Blog title',
+          blogTitle: 'Blog',
           blogDescription: 'Blog',
           blogSidebarCount: 5,
           blogSidebarTitle: 'All our posts',

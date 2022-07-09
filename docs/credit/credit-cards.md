@@ -22,7 +22,7 @@ Target one reward at a time, and know how much needs to be spent and by when. He
 
 If you collected baseball cards as a kid, the plastic pages you would put the cards in are a great organizational tool for your credit cards.
 
-![Credit Card Organization](/img/cc-organization.svg)
+![Credit Card Organization](/img/credit-card-organization.svg)
 >*Personal information hidden for obvious reasons.*
 
 :::tip

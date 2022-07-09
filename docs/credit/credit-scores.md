@@ -17,7 +17,7 @@ Having great credit makes life much easier, from getting an apartment or a car, 
 
 ## The Factors that Determine Credit Score
 
-![Credit Score Range](/img/cs-range.svg)
+![Credit Score Range](/img/credit-score-range.svg)
 
 Your credit score will range between 300 - 850. Credit bureaus use 6 criteria when determining your score:
 

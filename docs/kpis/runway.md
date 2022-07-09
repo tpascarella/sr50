@@ -32,7 +32,7 @@ Runway tells you how long you can last off reserves if you had no income at all,
 
 ## Average American Runway
 
-![Average American Runway](/img/runway-avg.svg)
+![Average American Runway](/img/runway-average.svg)
 
 Statistics vary, but the general consensus is that most Americans have less than 3 months of savings. Obviously, this is not good enough.
 

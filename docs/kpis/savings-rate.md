@@ -42,7 +42,7 @@ Savings Rate measures how much of your available resources you are utilizing to 
 The average Savings Rate in America can be found at the [FRED website here,](https://fred.stlouisfed.org/series/PSAVERT) or in the screenshot below. 
 
 The spike from COVID appears to have died down and it has returned to the historical average.
-![Savings Rate Graph](/img/sr-historical-avg.svg)
+![Savings Rate Graph](/img/savings-rate-historical-average.svg)
 
 ### - Historical american savings rates
 

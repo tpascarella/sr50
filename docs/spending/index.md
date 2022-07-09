@@ -13,7 +13,7 @@ As previously mentioned, Savings Rate is the most important KPI when determining
 
 **Here is a breakdown of the average American's spending patterns.**
 
-![Average Spending Breakdown](/img/spending-avg-breakdown.svg)
+![Average Spending Breakdown](/img/average-spending-breakdown.svg)
 
 ### - Considerations
 

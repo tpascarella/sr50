@@ -30,7 +30,7 @@ The market will keep going up until the end of human civilization. Buying consis
 
 It is impossible to predict *when* the best days of the market will occur, and if you are not invested due to an attempt to *"time the market"* there is a very high probability you will miss out entirely and your cumulative returns will be significantly lower.
 
-![Dollar cost averaging](/img/dollar-cost-average.svg)
+![Dollar cost averaging](/img/dollar-cost-average-benefits.svg)
 
 ### - Make bets that align with the future
 

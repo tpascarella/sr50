@@ -12,7 +12,7 @@ Travel Hacking is the process of tactfully acquiring credit card points and mile
 
 You should never use credit cards irresponsibly to collect points, but if you take advantage of rewards programs **while doing the spending you were going to do regardless**, is an easy way to increase the efficiency of your dollars.
 
-![Spend more to earn more](/img/rewards.svg)
+![Spend more to earn more](/img/credit-card-rewards.svg)
 
 :::caution
 

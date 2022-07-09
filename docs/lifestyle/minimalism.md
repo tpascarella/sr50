@@ -8,7 +8,7 @@ import Slogan from '/src/components/Slogan';
 
 >"Take only what you need to survive" - Lone Starr
 
-![Alpaca](/img/meme-purchases.svg)
+![Alpaca](/img/meme-unnecessary-purchases.svg)
 
 ## Philosophy
 

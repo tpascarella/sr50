@@ -8,7 +8,7 @@ import Slogan from '/src/components/Slogan';
 
 >An often neglected third (!) of your salary
 
-![Taxes](/img/taxes.svg)
+![Taxes](/img/tax-bills.svg)
 
 ## Importance
 
