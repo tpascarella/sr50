@@ -6,7 +6,7 @@ sidebar_position: 2
 
 import Slogan from '/src/components/Slogan';
 
->The 2nd most important KPI.
+>The second most important KPI.
 
 ## Importance
 

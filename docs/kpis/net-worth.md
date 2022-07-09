@@ -6,7 +6,7 @@ sidebar_position: 3
 
 import Slogan from '/src/components/Slogan';
 
->The very distant 3rd KPI.
+>The very distant third KPI.
 
 ## Importance
 

@@ -1,4 +1,4 @@
-# KPIs
+# Personal Finance KPIs
 
 import Slogan from '/src/components/Slogan';
 

@@ -33,6 +33,11 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: #043927;
 }
 
+.button {
+  background-color: lightgrey;
+  border: #121212;
+}
+
 .footer {
   background-color: black;
   justify-content: space-between;
