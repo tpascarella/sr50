@@ -161,14 +161,14 @@ Highly volatile, but up and to the right.
 ## ***TAKE PROPER PRECAUTIONS***
 
 There are some precautions you should take if you are a crypto beginner using their life savings:
-- Only put your money into tokens that you **understand**, **believe in**, and have **actual real world utility**. 
-- Send test transactions if you are a beginner using a hardware or software wallet.
-- Beware the spam. Bots and theives are everywhere.
-- Research & self educate consistently.
+- Only put your money into tokens that you understand, believe in, and have **actual real world usage and utility**
+- Use caution and send test transactions to a hardware or software wallet
+- Beware the spam. Bots and scammers are *everywhere*
+- Research & self educate consistently
 
 ### - Private keys
 
-:::danger
+:::danger Never give these out!
 
 Your private keys are the literal key to your digital empire. Guard them with your life!
 
@@ -190,20 +190,20 @@ At the very least you should have an acceptable answer to these questions before
 
 ### - Web tools you should bookmark
 
-- [Etherscan](https://etherscan.io/)
 - [CoinMarketCap](https://coinmarketcap.com/)
+- [Etherscan](https://etherscan.io/)
 
 ### - Action steps
 
 Do the following: 
-- Subscribe to the [Bankless](https://www.youtube.com/c/Bankless?app=desktop) YouTube channel and self educate regularly. 
->Video recommendations included below.
-- Create an account with [Coinbase](https://www.coinbase.com/) or [Gemini](https://www.gemini.com/) and buy Bitcoin and Ethereum. 
-- Buy a [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x) hardware wallet to store Bitcoin.
-- Transfer your coins off of an exchange onto your hardware wallet.
-- Buy a faraday bag to keep your wallet secure from wireless attacks.
-- Create accounts with [Argent](https://www.argent.xyz/) and [Metamask](https://metamask.io/) to use Ethereum in open finance.
-- Dollar cost average your crypto investments over a long period of time.
+- Subscribe to the [Bankless](https://www.youtube.com/c/Bankless?app=desktop) YouTube channel and continually self educate
+>Video recommendations included below
+- Create an account with [Coinbase](https://www.coinbase.com/) or [Gemini](https://www.gemini.com/) and buy Bitcoin and Ethereum
+- Buy a [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x) hardware wallet to store Bitcoin
+- Transfer your coins off of an exchange onto your hardware wallet
+- Buy a faraday bag to keep your wallet secure from wireless attacks
+- Create accounts with [Argent](https://www.argent.xyz/) and [Metamask](https://metamask.io/) to use Ethereum in open finance
+- Dollar cost average your crypto investments over a long period of time
 
 ### - Psychological preparation for the volatility
 
@@ -225,11 +225,11 @@ This is why you can make a case that cryptocurrency is not for everyone. It take
 ## Guides
 
 <details>
-  <summary>How To Transfer Crypto Off of an Exchange to a Wallet</summary>
+  <summary>Transfer Crypto Off of an Exchange to a Wallet</summary>
 
-- Send a $10 test transaction to yourself first!
-- Round up to the next factor of 10 to transfer the rest of your crypto.
-  - $10 -> round up to $100 -> round up to $1000 -> etc.
+- Send a $10 test transaction first!
+- Round up to the next factor of 10 to transfer the rest of your balance.
+  - Send $10 -> round up to $100 -> round up to $1000 -> etc.
 
 </details>
 

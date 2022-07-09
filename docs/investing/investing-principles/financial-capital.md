@@ -6,7 +6,7 @@ sidebar_position: 2
 
 import Slogan from '/src/components/Slogan';
 
->"You gotta spend money to make money." - Tom Bueller
+>"You gotta spend money to make money." - Ferris Bueller's Dad
 
 ## Importance
 
@@ -26,10 +26,12 @@ import Slogan from '/src/components/Slogan';
 | `Franchises` | `Fiat` | `High` | `Variable` | `Variable` | `Medium` |
 | `Entrepreneurship` | `Fiat` | `Variable` | `High` | `High` | `Infinite` |
 | `Cryptocurrency` | `Crypto` | `Medium` | `Zero` | `Zero` | `High` |
-| `Gold & Other Metals` | `Precious Metals` | `High` | `Zero` | `Zero` | `Medium/Low` |
+| `Gold` | `Precious Metals` | `High` | `Zero` | `Zero` | `Low/Medium` |
 | `Guns & Ammo` | `Other` | `Medium` | `Zero` | `Low` | `Low` |
 
 </APITable>
+
+>Note that "potential upside" reflects my subjective opinion and should not be considered objective truth.
 
 ## Invest "F You Money", Not "Oh $hit Money"
 
@@ -43,7 +45,7 @@ Do not put yourself in a position where you need to liquidate assets at a loss t
 
 Your "Oh $hit Money" serves a valuable purpose, it is insurance so you don't have to sell assets at a loss.
 
-## Pinch Your Pennies
+## Pinch Pennies
 
 The only way to *acquire* capital is to either spend less or earn more. You save your pennies to **accumulate capital,** which you then use to invest towards solving the Financial Freedom Equation.
 
@@ -64,7 +66,7 @@ If you get paid monthly it will look like this:
 - **12 Paychecks * Paycheck Amount** 
 
 If you get paid every 2 weeks, count how many paychecks you will receive (some months you will get 3)
-- **X# of Paychecks * Paycheck Amount**
+- **# of Paychecks * Paycheck Amount**
 
 If you do this, you can set aside appropriate percentages of capital towards different lifestyle and investing goals.
 

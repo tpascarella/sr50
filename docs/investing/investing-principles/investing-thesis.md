@@ -22,6 +22,8 @@ You only invest in things that will go up and to the right. WHICH investment tho
 
 ## Just Keep Buying
 
+![Buying the dip](/img/buy-the-dip.svg)
+
 The market will keep going up until the end of human civilization. Buying consistently over time will increase the odds you will get the average market return of that asset class.
 
 [This graphic from Putnam Investments](https://www.putnam.com/literature/pdf/II508-ec7166a52bb89b4621f3d2525199b64b.pdf) shows the consequence of missing a handful of the best days of stock market returns. 
@@ -34,7 +36,7 @@ It is impossible to predict *when* the best days of the market will occur, and i
 
 Invest in things that will still be valuable in the next 100 years (estimating to the best of your ability). Often times this means not chasing what worked for your grandparents. That world is long behind us.
 
-### - "Timing the market" is a less than minimum wage job
+### - "Timing the market" pays less than minimum wage
 
 Through investing in index funds, you can reasonably expect an 8% annual return if you do nothing but buy and hold the index, it requires zero effort. And [even though it has been definitely shown that hardly anyone can outperform the market](https://www.investopedia.com/ask/answers/12/beating-the-market.asp), many people still try. 
 
@@ -74,11 +76,12 @@ Pull profits out of one investment and reinvest it into other assets that are cu
 ## Protecting Yourself From Scams
 
 This has become very common in crypto but happens in the regular investing world. Here are some suggestions to make sure you don't fall victim to a scam:
-- Be VERY skeptical of returns that seem too good to be true.
-- Don't invest in things you don't understand.
-- Double check promotions that are run claiming to be from high profile individuals.
-- Only invest what you can afford to lose.
-- Remember Dr. Sowell's timeless advice.
+- Do NOT believe returns that seem too good to be true
+- Do NOT invest in anything you don't understand
+- Do NOT trust promotions that claim to be run by high profile individuals
+>These are far too common in the crypto industry. Some examples are listed in the [Crypto section.](../gen-z-investments/cryptocurrency.md)
+- Only invest what you can afford to lose
+- Remember Dr. Sowell's advice
 >"Eternal vigilence is the price of liberty"
 
 ## Do Not Draw Attention to Yourself

@@ -1,4 +1,4 @@
-# Principles
+# Investing Principles
 
 import Slogan from '/src/components/Slogan';
 import DocCardList from '@theme/DocCardList';

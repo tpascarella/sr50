@@ -39,7 +39,7 @@ Net Worth is the metric most financial advisors brag about improving, but it rea
 
 In the *accounting* world, an asset is anything that has economic value (meaning it's worth something if you sell), but this does not contribute at all to your cash flow problem.
 
-"investing" into these "assets" takes [Capital](/investing/princples/financial-capital.md) away from **real assets** that provide cash flow and benefit you starting right now.
+"investing" into these "assets" takes [Capital](/investing/investing-principles/financial-capital.md) away from **real assets** that provide cash flow and benefit you starting right now.
 
 ### - How we define assets and liabilities
 
