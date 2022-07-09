@@ -33,7 +33,7 @@ module.exports = {
       title: 'SR50',
       logo: {
         alt: 'Logo',
-        src: 'img/sr50logo.svg',
+        src: 'img/logo.svg',
       },
       items: [
         {
