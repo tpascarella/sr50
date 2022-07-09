@@ -4,8 +4,8 @@ const path = require('path');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Modern financial advising for Gen-Z',
-  tagline: 'A single distillation of the best financial advice you can find online.',
+  title: 'A modern financial advisor platform for the next generation.',
+  tagline: 'If the world\s best financial advisor posted everything onto a single website.',
   url: 'https://sr50.finance',
   baseUrl: '/',
   onBrokenLinks: 'throw',

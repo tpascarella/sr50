@@ -29,6 +29,15 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, .3);
 }
 
+.navbar {
+  background-color: #043927;
+}
+
+.footer {
+  background-color: black;
+  justify-content: space-between;
+}
+
 html {
   background-color: #121212;
 }
