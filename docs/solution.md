@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# The Solution
+# Our Solution
 
 import Slogan from '/src/components/Slogan';
 

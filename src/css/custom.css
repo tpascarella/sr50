@@ -39,7 +39,7 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 }
 
 .footer {
-  background-color: black;
+  background-color: #043927;
   justify-content: space-between;
 }
 
@@ -89,5 +89,5 @@ h4 {
 #technical-note {
   font-family: 'Chakra Petch';
   font-size: 18px;
-  color: grey;
+  color: lightgray;
 }

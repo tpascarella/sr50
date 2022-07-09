@@ -2,13 +2,13 @@
 sidebar_position: 2
 ---
 
-# "Being Rich"
+# What "Being Rich" Actually Looks Like
 
 import Slogan from '/src/components/Slogan';
 
-## What Does Being Rich Actually Look Like?
+## The Most Valuable Thing Money Can Buy is Time.
 
-The most important thing money can buy is freedom. It's all about having the financial capacity to walk away from your job, *consequence free.* 
+The most important thing money can buy is your time. The whole game is about putting yourself in a financial position where you can walk away from your job, *consequence free.* 
 
 However, this freedom only comes from **cash flow**, and significant reserves to fall back on when life gets hard. 
 

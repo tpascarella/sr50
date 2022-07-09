@@ -138,7 +138,7 @@ One consequence of having a single digit Savings Rate is that your Runway (the l
 
 It's also much harder to build any passive income with a low Savings Rate. You have no capital to invest, or have any means to means to acquire more. 
 
-### - No choice but to sell your soul to Lumbergh
+### - You have no choice but to sell your soul to Bill Lumbergh
 
 Another consequence of having a low Savings Rate is that you're trapped at *whatever job keeps the bills paid.* You don't have the Runway (time) needed to find or pursue any better opportunities.
 
