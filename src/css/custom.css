@@ -9,7 +9,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&family=Gloria+Hallelujah&family=Montserrat&family=Quattrocento+Sans&family=Varela&display=swap');
 
 :root {
-  --ifm-color-primary: #59ffdb;
+  --ifm-color-primary: #77fccb;
  /*
    --ifm-color-primary: #09d3ac; 
   --ifm-color-primary-dark: rgb(8, 190, 155);
@@ -77,7 +77,7 @@ h2 {
 
 h3 {
   font-family: 'Montserrat';
-  color: #59ffdb; 
+  color: #77fccb; 
   font-size: 30px;
   line-height: .9;
 }
@@ -91,7 +91,7 @@ h4 {
 #slogan {
   font-family: 'Gloria hallelujah';
   font-size: 22px; 
-  color: #59ffdb;
+  color: #77fccb;
 }
 
 #technical-note {
