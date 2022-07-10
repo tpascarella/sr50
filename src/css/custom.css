@@ -9,13 +9,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&family=Gloria+Hallelujah&family=Montserrat&family=Quattrocento+Sans&family=Varela&display=swap');
 
 :root {
-  --ifm-color-primary: #09d3ac;
+  --ifm-color-primary: #59ffdb;
+ /*
+   --ifm-color-primary: #09d3ac; 
   --ifm-color-primary-dark: rgb(8, 190, 155);
   --ifm-color-primary-darker: rgb(8, 179, 146);
   --ifm-color-primary-darkest: rgb(6, 148, 120);
   --ifm-color-primary-light: rgb(46, 218, 184);
   --ifm-color-primary-lighter: rgb(83, 224, 197);
   --ifm-color-primary-lightest: rgb(132, 233, 214);
+*/
+}
+
+#precautions {
+  color: red;
+  font-weight: bolder;
+  font-size: 36px;
 }
 
 .docusaurus-highlight-code-line {
@@ -26,20 +35,19 @@
 }
 
 html[data-theme='dark'] .docusaurus-highlight-code-line {
-  background-color: rgba(0, 0, 0, .3);
+  background-color: #121212;
 }
 
 .navbar {
-  background-color: #043927;
+  background-color: #003026;
 }
 
 .button {
   background-color: lightgrey;
-  border: #121212;
 }
 
 .footer {
-  background-color: #043927;
+  background-color: #003026;
   justify-content: space-between;
 }
 
@@ -69,7 +77,7 @@ h2 {
 
 h3 {
   font-family: 'Montserrat';
-  color: aquamarine; 
+  color: #59ffdb; 
   font-size: 30px;
   line-height: .9;
 }
@@ -83,7 +91,7 @@ h4 {
 #slogan {
   font-family: 'Gloria hallelujah';
   font-size: 22px; 
-  color: aquamarine;
+  color: #59ffdb;
 }
 
 #technical-note {

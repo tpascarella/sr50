@@ -107,7 +107,7 @@ Active fund managers not only have to outperform the index over time (astonishin
 
 [There is no significant difference between Index Funds and ETFs.](https://www.investopedia.com/ask/answers/033015/whats-difference-between-index-fund-and-etf.asp#:~:text=The%20main%20difference%20between%20an,end%20of%20the%20trading%20day.) They are slightly different packaging for the same underlying investment product (Similar to different wrapping papers for the same underlying Christmas present).
 
-### - I still recommend index funds over ETFs
+### - I recommend index funds over ETFs
 
 That being said, I do recommend you go with index funds over ETFs if you have the choice, simply because the fact that index funds close at the end of each trading day, instead of updating continuously over the course of the day like stocks. 
 

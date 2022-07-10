@@ -57,6 +57,12 @@ The term "sound money" is sometimes used to describe crypto, the term comes from
 
 [In 1971, the government made the dollar worth as much as the "full faith and credit of the US Government."](https://www.investopedia.com/terms/f/fiatmoney.asp) How much full faith and credit do you have in the US Government? Choose for yourself.
 
+40% of all the money that has ever been printed was printed last year. We are on an exponential trajectory to the US dollar going the way of the Zimbabwe dollar.
+
+![M2 Money Supply](/img/m2-money-supply.svg)
+
+[Here](https://fred.stlouisfed.org/series/M2SL#) is a link to see the M2 money supply for yourself.
+
 ### - "Is crypocurrency legitimate money?"
 
 Crypto is the most complete money that has ever existed in human history.
@@ -153,12 +159,7 @@ If you subscribe to the investment strategy of indexing, buy one or a few of the
 
 These funds can be purchased through [Argent](https://www.argent.xyz/download-argent/?_branch_match_id=1032833481488341820&utm_source=website&utm_campaign=homepage&utm_medium=marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTyxKT80r0cvJzMvWT08tgXABaOacVx0AAAA%3D).
 
-### - Global metrics
-
-![Up and to the right](/img/052322metrics.svg)
-Highly volatile, but up and to the right.
-
-## ***TAKE PROPER PRECAUTIONS***
+## TAKE PROPER PRECAUTIONS {#precautions}
 
 There are some precautions you should take if you are a crypto beginner using their life savings:
 - Only put your money into tokens that you understand, believe in, and have **actual real world usage and utility**

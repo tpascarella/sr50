@@ -7,7 +7,7 @@ sidebar_position: 17
 import Slogan from '/src/components/Slogan';
 
 <details>
-  <summary>Who is the founder of your company?</summary>
+  <summary>Who made this website?</summary>
 
 - [This guy.](https://tpascarella.github.io)
 
