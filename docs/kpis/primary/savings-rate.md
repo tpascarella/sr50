@@ -30,7 +30,7 @@ Savings Rate measures how much of your available resources you are utilizing to 
 - The higher your Savings Rate, the better.
 - You won't make any serious progress until you can sustain a 50% Savings Rate.
 >**This will be your initial target.**
-- Savings Rate works **exactly the same regardless of your [Income](income.md) or [Net Worth](net-worth.md)!**
+- Savings Rate works **exactly the same regardless of your [Income](../secondary/income.md) or [Net Worth](../secondary/net-worth.md)!**
 
 ### - How long it will take you to reach FI at different Savings Rates
 

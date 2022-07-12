@@ -46,7 +46,7 @@ Nearly all financial advisor jobs have a commision style compensation plan, and 
 
 :::danger Don't believe me?
 
-Check out some financial advisor [jobs on LinkedIn.](https://www.linkedin.com/jobs/financial-advisor-jobs?position=1&pageNum=0) 
+See the [financial advisor postings on LinkedIn](https://www.linkedin.com/jobs/financial-advisor-jobs?position=1&pageNum=0) for yourself.
 
 :::
 
@@ -57,7 +57,9 @@ You'll see some similarities:
 - "Entrepreneurial spirit, building your 'book of business'"
 - "Sales experience preferred"
 
-There is a clear divide between what a financial advisor *should be,* in theory; and the actual logistics of the industry. **Financial advisors don't get paid for the knowledge they have, they get paid commissions on the products they sell.**
+There is a clear divide between what a financial advisor *should be,* in theory; and the actual logistics of the industry. 
+
+**Financial advisors don't get paid for the knowledge they have, they get paid commissions on the products they sell.**
 
 ### - The job is obsolete now
 
