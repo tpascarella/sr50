@@ -59,7 +59,7 @@ You'll see some similarities:
 
 There is a clear divide between what a financial advisor *should be,* in theory; and the actual logistics of the industry. 
 
-**Financial advisors don't get paid for the knowledge they have, they get paid commissions on the products they sell.**
+**Financial advisors don't get paid for the knowledge they have, they get paid commissions from the products they sell.**
 
 ### - The job is obsolete now
 

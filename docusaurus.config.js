@@ -86,6 +86,11 @@ module.exports = {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,
     },
+    docs: {
+      sidebar: {
+        hideable: true,
+      },
+    },
   },
   plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],
   presets: [
