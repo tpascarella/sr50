@@ -35,6 +35,7 @@ module.exports = {
         alt: 'Logo',
         src: 'img/logo.svg',
       },
+      hideOnScroll: true,
       items: [
         {
           type: 'doc',
