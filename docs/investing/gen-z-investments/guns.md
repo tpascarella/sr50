@@ -12,8 +12,8 @@ import Slogan from '/src/components/Slogan';
 
 :::tip Advantages
 
-- Useful if an EMP bomb hits.
-- Long lasting and always useful.
+- Invaluable during the apocalypse.
+- Long lasting.
 - Can save your life.
 
 :::
@@ -23,7 +23,7 @@ import Slogan from '/src/components/Slogan';
 - Loud.
 - Expensive.
 - Needs to be practiced with.
-- Need to store securely.
+- Needs to store securely.
 
 :::
 

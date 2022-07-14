@@ -36,7 +36,7 @@ If you need to go back to school, you **better be sure** you're majoring in some
 
 We'll cover this more in the [Futureproofing](/careers/futureproofing.md) section in the [Career module.](/careers/index.md) 
 
-### - Public vs. private universities
+### - Public vs. private education
 
 Public schools offer basically as good of an education as the Ivy Leagues, at significantly lower cost. The fancy name isn't worth the extra expense most of the time. 
 

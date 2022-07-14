@@ -23,7 +23,7 @@ import Slogan from '/src/components/Slogan';
 
 A job doesn't need to have all of these qualities, but the more the better, at the very least you need to have an answer to these questions. 
 
-:::tip
+:::tip Runway gives you time to search
 
 The more Runway you have, the longer you can hold out for finding a job you really want, at a company you deeply respect.
 

@@ -28,7 +28,7 @@ If your checking account is at a financial institution like [Fidelity](https://w
 
 You can keep your emergency savings in cash in a savings account, or take the risk of higher volatility to get more of a return. The following are potential options to park your emergency savings:
 
-### - (HIGH VOLATILITY) Established cryptocurrencies
+### - (HIGH VOLATILITY) Established cryptocurrencies {#high-volatility}
 
 If you're up for the roller coaster of volatility that the crypto market offers, keeping your Emergency Savings in *stable, established coins with strong track records* (Bitcoin and Ethereum are the two best) can yield the highest return for your months of Runway.
 
@@ -38,7 +38,7 @@ If you store your Bitcoin in Coinbase, you can borrow 40% of the balance in cash
 
 :::
 
-### - (MEDIUM VOLATILITY) Index funds
+### - (MEDIUM VOLATILITY) Index funds {#medium-volatility}
 
 Index funds are a less aggressive approach, but will still likely yield higher returns than interest in a savings account, or on your stablecoins.
 
@@ -51,9 +51,17 @@ Index funds are a less aggressive approach, but will still likely yield higher r
 
 </details>
 
-### - (LOW/ZERO VOLATILITY) Savings accounts / Money market accounts / Stablecoins 
+### - (LOW/ZERO VOLATILITY) Savings accounts / Money market accounts / Stablecoins {#low-volatility}
 
 These options do not provide much (if any) return, so as your financial picture improves you should migrate this capital into higher yield assets. You'll likely have to start with one of these options if you have less money. 
+
+:::danger 
+
+Due to inflation, you are guaranteed to lose the purchasing power of your savings over time. Allocate as little capital to cash/cash equivalents as practical.
+
+[Our emergency fund is exactly $0.00](https://earlyretirementnow.com/2016/05/05/emergency-fund/) is a great article that explains the opportunity cost of keeping significant capital in low/no yield assets.
+
+:::
 
 ## How Much to Keep In Savings
 
@@ -70,12 +78,6 @@ Opinions vary on this topic. Some people recommend keeping 3-6 months of expense
 I recommend keeping $10,000 in savings for every adult you are responsible for, and $5,000 for every child you are responsible. (you can include all of your pets as one child in this example)
 
 So for a set of parents with 3 children that are dependent on them, a $25,000 emergency fund is a reasonable starting point. You will adjust this number as you learn your financial situation better, but this is a nice and easy rule of thumb.
-
-## Migrate Capital Into Higher Yielding Assets Over Time
-
-As time passes, your purchasing power with your dollars decreases due to inflation, which means that as your purchasing and borrowing power increases, you should begin migrating this capital into higher yield assets.
-
-[Our emergency fund is exactly $0.00](https://earlyretirementnow.com/2016/05/05/emergency-fund/) is a great article that explains the opportunity cost of keeping significant capital in low/no yield assets.
 
 ---
 <Slogan/>

@@ -8,11 +8,11 @@ import Slogan from '/src/components/Slogan';
 
 >Acquiring/using land and buildings.
 
-:::caution Caution
+:::caution Denominated in fiat
 
 Real Estate properties are only worth the discounted value of future cash flows, and since those cash flows are denominated in fiat money, the purchasing power of the cash flows, and subsequently the value of the business, will fall alongside it.
 
-I only recommend investing in Real Estate if you are house hacking to increase your Savings Rate, or the BRRRR method since it lets you invest without losing capital, which you can then deploy towards assets that increase in purchasing power over time (crypto).
+I only recommend certain specific real estate investments, such as House Hacking because of the impact it has on your Savings Rate, or the BRRRR method because it allows you to invest without losing capital, which can then be deployed towards assets that increase in purchasing power over time (such as crypto).
 
 :::
 
@@ -47,7 +47,7 @@ You will also need to build up a solid (700+) credit score. It is explained how 
 
 If possible, network with local investors and agents before you jump into real estate investing. There is a substantial learning curve with this asset class, and the more smart people you take advice from, the better off you will likely be.
 
-## Educational Resources
+### - Educational resources
 
 [Biggerpockets.com](https://www.biggerpockets.com/) is the best resource I have found to become educated on Real Estate investing.
 

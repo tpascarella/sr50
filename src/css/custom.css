@@ -27,6 +27,12 @@
   font-size: 36px;
 }
 
+#high-volatility, #medium-volatility, #low-volatility{
+  color: gold;
+  font-size: 30px;
+  font-weight: bolder;
+}
+
 .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.1);
   display: block;

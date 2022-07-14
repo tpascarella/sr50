@@ -17,11 +17,11 @@ Startups are the companies that will provide all of the jobs moving forward, so 
 
 :::
 
-## Every Job Should Be Incrementally Additive
+## Every Position Should Be Incrementally Additive
 
 Every job should be incrementally additive to your [Human Capital](/investing/gen-z-investments/human-capital.md). You don't need to get the first job right, just the last job. Every position should be an upgrade to your skillset, paycheck, and work-life balance.
 
-## How to Become Irreplaceable
+## Become Irreplaceable
 
 ### - Don't follow your passion, develop skills
 

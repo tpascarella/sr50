@@ -41,7 +41,7 @@ Your credit score will range between 300 - 850. Credit bureaus use 6 criteria wh
 
 If you are building your credit score from scratch ypu will need to get a few secured credit cards, you can find the best options at [NerdWallet.com](https://www.nerdwallet.com/secured-credit-cards)
 
-:::info 
+:::info Budget
 
 It will cost you ~$250 in security deposits for these cards, but the $250 will be returned within a few months of on time payments.
 

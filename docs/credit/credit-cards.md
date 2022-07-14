@@ -24,9 +24,9 @@ If you collected baseball cards as a kid, the plastic pages you would put the ca
 
 ![Credit Card Organization](/img/credit-card-organization.svg)
 
-:::tip
+:::tip 
 
-It is best to keep these in a binder with a zippered closure [like this one](https://www.amazon.com/dp/B007SQZE5U/?coliid=I2LHB0U9SZM8ZI&colid=JBE09B17WEP6&psc=1&ref_=lv_ov_lig_dp_it), credit cards have a tendency to slide out of the sleeves relatively easily and you definitely don't want these scattering everywhere.
+It is best to keep these in a binder with a zippered closure [like this one.](https://www.amazon.com/dp/B007SQZE5U/?coliid=I2LHB0U9SZM8ZI&colid=JBE09B17WEP6&psc=1&ref_=lv_ov_lig_dp_it) Credit cards have a tendency to slide out of the sleeves relatively easily and you definitely don't want these scattering.
 
 :::
 
@@ -34,7 +34,7 @@ It is best to keep these in a binder with a zippered closure [like this one](htt
 
 All of the horror stories you hear online about people getting burned with credit cards **all come from irresponsible spending.** 
 
-If you treat buying things with credit cards the same way you buy things with cash, you will be just fine.
+If you treat buying things with credit cards the same way you buy things with cash, you will be *fine.*
 
 ---
 <Slogan/>

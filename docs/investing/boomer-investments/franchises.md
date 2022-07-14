@@ -8,7 +8,7 @@ import Slogan from '/src/components/Slogan';
 
 >Buying and operating a proven business.
 
-:::danger Caution
+:::danger Denominated in fiat
 
 Franchises are only worth the discounted value of future cash flows, and since those cash flows are denominated in fiat money, the purchasing power of the cash flows, and subsequently the value of the business, will fall alongside it.
 

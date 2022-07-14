@@ -46,13 +46,13 @@ Give yourself as many unfair advantages as possible in the interview process, fo
 - Show up on time. (duh)
 - Remember this is an interview for THEM as much as it is for you. You are selling your time and energy (Your most valuable resource and another really valuable one) in exchange for something as common as money, keep that in proportion.
 
-### Take as many interviews as you can
+### - Take as many interviews as you can
 
 Take as many interviews as you can get, even if you have no intention of joining the company. It will give you exposure to the types of questions they ask, the types of questions *you should ask*, and the general vibe of the office.
 
 If you feel a buzz at the office, that's a good sign that company is a vibrant and exciting place to work. If it looks straight out of Office Space, be wary.
 
-### Research the company
+### - Research the company
 
 Look at the Glassdoor and Indeed ratings for every company you interview with. See how they treat current and churned employees. It's safe to assume how they treat past employees is how they will treat you.
 

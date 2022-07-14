@@ -8,7 +8,7 @@ import Slogan from '/src/components/Slogan';
 
 >Buying ownership of companies, and fixed future payments.
 
-:::danger Caution
+:::danger Denominated in fiat
 
 Inflation is rising fast enough that investing in these assets might not outpace it. Consider that when deciding which asset class to invest in.
 
