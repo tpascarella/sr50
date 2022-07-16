@@ -37,16 +37,20 @@ Net Worth is the metric most financial advisors brag about improving, but it rea
 
 ### - What is the definition of an asset? Or a liability?
 
-In the *accounting* world, an asset is anything that has economic value (meaning it's worth something if you sell), but this does not contribute at all to your cash flow problem.
+In the accounting world, an asset is anything that provides economic value (meaning it's worth something if you sell), but this does mean that that "asset" contributes to solving your cash flow problem.
 
-"investing" into these "assets" takes [Capital](/investing/investing-principles/financial-capital.md) away from **real assets** that provide cash flow and benefit you starting right now.
+Investing into false assets reduces available capital to invest in real assets that bring you closer to solving the FFE. Oh opportunity cost, its nice to see you again.
 
-### - How we define assets and liabilities
+### - *Our* definitions of assets and liabilities
 
 We subscribe to the [Rich Dad Poor Dad definition of assets and liabilities](https://www.richdad.com/what-are-assets-and-liabilities).
 
 - Assets are anything that *continually puts money into your pocket.*
 - Liabilities are anything that *continually take money out of your pocket.*
+
+<!--
+### False Assets
+-->
 
 ---
 <Slogan/>
