@@ -9,7 +9,30 @@ import Slogan from '/src/components/Slogan';
 <details>
   <summary>Who made this website?</summary>
 
-- [This guy.](https://tpascarella.github.io)
+[This guy.](https://tpascarella.github.io)
+
+</details>
+
+<details>
+  <summary>Where does the name SR50 come from?</summary>
+
+The best piece of financial advice is to get to a Savings Rate of 50%
+
+(S)avings (R)ate of (50)%
+
+</details>
+
+<details>
+  <summary>How do I pronounce it?</summary>
+
+"ess are fifty"
+
+</details>
+
+<details>
+  <summary>What exactly is your logo?</summary>
+
+Our logo is modeled after the Savings Rate graph, shown on [Networthify.com](https://networthify.com/calculator/earlyretirement?income=50000&initialBalance=0&expenses=20000&annualPct=5&withdrawalRate=4)
 
 </details>
 
