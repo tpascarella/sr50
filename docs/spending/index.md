@@ -23,7 +23,7 @@ As previously mentioned, Savings Rate is the most important KPI when determining
 
 ### - References
 
-- The above data comes from the [Consumer Expenditures Report](https://www.bls.gov/opub/reports/consumer-expenditures/2020/pdf/home.pdf) from the Bureau of Labor Statistics.
+- This data comes from the [Consumer Expenditures Report](https://www.bls.gov/cex/csxreport.htm) from the US Bureau of Labor Statistics.
 
 ---
 <Slogan/>
