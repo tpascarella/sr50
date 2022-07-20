@@ -177,6 +177,12 @@ Your private keys are the literal key to your digital empire. Guard them with yo
 
 Store your private keys securely and completely offline. Options include [Stonebook notebooks](https://shieldfolio.com/products/shieldfolio-stonebook) or [steel capsules](https://shop.ledger.com/products/cryptosteel-capsule-solo), that should ideally be stored within fireproof bags, in multiple secure locations.
 
+### - "not your keys, not your coins"
+
+Do not give your crypto to a wallet not under your control.
+
+Get a hardware wallet and store it offline.
+
 ### - Risk factors for individual crypto projects
 
 Here are some risk factor considerations for tokens you are thinking of putting money into:
