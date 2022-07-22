@@ -206,7 +206,7 @@ When I say the crypto markets are volatile, I mean they are *volatile*. Far more
 
 :::
 
-This is why you can make a case that cryptocurrency is not for everyone. It takes a siginificant amount of will to bear the volatility of the markets head on.
+This is why you can make a case that cryptocurrency is not for everyone. It takes a siginificant amount of will to bear the volatility of the markets head on. You kind of almost have to go through the 5 stages of grief when it comes to crypto volatility. 
 
 ## Guides
 
