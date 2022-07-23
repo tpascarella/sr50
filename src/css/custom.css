@@ -57,6 +57,10 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   justify-content: space-between;
 }
 
+.row {
+  justify-content: center;
+}
+
 html {
   background-color: #121212;
 }
