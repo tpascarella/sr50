@@ -24,7 +24,15 @@ Store these files in an online storage provider using 2 factor authentication. K
 
 ### - Crypto private keys
 
-DO NOT STORE YOUR CRYPTO PRIVATE KEYS DIGITALLY. DO NOT TAKE PICTURES OF THEM. KEEP THEM 100% OFFLINE AND SECURE IN A FIREPROOF SAFE.
+:::danger
+
+DO NOT STORE YOUR CRYPTO PRIVATE KEYS DIGITALLY. 
+
+DO NOT TAKE PICTURES OF THEM. 
+
+KEEP THESE KEYS 100% ON PAPER, OFFLINE, IN A FIREPROOF SAFE.
+
+:::
 
 "Not your keys, not your coins" is a common phrase in the crypto world. You should keep your private keys completely offline, and ideally in multiple locations.
 

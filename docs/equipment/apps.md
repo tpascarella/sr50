@@ -27,7 +27,7 @@ It also shows you offers to refinance loans for your house and car if that would
 - [Credit Karma iOS Link](https://apps.apple.com/us/app/credit-karma/id519817714)
 - [Credit Karma Android Link](https://play.google.com/store/apps/details?id=com.creditkarma.mobile&hl=en_US&gl=US)
 
-## Coinbase/Gemini
+## Coinbase and/or Gemini
 
 To buy crypto.
 

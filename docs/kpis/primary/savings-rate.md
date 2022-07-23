@@ -44,7 +44,7 @@ The average Savings Rate in America can be found at the [FRED website here,](htt
 The spike from COVID appears to have died down and it has returned to the historical average.
 ![Savings Rate Graph](/img/savings-rate-historical-average.svg)
 
-### - Historical american savings rates
+## Historical American Savings Rate
 
 Note that the historical avergage hovers around 10%.
 
