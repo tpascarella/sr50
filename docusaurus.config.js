@@ -81,7 +81,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `© ${new Date().getFullYear()} SR50`,
+      copyright: `© ${new Date().getFullYear()} Thomas Pascarella`,
     },
     prism: {
       theme: lightCodeTheme,
