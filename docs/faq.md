@@ -25,7 +25,7 @@ The best piece of financial advice is to get to a Savings Rate of 50%
 <details>
   <summary>How do I pronounce it?</summary>
 
-"ess are fifty"
+"ess-are-fifty"
 
 </details>
 
