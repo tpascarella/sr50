@@ -14,7 +14,7 @@ Savings Rate measures how much of your available resources you are utilizing to 
 
 >Essentially, Savings Rate tells you how fast you are progressing.
 
-## Savings Rate Calculation
+## Calculation
 
 ![Savings Rate formula](/img/formula-savings-rate.svg)
 

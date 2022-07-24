@@ -13,7 +13,7 @@ import Slogan from '/src/components/Slogan';
 Runway tells you how long you can last off reserves if you had no income at all, measured in a number of whole months.
 >Essentially, Runway tells you how secure you are right now.
 
-## Runway Calculation
+## Calculation
 
 ![Runway formula](/img/formula-runway.svg)
 

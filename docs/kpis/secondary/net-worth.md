@@ -12,7 +12,7 @@ import Slogan from '/src/components/Slogan';
 
 Net Worth is an order of magnitude less important than both Savings Rate and Runway.
 
-## Net Worth Calculation
+## Calculation
 
 ![Net Worth formula](/img/formula-net-worth.svg)
 
