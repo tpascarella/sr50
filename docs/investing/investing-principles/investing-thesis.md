@@ -22,7 +22,7 @@ You only invest in things that will go up and to the right. WHICH investment tho
 
 ## Just Keep Buying
 
-![Buying the dip](/img/buy-the-dip.svg)
+![Buying the dip](/img/meme-buy-the-dip.svg)
 
 The market will keep going up until the end of human civilization. Buying consistently over time will increase the odds you will get the average market return of that asset class.
 

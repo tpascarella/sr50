@@ -14,13 +14,7 @@ Net Worth is an order of magnitude less important than both Savings Rate and Run
 
 ## Net Worth Calculation
 
-<APITable>
-
-| `Calculation` | - | - | - | - |
-| --- | --- | --- | --- | --- |
-| `"Assets"` | `MINUS` | `"Liabilities"` | `GIVES_YOU` | `Your Net Worth (as a $#)`|
-
-</APITable>
+![Net Worth formula](/img/formula-net-worth.svg)
 
 ### - Considerations
 

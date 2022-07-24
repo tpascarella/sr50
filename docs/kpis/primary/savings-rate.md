@@ -16,13 +16,7 @@ Savings Rate measures how much of your available resources you are utilizing to 
 
 ## Savings Rate Calculation
 
-<APITable>
-
-| `Calculation` | - | - | - | - |
-| - | - | - | - | - |
-| `How much $$$ you are able to save or invest` | `DIVIDED BY` | `Your after-tax take home pay` | `GIVES YOU` | `Savings Rate (as a %)`|
-
-</APITable>
+![Savings Rate formula](/img/formula-savings-rate.svg)
 
 ### - Considerations
 

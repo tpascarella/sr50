@@ -45,7 +45,7 @@ The term "sound money" is sometimes used to describe crypto, the term comes from
 
 :::
 
-### - The FED is a Ponzi Scheme
+### - The Federal Reserve is a Ponzi Scheme
 
 [Watch this video,](https://www.youtube.com/watch?v=5S-ZjGvOZ1A) and [read this book.](https://www.amazon.com/Creature-Jekyll-Island-Federal-Reserve/dp/091298645X)
 
@@ -196,6 +196,8 @@ Here are some risk factor considerations for tokens you are thinking of putting 
 At the very least you should have an acceptable answer to these questions before you put any money into these projects.
 
 ### - Psychological preparation for the volatility
+
+![BTC price drop](/img/meme-btc-price-drop.svg)
 
 When I say the crypto markets are volatile, I mean they are *volatile*. Far more volatility than you will experience in the stock market through index funds.
 
