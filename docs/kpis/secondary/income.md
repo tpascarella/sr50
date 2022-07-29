@@ -1,16 +1,16 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 
 # Income
 
 import Slogan from '/src/components/Slogan';
 
->Meaningless, except for how it impacts your Savings Rate.
+>Meaningless **unless in how it impacts your Savings Rate.**
 
 ## Importance
 
-Income is the 4th most important KPI in personal finance, and a lot of people mistake it as being the most important.
+Income is the 3rd most important KPI in personal finance, and a lot of people mistake it as being the most important.
 
 ### - Considerations
 

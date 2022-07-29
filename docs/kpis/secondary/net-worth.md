@@ -1,16 +1,16 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Net Worth
 
 import Slogan from '/src/components/Slogan';
 
->The very distant third KPI.
+>The fourth most important KPI.
 
 ## Importance
 
-Net Worth is an order of magnitude less important than both Savings Rate and Runway.
+Net Worth is an order of magnitude less important than [Savings Rate](../primary/savings-rate.md) and still behind both [Runway](runway.md) and [Income](income.md).
 
 ## Calculation
 
