@@ -155,7 +155,10 @@ If you subscribe to the investment strategy of indexing, buy one or a few of the
 - [DeFi Pulse Index (DPI)](https://indexcoop.com/defi-pulse-index-dpi)
 - [Bankless DeFi Innovation Index (GMI)](https://indexcoop.com/bankless-defi-innovation-index-gmi)
 - [Metaverse Index (MVI)](https://indexcoop.com/metaverse-index-mvi)
-- [ETH 2x Flexible Leverage Index](https://indexcoop.com/ethereum-flexible-leverage-index-eth2xfli)
+- [ETH 2x Flexible Leverage Index(ETH2x-FLI)](https://indexcoop.com/ethereum-flexible-leverage-index-eth2xfli)
+- [BTC 2X Flexible Leverage Index(BTC2x-FLI)](https://indexcoop.com/bitcoin-flexible-leverage-index-btc2xfli)
+- [Interest Compounding ETH Index(icETH)](https://indexcoop.com/interest-compounding-eth-index)
+- [Matic 2x Flexible Leverage Index (MATIC2x-FLI-P)](https://indexcoop.com/polygon-flexible-leverage-index-matic2xfli)
 
 These funds can be purchased through [Argent](https://www.argent.xyz/download-argent/?_branch_match_id=1032833481488341820&utm_source=website&utm_campaign=homepage&utm_medium=marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTyxKT80r0cvJzMvWT08tgXABaOacVx0AAAA%3D).
 
